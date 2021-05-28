@@ -35,6 +35,7 @@ A curated list of many tools and resources for both offensive and defensive secu
     - [Cracking](#-cracking)
     - [Exploits](#-exploits)
     - [Hardware](#-hardware)
+    - [Mobile](#-mobile)
     - [Network](#-network)
     - [Reconnaissance](#-reconnaissance)
     - [Red CTF](#-offensive-ctf)
@@ -247,6 +248,102 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Hacker Gadgets](https://hacker-gadgets.com/) | One-stop warehouse, for the best Hacking Gadgets, Pentesting Equipment, Hacker Hardware Tools and everyday Swag. | ![paid-product](icons/paid-product.png) |
 | [Hacker Warehouse](https://hackerwarehouse.com/) | Your one-stop shop for all your computer security needs from defense to offense. | ![paid-product](icons/paid-product.png) |
 | [Hak5](https://shop.hak5.org/) | Pentest tools for authorized auditing/security analysis only where permitted. | ![paid-product](icons/paid-product.png) |
+
+
+
+
+
+
+
+
+
+
+### [🏛](#contents-) Mobile
+
+*Tools and resources for pentesting on mobile applications.*
+
+#### Bug Bounty Reports
+
+| Tool | Description | Directory |
+| :------ | :----- | :----- |
+| [Android Reports & Reports](https://github.com/B3nac/Android-Reports-and-Resources) | Android reports and resources. | ![opensource](icons/opensource.png) |
+
+#### Dynamic Analysis
+
+| Tool | Description | Directory |
+| :------ | :----- | :----- |
+| [Bytecode Viewer](https://github.com/konloch/bytecode-viewer) | A lightweight user friendly Java Bytecode Viewer | ![opensource](icons/opensource.png) |
+| [CuckooDroid](https://github.com/idanr1986/cuckoo-droid) | Automated Android Malware Analysis with Cuckoo Sandbox.  | ![opensource](icons/opensource.png) |
+| [Cutter](https://github.com/rizinorg/cutter) | Reverse engineering platform powered by rizin. | ![opensource](icons/opensource.png) |
+| [DECAF](https://github.com/decaf-project/DECAF) | DECAF (short for Dynamic Executable Code Analysis Framework) is a binary analysis platform based on QEMU. | ![opensource](icons/opensource.png) |
+| [Droid-FF](https://github.com/antojoseph/droid-ff) | The android fuzzing framework | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
+| [Drozer](https://github.com/FSecureLABS/drozer) | Security testing framework for Android | ![opensource](icons/opensource.png) |
+| [Hooker](https://github.com/AndroidHooker/hooker) | Provides various tools and applications that can be use to automatically intercept and modify any API calls | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
+| [House](https://github.com/nccgroup/house) | A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python. | ![opensource](icons/opensource.png) |
+| [Inspeckage](https://github.com/ac-pm/Inspeckage) | Tool developed to offer dynamic analysis of Android applications | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
+| [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | An automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework. | ![opensource](icons/opensource.png) |
+| [PATDroid](https://github.com/mingyuan-xia/PATDroid) | A collection of tools and data structures for analyzing Android applications and the system itself. | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
+| [ProbeDroid](https://github.com/ZSShen/ProbeDroid) | A dynamic Java code instrumentation for Android apps. Provides APIs for users to craft their own instrumentation tools. | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
+| [radare2](https://github.com/radareorg/radare2) | Set of libraries, tools and plugins to ease reverse engineering tasks. | ![opensource](icons/opensource.png) |
+| [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) | Powered by FRIDA a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime. | ![opensource](icons/opensource.png) |
+
+#### Online Services
+
+| Tool | Description | Directory |
+| :------ | :----- | :----- |
+| [Android APK Decompiler](http://www.decompileandroid.com/) | Online android decompiler | N/A |
+| [Ostorlab](https://oversecured.com/) | Online static taint analysis, 3rd party fingerprinting, and vulnerability analysis. | ![freemium-service](icons/freemium-service.png) |
+| [Oversecured](https://oversecured.com/) | Android mobile app analyzer vulnerability scanner, designed for DevOps process integration. | ![freemium-service](icons/freemium-service.png) |
+| [Quixxi](https://quixxisecurity.com/) | An intelligent and integrated end-to-end mobile app security solution. | ![freemium-service](icons/freemium-service.png) |
+
+
+#### Static Analysis
+
+| Tool | Description | Directory |
+| :------ | :----- | :----- |
+| [Android Check](https://github.com/noveogroup/android-check) | Static code analysis plugin for Android project. | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
+| [Androwarn](https://github.com/maaaaz/androwarn/) | Static code analyzer for malicious Android applications. | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
+| [APKLab](https://github.com/APKLab/APKLab) | A tool for reverse engineering 3rd party, closed, binary Android apps. | ![opensource](icons/opensource.png) |
+| [APKLeaks](https://github.com/dwisiswant0/apkleaks) | Scanning APK file for URIs, endpoints & secrets. | ![opensource](icons/opensource.png) |
+| [APKScanner](https://github.com/n3k00n3/APKScanner) | The objective of this scanner is to find for misconfiguration, sensitive data and insecure components. | ![opensource](icons/opensource.png) |
+| [APK Studio](https://github.com/vaibhavpandeyvpz/apkstudio) | The objective of this scanner is to find for misconfiguration, sensitive data and insecure components. | ![opensource](icons/opensource.png) |
+| [APKTool](https://ibotpeaches.github.io/Apktool/) | Seamlessly integrates the best open-source tools right inside VS Code. | ![opensource](icons/opensource.png) |
+| [Argus-SAF](https://github.com/arguslab/Argus-SAF) | Static analysis framework | ![opensource](icons/opensource.png) |
+| [Checkstyle](https://github.com/checkstyle/checkstyle) | A tool for checking Java source code for adherence to a Code Standard or set of validation rules. | ![opensource](icons/opensource.png) |
+| [DeGuard](http://apk-deguard.com/) | Statistical Deobfuscation for Android. | ![opensource](icons/opensource.png) |
+| [Deoptfuscator](https://github.com/Gyoonus/deoptfuscator) | Reverse the control-flow obfuscation performed by DexGuard on open-source Android applications. | ![opensource](icons/opensource.png) |
+| [Droid-Hunter](https://github.com/hahwul/droid-hunter) | Android application vulnerability analysis and Android pentest tool. | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
+| [Error Prone](https://github.com/google/error-prone) | Error Prone is a static analysis tool for Java that catches common programming mistakes at compile-time. | ![opensource](icons/opensource.png) |
+| [FindBugs](http://findbugs.sourceforge.net/downloads.html) | Uses static analysis to inspect Java bytecode for occurrences of bug patterns. | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
+| [Find Security Bugs](https://github.com/find-sec-bugs/find-sec-bugs/) | Find Security Bugs is the SpotBugs plugin for security audits of Java web applications. | ![opensource](icons/opensource.png) |
+| [FlowDroid](https://github.com/secure-software-engineering/FlowDroid) | Statically computes data flows in Android apps and Java programs. | ![opensource](icons/opensource.png) |
+| [Gradle](https://github.com/novoda/gradle-static-analysis-plugin) | Supports many popular static analysis (Checkstyle, PMD, FindBugs, etc) via a set of built-in plugins. | ![opensource](icons/opensource.png) |
+| [Infer](https://github.com/facebook/infer) | Infer is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in OCaml. | ![opensource](icons/opensource.png) |
+| [JADX](https://github.com/skylot/jadx) | Dex to Java decompiler. | ![opensource](icons/opensource.png) |
+| [Mobile Audit](https://github.com/mpast/mobileAudit) | SAST and Malware Analysis for Android Mobile APKs | ![opensource](icons/opensource.png) |
+| [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | An automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework. | ![opensource](icons/opensource.png) |
+| [PMD](https://github.com/pmd/pmd) | Finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth. | ![opensource](icons/opensource.png) |
+| [Qark](https://github.com/linkedin/qark) | designed to look for several security related Android application vulnerabilities, either in source code or packaged APKs. | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
+| [Quark](https://github.com/quark-engine/quark-engine) | An Obfuscation-Neglect Android Malware Scoring System. | ![opensource](icons/opensource.png) |
+| [Smali](https://github.com/JesusFreke/smali) | An assembler/disassembler for the dex format used by dalvik, Android's Java VM implementation.  | ![opensource](icons/opensource.png) |
+| [Smali-CFG](https://github.com/EugenioDelfa/Smali-CFGs) | Smali Control Flow Graph's | ![opensource](icons/opensource.png) |
+| [Soot](https://github.com/soot-oss/soot) | Smali Control Flow Graph's | ![opensource](icons/opensource.png) |
+| [Sparta](https://github.com/typetools/sparta/) | Static program analysis for reliable trusted apps. | ![opensource](icons/opensource.png) |
+| [StaCoAn](https://github.com/vincentcox/StaCoAn) | A crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications | ![archive](icons/archive.png) ![opensource](icons/opensource.png) |
+| [Trueseeing](https://github.com/monolithworks/trueseeing) | A fast, accurate and resillient vulnerabilities scanner for Android apps. | ![opensource](icons/opensource.png) |
+
+#### Video Content
+
+| Tool | Description | Directory |
+| :------ | :----- | :----- |
+| [B3nac Sec](https://www.youtube.com/c/B3nacSec/featured) | Dedicated mobile ethical hacking | N/A |
+
+#### Virtualization
+
+| Tool | Description | Directory |
+| :------ | :----- | :----- |
+| [Android Tamer](https://androidtamer.com/) | Live Platform for Android Security professionals. | ![no-recent-update](icons/no-recent-update.png) |
+| [AppUse](https://appsec-labs.com/appuse/) | Mobile app security testing, Android and iOS applications. Custom-made tools and scripts created by AppSec Labs. | ![paid-product](icons/paid-product.png) |
 
 
 
@@ -574,6 +671,9 @@ A curated list of many tools and resources for both offensive and defensive secu
 | :------ | :----- | :-------- |
 | [Hybrid Analysis](https://www.hybrid-analysis.com/) | A free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology. | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
 | [ID Ransomware](https://id-ransomware.malwarehunterteam.com/index.php) | Upload a ransom note and/or sample encrypted file to identify the ransomware that has encrypted your data. | N/A |
+| [Jotti](https://virusscan.jotti.org/) | Free service that lets you scan suspicious files with several anti-virus programs. | ![freemium-service](icons/freemium-service.png) |
+| [Kaspersky Threat Portal](https://opentip.kaspersky.com/) | Сheck any suspicious threat indicator, whether it is a file, file hash, IP address or web address. | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) |
+| [Opswat](https://metadefender.opswat.com/) | Simply submit suspicious files to MetaDefender Cloud for analysis. | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) |
 | [VirusTotal](https://www.virustotal.com/gui/) | Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community. | ![freemium-service](icons/freemium-service.png) ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
 
 
