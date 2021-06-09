@@ -287,7 +287,36 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [radare2](https://github.com/radareorg/radare2) | Set of libraries, tools and plugins to ease reverse engineering tasks. | ![opensource](icons/opensource.png) |
 | [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) | Powered by FRIDA a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime. | ![opensource](icons/opensource.png) |
 
-#### Online Services
+#### Guides & References
+
+| Tool | Description | Directory |
+| :------ | :----- | :----- |
+| [Android Application Penetration Testing Checklist](https://www.xmind.net/m/GkgaYH/#) | Android pentesting checklist mindmap. | ![opensource](icons/opensource.png) |
+| [iOS Pentesting](https://www.mindmeister.com/1713501700/ios-pentesting?fullscreen=1) | iOS pentesting mindmap. | ![opensource](icons/opensource.png) |
+
+#### Jailbreaking/Rooting
+
+| Tool | Description | Directory |
+| :------ | :----- | :----- |
+| [canijailbreak](http://canijailbreak.com/) | A website which tells you whether you can jailbreak your iOS device. | ![opensource](icons/opensource.png) |
+| [IPSW](https://ipsw.me/) | Download current and previous versions of Apple's iOS, iPadOS, watchOS, tvOS and audioOS firmware and receive notifications when new firmwares are released.  | ![opensource](icons/opensource.png) |
+
+
+#### Labs/Practice
+
+| Tool | Description | Directory |
+| :------ | :----- | :----- |
+| [DIVA](http://www.decompileandroid.com/) | DIVA (Damn insecure and vulnerable App) is an Android App intentionally designed to be insecure. | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
+| [DVHMA](https://github.com/logicalhacking/DVHMA) | Damn Vulnerable Hybrid Mobile App (DVHMA) is an hybrid mobile app (for Android) that intentionally contains vulnerabilities. | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
+| [Injured Android](https://github.com/B3nac/InjuredAndroid) | A vulnerable Android application that shows simple examples of vulnerabilities in a ctf style.  | ![opensource](icons/opensource.png) |
+| [InsecureBank v2](https://github.com/dineshshetty/Android-InsecureBankv2) | Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities. | ![opensource](icons/opensource.png) |
+| [Oversecured Vulnerable Android App](https://github.com/oversecured/ovaa) | An Android app that aggregates all the platform's known and popular security vulnerabilities. | ![opensource](icons/opensource.png) |
+| [UnCrackable Apps](https://github.com/OWASP/owasp-mstg/blob/master/Crackmes/README.md) | A collection of mobile reverse engineering challenges for iOS and Android. | ![opensource](icons/opensource.png) |
+| [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid) |  Vuldroid is a Vulnerable Android Application made with security issues in order to demonstrate how they can occur in code. | ![opensource](icons/opensource.png) |
+| [VyAPI](https://github.com/appsecco/VyAPI) | The Modern Cloud-Based Vulnerable Hybrid Android App. | ![opensource](icons/opensource.png) |
+| [WaTF-Bank](https://github.com/WaTF-Team/WaTF-Bank) |  What a Terrible Failure Mobile Banking Application for Android and iOS.  | ![opensource](icons/opensource.png) |
+
+#### Online Services    
 
 | Tool | Description | Directory |
 | :------ | :----- | :----- |
@@ -331,6 +360,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Sparta](https://github.com/typetools/sparta/) | Static program analysis for reliable trusted apps. | ![opensource](icons/opensource.png) |
 | [StaCoAn](https://github.com/vincentcox/StaCoAn) | A crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications | ![archive](icons/archive.png) ![opensource](icons/opensource.png) |
 | [Trueseeing](https://github.com/monolithworks/trueseeing) | A fast, accurate and resillient vulnerabilities scanner for Android apps. | ![opensource](icons/opensource.png) |
+| [Yaazhini](https://www.vegabird.com/yaazhini/) | A fast, accurate and resillient vulnerabilities scanner for Android apps. | N/A |
 
 #### Video Content
 
