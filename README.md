@@ -262,6 +262,16 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 *Tools and resources for pentesting on mobile applications.*
 
+#### App/File Management
+
+| Tool | Description | Directory |
+| :------ | :----- | :----- |
+| [adb](https://source.android.com/setup/build/adb) | Allows you to install packages and evaluate your changes. | ![opensource](icons/opensource.png) |
+| [Airdroid](https://www.airdroid.com/en/pricing/airdroid-personal/) | Transfer files across devices, remote control Android devices, mirror screen, and manage SMS & notification on computer. | ![freemium-service](icons/freemium-service.png) |
+| [Android File Transfer](https://www.android.com/filetransfer/) | Browse and transfer files between your Mac computer and your Android device. | ![opensource](icons/opensource.png) |
+| [iFunbox](https://www.i-funbox.com/en/index.html) | General file management software for iPhone and other Apple products. | N/A |
+| [iMazing](https://imazing.com/) | Powerful user-friendly iOS device manager for Mac and PC. | ![freemium-service](icons/freemium-service.png) |
+
 #### Bug Bounty Reports
 
 | Tool | Description | Directory |
@@ -287,6 +297,13 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [radare2](https://github.com/radareorg/radare2) | Set of libraries, tools and plugins to ease reverse engineering tasks. | ![opensource](icons/opensource.png) |
 | [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) | Powered by FRIDA a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime. | ![opensource](icons/opensource.png) |
 
+#### Flashing/Sideloading
+
+| Tool | Description | Directory |
+| :------ | :----- | :----- |
+| [Cydia Impactor](http://www.cydiaimpactor.com/) | Allows you to install packages and evaluate your changes. | N/A |
+| [Odin](https://odindownload.com/) | Allows you to install packages and evaluate your changes. | N/A |
+
 #### Guides & References
 
 | Tool | Description | Directory |
@@ -299,7 +316,21 @@ A curated list of many tools and resources for both offensive and defensive secu
 | Tool | Description | Directory |
 | :------ | :----- | :----- |
 | [canijailbreak](http://canijailbreak.com/) | A website which tells you whether you can jailbreak your iOS device. | ![opensource](icons/opensource.png) |
-| [IPSW](https://ipsw.me/) | Download current and previous versions of Apple's iOS, iPadOS, watchOS, tvOS and audioOS firmware and receive notifications when new firmwares are released.  | ![opensource](icons/opensource.png) |
+| [Checkra1n](https://checkra.in/) | Jailbreak for iPhone 5s through iPhone X, iOS 12.0 and up. | N/A |
+| [Chimera](https://chimera.coolstar.org/) | iOS 12 jailbreak to not only feature a CoreTrust bypass so that binaries don't need to be resigned, but to also support A12 devices, including iPhone Xs, iPhone Xr, and the newest iPads. | N/A |
+| [Double H3lix](https://doubleh3lix.tihmstar.net/) | Jailbreak for 64-bit 10.x devices. | N/A |
+| [Etason](https://etasonjb.tihmstar.net/) | Jailbreak for all devices running iOS 8.4.1 32 bit. | N/A |
+| [Evasi0n](https://www.iphonehacks.com/download-evasi0n) | Jailbreak iPhone, iPad or iPod touch on iOS 7.0 – iOS 7.0.6 | N/A |
+| [H3lix](https://h3lix.tihmstar.net/) | Jailbreak for 32-bit 10.x devices. | N/A |
+| [Home Depot](http://wall.supplies/) | Jailbreak for iOS 9.x devices | N/A |
+| [IPSW](https://ipsw.me/) | Download current and previous versions of Apple's iOS, iPadOS, watchOS, tvOS and audioOS firmware and receive notifications when new firmwares are released.  | N/A |
+| [Magisk](https://github.com/topjohnwu/Magisk) | Magisk is a suite of open source software for customizing Android, supporting devices higher than Android 5.0. | N/A |
+| [Pangu Jailbreak](http://en.9.pangu.io/) | Jailbreak for iOS 9.0 - 9.1 | N/A |
+| [Phoenix](https://phoenixpwn.com/) | Semi-untethered jailbreak for 9.3.5-9.3.6. All 32-bit devices supported. | N/A |
+| [p0sixspwn](https://ih8sn0w.com/p0sixspwn.html) | iOS Jailbreak for 6.1.X | N/A |
+| [redsn0w](https://ipsw.me/iPhoneDev) | Jailbreak for iOS 3-5 | N/A |
+| [TaiG](http://www.taig.com/) | Jailbreak for iOS 8.X. | N/A |
+| [unc0ver](https://unc0ver.dev/) | A jail​break tool. | N/A |
 
 
 #### Labs/Practice
@@ -375,8 +406,11 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Android Tamer](https://androidtamer.com/) | Live Platform for Android Security professionals. | ![no-recent-update](icons/no-recent-update.png) |
 | [AppUse](https://appsec-labs.com/appuse/) | Mobile app security testing, Android and iOS applications. Custom-made tools and scripts created by AppSec Labs. | ![paid-product](icons/paid-product.png) |
 
+#### Whitepapers
 
-
+| Tool | Description | Directory |
+| :------ | :----- | :----- |
+| [Android Rooting:Methods, Detection, and Evastion](http://lersse-dl.ece.ubc.ca/record/310/files/p3.pdf) | Written by San-Tsai Sun, Andrea Cuadros, and Konstantin Beznosov. | N/A | 
 
 
 
