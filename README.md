@@ -826,16 +826,37 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 *The quality or state of being anonymous. Seek out technologies and methods of remaining anonymous in the day and age of mass surveillance.*
 
+#### Cryptocurrency
+
+| Organization | Description | Directory | 
+| :------ | :----- | :----- |
+| [Monero](https://www.getmonero.org/) | Secure, private, untraceable. | ![paid-product](icons/paid-product.png) |
+| [ZCash](https://z.cash/) | Proxies without limits. Take your business to a higher level. | ![paid-product](icons/paid-product.png) |
+
+#### Cryptocurrency Wallets
+
+| Organization | Description | Directory | 
+| :------ | :----- | :----- |
+| [Exodus](https://www.exodus.com/) | Laptop and Desktop crypto wallet. | ![paid-product](icons/paid-product.png) |
+
+#### Domain Registrars
+
+| Organization | Description | Directory | 
+| :------ | :----- | :----- |
+| [Njalla](https://njal.la/) [[TOR]](http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion/) | A privacy-aware domain service.. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+
 #### Proxies
 
 | Organization | Description | Directory | 
 | :------ | :----- | :----- |
 | [Proxy Shop](https://proxy.shop/) | Proxy Shop with 8M+ locations, 160+ countries, and 50+ states. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+| [Smarter Proxy](https://smartproxy.com/) | Proxies without limits. Take your business to a higher level. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
 
 #### VPN
 
 | Organization | Description | Directory | 
 | :------ | :----- | :----- |
+| [Comparision Sheet](https://docs.google.com/spreadsheets/d/1V1MFJJqwAtn9O_WgynUMXRbXLhsY2SAViADYsLZy63U/edit#gid=0) | VPN comparision sheet. | ![opensource](icons/opensource.png) |
 | [Mullvad VPN](https://mullvad.net/en/) [[TOR](http://xcln5hkbriyklr6n.onion/)] | Service that helps keep your online activity, identity, and location private. | ![opensource](icons/opensource.png) ![tor-icon](icons/tor-icon.png) |
 | [ProtonVPN](https://protonvpn.com/) | High-speed Swiss VPN that safeguards your privacy. |  ![freemium-service](icons/freemium-service.png) ![opensource](icons/opensource.png) ![register-profile](icons/register-profile.png) |
 
