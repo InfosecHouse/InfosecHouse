@@ -20,15 +20,16 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 - Adding a lot more resources
 - Status page monitoring for all marketplaces on clearnet. (Threat Intel)
-- Addding recommended youtube videos/books/blogs for all sections
 - Create Security 101, Privacy 101, and Red/Blue Career Path 101
-- Start blog section for tool comparsion and reviews
-- Open up guest blog section for security write-ups
 - Upload collected transparency reports/logging to new repo
 
 ## Contents 🏛
 
 - [Icon Directory](#-icon-directory)
+- [Defensive Security](#-defensive-security)
+    - [Forensics](#-forensics)
+    - [Malware](#-malware)
+    - [Threat Intel](#-threat-intel)
 - [Offensive Security](#-offensive-security)
     - [API](#-api)
     - [Bug Bounty](#-bug-bounty)
@@ -40,14 +41,14 @@ A curated list of many tools and resources for both offensive and defensive secu
     - [Reconnaissance](#-reconnaissance)
     - [Red CTF](#-offensive-ctf)
     - [Social Engineering](#-social-engineering)
+    - [Vulnerability Scanners](#-vulnerability-scanners)
     - [Wireless](#-wireless)
-- [Defensive Security](#-defensive-security)
-    - [Forensics](#-forensics)
-    - [Malware](#-malware)
-    - [Threat Intel](#-threat-intel)
 - [Operation Security](#-operation-security)
     - [Anonymity](#-anonymity)
     - [Communication](#-communication)
+- [Xtras](#-xtras)
+    - [Video](#-video)
+- [GR33TZ](#-greetz)
 
 
 
@@ -66,7 +67,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | :--- | :---------  |
 | ![no-recent-update](icons/no-recent-update.png) | Aged Resource - There has not been any update to resource in past 2 years. |
 | ![archive](icons/archive.png) | Archived - Tool/Resource is in archived state. No longer updated/maintained. |
-| ![freemium-service](icons/freemium-service.png)| Freemium - Tool/Resource is free but offers premium plan/upgrade of service. |
+| ![freemium-service](icons/freemium-service.png) | Freemium - Tool/Resource is free but offers premium plan/upgrade of service. |
 | ![legal](icons/legal.png) | Legality - Accessing this resource can be considered illegal. Check your local laws. |
 | ![malware](icons/malware.png) | Malware - Live malware is hosted on this resource and can cause harm/damage to property. Proceed with caution. |
 | ![opensource](icons/opensource.png) | Open Source - Source code is freely available and anyone can review it. |
@@ -77,6 +78,175 @@ A curated list of many tools and resources for both offensive and defensive secu
 | ![transparency](icons/transparency.png) | Transparency - Resource has provided Infosec House with transparency report/log. |
 | ![verified](icons/verified.png) | Verified - Verified resource/organization. |
 | ![winner-1](icons/winner.png) | Winner - Resource was a winner in the Infosec House tool battle arena. |
+
+
+
+
+
+
+
+
+
+
+## Defensive Security
+
+*Defensive Security (Blue Team) tools and resources.*
+
+
+
+
+
+
+
+
+
+
+### [🏛](#contents-) Forensics
+
+*Uncover the dirty little secrets of a recovered HDD, Image, malware, and more.*
+
+#### Operating Systems
+
+| Tool | Description | Directory |
+| :------ | :----- | :------ |
+| [Bitscount](https://bitscout-forensics.info/) | LiveCD/LiveUSB for remote forensic acquisition and analysis | N/A |
+| [SANS Investigative Forensics Toolkit (SIFT)](https://github.com/teamdfir/sift) | Linux distribution for forensic analysis | N/A |
+| [Tsurugi](https://tsurugi-linux.org/) | Linux distribution for DFIR | N/A |
+| [WinFE](https://www.winfe.net/home) | Windows Forensics | N/A |
+
+#### Scripts
+
+| Tool | Description | Directory |
+| :------ | :----- | :-------- |
+| [DissectingMalwa.re Lab](https://github.com/f0wl/MalwareLab_VM-Setup) | Download/setup script for malware analysis/software reverse engineering. | ![opensource](icons/opensource.png) |
+
+
+
+
+
+
+
+
+
+
+### [🏛](#contents-) Malware
+
+*All the malware you can wish for to reverse engineer.*
+
+#### Distribution Centers
+
+| Organization | Description | Directory | 
+| :------ | :----- | :------- |
+| [Any.Run](https://app.any.run/submissions/) | Interactive online malware analysis service for dynamic and static research of most types of threats using any environments. | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
+| [Contagio Malware Dump](https://contagiodump.blogspot.com/) | Password Required. A collection of the latest malware samples, threats, observations, and analyses. | ![malware](icons/malware.png) |
+| [Cape Sandbox](https://capesandbox.com/) | A malware sandbox derived from Cuckoo and is designed to automate the process of malware analysis with the goal of extracting payloads and configuration from malware.| ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
+| [Das Malwerk](https://www.dasmalwerk.eu/) | The daily zip-file aims to serve you a batch of malware ranging from annoying adware to bank trojans and beyond! | ![malware](icons/malware.png) |
+| [Hatching Triage](https://tria.ge/) | A malware sandboxing solution. It leverages a unique architecture, developed with scaling in mind from the start! | ![malware](icons/malware.png) ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+| Hybrid Analysis</a> | A free malware analysis service for the community. Using this service you can submit files for in-depth static and dynamic analysis.  | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png)|
+| [InQuest](https://labs.inquest.net/) | A free malware analysis service for the community. Using this service you can submit files for in-depth static and dynamic analysis.  | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
+| [KernelMode.Info](https://www.kernelmode.info/forum/)  | A forum for reverse engineerin, OS internals and malware analysis.  | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
+| [Malshare](https://www.malshare.com/)  | A free Malware repository providing researchers access to samples, malicious feeds, and Yara results.  | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
+| [Malware Bazaar](https://bazaar.abuse.ch/browse/) | Project operated by abuse.ch. A project to collect and share malware samples.  | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
+| [Malware Samples](https://github.com/MalwareSamples/Malware-Feed/)  | An ongoing and updated archive of files collected which are associated with specific public malicious threat reports  | ![malware](icons/malware.png) |
+| [Malware-DB (theZoo)](https://thezoo.morirt.com/)  | theZoo is a project created to make the possibility of malware analysis open and available to the public. | ![malware](icons/malware.png) |
+| [Objective-See](https://objective-see.com/malware.html)  | Mac malware samples collected by the Objective-See team | ![malware](icons/malware.png) |
+| [Packet Total](https://packettotal.com/malware-archive.html)  | Simple, free, high-qualityh PCAP file analysis | ![malware](icons/malware.png) |
+| [PhishingKitTracker](https://github.com/marcoramilli/PhishingKitTracker)  | An extensible and freshly updated collection of phishingkits for forensics and future analysis topped with simple stats | ![malware](icons/malware.png) |
+| [Polyswarm](https://polyswarm.network/)  | Threat Intelligence Marketplace | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
+| [SNDBOX](https://app.sndbox.com/) | Malware sandbox platform | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
+| [SoReL-20M](https://github.com/sophos-ai/SOREL-20M)  | Sophos-ReversingLabs 20 Million dataset. HUGE dataset. | ![malware](icons/malware.png) |
+| [URLhaus](https://urlhaus.abuse.ch/browse/)  | Project operated by abuse.ch. A project to collect and share malware samples. | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
+| [VirusBay](https://beta.virusbay.io) | A web-based, collaboration platform that connects security operations center (SOC) professionals with relevant malware researchers. | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
+| [VirusShare](https://virusshare.com/) | Because Sharing is Caring | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
+| [VirusSign](https://virussign.com/) | A huge collection of high quality malware samples | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
+| [Virus Samples](https://www.virussamples.com/)  | Over 150,000+ malicious files, viruses, malware, trojans, executables, scripts, and other forms of malware payloads across a variety of file types and architectures | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
+| [VX-Underground](https://vx-underground.org/samples.html) | Over 150,000+ malicious files, viruses, malware, trojans, executables, scripts, and other forms of malware payloads across a variety of file types and architectures | ![malware](icons/malware.png) | 
+| [Yori](https://yomi.yoroi.company/upload) | Free sandbox-based file analysis service | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
+
+#### Ransomware
+
+| Tool | Description | Directory |
+| :------ | :----- | :-------- |
+| [GonnaCry](https://github.com/tarcisio-marinho/GonnaCry) | A linux ransomware that encrypts all the user files with a strong encryption scheme. | ![malware](icons/malware.png) |
+
+#### Scanners
+
+| Organization | Description | Directory |
+| :------ | :----- | :-------- |
+| [Hybrid Analysis](https://www.hybrid-analysis.com/) | A free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology. | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
+| [ID Ransomware](https://id-ransomware.malwarehunterteam.com/index.php) | Upload a ransom note and/or sample encrypted file to identify the ransomware that has encrypted your data. | N/A |
+| [Jotti](https://virusscan.jotti.org/) | Free service that lets you scan suspicious files with several anti-virus programs. | ![freemium-service](icons/freemium-service.png) |
+| [Kaspersky Threat Portal](https://opentip.kaspersky.com/) | Сheck any suspicious threat indicator, whether it is a file, file hash, IP address or web address. | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) |
+| [Opswat](https://metadefender.opswat.com/) | Simply submit suspicious files to MetaDefender Cloud for analysis. | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) |
+| [VirusTotal](https://www.virustotal.com/gui/) | Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community. | ![freemium-service](icons/freemium-service.png) ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
+
+
+
+
+
+
+
+
+### [🏛](#contents-) Threat Intel
+
+*Discover where the threats begin.*
+
+#### Frameworks/Platforms
+
+| Organization | Description | Directory |
+| :------ | :----- | :------ |
+| [ARTIF](https://github.com/CRED-CLUB/ARTIF) | An advanced real time threat intelligence framework to identify threats and malicious web traffic on the basis of IP reputation and historical data. | ![opensource](icons/opensource.png) |
+| [MISP](https://github.com/MISP/MISP) | MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform). | ![opensource](icons/opensource.png) |
+
+#### Ransomware Group Feeds
+
+| Organization | Description | Directory |
+| :------ | :----- | :------ |
+| Arvin Club [[TOR](http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion/)] | Arvin ransomware team homepage. | ![legal](icons/legal.png) |
+| Avaddon [[TOR](http://avaddongun7rngel.onion)] | Avaddon ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
+| Babuk Locker [[TOR](http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/)] | Babuk Locker ransomware team homepage | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
+| CL0P [[TOR](http://ekbgzchl6x2ias37.onion/)] | CL0P ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
+| [CONTI](https://continews.icu/) [[TOR](http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion)] | CONTI ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
+| Cuba [[TOR](http://cuba4mp6ximo2zlo.onion/)] | Cuba ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
+| DarkSide [[TOR](http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion/)] | Darkside ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
+| DoppelPaymer [[TOR](http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/)] | DoppelPaymer ransomware team hompage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
+| Everest [[TOR](http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/)] | Everest ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
+| Lorenz [[TOR](http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion/)] | Lorenz ransomware team hompage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
+| LV [[TOR](http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion/)] | LV ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
+| Mount Locker [[TOR](http://mountnewsokhwilx.onion)] | Mount Locker ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) | 
+| N3tw0rm [[TOR](http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/)] | N3tw0rm ransomware team homepage. |  ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
+| Nefilim (Corporate Leaks) [[TOR](http://edteebo2w2bvwewbjb5wgwxksuwqutbg3lk34ln7jpf3obhy4cvkbuqd.onion/)] | Nefilm/Corporate Leaks ransomware team hompage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
+| Pay2Key [[TOR](http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/)]  | Pay2Key ransomware team homepage | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
+| PYSA [[TOR](http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/)] | PYSA ransomware team homepage | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
+| Ragnar Locker [[TOR](http://p6o7m73ujalhgkiv.onion/)] | Ragnar Locker ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
+| Ragnarok [[TOR](http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion/)] | Ragnarok ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
+| RansomEXX [[TOR](http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/)] | RansomEXX ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
+| Ranzy Locker [[TOR](http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/)] | Ranzy Locker ransomware team hompage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
+| Sodinokibi (REvil) [[TOR](http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion)]  | REvil ransomware team hompage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png)  |
+| Sunscrypt [[TOR](http://nbzzb6sa6xuura2z.onion/)] | Sunscrypt ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png)  |
+| SynAck [[TOR](http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion/index.html)] | SynAck ransomeware team hompage | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
+| Xing Team [[TOR](http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/)] | Xing ransomware team hompage | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
+
+#### TOR Directory Listings
+
+| Organization | Description| Directory |
+| :------ | :----- | :----- |
+| Dark Dir [[TOR](http://l7vh56hxm3t4tzy75nxzducszppgi45fyx2wy6chujxb2rhy7o5r62ad.onion) | TOR Link Directory  | ![tor-icon](icons/tor-icon.png)  |
+| Hidden Links [[TOR](http://wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion/)] | TOR Link Directory  | ![tor-icon](icons/tor-icon.png)  |
+| Onion Link Directory [[TOR](http://torlinkszegvxqb6.onion/)] | TOR Link Directory  | ![tor-icon](icons/tor-icon.png)  |
+| Onion Scanner [[TOR](http://4r4zaei5qa7qq5ha.onion/)] | Onion Scanner is a unique deepweb shops crawler which gathers reviews for customers’ convenience.  | ![tor-icon](icons/tor-icon.png)  |
+| Paul's Onion Links [[TOR](http://paullzqj3ntil7vyar3gxeks7bz5haiteeehz5vdk5fadvtto7q7liid.onion/)] | TOR Link Directory  | ![tor-icon](icons/tor-icon.png)  |
+| Shops Dir [[TOR](http://vxmua4uvg7vp5ssnvx5gexrr2nxso3wwvjwagdub67vcombj4kf4i4qd.onion/)] | ShopsDir is a growing catalogue of all DeepWeb/DarkNet shops, stores and markets  | ![tor-icon](icons/tor-icon.png)  |
+| Tornode [[TOR](http://e6wzjohnxejirqa2sgridvymv2jxhrqdfuyxvoxp3xpqh7kr4kbwpwad.onion/)] | TOR Link Directory  | ![tor-icon](icons/tor-icon.png)  |
+
+#### TOR Search Engines
+
+| Organization | Description | Directory |
+| :------ | :----- | :------- |
+| [Ahmia](https://ahmia.fi/) | Ahmia's mission is to create the premier search engine for services residing on the Tor anonymity network  | N/A |
+| Hoodle [[TOR](http://nr2dvqdot7yw6b5poyjb7tzot7fjrrweb2fhugvytbbio7ijkrvicuid.onion)] | A DeepWeb search engine with clear interface and accurate link database  | ![tor-icon](icons/tor-icon.png)  |
+| Sentor [[TOR](http://e27slbec2ykiyo26gfuovaehuzsydffbit5nlxid53kigw3pvz6uosqd.onion/index.php)] | TOR Search Engine | ![tor-icon](icons/tor-icon.png)  |
+
 
 
 
@@ -144,6 +314,13 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Safe Hats](https://app.safehats.com/signup) | Managed Bug Bounty. | ![register-profile](icons/register-profile.png) |
 | [Synack](https://www.synack.com/) | Built by hackers for hackers. | ![register-profile](icons/register-profile.png) |
 | [Yes We Hack](https://yeswehack.com/auth/register#create-hunter) | Global bug bounty platform crowdsourced security & vulnerability disclosure. | ![register-profile](icons/register-profile.png) |
+
+#### Services
+
+| Organization | Description | Directory |
+| :------ | :----- | :-------- |
+| [Recon.Dev](https://recon.dev/) | Collects recon data on bounty targets and provides tools to help quickly find targets and discover bugs. | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) |
+
 
 
 
@@ -443,6 +620,15 @@ A curated list of many tools and resources for both offensive and defensive secu
 | :----- | :----- | :----- |
 | [Ghost Phisher](https://github.com/savio-code/ghost-phisher) | A Wireless and Ethernet security auditing and attack software | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
 
+#### Port Scanning
+
+| Tool | Description | Directory |
+| :----- | :----- | :----- |
+| [masscan](https://github.com/robertdavidgraham/masscan) | TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. | ![opensource](icons/opensource.png) |
+| [naabu](https://github.com/projectdiscovery/naabu) | A fast port scanner written in go with a focus on reliability and simplicity. | ![opensource](icons/opensource.png) |
+| [NMAP](https://github.com/nmap/nmap) | The Network Mapper. | ![opensource](icons/opensource.png) |
+| [RustScan](https://github.com/RustScan/RustScan) | The Modern Port Scanner. | ![opensource](icons/opensource.png) |
+
 #### SSL/TLS
 
 | Tool | Description | Directory |
@@ -472,6 +658,38 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Open Gov US](https://opengovus.com/) | Open Government data in U.S. | N/A |
 | [Spoke](https://www.spoke.com/) | Business, People, and more | N/A |
 
+#### DNS
+
+| Organization | Description | Directory |
+| :------ | :------ | :-------- |
+| [aiodnsbrute](https://github.com/blark/aiodnsbrute) | Python 3.5+ DNS asynchronous brute force utility. | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
+| [dnsdumpter](https://dnsdumpster.com/) | dns recon & research, find & lookup dns records | N/A |
+| [dnssearch](https://github.com/evilsocket/dnssearch) |  A subdomain enumeration tool.  | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
+| [dnsX](https://github.com/projectdiscovery/dnsx) | Fast and multi-purpose DNS toolkit allow to run multiple DNS queries. | ![opensource](icons/opensource.png) |
+| [Fierce](https://github.com/mschwager/fierce) |  A DNS reconnaissance tool for locating non-contiguous IP space. | ![opensource](icons/opensource.png) |
+| [MassDNS](https://github.com/blechschmidt/massdns) | A high-performance DNS stub resolver for bulk lookups and reconnaissance | ![opensource](icons/opensource.png) |
+| [SubBrute](https://github.com/TheRook/subbrute) | A DNS meta-query spider that enumerates DNS records, and subdomains. | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
+
+
+#### Domains
+
+| Organization | Description | Directory |
+| :------ | :------ | :-------- |
+| [Altdns](https://github.com/infosec-au/altdns) | Generates permutations, alterations and mutations of subdomains and then resolves them. | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
+| [Amass](https://github.com/OWASP/Amass) | In-depth Attack Surface Mapping and Asset Discovery. | ![opensource](icons/opensource.png) |
+| [Assetfinder](https://github.com/tomnomnom/assetfinder) | Find domains and subdomains potentially related to a given domain. | ![opensource](icons/opensource.png) |
+| [crt.sh](https://crt.sh/) | Certificate search on domains. | N/A |
+| [ctfr](https://github.com/UnaPibaGeek/ctfr) | Abusing Certificate Transparency logs for getting HTTPS websites subdomains. | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
+| [Discover](https://github.com/leebaird/discover) | Custom bash scripts to automate various pentesting tasks including recon. | ![opensource](icons/opensource.png) |
+| [findomain](https://github.com/Findomain/Findomain) | The complete solution for domain recognition. | ![freemium-service](icons/freemium-service.png) ![opensource](icons/opensource.png) ![register-profile](icons/register-profile.png) |
+| [findsubdomains.com (spyse)](https://spyse.com/tools/subdomain-finder) | subdomain finder in order to make your reconnaissance process faster and effortless. | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) |
+| [Knock](https://github.com/guelfoweb/knock) | Knock Subdomain Scan. | ![opensource](icons/opensource.png) |
+| [OneForAll](https://github.com/shmilylty/OneForAll) | A powerful subdomain integration tool | ![opensource](icons/opensource.png) |
+| [PD Actions](https://github.com/projectdiscovery/pd-actions) | Continous reconnaissance and vuln assesment using Github Actions | ![opensource](icons/opensource.png) |
+| [Robtex](https://www.robtex.com/) | Robtex is used for various kinds of research of IP numbers, Domain names, etc. | N/A |
+| [subfinder](https://github.com/projectdiscovery/subfinder) | Fast passive subdomian enumeration tool | ![opensource](icons/opensource.png) |
+| [sublist3r](https://github.com/aboul3la/Sublist3r) |  Fast subdomains enumeration tool for penetration testers. | ![opensource](icons/opensource.png) |
+| [Turbolist3r](https://github.com/aboul3la/Sublist3r) | Subdomain enumeration tool with analysis features for discovered domains. | ![opensource](icons/opensource.png) |
 
 #### Search Engines
 
@@ -617,6 +835,36 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
+### [🏛](#contents-) Vulnerability Scanners
+
+*Discover vulnerabilities fast, and automate some of the heavy loads.*
+
+#### Scanners
+
+| Tool | Descrption | Directory |
+| :----- | :----- | :------- |
+| [Acunetix](https://www.acunetix.com/vulnerability-scanner/) | a complete web application security testing solution that can be used both standalone and as part of complex environments. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+| [Alibaba Cloud Security Scanner](https://www.alibabacloud.com/product/avds) | CSS utilizes data, white hat pentesting, and ML to provide an all-in-one security solution for domains and other online assets. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+| [Amazon Inspector](https://aws.amazon.com/inspector/pricing/) | Automated security assessment service to help improve the security and compliance of applications deployed on AWS. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+| [AT&T Managed Vulnerability Program](https://cybersecurity.att.com/products/managed-vulnerability-program) | Vulnerability management services that fit your business. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+| [Burp Suite](https://portswigger.net/burp/vulnerability-scanner) | PortSwigger's world-leading research to help its users find a wide range of vulnerabilities in web applications, automatically.  | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) |
+| [ManageEngine](https://www.manageengine.com/vulnerability-management/) | Gain 360 degree visibility into your security exposure. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+| [Nessus](https://www.tenable.com/products/nessus) | Proprietary vulnerability scanner developed by Tenable, Inc. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+| [Nexpose](https://www.rapid7.com/products/nexpose/) | Your on-prem vulnerability scanner. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+| [nuclei](https://github.com/projectdiscovery/nuclei) | Fast and customisable vulnerability scanner based on simple YAML based DSL. | ![opensource](icons/opensource.png) |
+| [OpenVAS](https://openvas.org/) | A full-featured vulnerability scanner. | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) |
+| [ZAP](https://www.zaproxy.org/) | World's most widely used web app scanner. | ![opensource](icons/opensource.png) |
+
+
+
+
+
+
+
+
+
+
+
 
 ### [🏛](#contents-) Wireless
 
@@ -639,166 +887,6 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [bettercap](https://www.bettercap.org/) | Swiss army knife for WiFi, Bluetooth, HID, and ethernet network. | ![opensource](icons/opensource.png) |
 | [Reaver](https://github.com/t6x/reaver-wps-fork-t6x) | Brute force attack against  Wi-Fi Protected Setups (WPS) | ![opensource](icons/opensource.png) |
 
-
-
-
-
-
-
-
-
-
-## Defensive Security
-
-*Defensive Security (Blue Team) tools and resources.*
-
-
-
-
-
-
-
-
-
-
-### [🏛](#contents-) Forensics
-
-*Uncover the dirty little secrets of a recovered HDD, Image, malware, and more.*
-
-#### Operating Systems
-
-| Tool | Description | Directory |
-| :------ | :----- | :------ |
-| [Bitscount](https://bitscout-forensics.info/) | LiveCD/LiveUSB for remote forensic acquisition and analysis | N/A |
-| [SANS Investigative Forensics Toolkit (SIFT)](https://github.com/teamdfir/sift) | Linux distribution for forensic analysis | N/A |
-| [Tsurugi](https://tsurugi-linux.org/) | Linux distribution for DFIR | N/A |
-| [WinFE](https://www.winfe.net/home) | Windows Forensics | N/A |
-
-#### Scripts
-
-| Tool | Description | Directory |
-| :------ | :----- | :-------- |
-| [DissectingMalwa.re Lab](https://github.com/f0wl/MalwareLab_VM-Setup) | Download/setup script for malware analysis/software reverse engineering. | ![opensource](icons/opensource.png) |
-
-
-
-
-
-
-
-
-
-
-### [🏛](#contents-) Malware
-
-*All the malware you can wish for to reverse engineer.*
-
-#### Distribution Centers
-
-| Organization | Description | Directory | 
-| :------ | :----- | :------- |
-| [Any.Run](https://app.any.run/submissions/) | Interactive online malware analysis service for dynamic and static research of most types of threats using any environments. | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
-| [Contagio Malware Dump](https://contagiodump.blogspot.com/) | Password Required. A collection of the latest malware samples, threats, observations, and analyses. | ![malware](icons/malware.png) |
-| [Cape Sandbox](https://capesandbox.com/) | A malware sandbox derived from Cuckoo and is designed to automate the process of malware analysis with the goal of extracting payloads and configuration from malware.| ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
-| [Das Malwerk](https://www.dasmalwerk.eu/) | The daily zip-file aims to serve you a batch of malware ranging from annoying adware to bank trojans and beyond! | ![malware](icons/malware.png) |
-| [Hatching Triage](https://tria.ge/) | A malware sandboxing solution. It leverages a unique architecture, developed with scaling in mind from the start! | ![malware](icons/malware.png) ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
-| Hybrid Analysis</a> | A free malware analysis service for the community. Using this service you can submit files for in-depth static and dynamic analysis.  | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png)|
-| [InQuest](https://labs.inquest.net/) | A free malware analysis service for the community. Using this service you can submit files for in-depth static and dynamic analysis.  | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
-| [KernelMode.Info](https://www.kernelmode.info/forum/)  | A forum for reverse engineerin, OS internals and malware analysis.  | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
-| [Malshare](https://www.malshare.com/)  | A free Malware repository providing researchers access to samples, malicious feeds, and Yara results.  | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
-| [Malware Bazaar](https://bazaar.abuse.ch/browse/) | Project operated by abuse.ch. A project to collect and share malware samples.  | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
-| [Malware Samples](https://github.com/MalwareSamples/Malware-Feed/)  | An ongoing and updated archive of files collected which are associated with specific public malicious threat reports  | ![malware](icons/malware.png) |
-| [Malware-DB (theZoo)](https://thezoo.morirt.com/)  | theZoo is a project created to make the possibility of malware analysis open and available to the public. | ![malware](icons/malware.png) |
-| [Objective-See](https://objective-see.com/malware.html)  | Mac malware samples collected by the Objective-See team | ![malware](icons/malware.png) |
-| [Packet Total](https://packettotal.com/malware-archive.html)  | Simple, free, high-qualityh PCAP file analysis | ![malware](icons/malware.png) |
-| [PhishingKitTracker](https://github.com/marcoramilli/PhishingKitTracker)  | An extensible and freshly updated collection of phishingkits for forensics and future analysis topped with simple stats | ![malware](icons/malware.png) |
-| [Polyswarm](https://polyswarm.network/)  | Threat Intelligence Marketplace | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
-| [SNDBOX](https://app.sndbox.com/) | Malware sandbox platform | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
-| [SoReL-20M](https://github.com/sophos-ai/SOREL-20M)  | Sophos-ReversingLabs 20 Million dataset. HUGE dataset. | ![malware](icons/malware.png) |
-| [URLhaus](https://urlhaus.abuse.ch/browse/)  | Project operated by abuse.ch. A project to collect and share malware samples. | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
-| [VirusBay](https://beta.virusbay.io) | A web-based, collaboration platform that connects security operations center (SOC) professionals with relevant malware researchers. | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
-| [VirusShare](https://virusshare.com/) | Because Sharing is Caring | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
-| [VirusSign](https://virussign.com/) | A huge collection of high quality malware samples | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
-| [Virus Samples](https://www.virussamples.com/)  | Over 150,000+ malicious files, viruses, malware, trojans, executables, scripts, and other forms of malware payloads across a variety of file types and architectures | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
-| [VX-Underground](https://vx-underground.org/samples.html) | Over 150,000+ malicious files, viruses, malware, trojans, executables, scripts, and other forms of malware payloads across a variety of file types and architectures | ![malware](icons/malware.png) | 
-| [Yori](https://yomi.yoroi.company/upload) | Free sandbox-based file analysis service | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
-
-#### Ransomware
-
-| Tool | Description | Directory |
-| :------ | :----- | :-------- |
-| [GonnaCry](https://github.com/tarcisio-marinho/GonnaCry) | A linux ransomware that encrypts all the user files with a strong encryption scheme. | ![malware](icons/malware.png) |
-
-#### Scanners
-
-| Organization | Description | Directory |
-| :------ | :----- | :-------- |
-| [Hybrid Analysis](https://www.hybrid-analysis.com/) | A free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology. | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
-| [ID Ransomware](https://id-ransomware.malwarehunterteam.com/index.php) | Upload a ransom note and/or sample encrypted file to identify the ransomware that has encrypted your data. | N/A |
-| [Jotti](https://virusscan.jotti.org/) | Free service that lets you scan suspicious files with several anti-virus programs. | ![freemium-service](icons/freemium-service.png) |
-| [Kaspersky Threat Portal](https://opentip.kaspersky.com/) | Сheck any suspicious threat indicator, whether it is a file, file hash, IP address or web address. | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) |
-| [Opswat](https://metadefender.opswat.com/) | Simply submit suspicious files to MetaDefender Cloud for analysis. | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) |
-| [VirusTotal](https://www.virustotal.com/gui/) | Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community. | ![freemium-service](icons/freemium-service.png) ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
-
-
-
-
-
-
-
-
-### [🏛](#contents-) Threat Intel
-
-*Discover where the threats begin.*
-
-#### Ransomware Group Feeds
-
-| Organization | Description | Directory |
-| :------ | :----- | :------ |
-| Arvin Club [[TOR](http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion/)] | Arvin ransomware team homepage. | ![legal](icons/legal.png) |
-| Avaddon [[TOR](http://avaddongun7rngel.onion)] | Avaddon ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
-| Babuk Locker [[TOR](http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/)] | Babuk Locker ransomware team homepage | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
-| CL0P [[TOR](http://ekbgzchl6x2ias37.onion/)] | CL0P ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
-| [CONTI](https://continews.icu/) [[TOR](http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion)] | CONTI ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
-| Cuba [[TOR](http://cuba4mp6ximo2zlo.onion/)] | Cuba ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
-| DarkSide [[TOR](http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion/)] | Darkside ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
-| DoppelPaymer [[TOR](http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/)] | DoppelPaymer ransomware team hompage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
-| Everest [[TOR](http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/)] | Everest ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
-| Lorenz [[TOR](http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion/)] | Lorenz ransomware team hompage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
-| LV [[TOR](http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion/)] | LV ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
-| Mount Locker [[TOR](http://mountnewsokhwilx.onion)] | Mount Locker ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) | 
-| N3tw0rm [[TOR](http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/)] | N3tw0rm ransomware team homepage. |  ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
-| Nefilim (Corporate Leaks) [[TOR](http://edteebo2w2bvwewbjb5wgwxksuwqutbg3lk34ln7jpf3obhy4cvkbuqd.onion/)] | Nefilm/Corporate Leaks ransomware team hompage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
-| Pay2Key [[TOR](http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/)]  | Pay2Key ransomware team homepage | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
-| PYSA [[TOR](http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/)] | PYSA ransomware team homepage | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
-| Ragnar Locker [[TOR](http://p6o7m73ujalhgkiv.onion/)] | Ragnar Locker ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
-| Ragnarok [[TOR](http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion/)] | Ragnarok ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
-| RansomEXX [[TOR](http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/)] | RansomEXX ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
-| Ranzy Locker [[TOR](http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/)] | Ranzy Locker ransomware team hompage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
-| Sodinokibi (REvil) [[TOR](http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion)]  | REvil ransomware team hompage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png)  |
-| Sunscrypt [[TOR](http://nbzzb6sa6xuura2z.onion/)] | Sunscrypt ransomware team homepage. | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png)  |
-| SynAck [[TOR](http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion/index.html)] | SynAck ransomeware team hompage | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
-| Xing Team [[TOR](http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/)] | Xing ransomware team hompage | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
-
-#### TOR Directory Listings
-
-| Organization | Description| Directory |
-| :------ | :----- | :----- |
-| Dark Dir [[TOR](http://l7vh56hxm3t4tzy75nxzducszppgi45fyx2wy6chujxb2rhy7o5r62ad.onion) | TOR Link Directory  | ![tor-icon](icons/tor-icon.png)  |
-| Hidden Links [[TOR](http://wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion/)] | TOR Link Directory  | ![tor-icon](icons/tor-icon.png)  |
-| Onion Link Directory [[TOR](http://torlinkszegvxqb6.onion/)] | TOR Link Directory  | ![tor-icon](icons/tor-icon.png)  |
-| Onion Scanner [[TOR](http://4r4zaei5qa7qq5ha.onion/)] | Onion Scanner is a unique deepweb shops crawler which gathers reviews for customers’ convenience.  | ![tor-icon](icons/tor-icon.png)  |
-| Paul's Onion Links [[TOR](http://paullzqj3ntil7vyar3gxeks7bz5haiteeehz5vdk5fadvtto7q7liid.onion/)] | TOR Link Directory  | ![tor-icon](icons/tor-icon.png)  |
-| Shops Dir [[TOR](http://vxmua4uvg7vp5ssnvx5gexrr2nxso3wwvjwagdub67vcombj4kf4i4qd.onion/)] | ShopsDir is a growing catalogue of all DeepWeb/DarkNet shops, stores and markets  | ![tor-icon](icons/tor-icon.png)  |
-| Tornode [[TOR](http://e6wzjohnxejirqa2sgridvymv2jxhrqdfuyxvoxp3xpqh7kr4kbwpwad.onion/)] | TOR Link Directory  | ![tor-icon](icons/tor-icon.png)  |
-
-#### TOR Search Engines
-
-| Organization | Description | Directory |
-| :------ | :----- | :------- |
-| [Ahmia](https://ahmia.fi/) | Ahmia's mission is to create the premier search engine for services residing on the Tor anonymity network  | N/A |
-| Hoodle [[TOR](http://nr2dvqdot7yw6b5poyjb7tzot7fjrrweb2fhugvytbbio7ijkrvicuid.onion)] | A DeepWeb search engine with clear interface and accurate link database  | ![tor-icon](icons/tor-icon.png)  |
-| Sentor [[TOR](http://e27slbec2ykiyo26gfuovaehuzsydffbit5nlxid53kigw3pvz6uosqd.onion/index.php)] | TOR Search Engine | ![tor-icon](icons/tor-icon.png)  |
 
 
 
@@ -895,8 +983,9 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 | Organization | Description | Directory |
 | :------ | :----- | :----- |
-| [Adamant](https://adamant.im/) | Decentralized Messenger | ![opensource](icons/opensource.png) |
+| [Adamant](https://adamant.im/) | Decentralized Messenger. | ![opensource](icons/opensource.png) |
 | [Element](https://element.io/) | A messenger that gives you the privacy you expect from a conversation in your own home, but with everyone across the globe. | ![freemium-service](icons/freemium-service.png) ![opensource](icons/opensource.png) ![register-profile](icons/register-profile.png)|
+| [Telegram](https://telegram.org/) | A new era of messaging. | ![opensource](icons/opensource.png) |
 
 #### SMS
 
@@ -918,3 +1007,47 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 | [Hell XMPP](https://4ept.net/xmpp/) | Russian XMPP service | ![register-profile](icons/register-profile.png) |
 | [JabberX](https://jabberx.net/) | Free Private XMPP Chat Service. Designed in Sweeded and Hosted in Germany. | ![register-profile](icons/register-profile.png) |
 
+
+
+
+
+
+
+
+
+
+## [🏛](#contents-) Xtras
+
+*Some extra content. Infosec related of course.*
+
+
+
+
+
+
+
+
+
+### [🏛](#contents-) Video
+
+#### Livestreamers
+
+| Tool | Description | Directory |
+| :------ | :----- | :------ |
+| [HackListX](https://hacklistx.github.io/) | A list of Hacking Streamers. | ![opensource](icons/opensource.png) |
+| [InfoSec Streamers](https://infosecstreams.github.io/) | InfoSec streamers list sorted based on 14-day activity to help you find active streamers more easily. | ![opensource](icons/opensource.png) |
+
+
+
+
+
+
+
+
+
+
+## [🏛](#contents-) Greetz
+
+*Shoutouts and gr33tz to the following amazing individuals for suggesting and adding resources!*
+
+[theGwar](https://www.twitch.tv/thegwar), [footpics4sale](https://www.twitch.tv/footpics4sale), and [chadb_n00b](https://www.twitch.tv/chadb_n00b)
