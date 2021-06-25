@@ -1,9 +1,9 @@
 <center><img src="icons/INFOSEC-HOUSE-LOGO.png" width="350"></center> 
 
 
-# 🏛 Infosec House 🏛
+# 🏛 INFOSEC HOUSE 🏛
 
-A curated list of many tools and resources for both offensive and defensive security teams.
+A curated list of many tools and resources for both offensive and defensive security teams. Please visit [https://infosec.house/](https://infosec.house/) for our website version of this repo. Found a resources that should be on here? Feel free to submit a pull request or drop it in our [Discord](https://discord.gg/FWe9bjDBfY) server.
 
 ## Socialize with Us
 
@@ -16,14 +16,8 @@ A curated list of many tools and resources for both offensive and defensive secu
 | Twitch | https://www.twitch.tv/InfosecHouse |
 | YouTube | https://www.youtube.com/channel/UC4PgsAu56TSpzH66aIOqbKQ |
 
-## Future Roadmap
 
-- Adding a lot more resources
-- Status page monitoring for all marketplaces on clearnet. (Threat Intel)
-- Create Security 101, Privacy 101, and Red/Blue Career Path 101
-- Upload collected transparency reports/logging to new repo
-
-## Contents 🏛
+## Contents
 
 - [Icon Directory](#-icon-directory)
 - [Defensive Security](#-defensive-security)
@@ -33,13 +27,13 @@ A curated list of many tools and resources for both offensive and defensive secu
 - [Offensive Security](#-offensive-security)
     - [API](#-api)
     - [Bug Bounty](#-bug-bounty)
+    - [Courses](#-courses)
     - [Cracking](#-cracking)
     - [Exploits](#-exploits)
     - [Hardware](#-hardware)
     - [Mobile](#-mobile)
     - [Network](#-network)
     - [Reconnaissance](#-reconnaissance)
-    - [Red CTF](#-offensive-ctf)
     - [Social Engineering](#-social-engineering)
     - [Vulnerability Scanners](#-vulnerability-scanners)
     - [Wireless](#-wireless)
@@ -48,7 +42,7 @@ A curated list of many tools and resources for both offensive and defensive secu
     - [Communication](#-communication)
 - [Xtras](#-xtras)
     - [Video](#-video)
-- [GR33TZ](#-greetz)
+- [GR33TZ](#-gr33tz)
 
 
 
@@ -59,7 +53,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-## [🏛](#contents-) Icon Directory
+## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) ICON DIRECTORY
 
 *Icon directory used within the tool and resources table*
 
@@ -101,11 +95,11 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🏛](#contents-) Forensics
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Forensics
 
 *Uncover the dirty little secrets of a recovered HDD, Image, malware, and more.*
 
-#### Operating Systems
+#### 🔵 Operating Systems
 
 | Tool | Description | Directory |
 | :------ | :----- | :------ |
@@ -114,7 +108,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Tsurugi](https://tsurugi-linux.org/) | Linux distribution for DFIR | N/A |
 | [WinFE](https://www.winfe.net/home) | Windows Forensics | N/A |
 
-#### Scripts
+#### 🔵 Scripts
 
 | Tool | Description | Directory |
 | :------ | :----- | :-------- |
@@ -129,11 +123,11 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🏛](#contents-) Malware
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Malware
 
 *All the malware you can wish for to reverse engineer.*
 
-#### Distribution Centers
+#### 🔵 Distribution Centers
 
 | Organization | Description | Directory | 
 | :------ | :----- | :------- |
@@ -163,13 +157,13 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [VX-Underground](https://vx-underground.org/samples.html) | Over 150,000+ malicious files, viruses, malware, trojans, executables, scripts, and other forms of malware payloads across a variety of file types and architectures | ![malware](icons/malware.png) | 
 | [Yori](https://yomi.yoroi.company/upload) | Free sandbox-based file analysis service | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
 
-#### Ransomware
+#### 🔵 Ransomware
 
 | Tool | Description | Directory |
 | :------ | :----- | :-------- |
 | [GonnaCry](https://github.com/tarcisio-marinho/GonnaCry) | A linux ransomware that encrypts all the user files with a strong encryption scheme. | ![malware](icons/malware.png) |
 
-#### Scanners
+#### 🔵 Scanners
 
 | Organization | Description | Directory |
 | :------ | :----- | :-------- |
@@ -187,18 +181,18 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🏛](#contents-) Threat Intel
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Threat Intel
 
 *Discover where the threats begin.*
 
-#### Frameworks/Platforms
+#### 🔵 Frameworks/Platforms
 
 | Organization | Description | Directory |
 | :------ | :----- | :------ |
 | [ARTIF](https://github.com/CRED-CLUB/ARTIF) | An advanced real time threat intelligence framework to identify threats and malicious web traffic on the basis of IP reputation and historical data. | ![opensource](icons/opensource.png) |
 | [MISP](https://github.com/MISP/MISP) | MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform). | ![opensource](icons/opensource.png) |
 
-#### Ransomware Group Feeds
+#### 🔵 Ransomware Group Feeds
 
 | Organization | Description | Directory |
 | :------ | :----- | :------ |
@@ -227,7 +221,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | SynAck [[TOR](http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion/index.html)] | SynAck ransomeware team hompage | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
 | Xing Team [[TOR](http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/)] | Xing ransomware team hompage | ![legal](icons/legal.png) ![tor-icon](icons/tor-icon.png) |
 
-#### TOR Directory Listings
+#### 🔵 TOR Directory Listings
 
 | Organization | Description| Directory |
 | :------ | :----- | :----- |
@@ -239,7 +233,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | Shops Dir [[TOR](http://vxmua4uvg7vp5ssnvx5gexrr2nxso3wwvjwagdub67vcombj4kf4i4qd.onion/)] | ShopsDir is a growing catalogue of all DeepWeb/DarkNet shops, stores and markets  | ![tor-icon](icons/tor-icon.png)  |
 | Tornode [[TOR](http://e6wzjohnxejirqa2sgridvymv2jxhrqdfuyxvoxp3xpqh7kr4kbwpwad.onion/)] | TOR Link Directory  | ![tor-icon](icons/tor-icon.png)  |
 
-#### TOR Search Engines
+#### 🔵 TOR Search Engines
 
 | Organization | Description | Directory |
 | :------ | :----- | :------- |
@@ -256,7 +250,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-## [🏛](#contents-) Offensive Security
+## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Offensive Security
 
 *Offensive Security (Red Team) tools and resources.*
 
@@ -269,11 +263,11 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🏛](#contents-) API
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) API
 
 *Tools and resources for pentesting against API endpoints.*
 
-#### API Testing & Manipulation Teels
+#### 🔴 API Testing & Manipulation Teels
 
 | Tool | Description | Directory |
 | :------ | :----- | :------ | 
@@ -299,11 +293,11 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🏛](#contents-) Bug Bounty
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Bug Bounty
 
 *Global bug bounty platform, crowdsourced security, & vulnerability disclosure.*
 
-#### Platforms
+#### 🔴 Platforms
 
 | Organization | Description | Directory |
 | :------ | :----- | :-------- |
@@ -315,7 +309,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Synack](https://www.synack.com/) | Built by hackers for hackers. | ![register-profile](icons/register-profile.png) |
 | [Yes We Hack](https://yeswehack.com/auth/register#create-hunter) | Global bug bounty platform crowdsourced security & vulnerability disclosure. | ![register-profile](icons/register-profile.png) |
 
-#### Services
+#### 🔴 Services
 
 | Organization | Description | Directory |
 | :------ | :----- | :-------- |
@@ -330,12 +324,47 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Courses
 
-### [🏛](#contents-) Cracking
+*Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase.*
+
+#### 🔴 Offensive Security Courses/Training
+
+| Organization | Description | Directory |
+| :------ | :----- | :-------- |
+| [Bug Bounty Hunter](https://www.bugbountyhunter.com/) | Helping you connect the bug to bounty. | ![register-profile](icons/register-profile.png) |
+| [Cybrary](https://www.cybrary.it/) | The leading cybersecurity professional development platform. | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) |
+| [eLearn Security](https://elearnsecurity.com/) | Infosec careers are heating up and candidates are doing everything they can to stand out. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+| [Hacker101](https://www.hacker101.com/) | A free class for web security. | ![register-profile](icons/register-profile.png) |
+| [HTB Academy](https://academy.hackthebox.eu/) | Cyber security trainingp by HackTheBox | ![register-profile](icons/register-profile.png) |
+| [INE](https://ine.com/pages/cybersecurity) | The premier provider of online it training. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+| [Infosec Institute](https://www.infosecinstitute.com/) | Helps IT and security professionals advance their careers with skills development and certifications | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+| [Kontra](https://application.security/) | Application Security Training Redefined. | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) |
+| [Offensive Security](https://www.offensive-security.com/) | The tech workforce development company. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+| [Pentester Academy](https://www.pentesteracademy.com/) | Courses and Online Labs. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+| [Pentester Lab](https://www.pentesterlab.com/) | We make learning web hacking easier! | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) |
+| [PortSwigger](https://portswigger.net/web-security) | Free, online web security training from the creators of Burp Suite | ![register-profile](icons/register-profile.png) |
+| [Pluralsight](https://www.pluralsight.com/) | The tech workforce development company. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+| [Professor Messer](https://www.professormesser.com/) |  Professor Messer IT Certification Training. | ![register-profile](icons/register-profile.png) |
+| [SANS](https://www.sans.org/cyber-security-courses/?&focus-area=penetration-testing-ethical-hacking&training-format=) | SANS Institute is the most trusted resource for cybersecurity training, certifications and research. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+| [TCM Security](https://academy.tcm-sec.com/) | SANS Institute is the most trusted resource for cybersecurity training, certifications and research. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+| [TestOut](https://w3.testout.com/courses/ethical-hacker-pro) | TestOut Ethical Hacker Pro teaches students to be aware of network attack strategies and common countermeasures. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+| [Udemy](https://www.udemy.com/courses/search/?q=penetration+testing&src=sac&kw=pen) | an online learning and teaching marketplace with over 155,000 courses. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+
+
+
+
+
+
+
+
+
+
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Cracking
 
 *Everything you need to crack all the hashes.*
 
-#### Password Cracking
+#### 🔴 Password Cracking
 
 | Tool | Description | Directory |
 | :------ | :----- | :----- |
@@ -351,11 +380,11 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🏛](#contents-) CTF Offensive
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) CTF Offensive
 
 *A CTF event is usually timed, and the points are totaled once the time has expired. The winning player/team will be the one that solved the most challenges, and thus, secured the highest score.*
 
-#### Continous
+#### 🔴 Continous
 
 | Organization | Description | Directory |
 | :------ | :----- | :----- |
@@ -363,7 +392,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Hack The Box](https://www.hackthebox.eu/) | Massive online cyber security training platform, allowing individuals, companies, universities and all kinds of organizations around the world to level up their hacking skills. | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
 | [Try Hack Me (King of the Hill)](https://tryhackme.com/games/koth) | Making it easier to break into security, all through your browswer. | ![register-profile](icons/register-profile.png) |
 
-#### Seasonal
+#### 🔴 Seasonal
 
 | Organization | Description | Directory |
 | :------ | :----- | :---- |
@@ -376,11 +405,11 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🏛](#contents-) Exploits
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Exploits
 
 *Gather all your exploits needed to pop that box.*
 
-#### Exploit Databases
+#### 🔴 Exploit Databases
 
 | Organization | Description | Directory |
 | :------ | :----- | :---- |
@@ -398,11 +427,11 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🏛](#contents-) Hardware
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Hardware
 
 *Grab some of the most used hardware within the penetration testing industry.*
 
-#### Equipment
+#### 🔴 Equipment
 
 | Tool | Description | Directory |
 | :------ | :----- | :----- |
@@ -418,7 +447,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Ubertooth One](https://greatscottgadgets.com/ubertoothone/) | Ubertooth One is an open source 2.4 GHz wireless development platform suitable for Bluetooth experimentation. | ![paid-product](icons/paid-product.png) |
 | [Wi-fi Pineapple](https://shop.hak5.org/products/wifi-pineapple) | Automate WiFi auditing with all new campaigns and get actionable results from vulnerability assessment reports. | ![paid-product](icons/paid-product.png) |
 
-#### Store
+#### 🔴 Store
 
 | Organization | Description | Directory |
 | :------ | :----- | :------ |
@@ -435,11 +464,11 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🏛](#contents-) Mobile
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Mobile
 
 *Tools and resources for pentesting on mobile applications.*
 
-#### App/File Management
+#### 🔴 App/File Management
 
 | Tool | Description | Directory |
 | :------ | :----- | :----- |
@@ -449,13 +478,13 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [iFunbox](https://www.i-funbox.com/en/index.html) | General file management software for iPhone and other Apple products. | N/A |
 | [iMazing](https://imazing.com/) | Powerful user-friendly iOS device manager for Mac and PC. | ![freemium-service](icons/freemium-service.png) |
 
-#### Bug Bounty Reports
+#### 🔴 Bug Bounty Reports
 
 | Tool | Description | Directory |
 | :------ | :----- | :----- |
 | [Android Reports & Reports](https://github.com/B3nac/Android-Reports-and-Resources) | Android reports and resources. | ![opensource](icons/opensource.png) |
 
-#### Dynamic Analysis
+#### 🔴 Dynamic Analysis
 
 | Tool | Description | Directory |
 | :------ | :----- | :----- |
@@ -474,21 +503,21 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [radare2](https://github.com/radareorg/radare2) | Set of libraries, tools and plugins to ease reverse engineering tasks. | ![opensource](icons/opensource.png) |
 | [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) | Powered by FRIDA a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime. | ![opensource](icons/opensource.png) |
 
-#### Flashing/Sideloading
+#### 🔴 Flashing/Sideloading
 
 | Tool | Description | Directory |
 | :------ | :----- | :----- |
 | [Cydia Impactor](http://www.cydiaimpactor.com/) | Allows you to install packages and evaluate your changes. | N/A |
 | [Odin](https://odindownload.com/) | Allows you to install packages and evaluate your changes. | N/A |
 
-#### Guides & References
+#### 🔴 Guides & References
 
 | Tool | Description | Directory |
 | :------ | :----- | :----- |
 | [Android Application Penetration Testing Checklist](https://www.xmind.net/m/GkgaYH/#) | Android pentesting checklist mindmap. | ![opensource](icons/opensource.png) |
 | [iOS Pentesting](https://www.mindmeister.com/1713501700/ios-pentesting?fullscreen=1) | iOS pentesting mindmap. | ![opensource](icons/opensource.png) |
 
-#### Jailbreaking/Rooting
+#### 🔴 Jailbreaking/Rooting
 
 | Tool | Description | Directory |
 | :------ | :----- | :----- |
@@ -510,7 +539,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [unc0ver](https://unc0ver.dev/) | A jail​break tool. | N/A |
 
 
-#### Labs/Practice
+#### 🔴 Labs/Practice
 
 | Tool | Description | Directory |
 | :------ | :----- | :----- |
@@ -524,7 +553,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [VyAPI](https://github.com/appsecco/VyAPI) | The Modern Cloud-Based Vulnerable Hybrid Android App. | ![opensource](icons/opensource.png) |
 | [WaTF-Bank](https://github.com/WaTF-Team/WaTF-Bank) |  What a Terrible Failure Mobile Banking Application for Android and iOS.  | ![opensource](icons/opensource.png) |
 
-#### Online Services    
+#### 🔴 Online Services    
 
 | Tool | Description | Directory |
 | :------ | :----- | :----- |
@@ -534,7 +563,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Quixxi](https://quixxisecurity.com/) | An intelligent and integrated end-to-end mobile app security solution. | ![freemium-service](icons/freemium-service.png) |
 
 
-#### Static Analysis
+#### 🔴 Static Analysis
 
 | Tool | Description | Directory |
 | :------ | :----- | :----- |
@@ -570,20 +599,20 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Trueseeing](https://github.com/monolithworks/trueseeing) | A fast, accurate and resillient vulnerabilities scanner for Android apps. | ![opensource](icons/opensource.png) |
 | [Yaazhini](https://www.vegabird.com/yaazhini/) | A fast, accurate and resillient vulnerabilities scanner for Android apps. | N/A |
 
-#### Video Content
+#### 🔴 Video Content
 
 | Tool | Description | Directory |
 | :------ | :----- | :----- |
 | [B3nac Sec](https://www.youtube.com/c/B3nacSec/featured) | Dedicated mobile ethical hacking | N/A |
 
-#### Virtualization
+#### 🔴 Virtualization
 
 | Tool | Description | Directory |
 | :------ | :----- | :----- |
 | [Android Tamer](https://androidtamer.com/) | Live Platform for Android Security professionals. | ![no-recent-update](icons/no-recent-update.png) |
 | [AppUse](https://appsec-labs.com/appuse/) | Mobile app security testing, Android and iOS applications. Custom-made tools and scripts created by AppSec Labs. | ![paid-product](icons/paid-product.png) |
 
-#### Whitepapers
+#### 🔴 Whitepapers
 
 | Tool | Description | Directory |
 | :------ | :----- | :----- |
@@ -595,11 +624,11 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🏛](#contents-) Network
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Network
 
 *Below are some of the most common hardware pieces owned by most security researchers.*
 
-#### Denial of Service
+#### 🔴 Denial of Service
 
 | Tool | Description | Directory |
 | :----- | :----- | :----- |
@@ -614,13 +643,13 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Slowloris](https://github.com/gkbrk/slowloris) | An HTTP Denial of Service attack that affects threaded servers | ![opensource](icons/opensource.png) |
 | [TORs Hammer](https://github.com/Karlheinzniebuhr/torshammer) | Slow POST DoS testing tool ran through TOR | ![opensource](icons/opensource.png) |
 
-#### LAN/WAN
+#### 🔴 LAN/WAN
 
 | Tool | Description | Directory |
 | :----- | :----- | :----- |
 | [Ghost Phisher](https://github.com/savio-code/ghost-phisher) | A Wireless and Ethernet security auditing and attack software | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
 
-#### Port Scanning
+#### 🔴 Port Scanning
 
 | Tool | Description | Directory |
 | :----- | :----- | :----- |
@@ -629,7 +658,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [NMAP](https://github.com/nmap/nmap) | The Network Mapper. | ![opensource](icons/opensource.png) |
 | [RustScan](https://github.com/RustScan/RustScan) | The Modern Port Scanner. | ![opensource](icons/opensource.png) |
 
-#### SSL/TLS
+#### 🔴 SSL/TLS
 
 | Tool | Description | Directory |
 | :----- | :----- | :----- |
@@ -644,11 +673,11 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🏛](#contents-) Reconnaissance
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Reconnaissance
 
 *Understand your target. Perform in-depth research and discover new attack surfaces.*
 
-#### Business
+#### 🔴 Business
 
 | Organization | Description | Directory |
 | :------ | :------ | :-------- |
@@ -658,7 +687,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Open Gov US](https://opengovus.com/) | Open Government data in U.S. | N/A |
 | [Spoke](https://www.spoke.com/) | Business, People, and more | N/A |
 
-#### DNS
+#### 🔴 DNS
 
 | Organization | Description | Directory |
 | :------ | :------ | :-------- |
@@ -671,7 +700,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [SubBrute](https://github.com/TheRook/subbrute) | A DNS meta-query spider that enumerates DNS records, and subdomains. | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
 
 
-#### Domains
+#### 🔴 Domains
 
 | Organization | Description | Directory |
 | :------ | :------ | :-------- |
@@ -691,7 +720,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [sublist3r](https://github.com/aboul3la/Sublist3r) |  Fast subdomains enumeration tool for penetration testers. | ![opensource](icons/opensource.png) |
 | [Turbolist3r](https://github.com/aboul3la/Sublist3r) | Subdomain enumeration tool with analysis features for discovered domains. | ![opensource](icons/opensource.png) |
 
-#### Search Engines
+#### 🔴 Search Engines
 
 | Organization | Description | Directory |
 | :------ | :------ | :------- |
@@ -704,7 +733,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Shodan](https://shodan.io) | The security search engine. Search everything IoT | ![freemium-service](icons/freemium-service.png)|
 | [Wayback Machine](https://archive.org/web/web.php) | Internet archive of saved web pages | N/A |
 
-#### Data Breach Dumps
+#### 🔴 Data Breach Dumps
 
 | Organization | Description | Directory |
 | :------ | :----- | :------ |
@@ -714,13 +743,13 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Snusbase](https://www.snusbase.com/) | Snusbase indexes information from websites that have been hacked and had their database leaked. |  ![legal](icons/legal.png) |
 | [WeLeakInfo V2 (Un-confirmed official site)](https://weleakinfo.to/) | Another Indexed databreach website. Proceed with caution as this is a reboot version. |  ![legal](icons/legal.png) |
 
-#### Dorking
+#### 🔴 Dorking
 
 | Tool | Description | Directory |
 | :------ | :------ |  :------- |
 | [Dorkbot](https://github.com/utiso/dorkbot) |  Command line dorking tool | ![opensource](icons/opensource.png) |
 
-#### People
+#### 🔴 People
 
 | Organization | Record Opt-Out/Removal | Directory |
 | :------ | :----- | :------- |
@@ -765,7 +794,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Yasni](http://www.yasni.com/) | datenschutz@yasni.de | N/A |
 | [Zaba Search (Intelius)](https://www.zabasearch.com/) | [Link](https://www.intelius.com/opt-out/submit/) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
 
-#### Phone Numbers
+#### 🔴 Phone Numbers
 
 | Organization | Record Opt-Out/Removal | Directory |
 | :------ | :----- | :----- |
@@ -774,13 +803,13 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [All Area Codes](https://Allareacodes.com/) | [Link](https://www.allareacodes.com/remove_name.htm) | N/A | 
 | [People by Name](https://Peoplebyname.com/) | [Link](http://www.peoplebyname.com/remove.php) | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
 
-#### Physical Address
+#### 🔴 Physical Address
 
 | Organization | Record Opt-Out/Removal | Directory |
 | :------ | :----- | :-----  |
 | [Neighbor Who (Been Verified)](https://www.neighborwho.com) | [Link](https://www.neighborwho.com/app/optout/search) | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
 
-#### Social Media
+#### 🔴 Social Media
 
 | Tool | Description | Directory |
 | :------ | :----- | :------ |
@@ -800,11 +829,11 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🏛](#contents-) Social Engineering
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Social Engineering
 
 *Manipulation techniques that exploits human error to gain private information, access, or valuables.*
 
-#### Phishing
+#### 🔴 Phishing
 
 | Tool | Description | Directory |
 | :----- | :----- | :------- |
@@ -821,7 +850,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [SpeedPhish Framework](https://github.com/tatanus/SPF) | Tool designed to allow for quick recon and deployment of simple social engineering phishing exercises. | ![opensource](icons/opensource.png) |
 | [SPT Project](https://github.com/chris-short/sptoolkit) | Phishing education toolkit that aims to help in securing the mind as opposed to securing computers. | ![opensource](icons/opensource.png) |
 
-#### SMS
+#### 🔴 SMS
 
 | Tool | Description | Directory |
 | :----- | :----- | :----- |
@@ -835,11 +864,11 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🏛](#contents-) Vulnerability Scanners
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Vulnerability Scanners
 
 *Discover vulnerabilities fast, and automate some of the heavy loads.*
 
-#### Scanners
+#### 🔴 Scanners
 
 | Tool | Descrption | Directory |
 | :----- | :----- | :------- |
@@ -866,11 +895,11 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🏛](#contents-) Wireless
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Wireless
 
 *Discover tools and resources for exploiting Wi-Fi, bluetooth, RFID, and more.*
 
-#### Bluetooth
+#### 🔴 Bluetooth
 
 | Tool | Descrption | Directory |
 | :----- | :----- | :------- |
@@ -879,7 +908,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [hcitool](https://github.com/MillerTechnologyPeru/hcitool) | Bluetooth host controller CLI tool for sending HCI commands on MacOS and Linux. | ![opensource](icons/opensource.png) |
 
 
-#### Wi-Fi
+#### 🔴 Wi-Fi
 
 | Tool | Descrption | Directory |
 | :----- | :----- | :------ |
@@ -897,7 +926,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-## [🏛](#contents-) Operation Security
+## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) OPERATION SECURITY
 
 *Watch your tracks you leave across the internet. Up your operation security (OpSec) and don't get caught slipping.*
 
@@ -910,37 +939,37 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🏛](#contents-) Anonymity
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Anonymity
 
 *The quality or state of being anonymous. Seek out technologies and methods of remaining anonymous in the day and age of mass surveillance.*
 
-#### Cryptocurrency
+#### 👻 Cryptocurrency
 
 | Organization | Description | Directory | 
 | :------ | :----- | :----- |
 | [Monero](https://www.getmonero.org/) | Secure, private, untraceable. | ![paid-product](icons/paid-product.png) |
 | [ZCash](https://z.cash/) | Proxies without limits. Take your business to a higher level. | ![paid-product](icons/paid-product.png) |
 
-#### Cryptocurrency Wallets
+#### 👻 Cryptocurrency Wallets
 
 | Organization | Description | Directory | 
 | :------ | :----- | :----- |
 | [Exodus](https://www.exodus.com/) | Laptop and Desktop crypto wallet. | ![paid-product](icons/paid-product.png) |
 
-#### Domain Registrars
+#### 👻 Domain Registrars
 
 | Organization | Description | Directory | 
 | :------ | :----- | :----- |
 | [Njalla](https://njal.la/) [[TOR]](http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion/) | A privacy-aware domain service.. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
 
-#### Proxies
+#### 👻 Proxies
 
 | Organization | Description | Directory | 
 | :------ | :----- | :----- |
 | [Proxy Shop](https://proxy.shop/) | Proxy Shop with 8M+ locations, 160+ countries, and 50+ states. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
 | [Smarter Proxy](https://smartproxy.com/) | Proxies without limits. Take your business to a higher level. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
 
-#### VPN
+#### 👻 VPN
 
 | Organization | Description | Directory | 
 | :------ | :----- | :----- |
@@ -948,7 +977,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Mullvad VPN](https://mullvad.net/en/) [[TOR](http://xcln5hkbriyklr6n.onion/)] | Service that helps keep your online activity, identity, and location private. | ![opensource](icons/opensource.png) ![tor-icon](icons/tor-icon.png) |
 | [ProtonVPN](https://protonvpn.com/) | High-speed Swiss VPN that safeguards your privacy. |  ![freemium-service](icons/freemium-service.png) ![opensource](icons/opensource.png) ![register-profile](icons/register-profile.png) |
 
-#### Whistleblowing
+#### 👻 Whistleblowing
 
 | Organization | Description | Directory |
 | :------ | :----- | :-------|
@@ -963,11 +992,11 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🏛](#contents-) Communication
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Communication
 
 *Protect your SMS messages, voice calls, and e-mails. Big brother is always watching.*
 
-#### E-Mail Services
+#### 👻 E-Mail Services
 
 | Organization | Description | Directory |
 | :------ | :----- | :------- |
@@ -979,7 +1008,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [SAFe-mail](https://safe-mail.net) | Bulletproof e-mail service | ![register-profile](icons/register-profile.png) |
 | TorBox [[TOR](http://torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion/index-en.php)] | Hidden mail service. | ![register-profile](icons/register-profile.png) ![tor-icon](icons/tor-icon.png) |
 
-#### Messaging Services
+#### 👻 Messaging Services
 
 | Organization | Description | Directory |
 | :------ | :----- | :----- |
@@ -987,14 +1016,14 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Element](https://element.io/) | A messenger that gives you the privacy you expect from a conversation in your own home, but with everyone across the globe. | ![freemium-service](icons/freemium-service.png) ![opensource](icons/opensource.png) ![register-profile](icons/register-profile.png)|
 | [Telegram](https://telegram.org/) | A new era of messaging. | ![opensource](icons/opensource.png) |
 
-#### SMS
+#### 👻 SMS
 
 | Organization | Description | Directory |
 | :------ | :----- | :------ |
 | [Signal](https://www.signal.org/) | Speak Freely | ![opensource](icons/opensource.png) ![register-profile](icons/register-profile.png) |
 
 
-#### XMPP Services
+#### 👻 XMPP Services
 
 Want to check compliance status of an XMPP server? Check out https://compliance.conversations.im/.
 
@@ -1016,7 +1045,7 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 
 
-## [🏛](#contents-) Xtras
+## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) XTRAS
 
 *Some extra content. Infosec related of course.*
 
@@ -1028,9 +1057,9 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 
 
-### [🏛](#contents-) Video
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Video
 
-#### Livestreamers
+#### 🟢 Livestreamers
 
 | Tool | Description | Directory |
 | :------ | :----- | :------ |
@@ -1046,7 +1075,7 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 
 
-## [🏛](#contents-) Greetz
+## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) GR33TZ
 
 *Shoutouts and gr33tz to the following amazing individuals for suggesting and adding resources!*
 
