@@ -20,7 +20,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 ## Contents
 
 - [Icon Directory](#-icon-directory)
-- [Defensive Security](https://github.com/InfosecHouse/InfosecHouse-Dev#defensive-security)
+- [Defensive Security](https://github.com/InfosecHouse/InfosecHouse#defensive-security)
     - [Forensics](#-forensics)
     - [Malware](#-malware)
     - [Threat Intel](#-threat-intel)
@@ -56,7 +56,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-## [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) ICON DIRECTORY
+## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) ICON DIRECTORY
 
 *Icon directory used within the tool and resources table*
 
@@ -98,7 +98,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Forensics
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Forensics
 
 *Uncover the dirty little secrets of a recovered HDD, Image, malware, and more.*
 
@@ -126,7 +126,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Malware
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Malware
 
 *All the malware you can wish for to reverse engineer.*
 
@@ -184,7 +184,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Threat Intel
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Threat Intel
 
 *Discover where the threats begin.*
 
@@ -253,7 +253,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-## [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Offensive Security
+## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Offensive Security
 
 *Offensive Security (Red Team) tools and resources.*
 
@@ -266,7 +266,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) API
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) API
 
 *Tools and resources for pentesting against API endpoints.*
 
@@ -296,7 +296,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Bug Bounty
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Bug Bounty
 
 *Global bug bounty platform, crowdsourced security, & vulnerability disclosure.*
 
@@ -327,7 +327,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Courses
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Courses
 
 *Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase.*
 
@@ -363,7 +363,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Cracking
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Cracking
 
 *Everything you need to crack all the hashes.*
 
@@ -383,7 +383,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) CTF Offensive
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) CTF Offensive
 
 *A CTF event is usually timed, and the points are totaled once the time has expired. The winning player/team will be the one that solved the most challenges, and thus, secured the highest score.*
 
@@ -408,7 +408,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Exploits
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Exploits
 
 *Gather all your exploits needed to pop that box.*
 
@@ -430,7 +430,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Hardware
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Hardware
 
 *Grab some of the most used hardware within the penetration testing industry.*
 
@@ -467,7 +467,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Mobile
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Mobile
 
 *Tools and resources for pentesting on mobile applications.*
 
@@ -627,7 +627,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Network
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Network
 
 *Below are some of the most common hardware pieces owned by most security researchers.*
 
@@ -676,7 +676,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Reconnaissance
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Reconnaissance
 
 *Understand your target. Perform in-depth research and discover new attack surfaces.*
 
@@ -749,7 +749,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Social Engineering
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Social Engineering
 
 *Manipulation techniques that exploits human error to gain private information, access, or valuables.*
 
@@ -784,7 +784,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Vulnerability Scanners
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Vulnerability Scanners
 
 *Discover vulnerabilities fast, and automate some of the heavy loads.*
 
@@ -815,7 +815,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Wireless
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Wireless
 
 *Discover tools and resources for exploiting Wi-Fi, bluetooth, RFID, and more.*
 
@@ -846,7 +846,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-## [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) OPERATION SECURITY
+## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) OPERATION SECURITY
 
 *Watch your tracks you leave across the internet. Up your operation security (OpSec) and don't get caught slipping.*
 
@@ -859,7 +859,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Anonymity
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Anonymity
 
 *The quality or state of being anonymous. Seek out technologies and methods of remaining anonymous in the day and age of mass surveillance.*
 
@@ -920,7 +920,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Communication
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Communication
 
 *Protect your SMS messages, voice calls, and e-mails. Big brother is always watching.*
 
@@ -972,7 +972,7 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 
 
-## [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Purple Teaming
+## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Purple Teaming
 
 *Resources/Tools utilized by both red/blue teams.*
 
@@ -984,7 +984,7 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) OSINT
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) OSINT
 
 #### 🟣 Business
 
@@ -1084,7 +1084,7 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 
 
-## [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) XTRAS
+## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) XTRAS
 
 *Some extra content. Infosec related of course.*
 
@@ -1096,7 +1096,7 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Video
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Video
 
 #### 🟢 Livestreamers
 
@@ -1114,7 +1114,7 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 
 
-## [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) GR33TZ
+## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) GR33TZ
 
 *Shoutouts and gr33tz to the following amazing individuals for suggesting and adding resources!*
 
