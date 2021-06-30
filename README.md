@@ -20,7 +20,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 ## Contents
 
 - [Icon Directory](#-icon-directory)
-- [Defensive Security](#-defensive-security)
+- [Defensive Security](https://github.com/InfosecHouse/InfosecHouse-Dev#defensive-security)
     - [Forensics](#-forensics)
     - [Malware](#-malware)
     - [Threat Intel](#-threat-intel)
@@ -29,6 +29,7 @@ A curated list of many tools and resources for both offensive and defensive secu
     - [Bug Bounty](#-bug-bounty)
     - [Courses](#-courses)
     - [Cracking](#-cracking)
+    - [CTF Offensive](#-ctf-offensive)
     - [Exploits](#-exploits)
     - [Hardware](#-hardware)
     - [Mobile](#-mobile)
@@ -40,6 +41,8 @@ A curated list of many tools and resources for both offensive and defensive secu
 - [Operation Security](#-operation-security)
     - [Anonymity](#-anonymity)
     - [Communication](#-communication)
+- [Purple Teaming](#-purple-teaming)
+    - [OSINT](#-osint)
 - [Xtras](#-xtras)
     - [Video](#-video)
 - [GR33TZ](#-gr33tz)
@@ -53,7 +56,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) ICON DIRECTORY
+## [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) ICON DIRECTORY
 
 *Icon directory used within the tool and resources table*
 
@@ -95,7 +98,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Forensics
+### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Forensics
 
 *Uncover the dirty little secrets of a recovered HDD, Image, malware, and more.*
 
@@ -103,7 +106,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 | Tool | Description | Directory |
 | :------ | :----- | :------ |
-| [Bitscount](https://bitscout-forensics.info/) | LiveCD/LiveUSB for remote forensic acquisition and analysis | N/A |
+| [Bitscout](https://bitscout-forensics.info/) | LiveCD/LiveUSB for remote forensic acquisition and analysis | N/A |
 | [SANS Investigative Forensics Toolkit (SIFT)](https://github.com/teamdfir/sift) | Linux distribution for forensic analysis | N/A |
 | [Tsurugi](https://tsurugi-linux.org/) | Linux distribution for DFIR | N/A |
 | [WinFE](https://www.winfe.net/home) | Windows Forensics | N/A |
@@ -123,7 +126,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Malware
+### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Malware
 
 *All the malware you can wish for to reverse engineer.*
 
@@ -181,7 +184,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Threat Intel
+### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Threat Intel
 
 *Discover where the threats begin.*
 
@@ -250,7 +253,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Offensive Security
+## [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Offensive Security
 
 *Offensive Security (Red Team) tools and resources.*
 
@@ -263,7 +266,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) API
+### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) API
 
 *Tools and resources for pentesting against API endpoints.*
 
@@ -293,7 +296,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Bug Bounty
+### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Bug Bounty
 
 *Global bug bounty platform, crowdsourced security, & vulnerability disclosure.*
 
@@ -324,7 +327,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Courses
+### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Courses
 
 *Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase.*
 
@@ -360,7 +363,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Cracking
+### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Cracking
 
 *Everything you need to crack all the hashes.*
 
@@ -380,7 +383,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) CTF Offensive
+### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) CTF Offensive
 
 *A CTF event is usually timed, and the points are totaled once the time has expired. The winning player/team will be the one that solved the most challenges, and thus, secured the highest score.*
 
@@ -405,7 +408,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Exploits
+### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Exploits
 
 *Gather all your exploits needed to pop that box.*
 
@@ -427,7 +430,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Hardware
+### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Hardware
 
 *Grab some of the most used hardware within the penetration testing industry.*
 
@@ -464,7 +467,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Mobile
+### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Mobile
 
 *Tools and resources for pentesting on mobile applications.*
 
@@ -624,7 +627,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Network
+### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Network
 
 *Below are some of the most common hardware pieces owned by most security researchers.*
 
@@ -673,19 +676,10 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Reconnaissance
+### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Reconnaissance
 
 *Understand your target. Perform in-depth research and discover new attack surfaces.*
 
-#### 🔴 Business
-
-| Organization | Description | Directory |
-| :------ | :------ | :-------- |
-| [Black Book](https://www.blackbookonline.info/USA-Counties.aspx) | Public records index | N/A |
-| [Corporation Wiki](https://www.corporationwiki.com/) | Person and Company Wiki | ![register-profile](icons/register-profile.png) |
-| [Government of Canada](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=en_CA) | Federal corporation lookup | N/A |
-| [Open Gov US](https://opengovus.com/) | Open Government data in U.S. | N/A |
-| [Spoke](https://www.spoke.com/) | Business, People, and more | N/A |
 
 #### 🔴 DNS
 
@@ -698,7 +692,6 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Fierce](https://github.com/mschwager/fierce) |  A DNS reconnaissance tool for locating non-contiguous IP space. | ![opensource](icons/opensource.png) |
 | [MassDNS](https://github.com/blechschmidt/massdns) | A high-performance DNS stub resolver for bulk lookups and reconnaissance | ![opensource](icons/opensource.png) |
 | [SubBrute](https://github.com/TheRook/subbrute) | A DNS meta-query spider that enumerates DNS records, and subdomains. | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
-
 
 #### 🔴 Domains
 
@@ -720,6 +713,12 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [sublist3r](https://github.com/aboul3la/Sublist3r) |  Fast subdomains enumeration tool for penetration testers. | ![opensource](icons/opensource.png) |
 | [Turbolist3r](https://github.com/aboul3la/Sublist3r) | Subdomain enumeration tool with analysis features for discovered domains. | ![opensource](icons/opensource.png) |
 
+#### 🔴 Frameworks
+
+| Organization | Description | Directory |
+| :------ | :------ | :-------- |
+| [sn1per](https://github.com/1N3/Sn1per) | Discover the attack surface and prioritize risks with our continuous Attack Surface Management. | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) ![opensource](icons/opensource.png) |
+
 #### 🔴 Search Engines
 
 | Organization | Description | Directory |
@@ -733,91 +732,12 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Shodan](https://shodan.io) | The security search engine. Search everything IoT | ![freemium-service](icons/freemium-service.png)|
 | [Wayback Machine](https://archive.org/web/web.php) | Internet archive of saved web pages | N/A |
 
-#### 🔴 Data Breach Dumps
-
-| Organization | Description | Directory |
-| :------ | :----- | :------ |
-| [Dehashed](https://dehashed.com/) | DeHashed is constantly obtaining new and private datasets that other services simply do not have. We are always the first to respond. |  ![legal](icons/legal.png) |
-| [HaveIBeenPwned](https://haveibeenpwned.com/) |  Have I Been Pwned allows you to search across multiple data breaches to see if your email address has been compromised. | N/A |
-| [Leaked source](https://www.leakedsource.ru/) | Leaked Source is a collaboration of data found online in the form of a lookup. |  ![legal](icons/legal.png) |
-| [Snusbase](https://www.snusbase.com/) | Snusbase indexes information from websites that have been hacked and had their database leaked. |  ![legal](icons/legal.png) |
-| [WeLeakInfo V2 (Un-confirmed official site)](https://weleakinfo.to/) | Another Indexed databreach website. Proceed with caution as this is a reboot version. |  ![legal](icons/legal.png) |
-
 #### 🔴 Dorking
 
 | Tool | Description | Directory |
 | :------ | :------ |  :------- |
 | [Dorkbot](https://github.com/utiso/dorkbot) |  Command line dorking tool | ![opensource](icons/opensource.png) |
 
-#### 🔴 People
-
-| Organization | Record Opt-Out/Removal | Directory |
-| :------ | :----- | :------- |
-| [411 (White Pages)](https://www.411.com/) | [CCPA](https://www.whitepages.com/privacy/ccpa) [Suppression Requests](https://www.whitepages.com/suppression-requests) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [Addresses (Intelius)](https://www.addresses.com/) | [CCPA](https://www.intelius.com/ccpa) | ![freemium](https://www.infosec.house/content/images/2021/05/freemium.png)![register-profile](icons/register-profile.png) |
-| [Advanced Background Checks](https://www.advancedbackgroundchecks.com/) | [Link](https://www.advancedbackgroundchecks.com/removal) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [AnyWho (Intelius)](https://www.anywho.com/) | [Link](https://www.intelius.com/opt-out/submit/) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [Been Verified](https://www.beenverified.com/) | [Link](https://www.beenverified.com/app/optout/search) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [Black Book](https://www.blackbookonline.info/USA-Counties.aspx) | N/A | N/A |
-| [Check Them](https://www.checkthem.com/) | [Link](https://www.checkthem.com/optout/) | ![freemium-service](icons/freemium-service.png)|
-| [Classmates (PeopleConnect)](https://www.classmates.com/) | [Link](https://www.intelius.com/opt-out/submit/) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [Corporation Wiki](https://www.corporationwiki.com/) | [Link](https://www.corporationwiki.com/profiles/public) | ![register-profile](icons/register-profile.png) |
-| [DOB Search](https://www.dobsearch.com/) | [Link](https://www.dobsearch.com/people-finder/pf_manage_help.php) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [Family Tree Now](https://www.familytreenow.com/) | [Link](https://www.familytreenow.com/privacy?removal=true) | N/A |
-| [ID True](https://www.idtrue.com/) | [Link](https://www.idtrue.com/optout/) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [Instant Checkmate](https://www.instantcheckmate.com/) | [Link](https://www.instantcheckmate.com/opt-out/) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [Instant People Finder (Intelius)](https://instantpeoplefinder.com/) | [Link](https://www.intelius.com/opt-out/submit/) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [Intelius](https://www.intelius.com/) | [Link](https://www.intelius.com/opt-out/submit/) | ![freemium-service](icons/freemium-service.png)|
-| [Melissa](https://www.melissa.com/v2/lookups/personatorsearch/) | [Link](https://www.melissa.com/privacy") | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [My Life](https://www.mylife.com/) | [CCPA](https://www.mylife.com/privacy-policy#caliResidentsNotice) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [Nuwber](https://nuwber.com/) | [Link](https://nuwber.com/removal/link) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [Open Gov US](https://opengovus.com/) | N/A | N/A |
-| [PeekYou](https://www.peekyou.com/) | [Link](https://www.peekyou.com/about/contact/ccpa_optout/do_not_sell/) | ![freemium-service](icons/freemium-service.png)|
-| [People Finder (Intelius)](https://www.peoplefinder.com/) | [Link](https://www.intelius.com/optout) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [People Finders](https://www.peoplefinders.com/) | [Link](https://www.peoplefinders.com/opt-out) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [People Search Now](https://www.peoplesearchnow.com/) | [Link](https://www.peoplesearchnow.com/opt-out) | N/A |
-| [People Smart (Been Verified)](https://www.peoplesmart.com") | [Link](https://www.beenverified.com/app/optout/search) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [Pipl](https://pipl.com/) | [Link](https://pipl.com/personal-information-removal-request) | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png)|
-| [Private Eye](https://www.privateeye.com/) | [Link](https://www.privateeye.com/static/view/optout/) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [Public Info Directory](https://publicrecords.directory/) | [Link](https://publicrecords.directory/contact.php) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [Public Records (Intelius)](https://publicrecords.com/) | [Link](https://www.intelius.com/opt-out/submit/) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [Radaris](https://radaris.com/) | E-Mail | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [Radio Reference](https://www.radioreference.com/apps/ham/) | N/A | N/A |
-| [Spokeo](https://spokeo.com/) | [Link](https://www.spokeo.com/optout) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [That's Them](https://thatsthem.com/) | [Link](https://thatsthem.com/optout) | N/A |
-| [True People Search](https://www.truepeoplesearch.com) | [Link](https://www.truepeoplesearch.com/removal) | N/A |
-| [TruthFinder](https://www.truthfinder.com/) | [Link](https://www.truthfinder.com/opt-out/) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [USSearch](https://www.ussearch.com/) | [Link](https://www.ussearch.com/opt-out/submit/) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [Voter Records](https://voterrecords.com/) | [Link](https://voterrecords.com/contact) | N/A |
-| [Webmii](https://webmii.com/) | N/A | N/A |
-| [White Pages](https://www.whitepages.com/) | [CCPA](https://www.whitepages.com/privacy/ccpa) [Suppression Request](https://www.whitepages.com/suppression-requests) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [Yasni](http://www.yasni.com/) | datenschutz@yasni.de | N/A |
-| [Zaba Search (Intelius)](https://www.zabasearch.com/) | [Link](https://www.intelius.com/opt-out/submit/) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-
-#### 🔴 Phone Numbers
-
-| Organization | Record Opt-Out/Removal | Directory |
-| :------ | :----- | :----- |
-| [Telephone Directories](https://Telephonedirectories.us) | [Link](https://www.telephonedirectories.us/Edit_Records) | N/A |
-| [Caller Smart](https://Callersmart.com) | [Link](https://www.callersmart.com/opt-out) | ![register-profile](icons/register-profile.png) |
-| [All Area Codes](https://Allareacodes.com/) | [Link](https://www.allareacodes.com/remove_name.htm) | N/A | 
-| [People by Name](https://Peoplebyname.com/) | [Link](http://www.peoplebyname.com/remove.php) | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
-
-#### 🔴 Physical Address
-
-| Organization | Record Opt-Out/Removal | Directory |
-| :------ | :----- | :-----  |
-| [Neighbor Who (Been Verified)](https://www.neighborwho.com) | [Link](https://www.neighborwho.com/app/optout/search) | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
-
-#### 🔴 Social Media
-
-| Tool | Description | Directory |
-| :------ | :----- | :------ |
-| [GeoSocial Footprint](http://geosocialfootprint.com/) | Provides twitter users with an opportunity to view their geosocial footprint. | N/A |
-| [One Million Tweet Map](https://onemilliontweetmap.com/) | Displays last 24h geolocalized tweets delivered. Real Time. | N/A |
-| [Sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username. | ![opensource](icons/opensource.png) |
-| [Social Searcher](https://www.social-searcher.com/) | Social Media Search Engine. | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
-| [WhatsMyName](https://github.com/webbreacher/whatsmyname) | Unified data required to perform user and username enumeration on various websites | ![opensource](icons/opensource.png) | 
 
 
 
@@ -829,7 +749,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Social Engineering
+### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Social Engineering
 
 *Manipulation techniques that exploits human error to gain private information, access, or valuables.*
 
@@ -864,7 +784,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Vulnerability Scanners
+### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Vulnerability Scanners
 
 *Discover vulnerabilities fast, and automate some of the heavy loads.*
 
@@ -895,7 +815,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Wireless
+### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Wireless
 
 *Discover tools and resources for exploiting Wi-Fi, bluetooth, RFID, and more.*
 
@@ -926,7 +846,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) OPERATION SECURITY
+## [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) OPERATION SECURITY
 
 *Watch your tracks you leave across the internet. Up your operation security (OpSec) and don't get caught slipping.*
 
@@ -939,9 +859,17 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Anonymity
+### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Anonymity
 
 *The quality or state of being anonymous. Seek out technologies and methods of remaining anonymous in the day and age of mass surveillance.*
+
+#### 👻 Browsing
+
+| Tools | Description | Directory |
+| :------ | :----- | :----- |
+| [I2P](https://geti2p.net/en/) | An anonymous network layer that allows for censorship resistant, peer to peer communication.  | N/A |
+| [Pantoclick](https://coveryourtracks.eff.org/) | See how trackers view your browser | N/A |
+| [TOR](https://www.torproject.org/) | Free and open-source software for enabling anonymous communication. | ![opensource](icons/opensource.png) |
 
 #### 👻 Cryptocurrency
 
@@ -992,7 +920,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Communication
+### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Communication
 
 *Protect your SMS messages, voice calls, and e-mails. Big brother is always watching.*
 
@@ -1044,8 +972,119 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 
 
+## [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Purple Teaming
 
-## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) XTRAS
+*Resources/Tools utilized by both red/blue teams.*
+
+
+
+
+
+
+
+
+
+### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) OSINT
+
+#### 🟣 Business
+
+| Organization | Description | Directory |
+| :------ | :------ | :-------- |
+| [Black Book](https://www.blackbookonline.info/USA-Counties.aspx) | Public records index | N/A |
+| [Corporation Wiki](https://www.corporationwiki.com/) | Person and Company Wiki | ![register-profile](icons/register-profile.png) |
+| [Government of Canada](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=en_CA) | Federal corporation lookup | N/A |
+| [Open Gov US](https://opengovus.com/) | Open Government data in U.S. | N/A |
+| [Spoke](https://www.spoke.com/) | Business, People, and more | N/A |
+
+#### 🟣 Data Breach Dumps
+
+| Organization | Description | Directory |
+| :------ | :----- | :------ |
+| [Dehashed](https://dehashed.com/) | DeHashed is constantly obtaining new and private datasets that other services simply do not have. We are always the first to respond. |  ![legal](icons/legal.png) |
+| [HaveIBeenPwned](https://haveibeenpwned.com/) |  Have I Been Pwned allows you to search across multiple data breaches to see if your email address has been compromised. | N/A |
+| [Leaked source](https://www.leakedsource.ru/) | Leaked Source is a collaboration of data found online in the form of a lookup. |  ![legal](icons/legal.png) |
+| [Snusbase](https://www.snusbase.com/) | Snusbase indexes information from websites that have been hacked and had their database leaked. |  ![legal](icons/legal.png) |
+| [WeLeakInfo V2 (Un-confirmed official site)](https://weleakinfo.to/) | Another Indexed databreach website. Proceed with caution as this is a reboot version. |  ![legal](icons/legal.png) |
+
+#### 🟣 People
+
+| Organization | Record Opt-Out/Removal | Directory |
+| :------ | :----- | :------- |
+| [411 (White Pages)](https://www.411.com/) | [CCPA](https://www.whitepages.com/privacy/ccpa) [Suppression Requests](https://www.whitepages.com/suppression-requests) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [Addresses (Intelius)](https://www.addresses.com/) | [CCPA](https://www.intelius.com/ccpa) | ![freemium](https://www.infosec.house/content/images/2021/05/freemium.png)![register-profile](icons/register-profile.png) |
+| [Advanced Background Checks](https://www.advancedbackgroundchecks.com/) | [Link](https://www.advancedbackgroundchecks.com/removal) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [AnyWho (Intelius)](https://www.anywho.com/) | [Link](https://www.intelius.com/opt-out/submit/) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [Been Verified](https://www.beenverified.com/) | [Link](https://www.beenverified.com/app/optout/search) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [Black Book](https://www.blackbookonline.info/USA-Counties.aspx) | N/A | N/A |
+| [Check Them](https://www.checkthem.com/) | [Link](https://www.checkthem.com/optout/) | ![freemium-service](icons/freemium-service.png)|
+| [Classmates (PeopleConnect)](https://www.classmates.com/) | [Link](https://www.intelius.com/opt-out/submit/) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [Corporation Wiki](https://www.corporationwiki.com/) | [Link](https://www.corporationwiki.com/profiles/public) | ![register-profile](icons/register-profile.png) |
+| [DOB Search](https://www.dobsearch.com/) | [Link](https://www.dobsearch.com/people-finder/pf_manage_help.php) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [Family Tree Now](https://www.familytreenow.com/) | [Link](https://www.familytreenow.com/privacy?removal=true) | N/A |
+| [ID True](https://www.idtrue.com/) | [Link](https://www.idtrue.com/optout/) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [Instant Checkmate](https://www.instantcheckmate.com/) | [Link](https://www.instantcheckmate.com/opt-out/) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [Instant People Finder (Intelius)](https://instantpeoplefinder.com/) | [Link](https://www.intelius.com/opt-out/submit/) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [Intelius](https://www.intelius.com/) | [Link](https://www.intelius.com/opt-out/submit/) | ![freemium-service](icons/freemium-service.png)|
+| [Melissa](https://www.melissa.com/v2/lookups/personatorsearch/) | [Link](https://www.melissa.com/privacy") | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [My Life](https://www.mylife.com/) | [CCPA](https://www.mylife.com/privacy-policy#caliResidentsNotice) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [Nuwber](https://nuwber.com/) | [Link](https://nuwber.com/removal/link) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [Open Gov US](https://opengovus.com/) | N/A | N/A |
+| [PeekYou](https://www.peekyou.com/) | [Link](https://www.peekyou.com/about/contact/ccpa_optout/do_not_sell/) | ![freemium-service](icons/freemium-service.png)|
+| [People Finder (Intelius)](https://www.peoplefinder.com/) | [Link](https://www.intelius.com/optout) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [People Finders](https://www.peoplefinders.com/) | [Link](https://www.peoplefinders.com/opt-out) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [People Search Now](https://www.peoplesearchnow.com/) | [Link](https://www.peoplesearchnow.com/opt-out) | N/A |
+| [People Smart (Been Verified)](https://www.peoplesmart.com") | [Link](https://www.beenverified.com/app/optout/search) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [Pipl](https://pipl.com/) | [Link](https://pipl.com/personal-information-removal-request) | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png)|
+| [Private Eye](https://www.privateeye.com/) | [Link](https://www.privateeye.com/static/view/optout/) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [Public Info Directory](https://publicrecords.directory/) | [Link](https://publicrecords.directory/contact.php) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [Public Records (Intelius)](https://publicrecords.com/) | [Link](https://www.intelius.com/opt-out/submit/) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [Radaris](https://radaris.com/) | E-Mail | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [Radio Reference](https://www.radioreference.com/apps/ham/) | N/A | N/A |
+| [Spokeo](https://spokeo.com/) | [Link](https://www.spokeo.com/optout) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [That's Them](https://thatsthem.com/) | [Link](https://thatsthem.com/optout) | N/A |
+| [True People Search](https://www.truepeoplesearch.com) | [Link](https://www.truepeoplesearch.com/removal) | N/A |
+| [TruthFinder](https://www.truthfinder.com/) | [Link](https://www.truthfinder.com/opt-out/) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [USSearch](https://www.ussearch.com/) | [Link](https://www.ussearch.com/opt-out/submit/) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [Voter Records](https://voterrecords.com/) | [Link](https://voterrecords.com/contact) | N/A |
+| [Webmii](https://webmii.com/) | N/A | N/A |
+| [White Pages](https://www.whitepages.com/) | [CCPA](https://www.whitepages.com/privacy/ccpa) [Suppression Request](https://www.whitepages.com/suppression-requests) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [Yasni](http://www.yasni.com/) | datenschutz@yasni.de | N/A |
+| [Zaba Search (Intelius)](https://www.zabasearch.com/) | [Link](https://www.intelius.com/opt-out/submit/) | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+
+#### 🟣 Phone Numbers
+
+| Organization | Record Opt-Out/Removal | Directory |
+| :------ | :----- | :----- |
+| [Telephone Directories](https://Telephonedirectories.us) | [Link](https://www.telephonedirectories.us/Edit_Records) | N/A |
+| [Caller Smart](https://Callersmart.com) | [Link](https://www.callersmart.com/opt-out) | ![register-profile](icons/register-profile.png) |
+| [All Area Codes](https://Allareacodes.com/) | [Link](https://www.allareacodes.com/remove_name.htm) | N/A | 
+| [People by Name](https://Peoplebyname.com/) | [Link](http://www.peoplebyname.com/remove.php) | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+
+#### 🟣 Physical Address
+
+| Organization | Record Opt-Out/Removal | Directory |
+| :------ | :----- | :-----  |
+| [Neighbor Who (Been Verified)](https://www.neighborwho.com) | [Link](https://www.neighborwho.com/app/optout/search) | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+
+#### 🟣 Social Media
+
+| Tool | Description | Directory |
+| :------ | :----- | :------ |
+| [GeoSocial Footprint](http://geosocialfootprint.com/) | Provides twitter users with an opportunity to view their geosocial footprint. | N/A |
+| [One Million Tweet Map](https://onemilliontweetmap.com/) | Displays last 24h geolocalized tweets delivered. Real Time. | N/A |
+| [Sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username. | ![opensource](icons/opensource.png) |
+| [Social Searcher](https://www.social-searcher.com/) | Social Media Search Engine. | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [WhatsMyName](https://github.com/webbreacher/whatsmyname) | Unified data required to perform user and username enumeration on various websites | ![opensource](icons/opensource.png) | 
+
+
+
+
+
+
+
+
+
+## [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) XTRAS
 
 *Some extra content. Infosec related of course.*
 
@@ -1057,7 +1096,7 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Video
+### [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) Video
 
 #### 🟢 Livestreamers
 
@@ -1075,7 +1114,7 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 
 
-## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) GR33TZ
+## [🔝](https://github.com/InfosecHouse/InfosecHouse-Dev#contents) GR33TZ
 
 *Shoutouts and gr33tz to the following amazing individuals for suggesting and adding resources!*
 
