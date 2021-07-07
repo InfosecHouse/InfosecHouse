@@ -21,28 +21,37 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 - [Icon Directory](#-icon-directory)
 - [Defensive Security](https://github.com/InfosecHouse/InfosecHouse#defensive-security)
+    - [Incident Response](#-incident-response)
     - [Forensics](#-forensics)
     - [Malware](#-malware)
+    - [Phishing](#-phishing)
     - [Threat Intel](#-threat-intel)
 - [Offensive Security](#-offensive-security)
     - [API](#-api)
     - [Bug Bounty](#-bug-bounty)
+    - [Cloud](#-cloud)
     - [Courses](#-courses)
     - [Cracking](#-cracking)
     - [CTF Offensive](#-ctf-offensive)
     - [Exploits](#-exploits)
     - [Hardware](#-hardware)
+    - [Linux](#-linux)
     - [Mobile](#-mobile)
     - [Network](#-network)
     - [Reconnaissance](#-reconnaissance)
     - [Social Engineering](#-social-engineering)
     - [Vulnerability Scanners](#-vulnerability-scanners)
+    - [Web Application](#-web-application)
+    - [Windows](#-windows)
     - [Wireless](#-wireless)
 - [Operation Security](#-operation-security)
     - [Anonymity](#-anonymity)
     - [Communication](#-communication)
-- [Purple Teaming](#-purple-teaming)
+- [Purple Security](#-purple-security)
+    - [Purple Frameworks](#-purple-frameworks)
     - [OSINT](#-osint)
+    - [Reverse Engineering](#-reverse-engineering)
+    - [Write-Ups](#-write-ups)
 - [Xtras](#-xtras)
     - [Video](#-video)
 - [GR33TZ](#-gr33tz)
@@ -85,7 +94,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-## Defensive Security
+## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Defensive Security
 
 *Defensive Security (Blue Team) tools and resources.*
 
@@ -101,6 +110,18 @@ A curated list of many tools and resources for both offensive and defensive secu
 ### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Forensics
 
 *Uncover the dirty little secrets of a recovered HDD, Image, malware, and more.*
+
+#### 🔵 Browser
+
+| Tool | Description | Directory |
+| :------ | :----- | :------ |
+| [Hindsight](https://github.com/obsidianforensics/hindsight) | Web browser forensics for Google Chrome/Chromium. | ![opensource](icons/opensource.png) |
+
+#### 🔵 Mobile
+
+| Tool | Description | Directory |
+| :------ | :----- | :------ |
+| [Andriller](https://github.com/den4uk/andriller) | Performs read-only, forensically sound, non-destructive acquisition from Android devices. | ![opensource](icons/opensource.png) |
 
 #### 🔵 Operating Systems
 
@@ -125,6 +146,23 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Incident Response
+
+*Platforms for defensive security operations.*
+
+#### 🔵 Management Platform
+
+| Tool | Description | Directory |
+| :------ | :----- | :------ |
+| [FIR](https://github.com/certsocietegenerale/FIR) |  Fast Incident Response allows for easy creation, tracking, and reporting of cybersecurity incidents. | ![opensource](icons/opensource.png) |
+
+
+
+
+
+
+
+
 
 ### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Malware
 
@@ -139,7 +177,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Cape Sandbox](https://capesandbox.com/) | A malware sandbox derived from Cuckoo and is designed to automate the process of malware analysis with the goal of extracting payloads and configuration from malware.| ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
 | [Das Malwerk](https://www.dasmalwerk.eu/) | The daily zip-file aims to serve you a batch of malware ranging from annoying adware to bank trojans and beyond! | ![malware](icons/malware.png) |
 | [Hatching Triage](https://tria.ge/) | A malware sandboxing solution. It leverages a unique architecture, developed with scaling in mind from the start! | ![malware](icons/malware.png) ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
-| Hybrid Analysis</a> | A free malware analysis service for the community. Using this service you can submit files for in-depth static and dynamic analysis.  | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png)|
+| [Hybrid Analysis](https://www.hybrid-analysis.com/) | A free malware analysis service for the community. Using this service you can submit files for in-depth static and dynamic analysis.  | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png)|
 | [InQuest](https://labs.inquest.net/) | A free malware analysis service for the community. Using this service you can submit files for in-depth static and dynamic analysis.  | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
 | [KernelMode.Info](https://www.kernelmode.info/forum/)  | A forum for reverse engineerin, OS internals and malware analysis.  | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
 | [Malshare](https://www.malshare.com/)  | A free Malware repository providing researchers access to samples, malicious feeds, and Yara results.  | ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
@@ -184,9 +222,39 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
+
+
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Phishing
+
+*Tools/Resources for analyzing phishing attacks.*
+
+#### 🔵 Frameworks
+
+| Tool | Description | Directory |
+| :------ | :----- | :------ |
+| [Phishalytics](https://github.com/sjbell/phishalytics) | Collect and analyse large-scale datasets. | ![opensource](icons/opensource.png) |
+| [Phishing Tracker](https://github.com/ndejong/phishing-tracker) | Utility to manage sets of phishing links making it easier to track their removal progress over time. | ![opensource](icons/opensource.png) |
+
+
+
+
+
+
+
+
+
+
+
 ### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Threat Intel
 
 *Discover where the threats begin.*
+
+#### 🔵 Forums
+
+| Organization | Description | Directory |
+| :------ | :----- | :------ |
+| [RAID Forums](https://raidforums.com/Forum-Leaks-Market) | Raid forum known for selling databreach leaks, stolen accounts, etc. | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) |
+
 
 #### 🔵 Frameworks/Platforms
 
@@ -194,6 +262,13 @@ A curated list of many tools and resources for both offensive and defensive secu
 | :------ | :----- | :------ |
 | [ARTIF](https://github.com/CRED-CLUB/ARTIF) | An advanced real time threat intelligence framework to identify threats and malicious web traffic on the basis of IP reputation and historical data. | ![opensource](icons/opensource.png) |
 | [MISP](https://github.com/MISP/MISP) | MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform). | ![opensource](icons/opensource.png) |
+
+#### 🔵 Pastes
+
+| Organization | Description | Directory |
+| :------ | :----- | :------ |
+| [Ghostbin](https://ghostbin.com/) | Ghostbin is a website where you can store and share text online. | N/A |
+| [Pastebin](https://pastebin.com/) | Pastebin is a website where you can store text online for a set period of time. | N/A |
 
 #### 🔵 Ransomware Group Feeds
 
@@ -270,22 +345,57 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 *Tools and resources for pentesting against API endpoints.*
 
-#### 🔴 API Testing & Manipulation Teels
+#### 🔴 Cheetsheets/Checklists
 
 | Tool | Description | Directory |
 | :------ | :----- | :------ | 
+| [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API . | ![opensource](icons/opensource.png) |
+| [GraphQL OWASP](https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html) | OWASP GraphQL cheat sheet. | ![opensource](icons/opensource.png) |
+| [Microservices OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Microservices_security.html) | Microservices Security | ![opensource](icons/opensource.png) |
+| [OWASP API Top 10](https://apisecurity.io/encyclopedia/content/owasp-api-security-top-10-cheat-sheet-a4.pdf) | OWASP API security Top 10. | ![opensource](icons/opensource.png) |
+| [REST Security OWASP](https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html) | OWASP REST security cheat sheet. | ![opensource](icons/opensource.png) |
+| [REST Assessment OWASP](https://cheatsheetseries.owasp.org/cheatsheets/REST_Assessment_Cheat_Sheet.html) | OWASP REST assessment cheat sheet. | ![opensource](icons/opensource.png) |
+| [Web API Pentesting](https://book.hacktricks.xyz/pentesting/pentesting-web/web-api-pentesting) | Web API pentesting GitBook. | ![opensource](icons/opensource.png) |
+
+
+#### 🔴 Documentation
+
+| Tool | Description | Directory |
+| :------ | :----- | :------ | 
+| [MindAPI](https://github.com/dsopas/MindAPI) | Organize your API security assessment by using MindAPI. | ![opensource](icons/opensource.png) |
+
+#### 🔴 Manipulation & Testing
+
+| Tool | Description | Directory |
+| :------ | :----- | :------ | 
+| [Arjun](https://github.com/s0md3v/Arjun) | HTTP parameter discovery suite. | ![opensource](icons/opensource.png) |
+| [Astra](https://github.com/flipkart-incubator/Astra) | Automated Security Testing For REST API's  | ![opensource](icons/opensource.png) |
 | [Apache JMeter](https://jmeter.apache.org/download_jmeter.cgi) | Java application designed to load test functional behavior and measure performance. |  ![opensource](icons/opensource.png) |
+| [Automatic API Attack Tool](https://github.com/imperva/automatic-api-attack-tool) | Imperva's API attack tool takes an API specification as an input, generates and runs attacks that are based on it as an output. |  ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
 | [Burp Suite](https://portswigger.net/burp) | Arm yourself with the leading toolkit for web security testing. Test, find, and exploit vulnerabilities. |  ![freemium-service](icons/freemium-service.png)|
 | [Fiddler Everwhere](https://www.telerik.com/fiddler/fiddler-everywhere) | A web debugging proxy for macOS, Windows, and Linux. Capture, inspect, monitor all HTTP(S) traffic between your computer and the Internet, mock requests, and diagnose network issue. | ![freemium-service](icons/freemium-service.png)|
 | [Hoppscotch](https://github.com/hoppscotch/hoppscotch) | Open source tool that covers the entire testing spectrum (functional, security, load, mocking). | ![opensource](icons/opensource.png) |
 | [HttpMaster](https://www.httpmaster.net/) | Master HTTP testing & debugging. | ![freemium-service](icons/freemium-service.png)|
 | [Insomnia](https://insomnia.rest/) | Quickly and easily send REST, SOAP, GraphQL, and GRPC requests directly within Insomnia. | ![freemium-service](icons/freemium-service.png)![opensource](icons/opensource.png) |
 | [Karate](https://github.com/intuit/karate) | Test automation made simple. | ![opensource](icons/opensource.png) |
+| [Kiterunner](https://github.com/assetnote/kiterunner) |  Contextual Content Discovery Tool. | ![opensource](icons/opensource.png) | 
 | [Postman](https://www.postman.com/) | A collaboration platform for API development. Postman's features simplify each step of building an API and streamline collaboration so you can create better APIs—faster. | ![freemium-service](icons/freemium-service.png)|
 | [SoapUI](https://www.soapui.org/tools/soapui/) | Open source tool that covers the entire testing spectrum (functional, security, load, mocking). | ![opensource](icons/opensource.png) |
 | [Taurus](https://gettaurus.org/) | Taurus improves experience of JMeter, Selenium and others. | ![opensource](icons/opensource.png) |
 | [Test Mace](https://testmace.com/) | A modern powerful crossplatform tool for working with an API and creating automated API tests. |  ![freemium-service](icons/freemium-service.png)![opensource](icons/opensource.png) |
 | [vRESTng](https://vrest.io) | Automate API Requests as Runnable Test Cases, just by providing Request Details. Also, Validate API Responses using Test Case Assertions. |  ![freemium-service](icons/freemium-service.png)|
+
+#### 🔴 Training
+
+| Tool | Description | Directory |
+| :------ | :----- | :------ | 
+| [crAPI](https://github.com/OWASP/crAPI) | Completely ridiculous API (crAPI). | ![opensource](icons/opensource.png) |
+| [Damn Vulnerable GraphQL App](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) | An intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security. | ![opensource](icons/opensource.png) |
+| [DVMS](https://github.com/ne0z/DamnVulnerableMicroServices) | This is vulnerable microservice written in many language to demonstrating OWASP API Top Security Risk. | ![opensource](icons/opensource.png) |
+| [dvws-node](https://github.com/snoopysecurity/dvws-node) | Damn Vulnerable Web Service is a vulnerable web service/API/application that can be used to learn webservices/API vulnerabilities. | ![opensource](icons/opensource.png) |
+| [Kontra](https://application.security/free/owasp-top-10-API) | A series of free interactive application security training modules that teach developers how to identify and mitigate security vulnerabilities in their web API endpoints. | N/A |
+| [VAmPI](https://github.com/erev0s/VAmPI) | Vulnerable REST API with OWASP top 10 vulnerabilities for APIs. | ![opensource](icons/opensource.png) |
+| [vAPI](https://github.com/roottusk/vapi) | Vulnerable Adversely Programmed Interface which is Self-Hostable PHP Interface that mimics OWASP API Top 10 scenarios in the means of Exercises. | ![opensource](icons/opensource.png) |
 
 
 
@@ -299,6 +409,12 @@ A curated list of many tools and resources for both offensive and defensive secu
 ### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Bug Bounty
 
 *Global bug bounty platform, crowdsourced security, & vulnerability disclosure.*
+
+#### 🔴 Cheatsheets/Checklists
+
+| Organization | Description | Directory |
+| :------ | :----- | :-------- |
+| [Bug bounty Roadmaps](https://github.com/1ndianl33t/Bug-Bounty-Roadmaps) | Bug Bounty Roadmaps | ![opensource](icons/opensource.png) |
 
 #### 🔴 Platforms
 
@@ -327,6 +443,43 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Cloud
+
+*Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase.*
+
+#### 🔴 AWS
+
+| Organization | Description | Directory |
+| :------ | :----- | :-------- |
+| [pacu](https://github.com/RhinoSecurityLabs/pacu) | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.  | N/A |
+
+#### 🔴 Docker
+
+| Organization | Description | Directory |
+| :------ | :----- | :-------- |
+| [Dacker Daemon Attack Surface](https://docs.docker.com/engine/security/#docker-daemon-attack-surface) | There are four major areas to consider when reviewing Docker security | N/A |
+
+#### 🔴 GitHub
+
+| Organization | Description | Directory |
+| :------ | :----- | :-------- |
+| [gitleaks](https://github.com/zricethezav/gitleaks) | Scan git repos (or files) for secrets using regex and entropy. | ![opensource](icons/opensource.png) |
+| [gitrob](https://github.com/michenriksen/gitrob) | Reconnaissance tool for GitHub organizations  | ![archive](icons/archive.png) ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
+| [GitRoller](https://github.com/mansoorr123/GitRoller) |  GitRoller: A Git Recon Tools  | ![opensource](icons/opensource.png) |
+| [go-gitaudit](https://github.com/r-pai/go-gitaudit) | Git audit is a go package which can be used to audit git repository to find issues.  | ![opensource](icons/opensource.png) |
+| [shhgit](https://github.com/eth0izzle/shhgit) | Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories. | ![opensource](icons/opensource.png) |
+| [truffleHog](https://github.com/trufflesecurity/truffleHog) | Searches through git repositories for high entropy strings and secrets, digging deep into commit history. | ![opensource](icons/opensource.png) |
+| [Yar](https://github.com/nielsing/yar) | Yar is a tool for plunderin' organizations, users and/or repositories. | ![opensource](icons/opensource.png) |
+
+
+
+
+
+
+
+
+
+
 ### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Courses
 
 *Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase.*
@@ -335,6 +488,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 | Organization | Description | Directory |
 | :------ | :----- | :-------- |
+| [AQ Answers](https://answersq.com/) | Daily updates on free courses, workshopd, interships, and jobs. | N/A |
 | [Bug Bounty Hunter](https://www.bugbountyhunter.com/) | Helping you connect the bug to bounty. | ![register-profile](icons/register-profile.png) |
 | [Cybrary](https://www.cybrary.it/) | The leading cybersecurity professional development platform. | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) |
 | [eLearn Security](https://elearnsecurity.com/) | Infosec careers are heating up and candidates are doing everything they can to stand out. | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
@@ -408,6 +562,8 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
+
+
 ### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Exploits
 
 *Gather all your exploits needed to pop that box.*
@@ -416,10 +572,15 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 | Organization | Description | Directory |
 | :------ | :----- | :---- |
-| [0-Day Today](https://0day.today/)  [[TOR](https://curaj33verawgaddbsdsrzc5krmopfyqnei66io5ldhqwdiqukt4vcyd.onion/)] | The ultimate database of exploits and vulnerabilties and a great resource for researchers. Private exploits, and 0-Days are sold here. | ![freemium-service](icons/freemium-service.png)![malware](icons/malware.png) | Freemium - Tool/Resource is free but offers premium plan/upgrade of service. |
+| [0-Day Today](https://0day.today/)  [[TOR](https://curaj33verawgaddbsdsrzc5krmopfyqnei66io5ldhqwdiqukt4vcyd.onion/)] | The ultimate database of exploits and vulnerabilties and a great resource for researchers. Private exploits, and 0-Days are sold here. | ![freemium-service](icons/freemium-service.png)![malware](icons/malware.png) |
+| [Android Kernel](https://github.com/SecWiki/android-kernel-exploits) | Android Kernel Exploits | ![no-recent-update](icons/no-recent-update.png) |
 | [Exploit Database](https://www.exploit-db.com/)  | The Exploit Database is maintained by Offensive Security, an information security training company. | ![recommended-resource](icons/recommended-resource.png) ![malware](icons/malware.png) ![opensource](icons/opensource.png) |
+| [Linux Kernel](https://github.com/SecWiki/linux-kernel-exploits) | Linux kernel exploits. | ![no-recent-update](icons/no-recent-update.png) |
 | [NIST NVD](https://nvd.nist.gov/vuln/search?execution=e2s1) | The National Institute of Standards and Technology. U.S. Department of Commerce | N/A |
+| [MacOS Kernel](https://github.com/SecWiki/macos-kernel-exploits) | MacOS Kernel Exploits | ![no-recent-update](icons/no-recent-update.png) |
 | [Security Focus](https://www.securityfocus.com/vulnerabilities) | From original news content to detailed technical papers and guest columnists, Security Focus is a great resource for all things security related. | N/A |
+| [Windows Kernel](https://github.com/SecWiki/windows-kernel-exploits) | Windows Kernel Exploits | N/A |
+| [Windows Rootkits](https://github.com/LycorisGuard/Windows-Rootkits) | Windows Rootkits | N/A |
 
 
 
@@ -433,6 +594,12 @@ A curated list of many tools and resources for both offensive and defensive secu
 ### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Hardware
 
 *Grab some of the most used hardware within the penetration testing industry.*
+
+#### 🔴 Blogs
+
+| Organization | Description | Directory |
+| :------ | :----- | :------ |
+| [MG.LOL](https://mg.lol/blog/) | Hardware security research. | N/A |
 
 #### 🔴 Equipment
 
@@ -457,6 +624,31 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Hacker Gadgets](https://hacker-gadgets.com/) | One-stop warehouse, for the best Hacking Gadgets, Pentesting Equipment, Hacker Hardware Tools and everyday Swag. | ![paid-product](icons/paid-product.png) |
 | [Hacker Warehouse](https://hackerwarehouse.com/) | Your one-stop shop for all your computer security needs from defense to offense. | ![paid-product](icons/paid-product.png) |
 | [Hak5](https://shop.hak5.org/) | Pentest tools for authorized auditing/security analysis only where permitted. | ![paid-product](icons/paid-product.png) |
+
+
+
+
+
+
+
+
+
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Linux
+
+*Tools and resources for pentesting on linux environments.*
+
+#### 🔴 Cheatsheets
+
+| Tool | Description | Directory |
+| :------ | :----- | :----- |
+| [GTFOBins](https://gtfobins.github.io/) | A curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems. | ![opensource](icons/opensource.png) |
+
+#### 🔴 Post Exploitation
+
+| Tool | Description | Directory |
+| :------ | :----- | :----- |
+| [EggShell](https://github.com/neoneggplant/EggShell) | iOS/macOS/Linux Remote Administration Tool.  | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
+| [Mimipenguin](https://github.com/huntergregal/mimipenguin) | A tool to dump the login password from the current linux user. | ![opensource](icons/opensource.png) |
 
 
 
@@ -565,6 +757,11 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Oversecured](https://oversecured.com/) | Android mobile app analyzer vulnerability scanner, designed for DevOps process integration. | ![freemium-service](icons/freemium-service.png) |
 | [Quixxi](https://quixxisecurity.com/) | An intelligent and integrated end-to-end mobile app security solution. | ![freemium-service](icons/freemium-service.png) |
 
+#### 🔴 Post Exploitation
+
+| Tool | Description | Directory |
+| :------ | :----- | :----- |
+| [EggShell](https://github.com/neoneggplant/EggShell) | iOS/macOS/Linux Remote Administration Tool.  | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
 
 #### 🔴 Static Analysis
 
@@ -627,6 +824,9 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
+
+
+
 ### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Network
 
 *Below are some of the most common hardware pieces owned by most security researchers.*
@@ -650,9 +850,14 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 | Tool | Description | Directory |
 | :----- | :----- | :----- |
+| [dpkt](https://github.com/kbandla/dpkt) | Fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols. | ![opensource](icons/opensource.png) |
 | [Ghost Phisher](https://github.com/savio-code/ghost-phisher) | A Wireless and Ethernet security auditing and attack software | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
+| [Impacket](https://github.com/SecureAuthCorp/impacket) | Impacket is a collection of Python classes for working with network protocols. | ![opensource](icons/opensource.png) |
+| [Libdnet](https://github.com/ofalk/libdnet) | Provides a simplified, portable interface to several low-level networking routines. | ![opensource](icons/opensource.png) |
+| [Scapy](https://github.com/secdev/scapy) | Python-based interactive packet manipulation program & library. | ![opensource](icons/opensource.png) |
 
-#### 🔴 Port Scanning
+
+#### 🔴 Port/Network Scanning
 
 | Tool | Description | Directory |
 | :----- | :----- | :----- |
@@ -680,6 +885,25 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 *Understand your target. Perform in-depth research and discover new attack surfaces.*
 
+#### 🔴 Content Discovery
+
+| Organization | Description | Directory |
+| :------ | :------ | :-------- |
+| [content-discovery](https://github.com/eauxfolles/content-discovery) | Tool to support with "Content Discovery" during mapping of a web applications/sites. | ![opensource](icons/opensource.png) |
+| [dirble](https://github.com/nccgroup/dirble) | Fast directory scanning and scraping tool. | ![opensource](icons/opensource.png) |
+| [DirBuster](https://github.com/KajanM/DirBuster) | a multi threaded java application designed to brute force directories and files names on web/application servers. | ![opensource](icons/opensource.png) |
+| [dirsearch](https://github.com/maurosoria/dirsearch) | Web path scanner. | ![opensource](icons/opensource.png) |
+| [Forexbuster](https://github.com/epi052/feroxbuster) | A fast, simple, recursive content discovery tool written in Rust. | ![opensource](icons/opensource.png) |
+| [ffuf](https://github.com/ffuf/ffuf) | Fast web fuzzer written in Go. | ![opensource](icons/opensource.png) |
+| [GoBuster](https://github.com/OJ/gobuster) | Directory/File, DNS and VHost busting tool written in Go. | ![opensource](icons/opensource.png) |
+| [Kiterunner](https://github.com/assetnote/kiterunner) | Contextual Content Discovery Tool. | ![opensource](icons/opensource.png) |
+| [LinkFinder](https://github.com/GerbenJavado/LinkFinder) | A python script that finds endpoints in JavaScript files. | ![opensource](icons/opensource.png) |
+| [ParamSpider](https://github.com/devanshbatham/ParamSpider) | Mining parameters from dark corners of Web Archives. | ![opensource](icons/opensource.png) |
+| [Raccoon](https://github.com/evyatarmeged/Raccoon) | A high performance offensive security tool for reconnaissance and vulnerability scanning. | ![opensource](icons/opensource.png) |
+| [RecurseBuster](https://github.com/C-Sto/recursebuster) | Rapid content discovery tool for recursively querying webservers. | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
+| [Scilla](https://github.com/edoardottt/scilla) | Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration. | ![opensource](icons/opensource.png) |
+| [x8](https://github.com/Sh1Yo/x8) | Hidden parameters discovery suite written in Rust. | ![opensource](icons/opensource.png) |
+
 
 #### 🔴 DNS
 
@@ -691,6 +915,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [dnsX](https://github.com/projectdiscovery/dnsx) | Fast and multi-purpose DNS toolkit allow to run multiple DNS queries. | ![opensource](icons/opensource.png) |
 | [Fierce](https://github.com/mschwager/fierce) |  A DNS reconnaissance tool for locating non-contiguous IP space. | ![opensource](icons/opensource.png) |
 | [MassDNS](https://github.com/blechschmidt/massdns) | A high-performance DNS stub resolver for bulk lookups and reconnaissance | ![opensource](icons/opensource.png) |
+| [Raccoon](https://github.com/evyatarmeged/Raccoon) | A high performance offensive security tool for reconnaissance and vulnerability scanning. | ![opensource](icons/opensource.png) |
 | [SubBrute](https://github.com/TheRook/subbrute) | A DNS meta-query spider that enumerates DNS records, and subdomains. | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
 
 #### 🔴 Domains
@@ -708,15 +933,25 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Knock](https://github.com/guelfoweb/knock) | Knock Subdomain Scan. | ![opensource](icons/opensource.png) |
 | [OneForAll](https://github.com/shmilylty/OneForAll) | A powerful subdomain integration tool | ![opensource](icons/opensource.png) |
 | [PD Actions](https://github.com/projectdiscovery/pd-actions) | Continous reconnaissance and vuln assesment using Github Actions | ![opensource](icons/opensource.png) |
+| [Raccoon](https://github.com/evyatarmeged/Raccoon) | A high performance offensive security tool for reconnaissance and vulnerability scanning. | ![opensource](icons/opensource.png) |
 | [Robtex](https://www.robtex.com/) | Robtex is used for various kinds of research of IP numbers, Domain names, etc. | N/A |
+| [Scilla](https://github.com/edoardottt/scilla) | Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration. | ![opensource](icons/opensource.png) |
+| [sigurlfind3r](https://github.com/signedsecurity/sigurlfind3r) | A reconnaissance tool, it fetches URLs from AlienVault's OTX, Common Crawl, URLScan, Github and the Wayback Machine. | ![opensource](icons/opensource.png) |
 | [subfinder](https://github.com/projectdiscovery/subfinder) | Fast passive subdomian enumeration tool | ![opensource](icons/opensource.png) |
 | [sublist3r](https://github.com/aboul3la/Sublist3r) |  Fast subdomains enumeration tool for penetration testers. | ![opensource](icons/opensource.png) |
 | [Turbolist3r](https://github.com/aboul3la/Sublist3r) | Subdomain enumeration tool with analysis features for discovered domains. | ![opensource](icons/opensource.png) |
+
+#### 🔴 Dorking
+
+| Tool | Description | Directory |
+| :------ | :------ |  :------- |
+| [Dorkbot](https://github.com/utiso/dorkbot) |  Command line dorking tool | ![opensource](icons/opensource.png) |
 
 #### 🔴 Frameworks
 
 | Organization | Description | Directory |
 | :------ | :------ | :-------- |
+| [Osmedeus](https://github.com/j3ssie/Osmedeus) | Fully automated offensive security framework for reconnaissance and vulnerability scanning. | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) ![opensource](icons/opensource.png) |
 | [sn1per](https://github.com/1N3/Sn1per) | Discover the attack surface and prioritize risks with our continuous Attack Surface Management. | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) ![opensource](icons/opensource.png) |
 
 #### 🔴 Search Engines
@@ -732,13 +967,13 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Shodan](https://shodan.io) | The security search engine. Search everything IoT | ![freemium-service](icons/freemium-service.png)|
 | [Wayback Machine](https://archive.org/web/web.php) | Internet archive of saved web pages | N/A |
 
-#### 🔴 Dorking
+#### 🔴 Wordlists
 
 | Tool | Description | Directory |
 | :------ | :------ |  :------- |
-| [Dorkbot](https://github.com/utiso/dorkbot) |  Command line dorking tool | ![opensource](icons/opensource.png) |
-
-
+| [API Endpoints & Objects](https://gist.github.com/yassineaboukir/8e12adefbd505ef704674ad6ad48743d) | A list of 3203 common API endpoints and objects designed for fuzzing. | ![opensource](icons/opensource.png) |
+| [Funny Fuzzing Wordlist](https://github.com/koaj/ffw-content-discovery) | Funny Fuzzing Wordlist. | ![opensource](icons/opensource.png) |
+| [SecLists](https://github.com/danielmiessler/SecLists) | A collection of multiple types of lists used during security assessments, collected in one place. | ![opensource](icons/opensource.png) |
 
 
 
@@ -784,6 +1019,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
+
 ### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Vulnerability Scanners
 
 *Discover vulnerabilities fast, and automate some of the heavy loads.*
@@ -805,6 +1041,102 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [ZAP](https://www.zaproxy.org/) | World's most widely used web app scanner. | ![opensource](icons/opensource.png) |
 
 
+
+
+
+
+
+
+
+
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Windows
+
+*Microsoft Windows pentesting tools/resouces.*
+
+#### 🔴 Active Directory 
+
+| Tool | Descrption | Directory |
+| :----- | :----- | :------- |
+| [BloodHound](https://github.com/BloodHoundAD/BloodHound) |  Six Degrees of Domain Admin. | ![opensource](icons/opensource.png) |
+| [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) | A swiss army knife for pentesting networks. | ![opensource](icons/opensource.png) |
+
+#### 🔴 Bitlocker
+
+| Tool | Descrption | Directory |
+| :----- | :----- | :------- |
+| [Bitleaker](https://github.com/kkamagui/bitleaker) | This tool can decrypt a BitLocker-locked partition with the TPM vulnerability. | ![opensource](icons/opensource.png) |
+
+#### 🔴 Cheatsheets
+
+| Tool | Description | Directory |
+| :------ | :----- | :----- |
+| [LOLBAS](https://lolbas-project.github.io/#) | Living Off The Land Binaries and Scripts. | ![opensource](icons/opensource.png) |
+
+#### 🔴 Kerberos
+
+| Tool | Descrption | Directory |
+| :----- | :----- | :------- |
+| [Kerberoast](https://github.com/nidem/kerberoast) | A series of tools for attacking MS Kerberos implementations. | ![opensource](icons/opensource.png) |
+| [Pykek](https://github.com/mubix/pykek) | A python library to manipulate KRB5-related data. | ![opensource](icons/opensource.png) |
+| [Rubeus](https://github.com/GhostPack/Rubeus) | A C# toolset for raw Kerberos interaction and abuses. | ![opensource](icons/opensource.png) |
+
+
+#### 🔴 Memory
+
+| Tool | Descrption | Directory |
+| :----- | :----- | :------- |
+| [Blackbone](https://github.com/DarthTon/Blackbone) |  DLL scatter manual mapper. | ![opensource](icons/opensource.png) |
+
+#### 🔴 Post Exploitation
+
+| Tool | Descrption | Directory |
+| :----- | :----- | :------- |
+| [Mimikatz](https://github.com/gentilkiwi/mimikatz) | Experiments with Windows security. | ![opensource](icons/opensource.png) |
+
+#### 🔴 Powershell
+
+| Tool | Descrption | Directory |
+| :----- | :----- | :------- |
+| [Pentestly](https://github.com/praetorian-inc/pentestly) | Python and Powershell internal penetration testing framework  | ![opensource](icons/opensource.png) |
+| [Powershell Suite](https://github.com/FuzzySecurity/PowerShell-Suite) | A collection of PowerShell utilities. | ![opensource](icons/opensource.png) |
+
+
+#### 🔴 RDP
+
+| Tool | Descrption | Directory |
+| :----- | :----- | :------- |
+| [SharpRDP](https://github.com/0xthirteen/SharpRDP) | Remote Desktop Protocol .NET Console Application for Authenticated Command Execution. | ![opensource](icons/opensource.png) |
+
+#### 🔴 Scripts
+
+| Tool | Descrption | Directory |
+| :----- | :----- | :------- |
+| [LOLBAS](https://lolbas-project.github.io/#) | Living Off The Land Binaries and Scripts | ![opensource](icons/opensource.png) |
+| [Windows-Pentest](https://github.com/ankh2054/windows-pentest) | Windows Pentest Scripts  | ![opensource](icons/opensource.png) |
+
+
+
+
+
+
+
+
+
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Web Application
+
+*Discover tools and resources for exploiting Wi-Fi, bluetooth, RFID, and more.*
+
+#### 🔴 Cross-Site Scripting
+
+| Tool | Descrption | Directory |
+| :----- | :----- | :------- |
+| [XSS'OR](https://github.com/evilcos/xssor2) | XSS'OR - Hack with JavaScript. | ![opensource](icons/opensource.png) |
+
+#### 🔴 Protocols
+
+| Tool | Descrption | Directory |
+| :----- | :----- | :------- |
+| [http-request-smuggling](https://github.com/anshumanpattnaik/http-request-smuggling) | HTTP Request Smuggling Detection Tool. | ![opensource](icons/opensource.png) |
 
 
 
@@ -846,7 +1178,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) OPERATION SECURITY
+## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Operation Security
 
 *Watch your tracks you leave across the internet. Up your operation security (OpSec) and don't get caught slipping.*
 
@@ -972,9 +1304,49 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 
 
-## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Purple Teaming
+## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Purple Security
 
 *Resources/Tools utilized by both red/blue teams.*
+
+
+
+
+
+
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Purple Frameworks
+
+*Various frameworks for purple teaming operations.*
+
+
+#### 🟣 Adversary
+
+| Organization | Description | Directory |
+| :------ | :------ | :-------- |
+| [Al-Khaser](https://github.com/LordNoteworthy/al-khaser) | Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection. | ![opensource](icons/opensource.png) |
+| [DumpsterFire](https://github.com/BishopFox/sliver) | A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. | ![opensource](icons/opensource.png) |
+| [Silver](https://github.com/BishopFox/sliver) | Adversary Emulation Framework. | ![opensource](icons/opensource.png) |
+
+
+
+
+
+
+
+
+
+
+
+
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Network
+
+*Network tools both offensive and defensive operations can utilize.*
+
+#### 🟣 Analysis
+
+| Organization | Description | Directory |
+| :------ | :------ | :-------- |
+| [ngrep](https://github.com/jpr5/ngrep/) | A PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. | ![opensource](icons/opensource.png) |
+
 
 
 
@@ -985,6 +1357,8 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 
 ### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) OSINT
+
+*Open-Source Intel. Get all the information needed for your target.*
 
 #### 🟣 Business
 
@@ -1005,6 +1379,21 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 | [Leaked source](https://www.leakedsource.ru/) | Leaked Source is a collaboration of data found online in the form of a lookup. |  ![legal](icons/legal.png) |
 | [Snusbase](https://www.snusbase.com/) | Snusbase indexes information from websites that have been hacked and had their database leaked. |  ![legal](icons/legal.png) |
 | [WeLeakInfo V2 (Un-confirmed official site)](https://weleakinfo.to/) | Another Indexed databreach website. Proceed with caution as this is a reboot version. |  ![legal](icons/legal.png) |
+
+#### 🟣 E-Mail
+
+| Tool | Description | Directory |
+| :------ | :----- | :------ |
+| [Holehe](https://github.com/megadose/holehe) | Allows you to check if the email is used on different sites and will retrieve information on sites with the forgotten password function.  | ![opensource](icons/opensource.png) |
+
+#### 🟣 Frameworks/Platforms
+
+| Tool | Description | Directory |
+| :------ | :----- | :------ |
+| [OpenCTI](https://github.com/OpenCTI-Platform/opencti) | Open Cyber Threat Intelligence Platform. | ![opensource](icons/opensource.png) |
+| [OSweep](https://github.com/ecstatic-nobel/OSweep) | Don't Just Search OSINT. Sweep It. | ![opensource](icons/opensource.png) |
+| [QueryTool](https://github.com/oryon-osint/querytool) | Querytool is an OSINT framework based on Google Spreadsheets. | ![opensource](icons/opensource.png) |
+
 
 #### 🟣 People
 
@@ -1053,12 +1442,14 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 #### 🟣 Phone Numbers
 
-| Organization | Record Opt-Out/Removal | Directory |
-| :------ | :----- | :----- |
-| [Telephone Directories](https://Telephonedirectories.us) | [Link](https://www.telephonedirectories.us/Edit_Records) | N/A |
-| [Caller Smart](https://Callersmart.com) | [Link](https://www.callersmart.com/opt-out) | ![register-profile](icons/register-profile.png) |
-| [All Area Codes](https://Allareacodes.com/) | [Link](https://www.allareacodes.com/remove_name.htm) | N/A | 
-| [People by Name](https://Peoplebyname.com/) | [Link](http://www.peoplebyname.com/remove.php) | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+| Organization/Tool | Description | Record Opt-Out/Removal | Directory |
+| :------ | :----- | :----- | :----- |
+| [Telephone Directories](https://Telephonedirectories.us) | Phone number directoy lookup | [Link](https://www.telephonedirectories.us/Edit_Records) | N/A |
+| [Caller Smart](https://Callersmart.com) | Phone number directoy lookup | [Link](https://www.callersmart.com/opt-out) | ![register-profile](icons/register-profile.png) |
+| [All Area Codes](https://Allareacodes.com/) | Phone number directoy lookup |  [Link](https://www.allareacodes.com/remove_name.htm) | N/A | 
+| [People by Name](https://Peoplebyname.com/) | Phone number directoy lookup |  [Link](http://www.peoplebyname.com/remove.php) | ![paid-product](icons/paid-product.png) ![register-profile](icons/register-profile.png) |
+| [PhoneInfoga](https://Peoplebyname.com/) | Advanced information gathering & OSINT framework for phone numbers | N/A | ![opensource](icons/opensource.png) |
+
 
 #### 🟣 Physical Address
 
@@ -1073,7 +1464,9 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 | [GeoSocial Footprint](http://geosocialfootprint.com/) | Provides twitter users with an opportunity to view their geosocial footprint. | N/A |
 | [One Million Tweet Map](https://onemilliontweetmap.com/) | Displays last 24h geolocalized tweets delivered. Real Time. | N/A |
 | [Sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username. | ![opensource](icons/opensource.png) |
+| [Social Analyzer](https://github.com/qeeqbox/social-analyzer) | API, CLI & Web App for analyzing & finding a person's profile across +800 social media. | ![opensource](icons/opensource.png) |
 | [Social Searcher](https://www.social-searcher.com/) | Social Media Search Engine. | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [Toutatis](https://github.com/megadose/toutatis) | a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more. | ![opensource](icons/opensource.png) |
 | [WhatsMyName](https://github.com/webbreacher/whatsmyname) | Unified data required to perform user and username enumeration on various websites | ![opensource](icons/opensource.png) | 
 
 
@@ -1084,9 +1477,53 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 
 
-## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) XTRAS
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Reverse Engineering
+
+*Reverse engineering tools both offensive and defensive operations can utilize.*
+
+#### 🟣 Mobile
+
+| Tool | Descrption | Directory |
+| :----- | :----- | :------- |
+| [Quark](https://github.com/quark-engine/quark-engine) | Android Malware Analysis/Scoring System  | ![freemium-service](icons/freemium-service.png) |
+
+
+#### 🟣 Tools
+
+| Tool | Descrption | Directory |
+| :----- | :----- | :------- |
+| [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework. | ![opensource](icons/opensource.png) |
+| [IDA Pro](https://hex-rays.com/) | State of the art binary code analysis. | ![freemium-service](icons/freemium-service.png) |
+
+#### 🟣 Videos
+
+| Resource | Descrption | Directory |
+| :----- | :----- | :------- |
+| [Ghidra Class - HackadayU](https://www.youtube.com/watch?v=d4Pgi5XML8E) | This is Class 1 in Reverse Engineering with Ghidra taught by Matthew Alt. | N/A |
+
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Write-Ups
+
+*Write-ups both offensive and defensive operataions can utilize.*
+
+#### 🟣 Documents
+
+| Organization | Description | Directory |
+| :------ | :------ | :-------- |
+| [Cybercrime Campaign Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) | APT & CyberCriminal Campaign Collection. | ![opensource](icons/opensource.png) |
+
+
+
+
+
+
+
+
+
+
+## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Xtras
 
 *Some extra content. Infosec related of course.*
+
 
 
 
@@ -1114,8 +1551,8 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 
 
-## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) GR33TZ
+## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Thanks
 
-*Shoutouts and gr33tz to the following amazing individuals for suggesting and adding resources!*
+*Shoutouts to the following amazing individuals for suggesting and adding resources!*
 
-[theGwar](https://www.twitch.tv/thegwar), [footpics4sale](https://www.twitch.tv/footpics4sale), and [chadb_n00b](https://www.twitch.tv/chadb_n00b)
+[chadb_n00b](https://www.twitch.tv/chadb_n00b), [EightBitOni](https://www.twitch.tv/eightbitoni/), [footpics4sale](https://www.twitch.tv/footpics4sale), [theGwar](https://www.twitch.tv/thegwar).
