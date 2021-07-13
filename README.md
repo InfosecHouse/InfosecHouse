@@ -1,7 +1,21 @@
-<center><img src="icons/INFOSEC-HOUSE-LOGO.png" width="350"></center> 
-
-
-# 🏛 INFOSEC HOUSE 🏛
+<p align="center">
+  <a href="https://github.com/infosechouse/infosechouse">
+    <img src="https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/img/infosechouse-banner.png">
+  </a>
+</p>
+<h3 align="center">Infosec resource center for offensive and defensive security operations.</h4>
+<br>
+<p align="center">
+  <a href="https://twitter.com/infosechouse" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/infosechouse.svg?logo=twitter">
+  </a>
+</p>
+<div align="center">
+  <sub>Created by
+  <a href="https://twitter.com/m4giktrick">m4giktrick</a>
+</div>
+<br>
+<br>
 
 A curated list of many tools and resources for both offensive and defensive security teams. Please visit [https://infosec.house/](https://infosec.house/) for our website version of this repo. Found a resources that should be on here? Feel free to submit a pull request or drop it in our [Discord](https://discord.gg/FWe9bjDBfY) server.
 
@@ -20,7 +34,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 ## Contents
 
 - [Icon Directory](#-icon-directory)
-- [Defensive Security](https://github.com/InfosecHouse/InfosecHouse#defensive-security)
+- [Defensive Security](https://github.com/InfosecHouse/InfosecHouse-Dev#defensive-security)
     - [Incident Response](#-incident-response)
     - [Forensics](#-forensics)
     - [Malware](#-malware)
@@ -48,13 +62,14 @@ A curated list of many tools and resources for both offensive and defensive secu
     - [Anonymity](#-anonymity)
     - [Communication](#-communication)
 - [Purple Security](#-purple-security)
+    - [Editors & Viewers](#-editor-and-viewers)
     - [Purple Frameworks](#-purple-frameworks)
     - [OSINT](#-osint)
     - [Reverse Engineering](#-reverse-engineering)
     - [Write-Ups](#-write-ups)
 - [Xtras](#-xtras)
     - [Video](#-video)
-- [GR33TZ](#-gr33tz)
+- [Thanks](#-thanks)
 
 
 
@@ -89,7 +104,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
-
+***
 
 
 
@@ -327,6 +342,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
+***
 
 ## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Offensive Security
 
@@ -396,6 +412,62 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Kontra](https://application.security/free/owasp-top-10-API) | A series of free interactive application security training modules that teach developers how to identify and mitigate security vulnerabilities in their web API endpoints. | N/A |
 | [VAmPI](https://github.com/erev0s/VAmPI) | Vulnerable REST API with OWASP top 10 vulnerabilities for APIs. | ![opensource](icons/opensource.png) |
 | [vAPI](https://github.com/roottusk/vapi) | Vulnerable Adversely Programmed Interface which is Self-Hostable PHP Interface that mimics OWASP API Top 10 scenarios in the means of Exercises. | ![opensource](icons/opensource.png) |
+
+
+
+
+
+
+
+
+
+
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Blogs
+
+*Reading material for offensive security researchers.*
+
+#### 🔴 Corporate
+
+| Organization | Description | Directory |
+| :------ | :----- | :------ |
+| [Not so Secure](https://notsosecure.com/blog/) | Mix of research | N/A |
+| [Orange Cyberdefense](https://sensepost.com/blog/) | Mix of research | N/A |
+| [Security Weekly](https://securityweekly.com/blog/) | Mix of research | N/A |
+| [Trustwave](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/) | Mix of research | N/A |
+
+
+#### 🔴 Personal
+
+| Organization | Description | Directory |
+| :------ | :----- | :------ |
+| [Archangel Amael](http://archangelamael.blogspot.com/) | Mix of research | N/A |
+| [Attack and Defense](https://blog.carnal0wnage.com/) | Mix of research | N/A |
+| [carnal0wnage](https://blog.carnal0wnage.com/) | CVE research. | N/A |
+| [Ch3rn0byl](https://ch3rn0byl.com/) | CVE research. | N/A |
+| [Coldwind](https://gynvael.coldwind.pl/?blog=1&lang=en) | Mix of research | N/A |
+| [Corelan](https://www.corelan.be/) | Mix of research | N/A |
+| [Darknet.org.uk](https://www.darknet.org.uk/) | Mix of research. | N/A |
+| [Digi Ninja](https://digi.ninja/blog.php) | Mix of research | N/A |
+| [GnuCitizen](https://www.gnucitizen.org/) | Mix of research | N/A |
+| [Hacking & Security](https://hackingandsecurity.blogspot.com/) | Mix of research | N/A |
+| [ihazomgsecurityskills](http://ihazomgsecurityskillz.blogspot.com/) | Mix of research | N/A |
+| [Mad Irish](https://www.madirish.net/) | Mix of research | N/A |
+| [Memset](https://memset.wordpress.com/) | Mix of research | N/A |
+| [MG.LOL](https://mg.lol/blog/) | Hardware security research. | N/A |
+| [Myne-us](http://www.myne-us.com/) | Hardware security research. | N/A |
+| [Pentest Blog](https://pentest.blog/) | Mix of research. Vulnerability research team of PRODAFT SARL | N/A |
+| [Question Defense](https://www.question-defense.com/) | Mix of research | N/A | 
+| [Reusable Security](https://reusablesec.blogspot.com/) | Password Cracking, Crypto, and General Security Research. | N/A |
+| [Security Reliks](https://securityreliks.wordpress.com/) | Mix of research | N/A |
+| [Security Sift](https://9emin1.github.io/pages/) | CTF Write-ups/Windows Research | N/A |
+| [Sirdarckcat](http://sirdarckcat.blogspot.com/) | Web App and Mix of research | N/A |
+| [Spy Logic](https://www.spylogic.net/) | Mix of research | N/A |
+| [Strolling Infosec](https://9emin1.github.io/pages/) | Mix of research | N/A |
+| [Weapons of Mass Analysis](http://wepma.blogspot.com/) | Mix of research | N/A |
+| [Wirewatcher](https://wirewatcher.wordpress.com/) | Mix of research | N/A |
+
+
+
 
 
 
@@ -545,9 +617,16 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 | Organization | Description | Directory |
 | :------ | :----- | :----- |
+| [Crackmes](https://crackm.es) | A place where you can download crackmes to improve your reverse engineering skills. | ![register-profile](icons/register-profile.png) |
 | [Cryptohack](https://cryptohack.org/) | A fun free platform for learning modern cryptography. | ![register-profile](icons/register-profile.png) |
+| [CTF Challenge](https://ctflearn.com/) | Collection of 12 vulnerable web applications, each one has its own realistic infrastructure built over several subdomains containing vulnerabilities. | ![register-profile](icons/register-profile.png) |
+| [CTFLearn](https://ctflearn.com/) | Learn cybersecurity the most beginner-friendly way to get into hacking. | ![register-profile](icons/register-profile.png) |
+| [DomGoat](https://domgo.at/cxss/intro) | DOM security learning platform | N/A |
 | [Hack The Box](https://www.hackthebox.eu/) | Massive online cyber security training platform, allowing individuals, companies, universities and all kinds of organizations around the world to level up their hacking skills. | ![freemium-service](icons/freemium-service.png)![register-profile](icons/register-profile.png) |
+| [pwnable.tw](http://pwnable.tw) | Pwnable.tw is a wargame site for hackers to test and expand their binary exploiting skills. | ![register-profile](icons/register-profile.png) |
+| [pwnable.kr](http://pwnable.kr) | A non-commercial wargame site which provides various pwn challenges regarding system exploitation. | ![register-profile](icons/register-profile.png) |
 | [Try Hack Me (King of the Hill)](https://tryhackme.com/games/koth) | Making it easier to break into security, all through your browswer. | ![register-profile](icons/register-profile.png) |
+
 
 #### 🔴 Seasonal
 
@@ -595,11 +674,6 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 *Grab some of the most used hardware within the penetration testing industry.*
 
-#### 🔴 Blogs
-
-| Organization | Description | Directory |
-| :------ | :----- | :------ |
-| [MG.LOL](https://mg.lol/blog/) | Hardware security research. | N/A |
 
 #### 🔴 Equipment
 
@@ -1177,6 +1251,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
+***
 
 ## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Operation Security
 
@@ -1303,6 +1378,7 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 
 
+***
 
 ## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Purple Security
 
@@ -1313,10 +1389,16 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 
 
-### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Purple Frameworks
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Editors and Viewers
 
-*Various frameworks for purple teaming operations.*
+*Tools for editing/viewing files.*
 
+#### 🟣 Hex
+
+| Tool | Descrption | Directory |
+| :----- | :----- | :------- |
+| [Hexed.it](https://hexed.it/) | Browser based online and offline hex editing. | N/A |
+| [Hexyl](https://github.com/sharkdp/hexyl) | A command-line hex viewer  | ![opensource](icons/opensource.png) |
 
 #### 🟣 Adversary
 
@@ -1513,7 +1595,7 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 
 
-
+***
 
 
 
@@ -1523,7 +1605,6 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 ## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Xtras
 
 *Some extra content. Infosec related of course.*
-
 
 
 
@@ -1553,6 +1634,6 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 ## [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Thanks
 
-*Shoutouts to the following amazing individuals for suggesting and adding resources!*
+*Shoutout to the following amazing individuals for suggesting and adding resources!*
 
 [chadb_n00b](https://www.twitch.tv/chadb_n00b), [EightBitOni](https://www.twitch.tv/eightbitoni/), [footpics4sale](https://www.twitch.tv/footpics4sale), [theGwar](https://www.twitch.tv/thegwar).
