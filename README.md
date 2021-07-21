@@ -35,9 +35,13 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 - [Icon Directory](#-icon-directory)
 - [Defensive Security](https://github.com/InfosecHouse/InfosecHouse-Dev#defensive-security)
-    - [Incident Response](#-incident-response)
+    - [Asset Management](#-asset-management)
     - [Forensics](#-forensics)
+    - [IDS/IPS](#-ids-ips)
+    - [Incident Response](#-incident-response)
+    - [IOC](#-ioc)
     - [Malware](#-malware)
+    - [Monitoring](#-monitoring)
     - [Phishing](#-phishing)
     - [Threat Intel](#-threat-intel)
 - [Offensive Security](#-offensive-security)
@@ -120,6 +124,22 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Asset Management
+
+*Keep track of your inventory*
+
+#### 🔵 Endpoint Visibility
+
+| Tool | Description | Directory |
+| :------ | :----- | :------ |
+| [LANSweeper](https://www.lansweeper.com/) | Build centralized IT asset inventory. | ![freemium-service](icons/freemium-service.png )![opensource](icons/opensource.png) |
+
+
+
+
+
+
+
 
 
 ### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Forensics
@@ -132,6 +152,15 @@ A curated list of many tools and resources for both offensive and defensive secu
 | :------ | :----- | :------ |
 | [Hindsight](https://github.com/obsidianforensics/hindsight) | Web browser forensics for Google Chrome/Chromium. | ![opensource](icons/opensource.png) |
 
+#### 🔵 ISO's
+
+| Tool | Description | Directory |
+| :------ | :----- | :------ |
+| [Bitscout](https://bitscout-forensics.info/) | LiveCD/LiveUSB for remote forensic acquisition and analysis | N/A |
+| [SANS Investigative Forensics Toolkit (SIFT)](https://github.com/teamdfir/sift) | Linux distribution for forensic analysis | N/A |
+| [Tsurugi](https://tsurugi-linux.org/) | Linux distribution for DFIR | N/A |
+| [WinFE](https://www.winfe.net/home) | Windows Forensics | N/A |
+
 #### 🔵 Mobile
 
 | Tool | Description | Directory |
@@ -142,10 +171,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 | Tool | Description | Directory |
 | :------ | :----- | :------ |
-| [Bitscout](https://bitscout-forensics.info/) | LiveCD/LiveUSB for remote forensic acquisition and analysis | N/A |
-| [SANS Investigative Forensics Toolkit (SIFT)](https://github.com/teamdfir/sift) | Linux distribution for forensic analysis | N/A |
-| [Tsurugi](https://tsurugi-linux.org/) | Linux distribution for DFIR | N/A |
-| [WinFE](https://www.winfe.net/home) | Windows Forensics | N/A |
+| [The Sleuth Kit](https://github.com/sleuthkit/sleuthkit) | Forensic toolkit for analyzing Microsoft and UNIX file systems and disks. | ![opensource](icons/opensource.png) |
 
 #### 🔵 Scripts
 
@@ -153,7 +179,30 @@ A curated list of many tools and resources for both offensive and defensive secu
 | :------ | :----- | :-------- |
 | [DissectingMalwa.re Lab](https://github.com/f0wl/MalwareLab_VM-Setup) | Download/setup script for malware analysis/software reverse engineering. | ![opensource](icons/opensource.png) |
 
+#### 🔵 Tools
 
+| Tool | Description | Directory |
+| :------ | :----- | :-------- |
+| [Beagle](https://github.com/yampelo/beagle) | Digital forensics tool which transforms security logs and data into graphs. | ![opensource](icons/opensource.png) |
+
+
+
+
+
+
+
+
+
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) IDS/IPS
+
+*Intrusion Detection Systems and Intrusion Prevention Systems.*
+
+#### 🔵 Platform
+
+| Tool | Description | Directory |
+| :------ | :----- | :------ |
+| [Snort](https://www.snort.org/) | Open Source detection software. | ![opensource](icons/opensource.png) |
+| [Suricata](https://suricata.io) | Indpendent open-source threat detection engine. | ![opensource](icons/opensource.png) |
 
 
 
@@ -169,7 +218,41 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 | Tool | Description | Directory |
 | :------ | :----- | :------ |
+| [Cyphon](https://github.com/cyphonmdr/cyphon) | Platform that receives, processes, and triages events to create a more efficient analytic workflow | ![archive](icons/archive.png) ![opensource](icons/opensource.png) |
+| [DFIRTrack](https://github.com/dfirtrack/dfirtrack) | The Incident Response Tracking Application | ![opensource](icons/opensource.png) |
 | [FIR](https://github.com/certsocietegenerale/FIR) |  Fast Incident Response allows for easy creation, tracking, and reporting of cybersecurity incidents. | ![opensource](icons/opensource.png) |
+| [The Hive](https://github.com/TheHive-Project/TheHive) | A Scalable, Open Source and Free Security Incident Response Platform | ![opensource](icons/opensource.png) |
+| [Wazuh](https://github.com/wazuh/wazuh) | Capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments. | ![opensource](icons/opensource.png) |
+
+#### 🔵 Reporting
+
+| Tool | Description | Directory |
+| :------ | :----- | :------ |
+| [Cortex](https://github.com/TheHive-Project/Cortex) | Powerful Observable Analysis and Active Response Engine | ![opensource](icons/opensource.png) |
+| [Response](https://github.com/monzo/response) | Real-time incident response and reporting tool. | ![opensource](icons/opensource.png) |
+| [Velociraptor](https://github.com/Velocidex/velociraptor) | A tool for collecting host based state information using Velocidex Query Language (VQL) queries. | ![opensource](icons/opensource.png) |
+
+
+
+
+
+
+
+
+
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) IOC
+
+*Indicators of Compromise.*
+
+#### 🔵 Scanners
+
+| Tool | Description | Directory |
+| :------ | :----- | :------ |
+| [Fenrir](https://github.com/Neo23x0/Fenrir) | Simple Bash IOC Scanner. | ![opensource](icons/opensource.png) |
+| [Loki](https://github.com/Neo23x0/Loki) | Simple IOC and YARA scanner. | ![opensource](icons/opensource.png) |
+| [Redline](https://www.fireeye.com/services/freeware/redline.html) | FireEye's premier free endpoint security tool, provides host investigative capabilities.  | ![opensource](icons/opensource.png) |
+| [Thor Lite](https://www.nextron-systems.com/thor-lite/) | Free IOC and YARA Scanner. | ![freemium-service](icons/freemium-service.png) ![opensource](icons/opensource.png) |
+
 
 
 
@@ -229,6 +312,24 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Kaspersky Threat Portal](https://opentip.kaspersky.com/) | Сheck any suspicious threat indicator, whether it is a file, file hash, IP address or web address. | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) |
 | [Opswat](https://metadefender.opswat.com/) | Simply submit suspicious files to MetaDefender Cloud for analysis. | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) |
 | [VirusTotal](https://www.virustotal.com/gui/) | Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community. | ![freemium-service](icons/freemium-service.png) ![malware](icons/malware.png) ![register-profile](icons/register-profile.png) |
+
+
+
+
+
+
+
+
+
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Monitoring
+
+*Monitoring tools and resources*
+
+#### 🔵 Network
+
+| Tool | Description | Directory |
+| :------ | :----- | :------ |
+| [Zeek](https://github.com/zeek/zeek) | A powerful framework for network traffic analysis and security monitoring. | ![opensource](icons/opensource.png) |
 
 
 
@@ -1400,12 +1501,28 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 *Tools for editing/viewing files.*
 
-#### 🟣 Hex
+#### 🟣 Tools
 
 | Tool | Descrption | Directory |
 | :----- | :----- | :------- |
+| [CyberChef](https://github.com/mattnotmax/cyberchef-recipes) | A fantastic tool for data transformation, extraction & manipulation in your web-browser. |![opensource](icons/opensource.png) | 
 | [Hexed.it](https://hexed.it/) | Browser based online and offline hex editing. | N/A |
 | [Hexyl](https://github.com/sharkdp/hexyl) | A command-line hex viewer  | ![opensource](icons/opensource.png) |
+
+
+
+
+
+
+
+
+
+ ### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Emulation
+
+
+
+
+
 
 #### 🟣 Adversary
 
@@ -1479,6 +1596,7 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 | Tool | Description | Directory |
 | :------ | :----- | :------ |
+| [IntelOwl](https://github.com/intelowlproject/IntelOwl) | OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale. | ![opensource](icons/opensource.png) |
 | [OpenCTI](https://github.com/OpenCTI-Platform/opencti) | Open Cyber Threat Intelligence Platform. | ![opensource](icons/opensource.png) |
 | [OSweep](https://github.com/ecstatic-nobel/OSweep) | Don't Just Search OSINT. Sweep It. | ![opensource](icons/opensource.png) |
 | [QueryTool](https://github.com/oryon-osint/querytool) | Querytool is an OSINT framework based on Google Spreadsheets. | ![opensource](icons/opensource.png) |
