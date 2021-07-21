@@ -1277,6 +1277,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [I2P](https://geti2p.net/en/) | An anonymous network layer that allows for censorship resistant, peer to peer communication.  | N/A |
 | [Pantoclick](https://coveryourtracks.eff.org/) | See how trackers view your browser | N/A |
 | [TOR](https://www.torproject.org/) | Free and open-source software for enabling anonymous communication. | ![opensource](icons/opensource.png) |
+| [WEBKAY](https://webkay.robinlinus.com/) | A web app to show what every browser knows about you. | N/A |
 
 #### 👻 Cryptocurrency
 
@@ -1289,7 +1290,10 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 | Organization | Description | Directory | 
 | :------ | :----- | :----- |
-| [Exodus](https://www.exodus.com/) | Laptop and Desktop crypto wallet. | ![paid-product](icons/paid-product.png) |
+| [Bitlox](https://www.exodus.com/) | Bitcoin mobile hardware wallet bluetooth low energy high security. | ![opensource](icons/opensource.png) |
+| [Exodus](https://www.exodus.com/) | Laptop and Desktop crypto wallet. | ![opensource](icons/opensource.png) |
+| [Samourai](https://samouraiwallet.com/) | A bitcoin wallet for the streets | ![opensource](icons/opensource.png) |
+| [Wasabi](https://www.wasabiwallet.io/) | Bitcoin privacy wallet with built-in CoinJoin | ![opensource](icons/opensource.png) |
 
 #### 👻 Domain Registrars
 
@@ -1316,6 +1320,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 | Organization | Description | Directory |
 | :------ | :----- | :-------|
+| [Global Leaks](https://www.globaleaks.org/) [[TOR](sunkfzudgd2lrv6hncwdhnemrm5lcu7ejb6iem5shrliljx7m27mukyd.onion)] | Free and open source whistleblowing software, under the AGPL License |  ![opensource](icons/opensource.png) ![tor-icon](icons/tor-icon.png) |
 | [SecureDrop](https://securedrop.org/) [[TOR](http://sdolvtfhatvsysc6l34d65ymdwxcujausv7k5jk4cy5ttzhjoi6fzvyd.onion)] | Share and accept documents securely. |  ![opensource](icons/opensource.png) ![tor-icon](icons/tor-icon.png) |
 
 
@@ -1348,7 +1353,9 @@ A curated list of many tools and resources for both offensive and defensive secu
 | Organization | Description | Directory |
 | :------ | :----- | :----- |
 | [Adamant](https://adamant.im/) | Decentralized Messenger. | ![opensource](icons/opensource.png) |
+| [Briar](https://briarproject.org/) | Secure messaging, anywhere. | ![opensource](icons/opensource.png) |
 | [Element](https://element.io/) | A messenger that gives you the privacy you expect from a conversation in your own home, but with everyone across the globe. | ![freemium-service](icons/freemium-service.png) ![opensource](icons/opensource.png) ![register-profile](icons/register-profile.png)|
+| [Ricochet](https://ricochet.im/) | Ricochet is a different approach to instant messaging that doesn’t trust anyone in protecting your privacy. | ![no-recent-update](icons/no-recent-update.png) ![opensource](icons/opensource.png) |
 | [Telegram](https://telegram.org/) | A new era of messaging. | ![opensource](icons/opensource.png) |
 
 #### 👻 SMS
