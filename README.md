@@ -34,7 +34,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 ## Contents
 
 - [Icon Directory](#-icon-directory)
-- [Defensive Security](https://github.com/InfosecHouse/InfosecHouse-Dev#defensive-security)
+- [Defensive Security](#-defensive-security)
     - [Asset Management](#-asset-management)
     - [Forensics](#-forensics)
     - [IDS/IPS](#-ids-ips)
@@ -64,6 +64,8 @@ A curated list of many tools and resources for both offensive and defensive secu
     - [Wireless](#-wireless)
 - [Operation Security](#-operation-security)
     - [Anonymity](#-anonymity)
+    - [Authentication](#-authentication)
+    - [Burners](#-burners)
     - [Communication](#-communication)
 - [Purple Security](#-purple-security)
     - [Editors & Viewers](#-editor-and-viewers)
@@ -1425,6 +1427,87 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [SecureDrop](https://securedrop.org/) [[TOR](http://sdolvtfhatvsysc6l34d65ymdwxcujausv7k5jk4cy5ttzhjoi6fzvyd.onion)] | Share and accept documents securely. |  ![opensource](icons/opensource.png) ![tor-icon](icons/tor-icon.png) |
 
 
+
+
+
+
+
+
+
+
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Authentication
+
+*Secure your authentication methods with 2-Factor Authentication*
+
+
+
+
+
+
+
+
+
+#### 👻 MFA Hardware
+
+| Tool | Description | Directory |
+| :------ | :----- | :-------|
+| [Hyper](https://www.hypersecu.com/products) | Strong Authentication Products. | ![paid-product](icons/paid-product.png) |
+| [OnlyKey](https://onlykey.io/) | A hardware password manager, two-factor security key, and file encryption token in one. | ![paid-product](icons/paid-product.png) |
+| [SoloKeys](https://solokeys.com/) | Secure Login. Open Source. Easy. | ![opensource](icons/opensource.png) ![paid-product](icons/paid-product.png) |
+| [Thetis](https://thetis.io/) | Security key. | ![paid-product](icons/paid-product.png) |
+| [Titan](https://store.google.com/us/product/titan_security_key?hl=en-US) | Google MFA security key. | ![paid-product](icons/paid-product.png) |
+| [YubiKey](https://www.yubico.com/products/) | Security key, enabling strong two-factor, multi-factor and passwordless authentication. | ![paid-product](icons/paid-product.png) | 
+
+#### 👻 MFA Mobile Apps
+
+| Tool | Description | Directory |
+| :------ | :----- | :-------|
+| [2FAS](https://2fas.com/) | Protect your online accounts and services. | N/A | 
+| [Aegis Authenticator](https://github.com/beemdevelopment/Aegis) | A free, secure, and open source 2FA app for android. | N/A |
+| [andOTP](https://github.com/andOTP/andOTP) | A Two-Factor authentication app for Android 5.1+ | ![opensource](icons/opensource.png) |
+| [Authy](https://authy.com/) | Enable 2FA for your favorite sites. | N/A |
+| [Duo](https://duo.com/) | Protect your workforce with simple, powerful access security. | ![freemium-service](icons/freemium-service.png)| 
+| [FreeOPT](https://freeotp.github.io/) | A two-factor authentication application for systems utilizing one-time password protocols. |![opensource](icons/opensource.png) |
+| [Google Authenticator](https://github.com/google/google-authenticator) | Multi-Factor authenticator for iOS and Android. Open-Source Version. |![opensource](icons/opensource.png) |
+| [Microsoft Authenticator](https://www.microsoft.com/en-us/account/authenticator) | Access your account easily, and securely. | N/A |
+| Okta Verify [iOS](https://apps.apple.com/us/app/okta-verify/id490179405) [Android](https://play.google.com/store/apps/details?id=com.okta.android.auth&hl=en_US&gl=US) | Lightweight app that allows you to securely access your apps via 2-step verification. | N/A |
+| [TOTP Authenticator](https://www.binaryboot.com/totp-authenticator) | Making 2-factor authentication simple and secure. | N/A | 
+
+#### 👻 MFA Systems
+
+| Tool | Description | Directory |
+| :------ | :----- | :-------|
+| [Aerobase Server](https://aerobase.io/) | Simple secure and seamless authentication. | ![opensource](icons/opensource.png) |
+| [LinOTP](https://github.com/LinOTP/LinOTP) | Open source solution for two factor authentication. | ![opensource](icons/opensource.png) |
+| [PrivacyIDEA](https://github.com/beemdevelopment/Aegis) | A free, secure, and open source 2FA app for android. | N/A |
+
+
+
+
+
+
+
+
+### [🔝](https://github.com/InfosecHouse/InfosecHouse#contents) Burners
+
+*Everything for your temporary needs*
+
+#### 👻 E-Mail
+ 
+| Organization | Description | Directory |
+| :------ | :----- | :------- |
+| [DeadFake](https://www.deadfake.com/Default.aspx) | Let's you send free fake emails | N/A |
+| [E-Mail Fake](https://emailfake.com/) | Burner e-mail server. No IP logging. | N/A |
+| [Fake E-Mail Generatort](https://mail-fake.com/) | The Fake Mail Generator is an absolutely free disposable email system. | N/A |
+| [FakeMail](https://www.fakemail.net/) | Temp Mail Address Protects Your Privacy. | N/A |
+| [Temp Mail Gen](https://tempmailgen.com/) | A disposable, throwaway, temporary,one-click email. No IP logging. | N/A |
+
+### 👻 Phone Numbers
+
+| Organization | Description | Directory |
+| :------ | :----- | :------- |
+| [BurnerApp](https://www.burnerapp.com/) |phone number app for calling, texting and picture messaging. | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) |
+| [Hushed](https://hushed.com/) | Temporary & Second Phone Numbers for Talk & Texting. | ![freemium-service](icons/freemium-service.png) ![register-profile](icons/register-profile.png) |
 
 
 
