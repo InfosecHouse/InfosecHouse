@@ -1844,4 +1844,4 @@ Want to check compliance status of an XMPP server? Check out https://compliance.
 
 *Shoutout to the following amazing individuals for suggesting and adding resources!*
 
-[chadb_n00b](https://www.twitch.tv/chadb_n00b), [EightBitOni](https://www.twitch.tv/eightbitoni/), [footpics4sale](https://www.twitch.tv/footpics4sale), [theGwar](https://www.twitch.tv/thegwar).
+[chadb_n00b](https://www.twitch.tv/chadb_n00b), [EightBitOni](https://www.twitch.tv/eightbitoni/), [footpics4sale](https://www.twitch.tv/footpics4sale), [GoProSlowYo](https://www.twitch.tv/goproslowyo), [RySkill](https://www.twitch.tv/ryskill), [theGwar](https://www.twitch.tv/thegwar).
