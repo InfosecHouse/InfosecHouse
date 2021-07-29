@@ -1038,6 +1038,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 | Tool | Description | Directory |
 | :----- | :----- | :----- |
+| [armada](https://github.com/resyncgg/armada) | A High-Performance TCP SYN scanner | ![opensource](icons/opensource.png) |
 | [masscan](https://github.com/robertdavidgraham/masscan) | TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. | ![opensource](icons/opensource.png) |
 | [naabu](https://github.com/projectdiscovery/naabu) | A fast port scanner written in go with a focus on reliability and simplicity. | ![opensource](icons/opensource.png) |
 | [NMAP](https://github.com/nmap/nmap) | The Network Mapper. | ![opensource](icons/opensource.png) |
