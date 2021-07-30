@@ -1,7 +1,3 @@
----
-description: Infosec resource center for offensive and defensive security operations.
----
-
 # Introduction
 
    
