@@ -1,51 +1,57 @@
-‌# Summary​
+# Table of contents
+
+* [Introduction](README.md)
 
 ## Defensive Security
 
-* [Asset Management](/resources/defensive-assets-management.md)
-* [Forensics](/resources/defensive-forensics.md)
-* [IDS/IPS](/resources/defensive-ids-ips.md)
-* [Incident Response](/resources/defensive-ir.md)
-* [IOC](/resources/defensive-ioc.md)
-* [Malware](/resources/defensive-malware.md)
-* [Monitoring](resources/defensive-monitoring.md)
-* [Phishing](resources/defensive-phishing.md)
-* [Threat Intel](/resources/defensive-threat-intel.md)
+* [Asset Management](defensive-security/defensive-assets-management.md)
+* [Forensics](defensive-security/defensive-forensics.md)
+* [IDS/IPS](defensive-security/defensive-ids-ips.md)
+* [Incident Response](defensive-security/defensive-ir.md)
+* [IOC](defensive-security/defensive-ioc.md)
+* [Malware](defensive-security/defensive-malware.md)
+* [Monitoring](defensive-security/defensive-monitoring.md)
+* [Phishing](defensive-security/defensive-phishing.md)
+* [Threat Intel](defensive-security/defensive-threat-intel.md)
 
 ## Offensive Security
-* [API](/resources/offensive-api.md)
-* [Blogs](/resources/offensive-blogs.md)
-* [Bug Bounty](/resources/offensive-bug-bounty.md)
-* [Cloud](/resources/offensive-cloud.md)
-* [Courses](/resources/offensive-courses.md)
-* [Cracking](/resources/offensive-cracking.md)
-* [CTF Offensive](/resources/offensive-ctf.md)
-* [Exploits](/resources/offensive-exploits.md)
-* [Hardware](/resources/offensive-hardware.md)
-* [Linux](/resources/offensive-linux.md)
-* [Mobile](/resources/offensive-mobile.md)
-* [Network](/resources/offensive-network.md)
-* [Reconnaissance](/resources/offensive-recon.md)
-* [Social Engineering](/resources/offensive-social-engineering.md)
-* [Vulnerability Scanners](/resources/offensive-vuln-scanners.md)
-* [Web Application](/resources/offensive-web-app.md)
-* [Windows](/resources/offensive-windows.md)
-* [Wireless](/resources/offensive-wireless.md)
-- 
+
+* [API](offensive-security/offensive-api.md)
+* [Blogs](offensive-security/offensive-blogs.md)
+* [Bug Bounty](offensive-security/offensive-bug-bounty.md)
+* [Cloud](offensive-security/offensive-cloud.md)
+* [Courses](offensive-security/offensive-courses.md)
+* [Cracking](offensive-security/offensive-cracking.md)
+* [CTF Offensive](offensive-security/offensive-ctf.md)
+* [Exploits](offensive-security/offensive-exploits.md)
+* [Hardware](offensive-security/offensive-hardware.md)
+* [Linux](offensive-security/offensive-linux.md)
+* [Mobile](offensive-security/offensive-mobile.md)
+* [Network](offensive-security/offensive-network.md)
+* [Reconnaissance](offensive-security/offensive-recon.md)
+* [Social Engineering](offensive-security/offensive-social-engineering.md)
+* [Vulnerability Scanners](offensive-security/offensive-vuln-scanners.md)
+* [Web Application](offensive-security/offensive-web-app.md)
+* [Windows](offensive-security/offensive-windows.md)
+* [Wireless](offensive-security/offensive-wireless.md)
 
 ## Operation Security
-* [Anonymity](/resources/operation-anonymity.md)
-* [Authentication](/resources/operation-authentication.md)
-* [Burners](/resources/operation-burners.md)
-* [Communication](/resources/operation-communication.md)
+
+* [Anonymity](operation-security/operation-anonymity.md)
+* [Authentication](operation-security/operation-authentication.md)
+* [Burners](operation-security/operation-burners.md)
+* [Communication](operation-security/operation-communication.md)
 
 ## Purple Security
-* [Editors & Viewers](/resources/purple-editor-viewer.md)
-* [Emulation](/resources/purple-emulation.md)
-* [Network](/resources/purple-network.md)
-* [OSINT](/resources/purple-osint.md)
-* [Reverse Engineering](/resources/purple-re.md)
-* [Write-Ups](/resources/purple-write-ups.md)
+
+* [Editors & Viewers](purple-security/purple-editor-viewer.md)
+* [Emulation](purple-security/purple-emulation.md)
+* [Network](purple-security/purple-network.md)
+* [OSINT](purple-security/purple-osint.md)
+* [Reverse Engineering](purple-security/purple-re.md)
+* [Write-Ups](purple-security/purple-write-ups.md)
 
 ## Xtras
-* [Video](/resources/xtras-video.md)
+
+* [Video](xtras/xtras-video.md)
+
