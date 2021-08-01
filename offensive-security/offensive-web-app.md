@@ -35,6 +35,7 @@ A list of icons to help highlight some key features about these tools/resources.
 | [http-request-smuggling](https://github.com/anshumanpattnaik/http-request-smuggling) | HTTP Request Smuggling Detection Tool. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
 ## Databases
+
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
 | [sql-map](https://sqlmap.org/) | Automatic SQL injection and database takeover tool. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |

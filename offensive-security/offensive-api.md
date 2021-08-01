@@ -26,9 +26,9 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API . | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [GraphQL OWASP](https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html) | OWASP GraphQL cheat sheet. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [Microservices OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Microservices_security.html) | Microservices Security | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Microservices OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Microservices_security.html) | Microservices Security. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [OWASP API Top 10](https://apisecurity.io/encyclopedia/content/owasp-api-security-top-10-cheat-sheet-a4.pdf) | OWASP API security Top 10. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [REST Security OWASP](https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html) | OWASP REST security cheat sheet. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [REST Assessment OWASP](https://cheatsheetseries.owasp.org/cheatsheets/REST_Assessment_Cheat_Sheet.html) | OWASP REST assessment cheat sheet. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
@@ -45,7 +45,7 @@ A list of icons to help highlight some key features about these tools/resources.
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
 | [Arjun](https://github.com/s0md3v/Arjun) | HTTP parameter discovery suite. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [Astra](https://github.com/flipkart-incubator/Astra) | Automated Security Testing For REST API's | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Astra](https://github.com/flipkart-incubator/Astra) | Automated Security Testing For REST API's. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Apache JMeter](https://jmeter.apache.org/download_jmeter.cgi) | Java application designed to load test functional behavior and measure performance. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Automatic API Attack Tool](https://github.com/imperva/automatic-api-attack-tool) | Imperva's API attack tool takes an API specification as an input, generates and runs attacks that are based on it as an output. | ![no-recent-update](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/no-recent-update.png) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Burp Suite](https://portswigger.net/burp) | Arm yourself with the leading toolkit for web security testing. Test, find, and exploit vulnerabilities. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png) |

@@ -32,15 +32,15 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [Dacker Daemon Attack Surface](https://docs.docker.com/engine/security/#docker-daemon-attack-surface) | There are four major areas to consider when reviewing Docker security | N/A |
+| [Dacker Daemon Attack Surface](https://docs.docker.com/engine/security/#docker-daemon-attack-surface) | There are four major areas to consider when reviewing Docker security. | N/A |
 
 ## GitHub
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
 | [gitleaks](https://github.com/zricethezav/gitleaks) | Scan git repos \(or files\) for secrets using regex and entropy. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [gitrob](https://github.com/michenriksen/gitrob) | Reconnaissance tool for GitHub organizations | ![archive](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/archive.png) ![no-recent-update](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/no-recent-update.png) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [GitRoller](https://github.com/mansoorr123/GitRoller) | GitRoller: A Git Recon Tools | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [gitrob](https://github.com/michenriksen/gitrob) | Reconnaissance tool for GitHub organizations. | ![archive](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/archive.png) ![no-recent-update](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/no-recent-update.png) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [GitRoller](https://github.com/mansoorr123/GitRoller) | GitRoller: A Git Recon Tools. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [go-gitaudit](https://github.com/r-pai/go-gitaudit) | Git audit is a go package which can be used to audit git repository to find issues. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [shhgit](https://github.com/eth0izzle/shhgit) | Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [truffleHog](https://github.com/trufflesecurity/truffleHog) | Searches through git repositories for high entropy strings and secrets, digging deep into commit history. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |

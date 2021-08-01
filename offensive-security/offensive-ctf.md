@@ -30,7 +30,7 @@ A list of icons to help highlight some key features about these tools/resources.
 | [Cryptohack](https://cryptohack.org/) | A fun free platform for learning modern cryptography. | ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
 | [CTF Challenge](https://ctflearn.com/) | Collection of 12 vulnerable web applications, each one has its own realistic infrastructure built over several subdomains containing vulnerabilities. | ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
 | [CTFLearn](https://ctflearn.com/) | Learn cybersecurity the most beginner-friendly way to get into hacking. | ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
-| [DomGoat](https://domgo.at/cxss/intro) | DOM security learning platform | N/A |
+| [DomGoat](https://domgo.at/cxss/intro) | DOM security learning platform. | N/A |
 | [Hack The Box](https://www.hackthebox.eu/) | Massive online cyber security training platform, allowing individuals, companies, universities and all kinds of organizations around the world to level up their hacking skills. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png)![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
 | [pwnable.tw](http://pwnable.tw) | Pwnable.tw is a wargame site for hackers to test and expand their binary exploiting skills. | ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
 | [pwnable.kr](http://pwnable.kr) | A non-commercial wargame site which provides various pwn challenges regarding system exploitation. | ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
@@ -40,5 +40,5 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [Hack-a-Sat](https://www.hackasat.com/) | United States Air Force and United States Space Force jointly presents Hack-A-Sat | ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+| [Hack-a-Sat](https://www.hackasat.com/) | United States Air Force and United States Space Force jointly presents Hack-A-Sat. | ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
 

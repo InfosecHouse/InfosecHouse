@@ -42,15 +42,15 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Bytecode Viewer](https://github.com/konloch/bytecode-viewer) | A lightweight user friendly Java Bytecode Viewer | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Bytecode Viewer](https://github.com/konloch/bytecode-viewer) | A lightweight user friendly Java Bytecode Viewer. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [CuckooDroid](https://github.com/idanr1986/cuckoo-droid) | Automated Android Malware Analysis with Cuckoo Sandbox. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Cutter](https://github.com/rizinorg/cutter) | Reverse engineering platform powered by rizin. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [DECAF](https://github.com/decaf-project/DECAF) | DECAF \(short for Dynamic Executable Code Analysis Framework\) is a binary analysis platform based on QEMU. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [Droid-FF](https://github.com/antojoseph/droid-ff) | The android fuzzing framework | ![no-recent-update](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/no-recent-update.png) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [Drozer](https://github.com/FSecureLABS/drozer) | Security testing framework for Android | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [Hooker](https://github.com/AndroidHooker/hooker) | Provides various tools and applications that can be use to automatically intercept and modify any API calls | ![no-recent-update](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/no-recent-update.png) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Droid-FF](https://github.com/antojoseph/droid-ff) | The android fuzzing framework. | ![no-recent-update](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/no-recent-update.png) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Drozer](https://github.com/FSecureLABS/drozer) | Security testing framework for Android. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Hooker](https://github.com/AndroidHooker/hooker) | Provides various tools and applications that can be use to automatically intercept and modify any API calls. | ![no-recent-update](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/no-recent-update.png) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [House](https://github.com/nccgroup/house) | A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [Inspeckage](https://github.com/ac-pm/Inspeckage) | Tool developed to offer dynamic analysis of Android applications | ![no-recent-update](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/no-recent-update.png) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Inspeckage](https://github.com/ac-pm/Inspeckage) | Tool developed to offer dynamic analysis of Android applications. | ![no-recent-update](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/no-recent-update.png) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | An automated, all-in-one mobile application \(Android/iOS/Windows\) pen-testing, malware analysis and security assessment framework. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [PATDroid](https://github.com/mingyuan-xia/PATDroid) | A collection of tools and data structures for analyzing Android applications and the system itself. | ![no-recent-update](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/no-recent-update.png) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [ProbeDroid](https://github.com/ZSShen/ProbeDroid) | A dynamic Java code instrumentation for Android apps. Provides APIs for users to craft their own instrumentation tools. | ![no-recent-update](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/no-recent-update.png) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
@@ -80,15 +80,15 @@ A list of icons to help highlight some key features about these tools/resources.
 | [Chimera](https://chimera.coolstar.org/) | iOS 12 jailbreak to not only feature a CoreTrust bypass so that binaries don't need to be resigned, but to also support A12 devices, including iPhone Xs, iPhone Xr, and the newest iPads. | N/A |
 | [Double H3lix](https://doubleh3lix.tihmstar.net/) | Jailbreak for 64-bit 10.x devices. | N/A |
 | [Etason](https://etasonjb.tihmstar.net/) | Jailbreak for all devices running iOS 8.4.1 32 bit. | N/A |
-| [Evasi0n](https://www.iphonehacks.com/download-evasi0n) | Jailbreak iPhone, iPad or iPod touch on iOS 7.0 – iOS 7.0.6 | N/A |
+| [Evasi0n](https://www.iphonehacks.com/download-evasi0n) | Jailbreak iPhone, iPad or iPod touch on iOS 7.0 – iOS 7.0.6 . | N/A |
 | [H3lix](https://h3lix.tihmstar.net/) | Jailbreak for 32-bit 10.x devices. | N/A |
-| [Home Depot](http://wall.supplies/) | Jailbreak for iOS 9.x devices | N/A |
+| [Home Depot](http://wall.supplies/) | Jailbreak for iOS 9.x devices. | N/A |
 | [IPSW](https://ipsw.me/) | Download current and previous versions of Apple's iOS, iPadOS, watchOS, tvOS and audioOS firmware and receive notifications when new firmwares are released. | N/A |
 | [Magisk](https://github.com/topjohnwu/Magisk) | Magisk is a suite of open source software for customizing Android, supporting devices higher than Android 5.0. | N/A |
-| [Pangu Jailbreak](http://en.9.pangu.io/) | Jailbreak for iOS 9.0 - 9.1 | N/A |
+| [Pangu Jailbreak](http://en.9.pangu.io/) | Jailbreak for iOS 9.0 - 9.1 . | N/A |
 | [Phoenix](https://phoenixpwn.com/) | Semi-untethered jailbreak for 9.3.5-9.3.6. All 32-bit devices supported. | N/A |
-| [p0sixspwn](https://ih8sn0w.com/p0sixspwn.html) | iOS Jailbreak for 6.1.X | N/A |
-| [redsn0w](https://ipsw.me/iPhoneDev) | Jailbreak for iOS 3-5 | N/A |
+| [p0sixspwn](https://ih8sn0w.com/p0sixspwn.html) | iOS Jailbreak for 6.1.X . | N/A |
+| [redsn0w](https://ipsw.me/iPhoneDev) | Jailbreak for iOS 3-5 . | N/A |
 | [TaiG](http://www.taig.com/) | Jailbreak for iOS 8.X. | N/A |
 | [unc0ver](https://unc0ver.dev/) | A jail​break tool. | N/A |
 
@@ -132,7 +132,7 @@ A list of icons to help highlight some key features about these tools/resources.
 | [APKScanner](https://github.com/n3k00n3/APKScanner) | The objective of this scanner is to find for misconfiguration, sensitive data and insecure components. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [APK Studio](https://github.com/vaibhavpandeyvpz/apkstudio) | The objective of this scanner is to find for misconfiguration, sensitive data and insecure components. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [APKTool](https://ibotpeaches.github.io/Apktool/) | Seamlessly integrates the best open-source tools right inside VS Code. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [Argus-SAF](https://github.com/arguslab/Argus-SAF) | Static analysis framework | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Argus-SAF](https://github.com/arguslab/Argus-SAF) | Static analysis framework. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Checkstyle](https://github.com/checkstyle/checkstyle) | A tool for checking Java source code for adherence to a Code Standard or set of validation rules. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [DeGuard](http://apk-deguard.com/) | Statistical Deobfuscation for Android. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Deoptfuscator](https://github.com/Gyoonus/deoptfuscator) | Reverse the control-flow obfuscation performed by DexGuard on open-source Android applications. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
@@ -144,14 +144,14 @@ A list of icons to help highlight some key features about these tools/resources.
 | [Gradle](https://github.com/novoda/gradle-static-analysis-plugin) | Supports many popular static analysis \(Checkstyle, PMD, FindBugs, etc\) via a set of built-in plugins. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Infer](https://github.com/facebook/infer) | Infer is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in OCaml. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [JADX](https://github.com/skylot/jadx) | Dex to Java decompiler. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [Mobile Audit](https://github.com/mpast/mobileAudit) | SAST and Malware Analysis for Android Mobile APKs | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Mobile Audit](https://github.com/mpast/mobileAudit) | SAST and Malware Analysis for Android Mobile APKs. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | An automated, all-in-one mobile application \(Android/iOS/Windows\) pen-testing, malware analysis and security assessment framework. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [PMD](https://github.com/pmd/pmd) | Finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [Qark](https://github.com/linkedin/qark) | designed to look for several security related Android application vulnerabilities, either in source code or packaged APKs. | ![no-recent-update](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/no-recent-update.png) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Qark](https://github.com/linkedin/qark) | Designed to look for several security related Android application vulnerabilities, either in source code or packaged APKs. | ![no-recent-update](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/no-recent-update.png) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Quark](https://github.com/quark-engine/quark-engine) | An Obfuscation-Neglect Android Malware Scoring System. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Smali](https://github.com/JesusFreke/smali) | An assembler/disassembler for the dex format used by dalvik, Android's Java VM implementation. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [Smali-CFG](https://github.com/EugenioDelfa/Smali-CFGs) | Smali Control Flow Graph's | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [Soot](https://github.com/soot-oss/soot) | Smali Control Flow Graph's | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Smali-CFG](https://github.com/EugenioDelfa/Smali-CFGs) | Smali Control Flow Graph's. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Soot](https://github.com/soot-oss/soot) | Smali Control Flow Graph's. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Sparta](https://github.com/typetools/sparta/) | Static program analysis for reliable trusted apps. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [StaCoAn](https://github.com/vincentcox/StaCoAn) | A crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications | ![archive](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/archive.png) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Trueseeing](https://github.com/monolithworks/trueseeing) | A fast, accurate and resillient vulnerabilities scanner for Android apps. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
@@ -161,7 +161,7 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [B3nac Sec](https://www.youtube.com/c/B3nacSec/featured) | Dedicated mobile ethical hacking | N/A |
+| [B3nac Sec](https://www.youtube.com/c/B3nacSec/featured) | Dedicated mobile ethical hacking. | N/A |
 
 ## Virtualization
 
