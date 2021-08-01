@@ -24,13 +24,18 @@ A list of icons to help highlight some key features about these tools/resources.
 
 ## Cross-Site Scripting
 
-| Tool | Descrption | Directory |
+| Tool | Description | Directory |
 | :--- | :--- | :--- |
 | [XSS'OR](https://github.com/evilcos/xssor2) | XSS'OR - Hack with JavaScript. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
 ## Protocols
 
-| Tool | Descrption | Directory |
+| Tool | Description | Directory |
 | :--- | :--- | :--- |
 | [http-request-smuggling](https://github.com/anshumanpattnaik/http-request-smuggling) | HTTP Request Smuggling Detection Tool. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+
+## Databases
+| Tool | Description | Directory |
+| :--- | :--- | :--- |
+| [sql-map](https://sqlmap.org/) | Automatic SQL injection and database takeover tool. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
