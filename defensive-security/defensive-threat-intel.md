@@ -75,7 +75,7 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| Dark Dir \[[TOR](http://l7vh56hxm3t4tzy75nxzducszppgi45fyx2wy6chujxb2rhy7o5r62ad.onion) | TOR Link Directory | ![tor-icon](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/tor-icon.png) |
+| Dark Dir \[[TOR](http://l7vh56hxm3t4tzy75nxzducszppgi45fyx2wy6chujxb2rhy7o5r62ad.onion)\] | TOR Link Directory | ![tor-icon](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/tor-icon.png) |
 | Hidden Links \[[TOR](http://wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion/)\] | TOR Link Directory | ![tor-icon](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/tor-icon.png) |
 | Onion Link Directory \[[TOR](http://torlinkszegvxqb6.onion/)\] | TOR Link Directory | ![tor-icon](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/tor-icon.png) |
 | Onion Scanner \[[TOR](http://4r4zaei5qa7qq5ha.onion/)\] | Onion Scanner is a unique deepweb shops crawler which gathers reviews for customers’ convenience. | ![tor-icon](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/tor-icon.png) |

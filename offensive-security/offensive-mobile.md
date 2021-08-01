@@ -61,8 +61,8 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Cydia Impactor](http://www.cydiaimpactor.com/) | Allows you to install packages and evaluate your changes. | N/A |
-| [Odin](https://odindownload.com/) | Allows you to install packages and evaluate your changes. | N/A |
+| [Cydia Impactor](http://www.cydiaimpactor.com/) | Use this tool to install IPA files on iOS and APK files on Android. | N/A |
+| [Odin](https://odindownload.com/) | Used to flash a custom recovery firmware image to a Samsung Android device. | N/A |
 
 ## Guides & References
 

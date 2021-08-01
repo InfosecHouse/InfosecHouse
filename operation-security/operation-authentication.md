@@ -1,6 +1,6 @@
 # Authentication
 
-The quality or state of being anonymous. Seek out technologies and methods of remaining anonymous in the day and age of mass surveillance.
+Secure your authentication with MFA. 
 
 ## ICON DIRECTORY
 
@@ -45,7 +45,7 @@ A list of icons to help highlight some key features about these tools/resources.
 | [FreeOPT](https://freeotp.github.io/) | A two-factor authentication application for systems utilizing one-time password protocols. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Google Authenticator](https://github.com/google/google-authenticator) | Multi-Factor authenticator for iOS and Android. Open-Source Version. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Microsoft Authenticator](https://www.microsoft.com/en-us/account/authenticator) | Access your account easily, and securely. | N/A |
-| Okta Verify [iOS](https://apps.apple.com/us/app/okta-verify/id490179405) [Android](https://play.google.com/store/apps/details?id=com.okta.android.auth&hl=en_US&gl=US) | Lightweight app that allows you to securely access your apps via 2-step verification. | N/A |
+| Okta Verify \[[iOS](https://apps.apple.com/us/app/okta-verify/id490179405)\] \[[Android](https://play.google.com/store/apps/details?id=com.okta.android.auth&hl=en_US&gl=US)\] | Lightweight app that allows you to securely access your apps via 2-step verification. | N/A |
 | [TOTP Authenticator](https://www.binaryboot.com/totp-authenticator) | Making 2-factor authentication simple and secure. | N/A |
 
 ## MFA Systems

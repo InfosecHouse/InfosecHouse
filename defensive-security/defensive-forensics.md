@@ -26,7 +26,7 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Hindsight](https://github.com/obsidianforensics/hindsight) | Web browser forensics for Google Chrome/Chromium. | ![opensource](https://github.com/InfosecHouse/InfosecHouse/tree/2090e2a1dc964520de3d029c942056e232737fc6/resources/icons/opensource.png) |
+| [Hindsight](https://github.com/obsidianforensics/hindsight) | Web browser forensics for Google Chrome/Chromium. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
 ## ISO's
 
@@ -41,23 +41,23 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Andriller](https://github.com/den4uk/andriller) | Performs read-only, forensically sound, non-destructive acquisition from Android devices. | ![opensource](https://github.com/InfosecHouse/InfosecHouse/tree/2090e2a1dc964520de3d029c942056e232737fc6/resources/icons/opensource.png) |
+| [Andriller](https://github.com/den4uk/andriller) | Performs read-only, forensically sound, non-destructive acquisition from Android devices. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
 ## Operating Systems
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [The Sleuth Kit](https://github.com/sleuthkit/sleuthkit) | Forensic toolkit for analyzing Microsoft and UNIX file systems and disks. | ![opensource](https://github.com/InfosecHouse/InfosecHouse/tree/2090e2a1dc964520de3d029c942056e232737fc6/resources/icons/opensource.png) |
+| [The Sleuth Kit](https://github.com/sleuthkit/sleuthkit) | Forensic toolkit for analyzing Microsoft and UNIX file systems and disks. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
 ## Scripts
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [DissectingMalwa.re Lab](https://github.com/f0wl/MalwareLab_VM-Setup) | Download/setup script for malware analysis/software reverse engineering. | ![opensource](https://github.com/InfosecHouse/InfosecHouse/tree/2090e2a1dc964520de3d029c942056e232737fc6/resources/icons/opensource.png) |
+| [DissectingMalwa.re Lab](https://github.com/f0wl/MalwareLab_VM-Setup) | Download/setup script for malware analysis/software reverse engineering. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
 ## Tools
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Beagle](https://github.com/yampelo/beagle) | Digital forensics tool which transforms security logs and data into graphs. | ![opensource](https://github.com/InfosecHouse/InfosecHouse/tree/2090e2a1dc964520de3d029c942056e232737fc6/resources/icons/opensource.png) |
+| [Beagle](https://github.com/yampelo/beagle) | Digital forensics tool which transforms security logs and data into graphs. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 

@@ -15,7 +15,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 _Shoutout to the following amazing individuals for suggesting and adding resources!_
 
-[chadb\_n00b](https://www.twitch.tv/chadb_n00b), [EightBitOni](https://www.twitch.tv/eightbitoni/), [footpics4sale](https://www.twitch.tv/footpics4sale), [GoProSlowYo](https://www.twitch.tv/goproslowyo), [JR0ch17](https://twitter.com/JR0ch17) [RySkill](https://www.twitch.tv/ryskill), [theGwar](https://www.twitch.tv/thegwar).
+[chadb\_n00b](https://www.twitch.tv/chadb_n00b), [EightBitOni](https://www.twitch.tv/eightbitoni/), [footpics4sale](https://www.twitch.tv/footpics4sale), [GoProSlowYo](https://www.twitch.tv/goproslowyo), [halfamomo](https://www.twitch.tv/halfamomo) [JR0ch17](https://twitter.com/JR0ch17) [RySkill](https://www.twitch.tv/ryskill), [theGwar](https://www.twitch.tv/thegwar).
 
 ## Follow Us
 
