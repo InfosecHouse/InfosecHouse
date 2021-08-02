@@ -22,6 +22,12 @@ A list of icons to help highlight some key features about these tools/resources.
 | ![verified](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/verified.png) | Verified - Verified resource/organization. |
 | ![winner-1](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/winner.png) | Winner - Resource was a winner in the Infosec House tool battle arena. |
 
+## Auditing
+
+| Tool | Description | Directory |
+| :--- | :--- | :--- |
+| [Linux Exploit Suggester](https://github.com/mzet-/linux-exploit-suggester) | A curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+
 ## Cheatsheets
 
 | Tool | Description | Directory |
