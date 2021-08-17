@@ -36,7 +36,7 @@ _Shoutout to the following amazing individuals for suggesting and adding resourc
 | [Forensics](defensive-security/defensive-forensics.md) | Uncover the dirty little secrets of a recovered HDD, Image, malware, and more. |
 | [IDS/IPS](defensive-security/defensive-ids-ips.md) | Intrusion Detection and Prevention Systems. |
 | [Incident Response](defensive-security/defensive-ir.md) | Incident response tools, and resources when alarms pop off. |
-| [IOC](https://github.com/InfosecHouse/InfosecHouse/tree/2090e2a1dc964520de3d029c942056e232737fc6/resources/defensive-ioc.md) | Indicators of compromise. Discover if you've been compromised. |
+| [IOC](defensive-security/defensive-ioc.md) | Indicators of compromise. Discover if you've been compromised. |
 | [Malware](defensive-security/defensive-malware.md) | All the malware you can wish for to reverse engineer. |
 | [Monitoring](defensive-security/defensive-monitoring.md) | Monitor your network, e-mail, packets, and infrastructure. |
 | [Phishing](defensive-security/defensive-phishing.md) | Tools and resources for analyzing phishing attacks. |
@@ -51,7 +51,7 @@ _Shoutout to the following amazing individuals for suggesting and adding resourc
 | [Bug Bounty](offensive-security/offensive-bug-bounty.md) | Test out your skills against other hackers. Get paid for finding vulnerabilities. |
 | [Cloud](offensive-security/offensive-cloud.md) | Discover tools and resources dedicated to hacking cloud platforms. |
 | [Courses](offensive-security/offensive-courses.md) | Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase. |
-| [Cracking](https://github.com/InfosecHouse/InfosecHouse/tree/2090e2a1dc964520de3d029c942056e232737fc6/resources/offensive-cracking.md) | Everything you need to crack all the hashes. |
+| [Cracking](offensive-security/offensive-cracking.md) | Everything you need to crack all the hashes. |
 | [CTF Offensive](offensive-security/offensive-ctf.md) | Compete your hacking skills against others. |
 | [Exploits](offensive-security/offensive-exploits.md) | Gather all your exploits needed to pop that box. |
 | [Hardware](offensive-security/offensive-hardware.md) | Grab some of the most used hardware within the penetration testing industry. |
