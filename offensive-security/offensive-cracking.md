@@ -28,4 +28,4 @@ A list of icons to help highlight some key features about these tools/resources.
 | :--- | :--- | :--- |
 | [Hashcat](https://hashcat.net/wiki/) | Worlds fastest password cracker and only in-kernel rule engine. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [John the Ripper](https://www.openwall.com/john/) | An Open Source password security auditing and password recovery tool available for many operating systems. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [NPK](https://github.com/c6fc/npk) |  A mostly-serverless distributed hash cracking platform. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [NPK](https://github.com/c6fc/npk) |  A mostly serverless distributed hash cracking platform. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |

@@ -26,10 +26,10 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [pacu](https://github.com/RhinoSecurityLabs/pacu) | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png |
-| [Prowler](https://github.com/toniblyx/prowler) | Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. | https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png |
-| [ScoutSuite](https://github.com/nccgroup/ScoutSuite) | Multi-Cloud Security Auditing Tool ) | https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png |
-| [WeirdAAL](https://github.com/carnal0wnage/weirdAAL) | WeirdAAL (AWS Attack Library) | https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png |
+| [pacu](https://github.com/RhinoSecurityLabs/pacu) | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Prowler](https://github.com/toniblyx/prowler) | Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [ScoutSuite](https://github.com/nccgroup/ScoutSuite) | Multi-Cloud Security Auditing Tool ) | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [WeirdAAL](https://github.com/carnal0wnage/weirdAAL) | WeirdAAL (AWS Attack Library) | h![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
 ## Azure
 
