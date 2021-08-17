@@ -26,5 +26,8 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [LANSweeper](https://www.lansweeper.com/) | Build centralized IT asset inventory. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png%20)![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [GLPI](https://github.com/glpi-project/glpi) [![last-commit](https://badgen.net/github/last-commit/glpi-project/glpi)](https://badgen.net/github/last-commit/glpi-project/glpi) | Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png)![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+| [LANSweeper](https://www.lansweeper.com/) | Build centralized IT asset inventory. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png)![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Snipe-IT](https://github.com/snipe/snipe-it) | A free open source IT asset/license management system. | [![last-commit](https://badgen.net/github/last-commit/snipe/snipe-it)](https://badgen.net/github/last-commit/snipe/snipe-it) ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png)![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+
 
