@@ -26,6 +26,7 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Descrption | Directory |
 | :--- | :--- | :--- |
+| [Androguard](https://github.com/androguard/androguard) | Reverse engineering, Malware and goodware analysis of Android applications. | [![last-commit](https://badgen.net/github/last-commit/androguard/androguard)](https://badgen.net/github/last-commit/androguard/androguard) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Quark](https://github.com/quark-engine/quark-engine) | Android Malware Analysis/Scoring System | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png) |
 
 ## Tools
