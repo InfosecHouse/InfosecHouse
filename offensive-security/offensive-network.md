@@ -41,11 +41,15 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
+| [bettercap](https://www.bettercap.org/) | Swiss army knife for WiFi, Bluetooth, HID, and ethernet network. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [dpkt](https://github.com/kbandla/dpkt) | Fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [ettercap](https://github.com/Ettercap/ettercap) | Swiss army knife for WiFi, Bluetooth, HID, and ethernet network. | [![last-commit](https://badgen.net/github/last-commit/Ettercap/ettercap)](https://badgen.net/github/last-commit/Ettercap/ettercap) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Ghost Phisher](https://github.com/savio-code/ghost-phisher) | A Wireless and Ethernet security auditing and attack software | ![no-recent-update](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/no-recent-update.png) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Impacket](https://github.com/SecureAuthCorp/impacket) | Impacket is a collection of Python classes for working with network protocols. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Libdnet](https://github.com/ofalk/libdnet) | Provides a simplified, portable interface to several low-level networking routines. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [MITMProxy](https://github.com/mitmproxy/mitmproxy) | An interactive TLS-capable intercepting HTTP proxy for penetration testers. | [![last-commit](https://badgen.net/github/last-commit/mitmproxy/mitmproxy)](https://badgen.net/github/last-commit/mitmproxy/mitmproxy) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Scapy](https://github.com/secdev/scapy) | Python-based interactive packet manipulation program & library. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [TCPDump](https://github.com/the-tcpdump-group/tcpdump) | The TCPdump network dissector. | [![last-commit](https://badgen.net/github/last-commit/the-tcpdump-group/tcpdump)](https://badgen.net/github/last-commit/the-tcpdump-group/tcpdump) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
 ## Port/Network Scanning
 
