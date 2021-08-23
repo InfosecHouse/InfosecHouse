@@ -26,14 +26,14 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Hindsight](https://github.com/obsidianforensics/hindsight) | Web browser forensics for Google Chrome/Chromium. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Hindsight](https://github.com/obsidianforensics/hindsight) | Web browser forensics for Google Chrome/Chromium. | [![last-commit](https://badgen.net/github/last-commit/obsidianforensics/hindsight)](https://badgen.net/github/last-commit/obsidianforensics/hindsight) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
 ## ISO's
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Bitscout](https://bitscout-forensics.info/) | LiveCD/LiveUSB for remote forensic acquisition and analysis | N/A |
-| [SANS Investigative Forensics Toolkit \(SIFT\)](https://github.com/teamdfir/sift) | Linux distribution for forensic analysis | N/A |
+| [Bitscout](https://bitscout-forensics.info/) | LiveCD/LiveUSB for remote forensic acquisition and analysis. | N/A |
+| [SANS Investigative Forensics Toolkit \(SIFT\)](https://github.com/teamdfir/sift) | Linux distribution for forensic analysis | [![last-commit](https://badgen.net/github/last-commit/teamdfir/sift)](https://badgen.net/github/last-commit/teamdfir/sift) |
 | [Tsurugi](https://tsurugi-linux.org/) | Linux distribution for DFIR | N/A |
 | [WinFE](https://www.winfe.net/home) | Windows Forensics | N/A |
 
@@ -41,23 +41,23 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Andriller](https://github.com/den4uk/andriller) | Performs read-only, forensically sound, non-destructive acquisition from Android devices. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Andriller](https://github.com/den4uk/andriller) | Performs read-only, forensically sound, non-destructive acquisition from Android devices. | [![last-commit](https://badgen.net/github/last-commit/den4uk/andriller)](https://badgen.net/github/last-commit/den4uk/andriller) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
 ## Operating Systems
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [The Sleuth Kit](https://github.com/sleuthkit/sleuthkit) | Forensic toolkit for analyzing Microsoft and UNIX file systems and disks. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [The Sleuth Kit](https://github.com/sleuthkit/sleuthkit) | Forensic toolkit for analyzing Microsoft and UNIX file systems and disks. | [![last-commit](https://badgen.net/github/last-commit/sleuthkit/sleuthkit)](https://badgen.net/github/last-commit/sleuthkit/sleuthkit) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
 ## Scripts
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [DissectingMalwa.re Lab](https://github.com/f0wl/MalwareLab_VM-Setup) | Download/setup script for malware analysis/software reverse engineering. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [DissectingMalwa.re Lab](https://github.com/f0wl/MalwareLab_VM-Setup) | Download/setup script for malware analysis/software reverse engineering. | [![last-commit](https://badgen.net/github/last-commit/f0wl/MalwareLab_VM-Setup)](https://badgen.net/github/last-commit/f0wl/MalwareLab_VM-Setup) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
 ## Tools
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Beagle](https://github.com/yampelo/beagle) | Digital forensics tool which transforms security logs and data into graphs. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Beagle](https://github.com/yampelo/beagle) | Digital forensics tool which transforms security logs and data into graphs. | [![last-commit](https://badgen.net/github/last-commit/yampelo/beagle)](https://badgen.net/github/last-commit/yampelo/beagle) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 

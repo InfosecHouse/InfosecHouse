@@ -26,6 +26,5 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Snort](https://www.snort.org/) | Open Source detection software. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [Suricata](https://suricata.io) | Indpendent open-source threat detection engine. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-
+| [Snort](https://github.com/snort3/snort3) | Open Source detection software. | [![last-commit](https://badgen.net/github/last-commit/snort3/snort3)](https://badgen.net/github/last-commit/snort3/snort3) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Suricata](https://github.com/OISF/suricata) | Indpendent open-source threat detection engine. | [![last-commit](https://badgen.net/github/last-commit/OISF/suricata)](https://badgen.net/github/last-commit/OISF/suricata) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
