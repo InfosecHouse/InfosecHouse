@@ -26,7 +26,7 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [DeadFake](https://www.deadfake.com/Default.aspx) | Let's you send free fake emails | N/A |
+| [DeadFake](https://www.deadfake.com/Default.aspx) | Let's you send free fake emails. | N/A |
 | [E-Mail Fake](https://emailfake.com/) | Burner e-mail server. No IP logging. | N/A |
 | [Fake E-Mail Generatort](https://mail-fake.com/) | The Fake Mail Generator is an absolutely free disposable email system. | N/A |
 | [FakeMail](https://www.fakemail.net/) | Temp Mail Address Protects Your Privacy. | N/A |

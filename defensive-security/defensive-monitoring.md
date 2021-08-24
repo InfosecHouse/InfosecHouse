@@ -26,6 +26,6 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Zeek](https://github.com/zeek/zeek) | A powerful framework for network traffic analysis and security monitoring. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Zeek](https://github.com/zeek/zeek) | A powerful framework for network traffic analysis and security monitoring. | [![last-commit](https://badgen.net/github/last-commit/zeek/zeek)](https://badgen.net/github/last-commit/zeek/zeek)  ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) | A passive network sniffer/packet capturing tool. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png) |
 

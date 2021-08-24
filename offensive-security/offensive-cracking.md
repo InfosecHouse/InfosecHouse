@@ -26,6 +26,6 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Hashcat](https://hashcat.net/wiki/) | Worlds fastest password cracker and only in-kernel rule engine. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [John the Ripper](https://www.openwall.com/john/) | An Open Source password security auditing and password recovery tool available for many operating systems. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [NPK](https://github.com/c6fc/npk) | A mostly serverless distributed hash cracking platform. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Hashcat](https://github.com/hashcat/hashcat) | Worlds fastest password cracker and only in-kernel rule engine. | [![last-commit](https://badgen.net/github/last-commit/hashcat/hashcat)](https://badgen.net/github/last-commit/hashcat/hashcat) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [John the Ripper](https://github.com/openwall/john) | An Open Source password security auditing and password recovery tool available for many operating systems. | [![last-commit](https://badgen.net/github/last-commit/openwall/john)](https://badgen.net/github/last-commit/openwall/john) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [NPK](https://github.com/c6fc/npk) | A mostly serverless distributed hash cracking platform. | [![last-commit](https://badgen.net/github/last-commit/c6fc/npk)](https://badgen.net/github/last-commit/c6fc/npk) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |

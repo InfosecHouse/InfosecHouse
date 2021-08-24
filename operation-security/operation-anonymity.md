@@ -27,7 +27,7 @@ A list of icons to help highlight some key features about these tools/resources.
 | Tools | Description | Directory |
 | :--- | :--- | :--- |
 | [I2P](https://geti2p.net/en/) | An anonymous network layer that allows for censorship resistant, peer to peer communication. | N/A |
-| [Pantoclick](https://coveryourtracks.eff.org/) | See how trackers view your browser | N/A |
+| [Pantoclick](https://coveryourtracks.eff.org/) | See how trackers view your browser. | N/A |
 | [TOR](https://www.torproject.org/) | Free and open-source software for enabling anonymous communication. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [WEBKAY](https://webkay.robinlinus.com/) | A web app to show what every browser knows about you. | N/A |
 
@@ -44,14 +44,14 @@ A list of icons to help highlight some key features about these tools/resources.
 | :--- | :--- | :--- |
 | [Bitlox](https://www.exodus.com/) | Bitcoin mobile hardware wallet bluetooth low energy high security. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Exodus](https://www.exodus.com/) | Laptop and Desktop crypto wallet. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [Samourai](https://samouraiwallet.com/) | A bitcoin wallet for the streets | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [Wasabi](https://www.wasabiwallet.io/) | Bitcoin privacy wallet with built-in CoinJoin | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Samourai](https://samouraiwallet.com/) | A bitcoin wallet for the streets. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Wasabi](https://www.wasabiwallet.io/) | Bitcoin privacy wallet with built-in CoinJoin. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
 ## Domain Registrars
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [Njalla](https://njal.la/) \[[TOR](http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion/)\] | A privacy-aware domain service.. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+| [Njalla](https://njal.la/) \[[TOR](http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion/)\] | A privacy-aware domain service. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
 
 ## Proxies
 
@@ -72,6 +72,6 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [Global Leaks](https://www.globaleaks.org/) \[[TOR](https://github.com/InfosecHouse/InfosecHouse/tree/2090e2a1dc964520de3d029c942056e232737fc6/resources/sunkfzudgd2lrv6hncwdhnemrm5lcu7ejb6iem5shrliljx7m27mukyd.onion)\] | Free and open source whistleblowing software, under the AGPL License | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) ![tor-icon](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/tor-icon.png) |
+| [Global Leaks](https://www.globaleaks.org/) \[[TOR](https://github.com/InfosecHouse/InfosecHouse/tree/2090e2a1dc964520de3d029c942056e232737fc6/resources/sunkfzudgd2lrv6hncwdhnemrm5lcu7ejb6iem5shrliljx7m27mukyd.onion)\] | Free and open source whistleblowing software, under the AGPL License. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) ![tor-icon](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/tor-icon.png) |
 | [SecureDrop](https://securedrop.org/) \[[TOR](http://sdolvtfhatvsysc6l34d65ymdwxcujausv7k5jk4cy5ttzhjoi6fzvyd.onion)\] | Share and accept documents securely. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) ![tor-icon](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/tor-icon.png) |
 

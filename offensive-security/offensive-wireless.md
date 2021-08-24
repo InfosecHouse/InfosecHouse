@@ -26,15 +26,15 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Descrption | Directory |
 | :--- | :--- | :--- |
-| [bettercap](https://www.bettercap.org/) | Swiss army knife for WiFi, Bluetooth, HID, and ethernet network. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [Bluelog](https://github.com/MS3FGX/Bluelog) | Linux bluetooth scanner | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [hcitool](https://github.com/MillerTechnologyPeru/hcitool) | Bluetooth host controller CLI tool for sending HCI commands on MacOS and Linux. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [bettercap](https://github.com/bettercap/bettercap) | Swiss army knife for WiFi, Bluetooth, HID, and ethernet network. | [![last-commit](https://badgen.net/github/last-commit/bettercap/bettercap)](https://badgen.net/github/last-commit/bettercap/bettercap) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Bluelog](https://github.com/MS3FGX/Bluelog) | Linux bluetooth scanner | [![last-commit](https://badgen.net/github/last-commit/MS3FGX/Bluelog)](https://badgen.net/github/last-commit/MS3FGX/Bluelog) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [hcitool](https://github.com/MillerTechnologyPeru/hcitool) | Bluetooth host controller CLI tool for sending HCI commands on MacOS and Linux. | [![last-commit](https://badgen.net/github/last-commit/MillerTechnologyPeru/hcitool)](https://badgen.net/github/last-commit/MillerTechnologyPeru/hcitool) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
 ## Wi-Fi
 
 | Tool | Descrption | Directory |
 | :--- | :--- | :--- |
-| [Aircrack-NG](https://www.aircrack-ng.org/) | A complete suite of tools assess WiFi network security. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [bettercap](https://www.bettercap.org/) | Swiss army knife for WiFi, Bluetooth, HID, and ethernet network. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [Reaver](https://github.com/t6x/reaver-wps-fork-t6x) | Brute force attack against  Wi-Fi Protected Setups \(WPS\) | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Aircrack-NG](https://github.com/aircrack-ng/aircrack-ng) | A complete suite of tools assess WiFi network security. | [![last-commit](https://badgen.net/github/last-commit/aircrack-ng/aircrack-ng)](https://badgen.net/github/last-commit/aircrack-ng/aircrack-ng) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [bettercap](https://github.com/bettercap/bettercap) | Swiss army knife for WiFi, Bluetooth, HID, and ethernet network. | [![last-commit](https://badgen.net/github/last-commit/bettercap/bettercap)](https://badgen.net/github/last-commit/bettercap/bettercap) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Reaver](https://github.com/t6x/reaver-wps-fork-t6x) | Brute force attack against  Wi-Fi Protected Setups \(WPS\) | [![last-commit](https://badgen.net/github/last-commit/t6x/reaver-wps-fork-t6x)](https://badgen.net/github/last-commit/t6x/reaver-wps-fork-t6x) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 

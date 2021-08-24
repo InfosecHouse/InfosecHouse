@@ -26,16 +26,16 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [XSS'OR](https://github.com/evilcos/xssor2) | XSS'OR - Hack with JavaScript. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [XSS'OR](https://github.com/evilcos/xssor2) | XSS'OR - Hack with JavaScript. | [![last-commit](https://badgen.net/github/last-commit/evilcos/xssor2)](https://badgen.net/github/last-commit/evilcos/xssor2) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
 ## Protocols
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [http-request-smuggling](https://github.com/anshumanpattnaik/http-request-smuggling) | HTTP Request Smuggling Detection Tool. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [http-request-smuggling](https://github.com/anshumanpattnaik/http-request-smuggling) | HTTP Request Smuggling Detection Tool. | [![last-commit](https://badgen.net/github/last-commit/anshumanpattnaik/http-request-smuggling)](https://badgen.net/github/last-commit/anshumanpattnaik/http-request-smuggling) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
 ## Databases
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [sql-map](https://sqlmap.org/) | Automatic SQL injection and database takeover tool. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [sql-map](https://github.com/sqlmapproject/sqlmap) | Automatic SQL injection and database takeover tool. | [![last-commit](https://badgen.net/github/last-commit/sqlmapproject/sqlmap)](https://badgen.net/github/last-commit/sqlmapproject/sqlmap) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 

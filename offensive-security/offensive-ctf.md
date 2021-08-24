@@ -40,5 +40,5 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [Hack-a-Sat](https://www.hackasat.com/) | United States Air Force and United States Space Force jointly presents Hack-A-Sat | ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+| [Hack-a-Sat](https://www.hackasat.com/) | United States Air Force and United States Space Force jointly presents Hack-A-Sat. | ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
 

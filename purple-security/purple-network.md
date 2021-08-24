@@ -27,5 +27,5 @@ A list of icons to help highlight some key features about these tools/resources.
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
 | [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) | A passive network sniffer/packet capturing tool. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png) |
-| [ngrep](https://github.com/jpr5/ngrep/) | A PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [ngrep](https://github.com/jpr5/ngrep) | A PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. | [![last-commit](https://badgen.net/github/last-commit/jpr5/ngrep)](https://badgen.net/github/last-commit/jpr5/ngrep) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 

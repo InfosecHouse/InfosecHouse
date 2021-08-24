@@ -32,8 +32,8 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [ARTIF](https://github.com/CRED-CLUB/ARTIF) | An advanced real time threat intelligence framework to identify threats and malicious web traffic on the basis of IP reputation and historical data. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [MISP](https://github.com/MISP/MISP) | MISP \(core software\) - Open Source Threat Intelligence and Sharing Platform \(formely known as Malware Information Sharing Platform\). | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [ARTIF](https://github.com/CRED-CLUB/ARTIF) | An advanced real time threat intelligence framework to identify threats and malicious web traffic on the basis of IP reputation and historical data. | [![last-commit](https://badgen.net/github/last-commit/CRED-CLUB/ARTIF)](https://badgen.net/github/last-commit/CRED-CLUB/ARTIF) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [MISP](https://github.com/MISP/MISP) | MISP \(core software\) - Open Source Threat Intelligence and Sharing Platform \(formely known as Malware Information Sharing Platform\). | [![last-commit](https://badgen.net/github/last-commit/MISP/MISP)](https://badgen.net/github/last-commit/MISP/MISP) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
 ## Pastes
 
@@ -87,7 +87,7 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [Ahmia](https://ahmia.fi/) | Ahmia's mission is to create the premier search engine for services residing on the Tor anonymity network | N/A |
-| Hoodle \[[TOR](http://nr2dvqdot7yw6b5poyjb7tzot7fjrrweb2fhugvytbbio7ijkrvicuid.onion)\] | A DeepWeb search engine with clear interface and accurate link database | ![tor-icon](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/tor-icon.png) |
-| Sentor \[[TOR](http://e27slbec2ykiyo26gfuovaehuzsydffbit5nlxid53kigw3pvz6uosqd.onion/index.php)\] | TOR Search Engine | ![tor-icon](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/tor-icon.png) |
+| [Ahmia](https://ahmia.fi/) | Ahmia's mission is to create the premier search engine for services residing on the Tor anonymity network. | N/A |
+| Hoodle \[[TOR](http://nr2dvqdot7yw6b5poyjb7tzot7fjrrweb2fhugvytbbio7ijkrvicuid.onion)\] | A DeepWeb search engine with clear interface and accurate link database. | ![tor-icon](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/tor-icon.png) |
+| Sentor \[[TOR](http://e27slbec2ykiyo26gfuovaehuzsydffbit5nlxid53kigw3pvz6uosqd.onion/index.php)\] | TOR Search Engine. | ![tor-icon](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/tor-icon.png) |
 

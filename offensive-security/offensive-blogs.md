@@ -26,38 +26,38 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [Not so Secure](https://notsosecure.com/blog/) | Mix of research | N/A |
-| [Orange Cyberdefense](https://sensepost.com/blog/) | Mix of research | N/A |
-| [Security Weekly](https://securityweekly.com/blog/) | Mix of research | N/A |
-| [Trustwave](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/) | Mix of research | N/A |
+| [Not so Secure](https://notsosecure.com/blog/) | Mix of research. | N/A |
+| [Orange Cyberdefense](https://sensepost.com/blog/) | Mix of research. | N/A |
+| [Security Weekly](https://securityweekly.com/blog/) | Mix of research. | N/A |
+| [Trustwave](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/) | Mix of research. | N/A |
 
 ## Personal
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [Archangel Amael](http://archangelamael.blogspot.com/) | Mix of research | N/A |
-| [Attack and Defense](https://blog.carnal0wnage.com/) | Mix of research | N/A |
+| [Archangel Amael](http://archangelamael.blogspot.com/) | Mix of research. | N/A |
+| [Attack and Defense](https://blog.carnal0wnage.com/) | Mix of research. | N/A |
 | [carnal0wnage](https://blog.carnal0wnage.com/) | CVE research. | N/A |
 | [Ch3rn0byl](https://ch3rn0byl.com/) | CVE research. | N/A |
-| [Coldwind](https://gynvael.coldwind.pl/?blog=1&lang=en) | Mix of research | N/A |
-| [Corelan](https://www.corelan.be/) | Mix of research | N/A |
+| [Coldwind](https://gynvael.coldwind.pl/?blog=1&lang=en) | Mix of research. | N/A |
+| [Corelan](https://www.corelan.be/) | Mix of research. | N/A |
 | [Darknet.org.uk](https://www.darknet.org.uk/) | Mix of research. | N/A |
-| [Digi Ninja](https://digi.ninja/blog.php) | Mix of research | N/A |
-| [GnuCitizen](https://www.gnucitizen.org/) | Mix of research | N/A |
-| [Hacking & Security](https://hackingandsecurity.blogspot.com/) | Mix of research | N/A |
-| [ihazomgsecurityskills](http://ihazomgsecurityskillz.blogspot.com/) | Mix of research | N/A |
-| [Mad Irish](https://www.madirish.net/) | Mix of research | N/A |
-| [Memset](https://memset.wordpress.com/) | Mix of research | N/A |
+| [Digi Ninja](https://digi.ninja/blog.php) | Mix of research. | N/A |
+| [GnuCitizen](https://www.gnucitizen.org/) | Mix of research. | N/A |
+| [Hacking & Security](https://hackingandsecurity.blogspot.com/) | Mix of research. | N/A |
+| [ihazomgsecurityskills](http://ihazomgsecurityskillz.blogspot.com/) | Mix of research. | N/A |
+| [Mad Irish](https://www.madirish.net/) | Mix of research. | N/A |
+| [Memset](https://memset.wordpress.com/) | Mix of research. | N/A |
 | [MG.LOL](https://mg.lol/blog/) | Hardware security research. | N/A |
 | [Myne-us](http://www.myne-us.com/) | Hardware security research. | N/A |
-| [Pentest Blog](https://pentest.blog/) | Mix of research. Vulnerability research team of PRODAFT SARL | N/A |
-| [Question Defense](https://www.question-defense.com/) | Mix of research | N/A |
+| [Pentest Blog](https://pentest.blog/) | Mix of research. Vulnerability research team of PRODAFT SARL. | N/A |
+| [Question Defense](https://www.question-defense.com/) | Mix of research. | N/A |
 | [Reusable Security](https://reusablesec.blogspot.com/) | Password Cracking, Crypto, and General Security Research. | N/A |
-| [Security Reliks](https://securityreliks.wordpress.com/) | Mix of research | N/A |
-| [Security Sift](https://9emin1.github.io/pages/) | CTF Write-ups/Windows Research | N/A |
-| [Sirdarckcat](http://sirdarckcat.blogspot.com/) | Web App and Mix of research | N/A |
-| [Spy Logic](https://www.spylogic.net/) | Mix of research | N/A |
-| [Strolling Infosec](https://9emin1.github.io/pages/) | Mix of research | N/A |
-| [Weapons of Mass Analysis](http://wepma.blogspot.com/) | Mix of research | N/A |
-| [Wirewatcher](https://wirewatcher.wordpress.com/) | Mix of research | N/A |
+| [Security Reliks](https://securityreliks.wordpress.com/) | Mix of research. | N/A |
+| [Security Sift](https://9emin1.github.io/pages/) | CTF Write-ups/Windows Research. | N/A |
+| [Sirdarckcat](http://sirdarckcat.blogspot.com/) | Web App and Mix of research. | N/A |
+| [Spy Logic](https://www.spylogic.net/) | Mix of research. | N/A |
+| [Strolling Infosec](https://9emin1.github.io/pages/) | Mix of research. | N/A |
+| [Weapons of Mass Analysis](http://wepma.blogspot.com/) | Mix of research. | N/A |
+| [Wirewatcher](https://wirewatcher.wordpress.com/) | Mix of research. | N/A |
 

@@ -26,7 +26,7 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [Al-Khaser](https://github.com/LordNoteworthy/al-khaser) | Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [DumpsterFire](https://github.com/BishopFox/sliver) | A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [Silver](https://github.com/BishopFox/sliver) | Adversary Emulation Framework. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Al-Khaser](https://github.com/LordNoteworthy/al-khaser) | Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection. | [![last-commit](https://badgen.net/github/last-commit/LordNoteworthy/al-khaser)](https://badgen.net/github/last-commit/LordNoteworthy/al-khaser) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) | A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. | [![last-commit](https://badgen.net/github/last-commit/TryCatchHCF/DumpsterFire)](https://badgen.net/github/last-commit/TryCatchHCF/DumpsterFire) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Silver](https://github.com/BishopFox/sliver) | Adversary Emulation Framework. | [![last-commit](https://badgen.net/github/last-commit/BishopFox/sliver)](https://badgen.net/github/last-commit/BishopFox/sliver) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 

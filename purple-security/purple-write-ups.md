@@ -26,5 +26,5 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [Cybercrime Campaign Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) | APT & CyberCriminal Campaign Collection. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Cybercrime Campaign Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) | APT & CyberCriminal Campaign Collection. | [![last-commit](https://badgen.net/github/last-commit/CyberMonitor/APT_CyberCriminal_Campagin_Collections)](https://badgen.net/github/last-commit/CyberMonitor/APT_CyberCriminal_Campagin_Collections) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
