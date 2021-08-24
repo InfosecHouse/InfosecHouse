@@ -6,6 +6,7 @@
 ![](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/img/infosechouse-banner.png)
 
 <center>
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/infosechouse/infosechouse?color=%23947cb0&style=for-the-badge)
 
  [![](https://img.shields.io/twitter/follow/infosechouse.svg?logo=twitter)](https://twitter.com/infosechouse)
@@ -19,6 +20,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 _Shoutout to the following amazing individuals for suggesting and adding resources!_
 
 [chadb\_n00b](https://www.twitch.tv/chadb_n00b), [CyberLola](https://www.twitch.tv/CyberLola), [DevNullZen](https://www.twitch.tv/DevNullZen), [EightBitOni](https://www.twitch.tv/eightbitoni/), [footpics4sale](https://www.twitch.tv/footpics4sale), [goldyautomation](https://www.twitch.tv/goldyautomation), [GoProSlowYo](https://www.twitch.tv/goproslowyo), [halfamomo](https://www.twitch.tv/halfamomo) [JR0ch17](https://twitter.com/JR0ch17), [p4r4n0ir](https://www.twitch.tv/p4r4n0ir), [PaWNmUnCher](https://www.twitch.tv/PaWNmUnCher), [RySkill](https://www.twitch.tv/ryskill), [theGwar](https://www.twitch.tv/thegwar), [Vander_Grift](https://www.twitch.tv/Vander_Grift), and [zuphzuph](https://www.twitch.tv/zuphzuph).
+
 </center>
 
 ## Follow Us
