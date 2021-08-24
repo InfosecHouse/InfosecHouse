@@ -5,7 +5,9 @@
 <p align="center"> 
 <img src="https://img.shields.io/github/last-commit/infosechouse/infosechouse?color=%23947cb0&style=for-the-badge"><br>
 <img src="https://img.shields.io/twitter/follow/infosechouse?style=social"><br>
+
 Created by [M4GIKTRICK](https://twitter.com/m4giktrick)
+
 </p>
 
 <h4 align="center">
