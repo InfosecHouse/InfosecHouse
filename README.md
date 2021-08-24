@@ -1,15 +1,11 @@
 # Introduction
 
- <p align="center">  
-
 ![](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/img/infosechouse-banner.png)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/infosechouse/infosechouse?color=%23947cb0&style=for-the-badge)
-
- [![](https://img.shields.io/twitter/follow/infosechouse.svg?logo=twitter)](https://twitter.com/infosechouse)
-
- Created by [m4giktrick](https://twitter.com/m4giktrick)   
-   
+<p align="center"> 
+<img src="https://img.shields.io/github/last-commit/infosechouse/infosechouse?color=%23947cb0&style=for-the-badge"><br>
+<img src="https://img.shields.io/twitter/follow/infosechouse?style=social"><br>
+Created by [M4GIKTRICK](https://twitter.com/m4giktrick)
 </p>
 
 <h4 align="center">
