@@ -1,11 +1,8 @@
 # Introduction
 
-   
-
+ <p align="center">  
 
 ![](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/img/infosechouse-banner.png)
-
-<center>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/infosechouse/infosechouse?color=%23947cb0&style=for-the-badge)
 
@@ -13,7 +10,12 @@
 
  Created by [m4giktrick](https://twitter.com/m4giktrick)   
    
+</p>
 
+<h4 align="center">
+Infosec resource center for offensive and defensive security operations.
+</h4>
+<br>
 
 A curated list of many tools and resources for both offensive and defensive security teams. Please visit [https://infosec.house/](https://infosec.house/) for our website version of this repo. Found a resources that should be on here? Feel free to submit a pull request or drop it in our [Discord](https://discord.gg/FWe9bjDBfY) server.
 
