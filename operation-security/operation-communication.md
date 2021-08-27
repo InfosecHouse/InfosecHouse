@@ -42,13 +42,13 @@ A list of icons to help highlight some key features about these tools/resources.
 | [Briar](https://briarproject.org/) | Secure messaging, anywhere. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Element](https://element.io/) | A messenger that gives you the privacy you expect from a conversation in your own home, but with everyone across the globe. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
 | [Ricochet](https://ricochet.im/) | Ricochet is a different approach to instant messaging that doesn’t trust anyone in protecting your privacy. | ![no-recent-update](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/no-recent-update.png) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [Telegram](https://telegram.org/) | A new era of messaging. | [![last-commit](https://badgen.net/github/last-commit/telegramdesktop/tdesktop)](https://badgen.net/github/last-commit/telegramdesktop/tdesktop) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Telegram](https://telegram.org/) | A new era of messaging. | ![last-commit](https://img.shields.io/github/last-commit/telegramdesktop/tdesktopandOTP/andOTP) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
 ## SMS
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [Signal](https://www.signal.org/) | Speak Freely. | [![last-commit](https://badgen.net/github/last-commit/signalapp/Signal-Desktop)](https://badgen.net/github/last-commit/signalapp/Signal-Desktop) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+| [Signal](https://www.signal.org/) | Speak Freely. | ![last-commit](https://img.shields.io/github/last-commit/signalapp/Signal-DesktopandOTP/andOTP) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
 
 ## XMPP Services
 

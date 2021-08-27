@@ -38,12 +38,12 @@ A list of icons to help highlight some key features about these tools/resources.
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
 | [2FAS](https://2fas.com/) | Protect your online accounts and services. | N/A |
-| [Aegis Authenticator](https://github.com/beemdevelopment/Aegis) | A free, secure, and open source 2FA app for android. | [![last-commit](https://badgen.net/github/last-commit/beemdevelopment/Aegis)](https://badgen.net/github/last-commit/beemdevelopment/Aegis) |
-| [andOTP](https://github.com/andOTP/andOTP) | A Two-Factor authentication app for Android 5.1+. | [![last-commit](https://badgen.net/github/last-commit/abeemdevelopment/Aegis)](https://badgen.net/github/last-commit/beemdevelopment/Aegis) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Aegis Authenticator](https://github.com/beemdevelopment/Aegis) | A free, secure, and open source 2FA app for android. | ![last-commit](https://img.shields.io/github/last-commit/beemdevelopment/Aegis?color=947cb0&style=flat-square) |
+| [andOTP](https://github.com/andOTP/andOTP) | A Two-Factor authentication app for Android 5.1+. | ![last-commit](https://img.shields.io/github/last-commit/andOTP/andOTP?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Authy](https://authy.com/) | Enable 2FA for your favorite sites. | N/A |
 | [Duo](https://duo.com/) | Protect your workforce with simple, powerful access security. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png) |
 | [FreeOPT](https://freeotp.github.io/) | A two-factor authentication application for systems utilizing one-time password protocols. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [Google Authenticator](https://github.com/google/google-authenticator) | Multi-Factor authenticator for iOS and Android. Open-Source Version. | [![last-commit](https://badgen.net/github/last-commit/google/google-authenticator)](https://badgen.net/github/last-commit/google/google-authenticator) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Google Authenticator](https://github.com/google/google-authenticator) | Multi-Factor authenticator for iOS and Android. Open-Source Version. | ![last-commit](https://img.shields.io/github/last-commit/google/google-authenticator?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Microsoft Authenticator](https://www.microsoft.com/en-us/account/authenticator) | Access your account easily, and securely. | N/A |
 | Okta Verify \[[iOS](https://apps.apple.com/us/app/okta-verify/id490179405)\] \[[Android](https://play.google.com/store/apps/details?id=com.okta.android.auth&hl=en_US&gl=US)\] | Lightweight app that allows you to securely access your apps via 2-step verification. | N/A |
 | [TOTP Authenticator](https://www.binaryboot.com/totp-authenticator) | Making 2-factor authentication simple and secure. | N/A |
@@ -52,7 +52,7 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Aerobase Server](https://github.com/aerobase/omnibus-aerobase-server) | Simple secure and seamless authentication. | [![last-commit](https://badgen.net/github/last-commit/aerobase/omnibus-aerobase-server)](https://badgen.net/github/last-commit/aerobase/omnibus-aerobase-server) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [LinOTP](https://github.com/LinOTP/LinOTP) | Open source solution for two factor authentication. | [![last-commit](https://badgen.net/github/last-commit/LinOTP/LinOTP)](https://badgen.net/github/last-commit/LinOTP/LinOTP) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [PrivacyIDEA](https://github.com/beemdevelopment/Aegis) | A free, secure, and open source 2FA app for android. | [![last-commit](https://badgen.net/github/last-commit/beemdevelopment/Aegis)](https://badgen.net/github/last-commit/beemdevelopment/Aegis) |
+| [Aerobase Server](https://github.com/aerobase/omnibus-aerobase-server) | Simple secure and seamless authentication. | ![last-commit](https://img.shields.io/github/last-commit/aerobase/omnibus-aerobase-server?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [LinOTP](https://github.com/LinOTP/LinOTP) | Open source solution for two factor authentication. | ![last-commit](https://img.shields.io/github/last-commit/LinOTP/LinOTP?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [PrivacyIDEA](https://github.com/beemdevelopment/Aegis) | A free, secure, and open source 2FA app for android. | ![last-commit](https://img.shields.io/github/last-commit/beemdevelopment/Aegis?color=947cb0&style=flat-square) |
 

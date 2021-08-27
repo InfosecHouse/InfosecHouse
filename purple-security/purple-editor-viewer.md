@@ -26,7 +26,7 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Descrption | Directory |
 | :--- | :--- | :--- |
-| [CyberChef](https://github.com/mattnotmax/cyberchef-recipes) | A fantastic tool for data transformation, extraction & manipulation in your web-browser. | [![last-commit](https://badgen.net/github/last-commit/mattnotmax/cyberchef-recipes)](https://badgen.net/github/last-commit/mattnotmax/cyberchef-recipes) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [CyberChef](https://github.com/mattnotmax/cyberchef-recipes) | A fantastic tool for data transformation, extraction & manipulation in your web-browser. | ![last-commit](https://img.shields.io/github/last-commit/mattnotmax/cyberchef-recipesandOTP/andOTP) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Hexed.it](https://hexed.it/) | Browser based online and offline hex editing. | N/A |
-| [Hexyl](https://github.com/sharkdp/hexyl) | A command-line hex viewer. | [![last-commit](https://badgen.net/github/last-commit/sharkdp/hexyl)](https://badgen.net/github/last-commit/sharkdp/hexyl) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Hexyl](https://github.com/sharkdp/hexyl) | A command-line hex viewer. | ![last-commit](https://img.shields.io/github/last-commit/sharkdp/hexylandOTP/andOTP) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 

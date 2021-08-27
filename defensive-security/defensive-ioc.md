@@ -26,7 +26,7 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Fenrir](https://github.com/Neo23x0/Fenrir) | Simple Bash IOC Scanner. | [![last-commit](https://badgen.net/github/last-commit/Neo23x0/Fenrir)](https://badgen.net/github/last-commit/Neo23x0/Fenrir) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [Loki](https://github.com/Neo23x0/Loki) | Simple IOC and YARA scanner. | [![last-commit](https://badgen.net/github/last-commit/Neo23x0/Loki)](https://badgen.net/github/last-commit/Neo23x0/Loki) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) | 
+| [Fenrir](https://github.com/Neo23x0/Fenrir) | Simple Bash IOC Scanner. | ![last-commit](https://img.shields.io/github/last-commit/Neo23x0/Fenrir?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Loki](https://github.com/Neo23x0/Loki) | Simple IOC and YARA scanner. | ![last-commit](https://img.shields.io/github/last-commit/Neo23x0/Loki?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) | 
 | [Redline](https://www.fireeye.com/services/freeware/redline.html) | FireEye's free endpoint security tool, provides host investigative capabilities. | N/A |
 | [Thor Lite](https://www.nextron-systems.com/thor-lite/) | Free IOC and YARA Scanner. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png) |
