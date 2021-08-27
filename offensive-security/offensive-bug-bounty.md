@@ -26,7 +26,7 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [Bug bounty Roadmaps](https://github.com/1ndianl33t/Bug-Bounty-Roadmaps) | Bug Bounty Roadmaps | [![last-commit](https://badgen.net/github/last-commit/1ndianl33t/Bug-Bounty-Roadmaps)](https://badgen.net/github/last-commit/1ndianl33t/Bug-Bounty-Roadmaps) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Bug bounty Roadmaps](https://github.com/1ndianl33t/Bug-Bounty-Roadmaps) | Bug Bounty Roadmaps | ![GitHub last commit](https://img.shields.io/github/last-commit/1ndianl33t/Bug-Bounty-Roadmaps) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
 ## Platforms
 
