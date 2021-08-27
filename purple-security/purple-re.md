@@ -35,7 +35,7 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Descrption | Directory |
 | :--- | :--- | :--- |
-| [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering \(SRE\) framework. | ![last-commit](https://img.shields.io/github/last-commit/NationalSecurityAgency/ghidr?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering \(SRE\) framework. | ![last-commit](https://img.shields.io/github/last-commit/NationalSecurityAgency/ghidra?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Hopper](https://www.hopperapp.com/) | RE tool for Mac and Linux, that lets you disassemble, decompile and debug your 32bits and 64bits executables. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png) |
 | [IDA Pro](https://hex-rays.com/) | State of the art binary code analysis. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png) |
 
