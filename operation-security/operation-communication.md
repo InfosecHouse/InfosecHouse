@@ -48,7 +48,7 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [Signal](https://www.signal.org/) | Speak Freely. | ![last-commit](https://img.shields.io/github/last-commit/signalapp/Signal-DesktopandOTP?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+| [Signal](https://www.signal.org/) | Speak Freely. | ![last-commit](https://img.shields.io/github/last-commit/signalapp/Signal-Desktop?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
 
 ## XMPP Services
 
