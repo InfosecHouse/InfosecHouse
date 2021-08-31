@@ -32,9 +32,11 @@ A list of icons to help highlight some key features about these tools/resources.
 | [CTFLearn](https://ctflearn.com/) | Learn cybersecurity the most beginner-friendly way to get into hacking. | ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
 | [DomGoat](https://domgo.at/cxss/intro) | DOM security learning platform | N/A |
 | [Hack The Box](https://www.hackthebox.eu/) | Massive online cyber security training platform, allowing individuals, companies, universities and all kinds of organizations around the world to level up their hacking skills. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png)![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+| [Offensive Security](https://www.offensive-security.com/labs/individual) | Practice your pentesting skills in a standalone, private lab environment within Offensive Security’s Proving Grounds | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
 | [pwnable.tw](http://pwnable.tw) | Pwnable.tw is a wargame site for hackers to test and expand their binary exploiting skills. | ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
 | [pwnable.kr](http://pwnable.kr) | A non-commercial wargame site which provides various pwn challenges regarding system exploitation. | ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
 | [Try Hack Me \(King of the Hill\)](https://tryhackme.com/games/koth) | Making it easier to break into security, all through your browswer. | ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+| [VulnHub](https://www.vulnhub.com/) | Provide materials that allows anyone to gain practical 'hands-on' experience in digital security. | N/A |
 
 ## Seasonal
 
