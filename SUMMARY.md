@@ -43,6 +43,7 @@
 * [Authentication](operation-security/operation-authentication.md)
 * [Burners](operation-security/operation-burners.md)
 * [Communication](operation-security/operation-communication.md)
+* [Operating Systems](operation-security/operation-operating-systems.md)
 
 ## Purple Security
 
@@ -55,5 +56,6 @@
 
 ## Xtras
 
+* [Entertainment](xtras/xtras-entertainment.md)
 * [Video](xtras/xtras-video.md)
 
