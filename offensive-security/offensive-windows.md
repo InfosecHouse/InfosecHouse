@@ -67,6 +67,7 @@ A list of icons to help highlight some key features about these tools/resources.
 | :--- | :--- | :--- |
 | [Pentestly](https://github.com/praetorian-inc/pentestly) | Python and Powershell internal penetration testing framework. | ![last-commit](https://img.shields.io/github/last-commit/praetorian-inc/pentestly?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Powershell Suite](https://github.com/FuzzySecurity/PowerShell-Suite) | A collection of PowerShell utilities. | ![last-commit](https://img.shields.io/github/last-commit/FuzzySecurity/PowerShell-Suite?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Stracciatella](https://github.com/mgeeky/Stracciatella) | OpSec-safe Powershell runspace from within C# with AMSI, Constrained Language Mode and Script Block Logging disabled at startup. | ![last-commit](https://img.shields.io/github/last-commit/mgeeky/Stracciatella?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
 ## RDP
 

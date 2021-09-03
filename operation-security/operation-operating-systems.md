@@ -1,6 +1,6 @@
-# Video
+# Operating Systems
 
-Talks, livestreams, and presentations.
+Hardening your operating system.
 
 ## ICON DIRECTORY
 
@@ -22,15 +22,32 @@ A list of icons to help highlight some key features about these tools/resources.
 | ![verified](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/verified.png) | Verified - Verified resource/organization. |
 | ![winner-1](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/winner.png) | Winner - Resource was a winner in the Infosec House tool battle arena. |
 
-## Livestreamers
+## Linux
 
-| Resource | Description | Directory |
+| Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [HackListX](https://hacklistx.github.io/) | A list of Hacking Streamers. | ![last-commit](https://img.shields.io/github/last-commit/HackListX/HackListX.github.io?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [InfoSec Streamers](https://infosecstreams.github.io) | InfoSec streamers list sorted based on 14-day activity to help you find active streamers more easily. | ![last-commit](https://img.shields.io/github/last-commit/infosecstreams/infosecstreams.github.io?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Hidden VM](https://github.com/aforensics/HiddenVM) | Use any desktop OS without leaving a trace. | ![last-commit](https://img.shields.io/github/last-commit/aforensics/HiddenVM?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
-## Presentations
+## Macintosh
 
-| Resource | Description | Category |
+| Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [OPSEC: Because Jail is for wuftpd](https://www.youtube.com/watch?v=9XaYdCdwiWU) | This talk focuses on practical operational security (OPSEC) measures to avoid detection and prevent arrest by Law Enforcement Officials. | Operation Security |
+| [Hidden VM](https://github.com/aforensics/HiddenVM) | Use any desktop OS without leaving a trace. | ![last-commit](https://img.shields.io/github/last-commit/aforensics/HiddenVM?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+
+## Windows
+
+| Tool | Description | Directory |
+| :--- | :--- | :--- |
+| [Blackbird]https://www.getblackbird.net/download/) | Windows privacy, security, and performance. | N/A |
+| [DisableWinTracking](https://www.softpedia.com/get/Tweak/System-Tweak/Windows-10-Tracking-Disable-Tool.shtml) | Disable tracking services and telemetry in Windows 10 and block tracking servers to protect your privacy. | N/A |
+| [DoNotSpy10](https://pxc-coding.com/donotspy10/) | Empowers you to protect your privacy on Windows 10. | N/A |
+| [Hidden VM](https://github.com/aforensics/HiddenVM) | Use any desktop OS without leaving a trace. | ![last-commit](https://img.shields.io/github/last-commit/aforensics/HiddenVM?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [O&O Shut Up](https://www.oo-software.com/en/shutup10) | Free antispy tool for Windows 10. | N/A |
+| [Privacy Repairer](https://www.securilla.com/privacy-repairer) |  tool to repair your privacy in Windows 10. | N/A |
+| [WPD](https://wpd.app/) | The real privacy dashboard for Windows. | N/A |
+| [xxUSBSentinel](https://github.com/thereisnotime/xxUSBSentinel) | Windows anti-forensics USB monitoring tool. | ![last-commit](https://img.shields.io/github/last-commit/thereisnotime/xxUSBSentinel?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+
+
+
+
+

@@ -1,6 +1,6 @@
-# Video
+# Entertainment
 
-Talks, livestreams, and presentations.
+Kick back relax and enjoy some entertainment.
 
 ## ICON DIRECTORY
 
@@ -22,15 +22,16 @@ A list of icons to help highlight some key features about these tools/resources.
 | ![verified](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/verified.png) | Verified - Verified resource/organization. |
 | ![winner-1](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/winner.png) | Winner - Resource was a winner in the Infosec House tool battle arena. |
 
-## Livestreamers
+## Music
 
-| Resource | Description | Directory |
+| Artist | Platform |
+| :--- | :--- |
+| Dual Core | [YouTube](https://www.youtube.com/user/dualcoremusic)
+| YTCracker | [Soundcloud](https://soundcloud.com/ytcracker) |
+| Yung Innanet | [Soundcloud](https://soundcloud.com/queed-inc) |
+
+## Music Videos
+
+| Video | Artists |
 | :--- | :--- | :--- |
-| [HackListX](https://hacklistx.github.io/) | A list of Hacking Streamers. | ![last-commit](https://img.shields.io/github/last-commit/HackListX/HackListX.github.io?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [InfoSec Streamers](https://infosecstreams.github.io) | InfoSec streamers list sorted based on 14-day activity to help you find active streamers more easily. | ![last-commit](https://img.shields.io/github/last-commit/infosecstreams/infosecstreams.github.io?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-
-## Presentations
-
-| Resource | Description | Category |
-| :--- | :--- | :--- |
-| [OPSEC: Because Jail is for wuftpd](https://www.youtube.com/watch?v=9XaYdCdwiWU) | This talk focuses on practical operational security (OPSEC) measures to avoid detection and prevent arrest by Law Enforcement Officials. | Operation Security |
+| [IMPRISONED BY THE SYNDICATE + WELCOME TO SAN SECUESTRO (FULL COLOR)](https://www.youtube.com/watch?v=6ot2FFc_Qq4) | YTCracker |

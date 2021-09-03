@@ -26,6 +26,7 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
+| [Greyhat Warfare](https://buckets.grayhatwarfare.com/) | Search scanned archived AWS buckets. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
 | [pacu](https://github.com/RhinoSecurityLabs/pacu) | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | ![last-commit](https://img.shields.io/github/last-commit/RhinoSecurityLabs/pacu?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [Prowler](https://github.com/toniblyx/prowler) | Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. | ![last-commit](https://img.shields.io/github/last-commit/toniblyx/prowler?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [ScoutSuite](https://github.com/nccgroup/ScoutSuite) | Multi-Cloud Security Auditing Tool. | ![last-commit](https://img.shields.io/github/last-commit/nccgroup/ScoutSuite?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
@@ -36,6 +37,7 @@ A list of icons to help highlight some key features about these tools/resources.
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
 | [Azurcar](https://github.com/nccgroup/azucar) | Security auditing tool for Azure environments | ![last-commit](https://img.shields.io/github/last-commit/nccgroup/azucar?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Greyhat Warfare](https://buckets.grayhatwarfare.com/) | Search scanned archived AWS buckets. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
 | [ScoutSuite](https://github.com/nccgroup/ScoutSuite) | Multi-Cloud Security Auditing Tool ) | ![last-commit](https://img.shields.io/github/last-commit/nccgroup/ScoutSuite?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
 ## Docker
