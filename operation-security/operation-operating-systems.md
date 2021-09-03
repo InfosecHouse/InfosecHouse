@@ -38,7 +38,7 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Blackbird]https://www.getblackbird.net/download/) | Windows privacy, security, and performance. | N/A |
+| [Blackbird](https://www.getblackbird.net/download/) | Windows privacy, security, and performance. | N/A |
 | [DisableWinTracking](https://www.softpedia.com/get/Tweak/System-Tweak/Windows-10-Tracking-Disable-Tool.shtml) | Disable tracking services and telemetry in Windows 10 and block tracking servers to protect your privacy. | N/A |
 | [DoNotSpy10](https://pxc-coding.com/donotspy10/) | Empowers you to protect your privacy on Windows 10. | N/A |
 | [Hidden VM](https://github.com/aforensics/HiddenVM) | Use any desktop OS without leaving a trace. | ![last-commit](https://img.shields.io/github/last-commit/aforensics/HiddenVM?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
