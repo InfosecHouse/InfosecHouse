@@ -51,7 +51,9 @@ _Shoutout to the following amazing individuals for suggesting and adding resourc
 | [API](offensive-security/offensive-api.md) | Tools and resources for pentesting against API endpoints. |
 | [Blogs](offensive-security/offensive-blogs.md) | Reading material for offensive security researchers. |
 | [Bug Bounty](offensive-security/offensive-bug-bounty.md) | Test out your skills against other hackers. Get paid for finding vulnerabilities. |
+| [C2](offensive-security/offensive-C2.md) | Command and Control tools and frameworks. |
 | [Cloud](offensive-security/offensive-cloud.md) | Discover tools and resources dedicated to hacking cloud platforms. |
+| [Collaboration](offensive-security/offensive-collab.md) | Discover tools and frameworks for red team collaboration. |
 | [Courses](offensive-security/offensive-courses.md) | Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase. |
 | [Cracking](offensive-security/offensive-cracking.md) | Everything you need to crack all the hashes. |
 | [CTF Offensive](offensive-security/offensive-ctf.md) | Compete your hacking skills against others. |
