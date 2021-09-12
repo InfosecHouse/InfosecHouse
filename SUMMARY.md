@@ -22,6 +22,7 @@
 * [Blogs](offensive-security/offensive-blogs.md)
 * [Bug Bounty](offensive-security/offensive-bug-bounty.md)
 * [Cloud](offensive-security/offensive-cloud.md)
+* [Collaboration](offensive-security/offensive-collab.md)
 * [Courses](offensive-security/offensive-courses.md)
 * [Cracking](offensive-security/offensive-cracking.md)
 * [CTF Offensive](offensive-security/offensive-ctf.md)
