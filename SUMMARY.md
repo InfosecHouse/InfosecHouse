@@ -21,6 +21,7 @@
 * [API](offensive-security/offensive-api.md)
 * [Blogs](offensive-security/offensive-blogs.md)
 * [Bug Bounty](offensive-security/offensive-bug-bounty.md)
+* [C2](offensive-security/offensive-C2.md)
 * [Cloud](offensive-security/offensive-cloud.md)
 * [Collaboration](offensive-security/offensive-collab.md)
 * [Courses](offensive-security/offensive-courses.md)
