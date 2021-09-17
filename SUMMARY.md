@@ -7,6 +7,7 @@
 * [Asset Management](defensive-security/defensive-assets-management.md)
 * [Firewalls](defensive-security/defensive-firewalls.md)
 * [Forensics](defensive-security/defensive-forensics.md)
+* [Honeypots](defensive-security/defensive-honeypot.md)
 * [IDS/IPS](defensive-security/defensive-ids-ips.md)
 * [Incident Response](defensive-security/defensive-ir.md)
 * [IOC](defensive-security/defensive-ioc.md)

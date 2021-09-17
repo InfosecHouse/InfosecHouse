@@ -1,6 +1,6 @@
-# Entertainment
+# Honeypots
 
-Kick back relax and enjoy some entertainment.
+Catch them with their hands/attacks sticky.
 
 ## ICON DIRECTORY
 
@@ -22,22 +22,8 @@ A list of icons to help highlight some key features about these tools/resources.
 | ![verified](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/verified.png) | Verified - Verified resource/organization. |
 | ![winner-1](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/winner.png) | Winner - Resource was a winner in the Infosec House tool battle arena. |
 
-## Music
+## http
 
-| Artist | Platform |
-| :--- | :--- |
-| Beefy | [YouTube](https://www.youtube.com/c/Beefy/videos) |
-| Dual Core | [YouTube](https://www.youtube.com/user/dualcoremusic) |
-| Lex the Lexicon Artist | [YouTube](https://www.youtube.com/c/TheLexiconArtist) |
-| MC Frontalot | [YouTube](https://www.youtube.com/c/MCFrontalotOFFICIAL) |
-| MC Lars | [YouTube](https://www.youtube.com/c/horrisrecords) |
-| Mega Ran | [YouTube](https://www.youtube.com/c/megaran) |
-| Scheffer the Dark Lord | []() |
-| YTCracker | [Soundcloud](https://soundcloud.com/ytcracker) |
-| Yung Innanet | [Soundcloud](https://soundcloud.com/queed-inc) |
-
-## Music Videos
-
-| Video | Artists |
+| Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [IMPRISONED BY THE SYNDICATE + WELCOME TO SAN SECUESTRO (FULL COLOR)](https://www.youtube.com/watch?v=6ot2FFc_Qq4) | YTCracker |
+| [HellPot](https://github.com/yunginnanet/HellPot) | HellPot is an endless honeypot that sends bots to hell. Based on Heffalump. | ![last-commit](https://img.shields.io/github/last-commit/yunginnanet/HellPot?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
