@@ -36,7 +36,7 @@ _Shoutout to the following amazing individuals for suggesting and adding resourc
 | :--- | :--- |
 | [Asset Management](defensive-security/defensive-assets-management.md) | Keep track of your inventory. You can't protect what you don't see. |
 | [Forensics](defensive-security/defensive-forensics.md) | Uncover the dirty little secrets of a recovered HDD, Image, malware, and more. |
-| [Honeypots](defensive-security/defensive-ids-ips.md) | Catch them with their hands/attacks sticky. |
+| [Honeypots](defensive-security/defensive-honeypot.md) | Catch them with their hands/attacks sticky. |
 | [IDS/IPS](defensive-security/defensive-ids-ips.md) | Intrusion Detection and Prevention Systems. |
 | [Incident Response](defensive-security/defensive-ir.md) | Incident response tools, and resources when alarms pop off. |
 | [IOC](defensive-security/defensive-ioc.md) | Indicators of compromise. Discover if you've been compromised. |
