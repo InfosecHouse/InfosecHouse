@@ -94,5 +94,6 @@ _Shoutout to the following amazing individuals for suggesting and adding resourc
 
 | Sub-Category | Description |
 | :--- | :--- |
-| [Video](xtras/xtras-video.md) | Kick back relax and enjoy some entertainment. |
+| [Entertainment](xtras/xtras-entertainment.md) | Kick back relax and enjoy some entertainment. |
+| [Video](xtras/xtras-video.md) | Talks, livestreams, and presentations. |
 
