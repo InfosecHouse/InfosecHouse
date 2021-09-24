@@ -302,6 +302,7 @@ A list of icons to help highlight some key features about these tools/resources.
 |AVM                                                 |<blank>                   |<blank>                                                        |
 
 ## AWARD
+
 | Vendor  | User | Password |
 |:--------|:-----|:---------|
 |AWARD                                               |<blank>                   |1322222                                                        |
@@ -424,9 +425,16 @@ A list of icons to help highlight some key features about these tools/resources.
 |:--------|:-----|:---------|
 |AddPac Technology                                   |root                      |router                                                         |
 
+## Addon
+
 | Vendor  | User | Password |
 |:--------|:-----|:---------|
 |Addon                                               |admin                     |admin                                                          |
+
+## Adobe
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Adobe                                               |admin                     |admin                                                          |
 |Adobe                                               |anonymous                 |anonymous                                                      |
 |Adobe                                               |aparker@geometrixx.info   |aparker                                                        |
@@ -435,25 +443,90 @@ A list of icons to help highlight some key features about these tools/resources.
 |Adobe                                               |replication-receiver      |<blank>                                                        |
 |Adobe                                               |replication-receiver      |replication-receiver                                           |
 |Adobe                                               |vgnadmin                  |vgnadmin                                                       |
+
+## Adtech
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Adtech                                              |root                      |ax400                                                          |
+
+## Adtran
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Adtran                                              |                          |adtran                                                         |
 |Adtran                                              |<blank>                   |adtran                                                         |
 |Adtran                                              |admin                     |password                                                       |
+
+## Advanced Intergration
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Advanced Integration                                |                          |Advance                                                        |
 |Advanced Integration                                |<blank>                   |Advance                                                        |
+
+## Advantek Networks
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Advantek Networks                                   |admin                     |<blank>                                                        |
+
+## Aethra
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Aethra                                              |admin                     |password                                                       |
+
+## Airlink
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |AirLink Plus                                        |(none)                    |admin                                                          |
 |AirLink Plus                                        |<blank>                   |admin                                                          |
+
+## AirTies
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |AirTies RT-210                                      |admin                     |admin                                                          |
+
+## Airlink
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Airlink                                             |(none)                    |admin                                                          |
-|Airlink                                             |<blank>                   |admin                                                          |
+|Airlink                                            |<blank>                   |admin                                                          |
+
+## Aironet
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Aironet                                             |(blank)                   |(none)                                                         |
 |Aironet                                             |<blank>                   |<blank>                                                        |
+
+## Airties
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Airties                                             |                          |                                                               |
+
+## Airway
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Airway                                              |(none)                    |0                                                              |
 |Airway                                              |<blank>                   |0                                                              |
+
+## Aladdin
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Aladdin                                             |root                      |kn1TG7psLu                                                     |
+
+## Alcatel
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Alcatel                                             |(none)                    |(none)                                                         |
 |Alcatel                                             |<blank>                   |1064                                                           |
 |Alcatel                                             |<blank>                   |<blank>                                                        |
@@ -479,9 +552,24 @@ A list of icons to help highlight some key features about these tools/resources.
 |Alcatel                                             |root                      |letacla                                                        |
 |Alcatel                                             |root                      |permit                                                         |
 |Alcatel                                             |superuser                 |superuser                                                      |
+
+## Alcatel Thomson
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Alcatel Thomson                                     |admin                     |admin                                                          |
+
+## Alien Technology
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Alien Technology                                    |alien                     |alien                                                          |
 |Alien Technology                                    |root                      |alien                                                          |
+
+## Allied Telesyn
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Allied Telesyn                                      |                          |manager                                                        |
 |Allied Telesyn                                      |<blank>                   |admin                                                          |
 |Allied Telesyn                                      |<blank>                   |manager                                                        |
@@ -491,27 +579,82 @@ A list of icons to help highlight some key features about these tools/resources.
 |Allied Telesyn                                      |manager                   |manager                                                        |
 |Allied Telesyn                                      |root                      |<blank>                                                        |
 |Allied Telesyn                                      |secoff                    |secoff                                                         |
+
+## Allnet
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Allnet                                              |admin                     |admin                                                          |
+
+## Allot 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Allot                                               |admin                     |allot                                                          |
 |Allot                                               |root                      |bagabu                                                         |
+
+## Alteon
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Alteon                                              |admin                     |(none)                                                         |
 |Alteon                                              |admin                     |<blank>                                                        |
 |Alteon                                              |admin                     |admin                                                          |
 |Alteon                                              |admin                     |linga                                                          |
+
+## Ambit
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Ambit                                               |root                      |<blank>                                                        |
 |Ambit                                               |root                      |root                                                           |
 |Ambit                                               |user                      |user                                                           |
+
+## American Dynamics 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |American Dynamics EDVR (telnet)                     |admin                     |9999                                                           |
+
+## Amigo
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Amigo                                               |admin                     |epicrouter                                                     |
 |Amino                                               |(none)                    |leaves                                                         |
 |Amino                                               |(none)                    |snake                                                          |
 |Amino                                               |<blank>                   |leaves                                                         |
 |Amino                                               |<blank>                   |snake                                                          |
+
+## Amitech
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Amitech                                             |admin                     |admin                                                          |
+
+## AmpJuke
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |AmpJuke                                             |admin                     |pass                                                           |
+
+## Apmtron
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Amptron                                             |                          |Polrty                                                         |
 |Amptron                                             |<blank>                   |Polrty                                                         |
+
+## Andover Controls
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Andover Controls                                    |acc                       |acc                                                            |
+
+## Apache
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Apache                                              |admin                     |<blank>                                                        |
 |Apache                                              |admin                     |admin                                                          |
 |Apache                                              |admin                     |j5Brn9                                                         |
@@ -560,6 +703,11 @@ A list of icons to help highlight some key features about these tools/resources.
 |Apache Tomcat Host Manager (web)                    |tomcat                    |s3cret                                                         |
 |Apache Tomcat Host Manager (web)                    |tomcat                    |tomcat                                                         |
 |Apache Tomcat Host Manager (web)                    |xampp                     |xampp                                                          |
+
+## Apple
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Apple                                               |<blank>                   |admin                                                          |
 |Apple                                               |<blank>                   |password                                                       |
 |Apple                                               |<blank>                   |public                                                         |
@@ -574,46 +722,156 @@ A list of icons to help highlight some key features about these tools/resources.
 |Apple Computer                                      |<blank>                   |xyzzy                                                          |
 |Apple Jailbroken Device (ssh)                       |root                      |alpine                                                         |
 |Apple Jailbroken Device (ssh)                       |root                      |dottie                                                         |
+
+## Applied Innovations
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Applied Innovations                                 |scout                     |scout                                                          |
+
+## Areca
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Areca                                               |admin                     |0                                                              |
+
+## Arescom 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Arescom                                             |<blank>                   |atc123                                                         |
 |Arescom                                             |n/a                       |atc123                                                         |
+
+## Aris
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Aris (mssql)                                        |ARIS9                     |*ARIS!1dm9n#                                                   |
+
+## Arlotto
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Arlotto                                             |admin                     |123456                                                         |
+
+## Arris
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Arris                                               |admin                     |password                                                       |
+
+## Arrowpoint
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Arrowpoint                                          |(blank)                   |(none)                                                         |
 |Arrowpoint                                          |<blank>                   |<blank>                                                        |
 |Arrowpoint                                          |admin                     |system                                                         |
+
+## Aruba
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Aruba                                               |admin                     |admin                                                          |
 |Aruba (web)                                         |admin                     |admin                                                          |
-|Arun                                                |123                       |234                                                            |
+
+## Arun
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Arun                                                |123                       |234                                                            |'
+
+## Asante
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Asante                                              |IntraStack                |Asante                                                         |
 |Asante                                              |IntraSwitch               |Asante                                                         |
 |Asante                                              |admin                     |asante                                                         |
 |Asante                                              |superuser                 |<blank>                                                        |
 |Asante                                              |superuser                 |asante                                                         |
+
+## Ascend
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Ascend                                              |                          |ascend                                                         |
 |Ascend                                              |<blank>                   |ascend                                                         |
 |Ascend                                              |readonly                  |lucenttech2                                                    |
 |Ascend                                              |readwrite                 |lucenttech1                                                    |
 |Ascend                                              |root                      |ascend                                                         |
+
+## Ascom
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Ascom                                               |(none)                    |3ascotel                                                       |
 |Ascom                                               |<blank>                   |3ascotel                                                       |
+
+## Aspect
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Aspect                                              |DTA                       |TJM                                                            |
 |Aspect                                              |customer                  |<blank>                                                        |
+
+## Asterisk
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Asterisk                                            |Admin                     |admin                                                          |
+
+## Asus
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Asus                                                |<blank>                   |admin                                                          |
 |Asus                                                |admin                     |admin                                                          |
 |Asus                                                |adsl                      |adsl1234                                                       |
+
+## Atlantis
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Atlantis                                            |admin                     |atlantis                                                       |
+
+## Atlassian
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Atlassian                                           |Crowd                     |password                                                       |
 |Atlassian                                           |Demo                      |password                                                       |
 |Atlassian                                           |Username                  |password                                                       |
 |Atlassian                                           |crowd-openid-server       |password                                                       |
+
+## Attachmate
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Attachmate                                          |<blank>                   |PASSWORD                                                       |
+
+## AudioCodes
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |AudioCodes Mediant 1000 (web)                       |Admin                     |Admin                                                          |
+
+## Audioactive
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Audioactive                                         |<blank>                   |telos                                                          |
+
+## Autodesk
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Autodesk                                            |autocad                   |autocad                                                        |
+
+## Avaya
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Avaya                                               |<blank>                   |<blank>                                                        |
 |Avaya                                               |<blank>                   |Craftr4                                                        |
 |Avaya                                               |<blank>                   |admin                                                          |
@@ -634,8 +892,23 @@ A list of icons to help highlight some key features about these tools/resources.
 |Avaya                                               |root                      |ggdaseuaimhrke                                                 |
 |Avaya                                               |root                      |root                                                           |
 |Avaya Contact Center (web)                          |webadmin                  |webadmin                                                       |
+
+## Avenger
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Avenger News System (ANS)                           |<blank>                   |Administrative                                                 |
+
+## Avocent
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Avocent                                             |root                      |tslinux                                                        |
+
+## Award
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Award                                               |<blank>                   |1322222                                                        |
 |Award                                               |<blank>                   |256256                                                         |
 |Award                                               |<blank>                   |?award                                                         |
@@ -677,74 +950,249 @@ A list of icons to help highlight some key features about these tools/resources.
 |Award                                               |<blank>                   |t0ch88                                                         |
 |Award                                               |<blank>                   |wodj                                                           |
 |Award                                               |<blank>                   |zbaaaca                                                        |
+
+## Axis
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Axis                                                |<blank>                   |<blank>                                                        |
 |Axis                                                |root                      |pass                                                           |
 |Axis Communications                                 |root                      |pass                                                           |
+
+## Axway
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Axway                                               |setup                     |setup                                                          |
+
+## Aztech
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Aztech                                              |admin                     |admin                                                          |
 |Aztech                                              |isp                       |isp                                                            |
 |Aztech                                              |root                      |admin                                                          |
-|BBR-4MG and                                         |root                      |<blank>                                                        |
+
+## BBR-4MG
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|BBR-4MG                                       |root                      |<blank>                                                        |
+
+## BEA
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |BEA                                                 |system                    |weblogic                                                       |
+
+## BECU
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |BECU                                                |musi1921                  |Musii%1921                                                     |
+
+## BLACKBOX
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |BLACKBOX                                            |Administrator             |public                                                         |
+
+## BMC
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |BMC                                                 |patrol                    |patrol                                                         |
 |BMC Software                                        |Administrator             |the same all over                                              |
 |BMC Software                                        |Best1_User                |BackupU$r                                                      |
+
+## BNT
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |BNI                                                 |USER                      |USER                                                           |
+
+## BT
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |BT                                                  |admin                     |admin                                                          |
+
+## Barraucuda 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Barracuda                                           |admin                     |admin                                                          |
 |Barracuda                                           |ssladmin                  |ssladmin                                                       |
 |Barracuda (web)                                     |admin                     |admin                                                          |
 |Barracuda (web)                                     |ssladmin                  |ssladmin                                                       |
+
+## Bausch Datacom
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Bausch Datacom                                      |admin                     |epicrouter                                                     |
+
+## Bay Network
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Bay Networks                                        |<blank>                   |NetICs                                                         |
 |Bay Networks                                        |Manager                   |<blank>                                                        |
 |Bay Networks                                        |User                      |<blank>                                                        |
 |Bay Networks                                        |security                  |security                                                       |
+
+## Beetel
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Beetel                                              |admin                     |admin                                                          |
 |Beetel                                              |admin                     |password                                                       |
+
+## Belkin
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Belkin                                              |                          |MiniAP                                                         |
 |Belkin                                              |<blank>                   |MiniAP                                                         |
 |Belkin                                              |<blank>                   |admin                                                          |
 |Belkin                                              |admin                     |<blank>                                                        |
+
+## Benq
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Benq                                                |admin                     |admin                                                          |
+
+## Best Practical
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Best Practical Solutions                            |root                      |password                                                       |
 |BestPractical                                       |root                      |password                                                       |
+
+## Bewan
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Bewan                                               |bewan                     |bewan                                                          |
+
+## Billion
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Billion                                             |<blank>                   |<blank>                                                        |
 |Billion                                             |admin                     |admin                                                          |
+
+## BinTec
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |BinTec                                              |<blank>                   |snmp-Trap                                                      |
 |BinTec                                              |Admin                     |No                                                             |
 |BinTec                                              |admin                     |bintec                                                         |
 |Bintec                                              |admin                     |bintec                                                         |
 |Bintec                                              |admin                     |funkwerk                                                       |
+
+## Biodata
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Biodata                                             |<blank>                   |Babylon                                                        |
 |Biodata                                             |config                    |biodata                                                        |
+
+## Biostar
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Biostar                                             |<blank>                   |Biostar                                                        |
 |Biostar                                             |<blank>                   |Q54arwms                                                       |
+
+## Biscom
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Biscom                                              |admin                     |admin                                                          |
+
+## BizDesign
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |BizDesign                                           |Admin                     |ImageFolio                                                     |
+
+## Black Widow 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Black Widow Web Design Ltd                          |admin                     |nimda                                                          |
+
+## Blaeri
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Blaeri                                              |Blaeri                    |22332323                                                       |
+
+## Blitzz
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Blitzz Technologies                                 |admin                     |admin                                                          |
+
+## Blue Coat System 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Blue Coat Systems                                   |admin                     |articon                                                        |
+
+## Bluecoat
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Bluecoat                                            |admin                     |admin                                                          |
+
+## Bomgar
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Bomgar                                              |admin                     |password                                                       |
+
+## Borland
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Borland                                             |<blank>                   |<blank>                                                        |
 |Borland                                             |politically               |correct                                                        |
+
+## Bosch 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Bosch                                               |live                      |live                                                           |
 |Bosch                                               |service                   |service                                                        |
 |Bosch                                               |user                      |user                                                           |
 |Bosch RPS (mssql)                                   |sa                        |RPSsql12345                                                    |
+
+## Breezecom
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Breezecom                                           |<blank>                   |<blank>                                                        |
 |Breezecom                                           |<blank>                   |Helpdesk                                                       |
 |Breezecom                                           |<blank>                   |Master                                                         |
 |Breezecom                                           |<blank>                   |Super                                                          |
 |Breezecom                                           |<blank>                   |laflaf                                                         |
+
+## Broadlogic
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Broadlogic                                          |admin                     |admin                                                          |
 |Broadlogic                                          |installer                 |installer                                                      |
 |Broadlogic                                          |webadmin                  |webadmin                                                       |
+
+## Brocade 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Brocade                                             |admin                     |brocade1                                                       |
 |Brocade                                             |admin                     |password                                                       |
 |Brocade                                             |factory                   |Fact4EMC                                                       |
@@ -752,16 +1200,34 @@ A list of icons to help highlight some key features about these tools/resources.
 |Brocade                                             |root                      |fibranne                                                       |
 |Brocade                                             |root                      |fivranne                                                       |
 |Brocade                                             |user                      |password                                                       |
+
+## Brother
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Brother                                             |<blank>                   |access                                                         |
 |Brother                                             |admin                     |access                                                         |
 |Brother HL Series (printer)                         |admin                     |access                                                         |
 |Brother Industries Ltd.                             |<blank>                   |0                                                              |
 |Brother Industries Ltd.                             |<blank>                   |12345678                                                       |
 |Brother Industries Ltd.                             |admin                     |access                                                         |
+
+## Buffalo
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Buffalo                                             |root                      |<blank>                                                        |
 |Buffalo Technology                                  |admin                     |password                                                       |
 |Buffalo/MELCO                                       |root                      |<blank>                                                        |
+
+## Busybox
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Busybox                                             |admin                     |admin                                                          |
+
+*Will finish organizing soon*
+
 |CA APM Team Center (web)                            |Admin                     |<blank>                                                        |
 |CA APM Team Center (web)                            |Guest                     |Guest                                                          |
 |CA NetQoS (web)                                     |nqadmin                   |nq                                                             |
