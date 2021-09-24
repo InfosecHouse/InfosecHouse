@@ -54,6 +54,7 @@
 * [Emulation](purple-security/purple-emulation.md)
 * [Network](purple-security/purple-network.md)
 * [OSINT](purple-security/purple-osint.md)
+* [Passwords](purple-security/purple-passwords.md)
 * [Reverse Engineering](purple-security/purple-re.md)
 * [Write-Ups](purple-security/purple-write-ups.md)
 

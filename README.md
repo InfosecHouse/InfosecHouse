@@ -87,6 +87,7 @@ _Shoutout to the following amazing individuals for suggesting and adding resourc
 | [Emulation](purple-security/purple-emulation.md) | Emulate the adversary. |
 | [Network](purple-security/purple-network.md) | Network tools both offensive and defensive operations can utilize. |
 | [OSINT](purple-security/purple-osint.md) | Open-Source Intel. Get all the information needed for your target. |
+| [Passwords](purple-security/purple-passwords.md) | From default passwords, to brute force dictionaries. |
 | [Reverse Engineering](purple-security/purple-re.md) | Reverse engineering tools both offensive and defensive operations can utilize. |
 | [Write-Ups](purple-security/purple-write-ups.md) | Write-ups both offensive and defensive operataions can utilize. |
 
