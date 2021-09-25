@@ -106,13 +106,15 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Vendor  | User | Password |
 |:--------|:-----|:---------|
-|ACCTON                                              |(none)                    |0                                                              |
-|ACCTON                                              |<blank>                   |0                                                              |
-|ACCTON                                              |__super                   |(caclulated)                                                   |
-|ACCTON                                              |admin                     |(none)                                                         |
-|ACCTON                                              |admin                     |<blank>                                                        |
-|ACCTON                                              |manager                   |manager                                                        |
-|ACCTON                                              |monitor                   |monitor                                                        |
+|Accton                                              |(none)                    |0                                                              |
+|Accton                                              |<blank>                   |0                                                              |
+|Accton                                              |__super                   |(caclulated)                                                   |
+|Accton                                              |admin                     |(none)                                                         |
+|Accton                                              |admin                     |<blank>                                                        |
+|Accton                                              |manager                   |manager                                                        |
+|Accton                                              |monitor                   |monitor                                                        |
+|Accton                                              |__super                   |(caclulated)                                                   |
+|Accton (t-online)                                     |<blank>                   |0                                                              |
 
 ## ADC Kentrox
 
@@ -153,7 +155,12 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Vendor  | User | Password |
 |:--------|:-----|:---------|
-|ADTRAN                                              |admin                     |password                                                       |
+|Adtran                                              |admin                     |password                                                       |
+|Adtran                                              |                          |adtran                                                         |
+|Adtran                                              |<blank>                   |adtran                                                         |
+|Adtran                                              |admin                     |password                                                       |
+|Adtran                                              |<blank>                   |<blank>                                                        |
+|Adtran                                              |<blank>                   |Password                                                       |
 
 ## Airaya
 
@@ -212,6 +219,12 @@ A list of icons to help highlight some key features about these tools/resources.
 |AMX                                                 |guest                     |guest                                                          |
 |AMX                                                 |root                      |mozart                                                         |
 
+## Antsle
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Antsle (ssh)                                        |root                      |antsle                                                         |
+
 ## AOC
 
 | Vendor  | User | Password |
@@ -261,17 +274,28 @@ A list of icons to help highlight some key features about these tools/resources.
 |:--------|:-----|:---------|
 |APC UPS (web)                                       |apc                       |apc                                                            |
 
+
+## Arecont
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Arecont (web)                                       |<blank>                   |<blank>                                                        |
+|Arecont (web)                                       |admin                     |<blank>                                                        |
+
 ## ARtem
 
 | Vendor  | User | Password |
 |:--------|:-----|:---------|
 |ARtem                                               |<blank>                   |admin                                                          |
 
-## ASMAX
+## Asmax
 
 | Vendor  | User | Password |
 |:--------|:-----|:---------|
-|ASMAX                                               |admin                     |epicrouter                                                     |
+|Asmax                                               |admin                     |epicrouter                                                     |
+|Asmax (ssh)                                         |admin                     |admin                                                          |
+|Asmax (ssh)                                         |support                   |support                                                        |
+|Asmax (ssh)                                         |user                      |user                                                           |
 
 ## AST
 
@@ -294,12 +318,25 @@ A list of icons to help highlight some key features about these tools/resources.
 |ATL                                                 |Service                   |5678                                                           |
 |ATL                                                 |operator                  |1234                                                           |
 
+## Avigilon
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Avigilon (web)                                      |Administrator             |<blank>                                                        |
+|Avigilon (web)                                      |admin                     |admin                                                          |
+
 ## AVM
 
 | Vendor  | User | Password |
 |:--------|:-----|:---------|
 |AVM                                                 |<blank>                   |0                                                              |
 |AVM                                                 |<blank>                   |<blank>                                                        |
+
+## Avtech
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Avtech (web)                                        |admin                     |admin                                                          |
 
 ## AWARD
 
@@ -372,11 +409,6 @@ A list of icons to help highlight some key features about these tools/resources.
 |:--------|:-----|:---------|
 |Accelerated Networks                                |sysadm                    |anicust                                                        |
 
-## Accton
-
-| Vendor  | User | Password |
-|:--------|:-----|:---------|
-|Accton                                              |__super                   |(caclulated)                                                   |
 
 ## Aceex
 
@@ -391,6 +423,16 @@ A list of icons to help highlight some key features about these tools/resources.
 |Acer                                                |(none)                    |(none)                                                         |
 |Acer                                                |(none)                    |Admin                                                          |
 |Acer                                                |<blank>                   |<blank>                                                        |
+|Acer                                                |acer                      |acer                                                           |
+
+## Acti
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Acti (web)                                          |Admin                     |12345                                                          |
+|Acti (web)                                          |Admin                     |123456                                                         |
+|Acti (web)                                          |admin                     |12345                                                          |
+|Acti (web)                                          |admin                     |123456                                                         |
 
 ## Actiontec
 
@@ -449,14 +491,6 @@ A list of icons to help highlight some key features about these tools/resources.
 | Vendor  | User | Password |
 |:--------|:-----|:---------|
 |Adtech                                              |root                      |ax400                                                          |
-
-## Adtran
-
-| Vendor  | User | Password |
-|:--------|:-----|:---------|
-|Adtran                                              |                          |adtran                                                         |
-|Adtran                                              |<blank>                   |adtran                                                         |
-|Adtran                                              |admin                     |password                                                       |
 
 ## Advanced Intergration
 
@@ -615,6 +649,7 @@ A list of icons to help highlight some key features about these tools/resources.
 | Vendor  | User | Password |
 |:--------|:-----|:---------|
 |American Dynamics EDVR (telnet)                     |admin                     |9999                                                           |
+|American Dynamics (web)                             |admin                     |admin                                                          |
 
 ## Amigo
 
@@ -815,6 +850,12 @@ A list of icons to help highlight some key features about these tools/resources.
 |Aspect                                              |DTA                       |TJM                                                            |
 |Aspect                                              |customer                  |<blank>                                                        |
 
+## AST
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|AST                                                 |<blank>                   |<blank>                                                        |
+
 ## Asterisk
 
 | Vendor  | User | Password |
@@ -828,6 +869,10 @@ A list of icons to help highlight some key features about these tools/resources.
 |Asus                                                |<blank>                   |admin                                                          |
 |Asus                                                |admin                     |admin                                                          |
 |Asus                                                |adsl                      |adsl1234                                                       |
+|Asus (ssh)                                          |Admin                     |Admin                                                          |
+|Asus (ssh)                                          |admin                     |admin                                                          |
+|Asus (ssh)                                          |admin                     |password                                                       |
+|Asus (ssh)                                          |root                      |root                                                           |
 
 ## Atlantis
 
@@ -957,7 +1002,8 @@ A list of icons to help highlight some key features about these tools/resources.
 |:--------|:-----|:---------|
 |Axis                                                |<blank>                   |<blank>                                                        |
 |Axis                                                |root                      |pass                                                           |
-|Axis Communications                                 |root                      |pass                                                           |
+|Axis (web)                                          |root                      |admin                                                          |
+|Axis (web)                                          |root                      |pass                                                           |
 
 ## Axway
 
@@ -972,6 +1018,18 @@ A list of icons to help highlight some key features about these tools/resources.
 |Aztech                                              |admin                     |admin                                                          |
 |Aztech                                              |isp                       |isp                                                            |
 |Aztech                                              |root                      |admin                                                          |
+
+## Backtrack Linux
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Backtrack                                           |root                      |toor                                                           |
+
+## Basler
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Basler (web)                                        |admin                     |admin                                                          |
 
 ## BBR-4MG
 
@@ -990,6 +1048,12 @@ A list of icons to help highlight some key features about these tools/resources.
 | Vendor  | User | Password |
 |:--------|:-----|:---------|
 |BECU                                                |musi1921                  |Musii%1921                                                     |
+
+## BHU
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|BHU (ssh)                                           |admin                     |admin                                                          |
 
 ## BLACKBOX
 
@@ -1010,6 +1074,12 @@ A list of icons to help highlight some key features about these tools/resources.
 | Vendor  | User | Password |
 |:--------|:-----|:---------|
 |BNI                                                 |USER                      |USER                                                           |
+
+## Boson
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Boson                                               |<blank>                   |<blank>                                                        |
 
 ## BT
 
@@ -1181,6 +1251,13 @@ A list of icons to help highlight some key features about these tools/resources.
 |Breezecom                                           |<blank>                   |Super                                                          |
 |Breezecom                                           |<blank>                   |laflaf                                                         |
 
+## Brickcom
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Brickcom (web)                                      |admin                     |admin                                                          |
+
+
 ## Broadlogic
 
 | Vendor  | User | Password |
@@ -1226,53 +1303,193 @@ A list of icons to help highlight some key features about these tools/resources.
 |:--------|:-----|:---------|
 |Busybox                                             |admin                     |admin                                                          |
 
-*Will finish organizing soon*
+## CA APM Team Center
 
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |CA APM Team Center (web)                            |Admin                     |<blank>                                                        |
 |CA APM Team Center (web)                            |Guest                     |Guest                                                          |
+
+## CA NetQoS
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |CA NetQoS (web)                                     |nqadmin                   |nq                                                             |
 |CA NetQoS (web)                                     |nquser                    |nq                                                             |
+
+## CA
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |CA Process Automation                               |pamadmin                  |pamadmin                                                       |
+
+## Canyon
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Canyon                                              |Administrator             |admin                                                          |
+
+## CCH
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |CCH (mssql)                                         |sa                        |PracticeUser1                                                  |
+
+## CGI World
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |CGI World                                           |<blank>                   |protection                                                     |
+
+## Cisco
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |CISCO                                               |Administrator             |admin                                                          |
 |CISCO                                               |admin                     |admin                                                          |
 |CISCO                                               |user                      |tivonpw                                                        |
+
+## CNET
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |CNET                                                |admin                     |1234                                                           |
 |CNET                                                |admin                     |epicrouter                                                     |
 |CNet                                                |Admin                     |admin                                                          |
+
+## COM3
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |COM3                                                |admin                     |admin                                                          |
+
+## CTX Internetnal
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |CTX International                                   |<blank>                   |CTX_123                                                        |
+
+## Cable and Wireless
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Cable And Wireless                                  |admin                     |1234                                                           |
+
+## Caldera
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Caldera                                             |admin                     |admin                                                          |
+
+## Caletron
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Cabletron                                           |<blank>                   |<blank>                                                        |
 |Cabletron                                           |netman                    |<blank>                                                        |
+
+## Calix
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Calix                                               |admin                     |(blank)                                                        |
 |Calix                                               |admin                     |admin                                                          |
+
+## Canon
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Canon                                               |<blank>                   |0                                                              |
-|Canon/Brother                                       |7654321                   |7654321                                                        |
+|Canon                                               |7654321                   |7654321                                                        |
+|Canon (web)                                         |root                      |camera                                                         |
+
+## Capricorn
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Capricorn Infotech India                            |<blank>                   |1234567890                                                     |
+
+## CareStream
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |CareStream Health                                   |KeyOperator               |DV5800                                                         |
 |CareStream Health                                   |LocalService              |DV5800                                                         |
+
+## Carsten Schmitz
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Carsten Schmitz                                     |admin                     |password                                                       |
+
+## Cayman
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Cayman                                              |<blank>                   |<blank>                                                        |
 |Cayman                                              |admin                     |(serial number)                                                |
 |Cayman                                              |admin                     |<blank>                                                        |
 |Cayman                                              |}                         |<blank>                                                        |
+
+## Celebrity
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Celerity                                            |mediator                  |mediator                                                       |
 |Celerity                                            |root                      |Mua'dib                                                        |
+
+## Cellit
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Cellit                                              |cellit                    |cellit                                                         |
+
+## Centreon
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Centreon WebUI                                      |admin                     |centreon                                                       |
+
+## Ceragon Networks
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Ceragon Networks                                    |root                      |tooridu                                                        |
+
+## Chase Research
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Chase Research                                      |<blank>                   |iolan                                                          |
+
+## Checkpoint
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Check Point                                         |admin                     |admin                                                          |
 |Check Point                                         |admin                     |adminadmin                                                     |
 |Checkpoint                                          |admin                     |abc123                                                         |
 |Checkpoint                                          |admin                     |admin                                                          |
 |Checkpoint (web)                                    |admin                     |abc123                                                         |
 |Checkpoint (web)                                    |admin                     |admin                                                          |
+
+## Chuming Chen
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Chuming Chen                                        |administrator             |adminpass                                                      |
+
+## CipherTrust
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |CipherTrust                                         |admin                     |password                                                       |
 |Ciphertrust                                         |admin                     |password                                                       |
+
+## Cisco
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Cisco                                               |<blank>                   |<blank>                                                        |
 |Cisco                                               |<blank>                   |Cisco                                                          |
 |Cisco                                               |<blank>                   |Cisco router                                                   |
@@ -1337,24 +1554,84 @@ A list of icons to help highlight some key features about these tools/resources.
 |Cisco Guard (snmp)                                  |<blank>                   |riverhead                                                      |
 |Cisco Systems (general)                             |cisco                     |cisco                                                          |
 |Cisco-Arrowpoint                                    |admin                     |system                                                         |
+
+## Citel
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Citel                                               |<blank>                   |citel                                                          |
 |Citel                                               |citel                     |password                                                       |
+
+## Citrix
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Citrix Systems (web)                                |nsroot                    |nsroot                                                         |
 |Citrix Systems (web)                                |root                      |rootadmin                                                      |
+
+## Claris
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Claris                                              |<blank>                   |familymacintosh                                                |
+
+## ClearOne
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |ClearOne Communications                             |ClearOne                  |RAV                                                            |
 |ClearOne Communications                             |clearone                  |converge                                                       |
+
+## Clearpass
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |ClearPass (general)                                 |admin                     |eTIPS123                                                       |
+
+## Cnet
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Cnet                                                |Admin                     |epicrouter                                                     |
 |Cnet                                                |admin                     |password                                                       |
+
+## Cobalt
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Cobalt                                              |admin                     |admin                                                          |
+
+## Colubris
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Colubris                                            |admin                     |admin                                                          |
 |Colubris Networks                                   |admin                     |admin                                                          |
+
+## Comcast
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Comcast Home Networking                             |comcast                   |<blank>                                                        |
 |Comcast SMC                                         |cusadmin                  |CantTouchThis                                                  |
 |Comcast SMC                                         |cusadmin                  |highspeed                                                      |
+
+## Comersus
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Comersus                                            |admin                     |dmr99                                                          |
+
+## Comodo
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Comodo Group,Inc                                    |mydlp                     |mydlp                                                          |
+
+## Compaq
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Compaq                                              |<blank>                   |<blank>                                                        |
 |Compaq                                              |<blank>                   |Compaq                                                         |
 |Compaq                                              |PFCUser                   |240653C9467E45                                                 |
@@ -1365,14 +1642,39 @@ A list of icons to help highlight some key features about these tools/resources.
 |Compaq                                              |root                      |rootme                                                         |
 |Compaq                                              |user                      |public                                                         |
 |Compaq                                              |user                      |user                                                           |
+
+## Compualynx
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Compualynx                                          |administrator             |asecret                                                        |
+
+## Comtrend
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Comtrend                                            |admin                     |1234                                                           |
 |Comtrend                                            |admin                     |<blank>                                                        |
 |Comtrend                                            |admin                     |admin                                                          |
+
+## Conceptronic
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Conceptronic                                        |admin                     |1234                                                           |
 |Conceptronic                                        |admin                     |password                                                       |
 |Conceptronic                                        |anonymous                 |password                                                       |
+
+## Concord
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Concord                                             |<blank>                   |last                                                           |
+
+## Conexant
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Conexant                                            |<blank>                   |admin                                                          |
 |Conexant                                            |<blank>                   |epicrouter                                                     |
 |Conexant                                            |Administrator             |admin                                                          |
@@ -1380,24 +1682,101 @@ A list of icons to help highlight some key features about these tools/resources.
 |Conexant                                            |admin                     |conexant                                                       |
 |Conexant                                            |admin                     |epicrouter                                                     |
 |Conexant                                            |admin                     |password                                                       |
+
+## Conitec
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Conitec                                             |Adam                      |29111991                                                       |
+
+## Control4
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Control4                                            |<blank>                   |ducati900ss                                                    |
 |Control4                                            |root                      |t0talc0ntr0l4!                                                 |
+
+## Corecess
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Corecess                                            |Administrator             |admin                                                          |
 |Corecess                                            |admin                     |<blank>                                                        |
 |Corecess                                            |corecess                  |corecess                                                       |
+
+## CoronaMatrix
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |CoronaMatrix                                        |admin                     |admin                                                          |
+
+## Covertix
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Covertix                                            |Admin                     |Admin                                                          |
+
+## Creative
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Creative                                            |<blank>                   |<blank>                                                        |
+
+## Crossbeam
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Crossbeam                                           |<blank>                   |x40rocks                                                       |
+
+## CRT
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|CRT                                                 |egcr                      |ergc                                                           |
+
+## Crystalview
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Crystalview                                         |<blank>                   |Crystal                                                        |
+
+## Cuproplus
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Cuproplus                                           |<blank>                   |<blank>                                                        |
+
+
+## CyberMax
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |CyberMax                                            |<blank>                   |Congress                                                       |
+
+## CyberPower
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |CyberPower                                          |cyber                     |cyber                                                          |
 |CyberPower                                          |device                    |cyber                                                          |
+
+## Cyberguard
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Cyberguard                                          |cgadmin                   |cgadmin                                                        |
+
+## Cyclades
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Cyclades                                            |root                      |<blank>                                                        |
 |Cyclades                                            |root                      |tslinux                                                        |
 |Cyclades                                            |super                     |surt                                                           |
+
+## D-Link
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |D-Link                                              |(none)                    |(none)                                                         |
 |D-Link                                              |(none)                    |1234                                                           |
 |D-Link                                              |(none)                    |admin                                                          |
@@ -1422,34 +1801,155 @@ A list of icons to help highlight some key features about these tools/resources.
 |D-Link                                              |root                      |admin                                                          |
 |D-Link                                              |user                      |(none)                                                         |
 |D-Link                                              |user                      |<blank>                                                        |
+
+## D9287ar
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |D9287ar                                             |Clarissa                  |<blank>                                                        |
+
+## Dell
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |DELL                                                |root                      |calvin                                                         |
 |DELL IDARC (web)                                    |root                      |calvin                                                         |
-|DIGICOM                                             |root                      |admin                                                          |
+
+## Digicom
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Digicom                                             |root                      |admin                                                          |
+
+## DVB
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |DVB                                                 |dvstation                 |dvst10n                                                        |
 |DVB                                                 |root                      |pixmet2003                                                     |
+
+## DZS
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |DZS - DASAN Zhone                                   |user                      |user                                                           |
+
+## Daewoo
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Daewoo                                              |<blank>                   |Daewuu                                                         |
+
+## Dallas Semiconductors
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Dallas Semiconductors                               |root                      |tini                                                           |
+
+
+## Darkman
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Darkman                                             |ioFTPD                    |ioFTPD                                                         |
+
+## Dassault Systemes
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Dassault Systemes                                   |Test Everything           |<blank>                                                        |
+
+## Data General
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Data General                                        |op                        |op                                                             |
 |Data General                                        |op                        |operator                                                       |
 |Data General                                        |operator                  |operator                                                       |
+
+## DataStax
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |DataStax OpsCenter 6.0.x (web)                      |admin                     |admin                                                          |
+
+## DataWizard
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |DataWizard Technologies Inc.                        |anonymous                 |<blank>                                                        |
 |DataWizard Technologies Inc.                        |test                      |test                                                           |
+
+## Datacom
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Datacom                                             |<blank>                   |letmein                                                        |
 |Datacom                                             |sysadm                    |sysadm                                                         |
+
+## Datawizard
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Datawizard.net                                      |anonymous                 |any                                                            |
 |Datawizard.net                                      |anonymous                 |any@                                                           |
+
+## Davolink
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Davolink                                            |user                      |user                                                           |
+
+## Davox
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Davox                                               |admin                     |admin                                                          |
 |Davox                                               |davox                     |davox                                                          |
 |Davox                                               |root                      |davox                                                          |
 |Davox                                               |sa                        |<blank>                                                        |
+
+## Daytek
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Daytek                                              |<blank>                   |Daytec                                                         |
+
+## DB2
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|DB2                                           |ADONIS                    |BPMS                                                           |
+|DB2                                           |dasusr1                   |dasusr1                                                        |
+|DB2                                           |db2admin                  |db2admin                                                       |
+|DB2                                           |db2fenc1                  |db2fenc1                                                       |
+|DB2                                           |db2inst1                  |db2inst1                                                       |
+|DB2                                           |db2inst1                  |db2pass                                                        |
+|DB2                                           |db2inst1                  |db2password                                                    |
+|DB2                                           |db2inst1                  |db2pw                                                          |
+
+## Debain
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Debian                                              |<blank>                   |tatercounter2000                                               |
+
+## Decent
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Decnet                                              |operator                  |admin                                                          |
+
+## Deerfield
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Deerfield                                           |MDaemon                   |MServer                                                        |
+
+## Dell
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Dell                                                |<blank>                   |1RRWTTOOI                                                      |
 |Dell                                                |<blank>                   |Dell                                                           |
 |Dell                                                |<blank>                   |Fireport                                                       |
@@ -1464,19 +1964,60 @@ A list of icons to help highlight some key features about these tools/resources.
 |Dell                                                |root                      |calvin                                                         |
 |Dell                                                |root                      |wyse                                                           |
 |Dell iDRAC (web)                                    |root                      |calvin                                                         |
+
+## Demarc
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Demarc                                              |admin                     |my_DEMARC                                                      |
+
+## Deutsche Telekom
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Deutsche Telekom                                    |<blank>                   |0                                                              |
 |Deutsche Telekom                                    |admin                     |<blank>                                                        |
+
+## Develcon
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Develcon                                            |<blank>                   |BRIDGE                                                         |
 |Develcon                                            |<blank>                   |password                                                       |
+
+## Dictaphone
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Dictaphone                                          |NETOP                     |<blank>                                                        |
 |Dictaphone                                          |NETWORK                   |NETWORK                                                        |
 |Dictaphone                                          |PBX                       |PBX                                                            |
+
+## Digicom
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Digicom                                             |admin                     |michelangelo                                                   |
 |Digicom                                             |user                      |password                                                       |
+|Digicom                                             |Admin                     |<blank>                                                        |
+
+## Digicorp
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Digicorp                                            |<blank>                   |BRIDGE                                                         |
 |Digicorp                                            |<blank>                   |password                                                       |
+
+## Digicraft Software
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Digicraft Software                                  |Yak                       |asd123                                                         |
+
+## Digital Equipment
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Digital Equipment                                   |1                         |manager                                                        |
 |Digital Equipment                                   |1                         |operator                                                       |
 |Digital Equipment                                   |1                         |syslib                                                         |
@@ -1560,9 +2101,24 @@ A list of icons to help highlight some key features about these tools/resources.
 |Digital Equipment                                   |demo                      |demo                                                           |
 |Digital Equipment                                   |manager                   |manager                                                        |
 |Digital Equipment                                   |software                  |software                                                       |
+
+## Digium
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Digium,Inc.                                         |admin                     |password                                                       |
+
+## Divar
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Divar                                               |admin                     |<blank>                                                        |
 |Divar                                               |viewer                    |<blank>                                                        |
+
+## DLink
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Dlink                                               |admin                     |<blank>                                                        |
 |Dlink                                               |admin                     |admin                                                          |
 |Dlink                                               |admin                     |public                                                         |
@@ -1570,29 +2126,90 @@ A list of icons to help highlight some key features about these tools/resources.
 |Dlink (web)                                         |admin                     |admin                                                          |
 |Dlink (web)                                         |root                      |12345                                                          |
 |Dlink (web)                                         |root                      |root                                                           |
+
+## DotNetNuke
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |DotNetNuke Corporation                              |admin                     |dnnadmin                                                       |
 |DotNetNuke Corporation                              |host                      |dnnhost                                                        |
+
+## Draytek
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Draytek                                             |Draytek                   |1234                                                           |
 |Draytek                                             |admin                     |<blank>                                                        |
 |Draytek                                             |admin                     |admin                                                          |
 |Draytek                                             |draytek                   |1234                                                           |
 |Draytek Corp                                        |admin                     |<blank>                                                        |
+
+## DuPont
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |DuPont                                              |root                      |par0t                                                          |
+
+## Ducati Motor Holding
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Ducati Motor Holding                                |<blank>                   |Last 4 digits of VIN                                           |
+
+## Duhaua
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Duhua (telnet)                                      |admin                     |7ujMko0admin                                                   |
 |Duhua (telnet)                                      |root                      |7ujMko0admin                                                   |
 |Duhua (telnet)                                      |root                      |vizxv                                                          |
+
+## DynaLink
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Dynalink                                            |admin                     |admin                                                          |
 |Dynalink                                            |admin                     |private                                                        |
 |Dynalink                                            |userNotUsed               |userNotU                                                       |
+
+## Dynatrace
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Dynatrace (web)                                     |admin                     |admin                                                          |
+
+## Dynix
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Dynix Library Systems                               |LIBRARY                   |<blank>                                                        |
 |Dynix Library Systems                               |SETUP                     |<blank>                                                        |
 |Dynix Library Systems                               |circ                      |<blank>                                                        |
+
+## E-Con
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |E-Con                                               |admin                     |epicrouter                                                     |
+
+## E-Tech
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |E-Tech                                              |<blank>                   |admin                                                          |
 |E-Tech                                              |admin                     |epicrouter                                                     |
 |E-Tech                                              |admin                     |password                                                       |
+
+## EasyWinArt
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|easyWinArt (mssql)                                  |sa                        |$easyWinArt4                                                   |
+
+## EMC
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |EMC                                                 |MCUser                    |MCUser1                                                        |
 |EMC                                                 |admin                     |<blank>                                                        |
 |EMC                                                 |admin                     |changeme                                                       |
@@ -1603,11 +2220,53 @@ A list of icons to help highlight some key features about these tools/resources.
 |EMC                                                 |root                      |8RttoTriz                                                      |
 |EMC                                                 |root                      |changeme                                                       |
 |EMC                                                 |viewuser                  |viewuser1                                                      |
+
+## EPISD
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |EPISD                                               |computer                  |repair                                                         |
+
+## EPiServer
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |EPiServer AB                                        |admin                     |store                                                          |
+
+## eQ-3
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|eQ-3                                                |root                      |MuZhlo9n%8!G                                                   |
+
+## eSeSIX Computer
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|eSeSIX Computer GmbH                                |root                      |jstwo                                                          |
+
+## EZPhotoSales
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |EZPhotoSales                                        |admin                     |admin                                                          |
+
+## Eaton
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Eaton                                               |admin                     |admin                                                          |
+
+## Echelon
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Echelon Corporation                                 |ilon                      |ilon                                                           |
+
+## Edimax
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Edimax                                              |admin                     |123                                                            |
 |Edimax                                              |admin                     |1234                                                           |
 |Edimax                                              |admin                     |<blank>                                                        |
@@ -1617,6 +2276,11 @@ A list of icons to help highlight some key features about these tools/resources.
 |Edimax                                              |edimax                    |software01                                                     |
 |Edimax                                              |guest                     |1234                                                           |
 |Edimax                                              |guest                     |<blank>                                                        |
+
+## Efficient
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Efficient                                           |<blank>                   |<blank>                                                        |
 |Efficient                                           |<blank>                   |admin                                                          |
 |Efficient                                           |login                     |admin                                                          |
@@ -1626,95 +2290,414 @@ A list of icons to help highlight some key features about these tools/resources.
 |Efficient Networks                                  |<blank>                   |hs7mwxkk                                                       |
 |Efficient Networks                                  |login                     |admin                                                          |
 |Efficinet Networks                                  |login                     |admin                                                          |
+
+## Ektron
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Ektron,Inc.                                         |builtin                   |builtin                                                        |
 |Ektron,Inc.                                         |sa                        |Ektron                                                         |
-|Elasticsearch (web)                                 |<blank>                   |<blank>                                                        |
+
+## Elasticsearch
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Elasticsearch                                  |<blank>                    |<blank>                                                        |
+|Elasticsearch                                  |elastic                    |changeme                                                       |
+
+## Elron
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Elron                                               |(hostname/ipaddress)      |sysadmin                                                       |
+
+## Elsa
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Elsa                                                |<blank>                   |<blank>                                                        |
 |Elsa                                                |<blank>                   |cisco                                                          |
+
+## eMachines
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|eMachines                                           |emaq                      |4133                                                           |
+
+## Emerson
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Emerson                                             |Admin                     |Emerson1                                                       |
 |Emerson AMS (mssql)                                 |sa                        |42Emerson42Eme                                                 |
+
+## Eminent
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Eminent                                             |admin                     |admin                                                          |
+
+## enCAD
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|enCAD                                               |<blank>                   |<blank>                                                        |
+
+## EnGenius
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |EnGenius                                            |admin                     |admin                                                          |
+
+## Enpoint Protector
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Endpoint Protector (general)                        |root                      |epp2011                                                        |
+
+## Enhydra
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Enhydra                                             |admin                     |enhydra                                                        |
+
+## Enox
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Enox                                                |<blank>                   |xo11nE                                                         |
+
+## Enterasys
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Enterasys                                           |<blank>                   |netadmin                                                       |
 |Enterasys                                           |admin                     |<blank>                                                        |
 |Enterasys                                           |admin                     |netadmin                                                       |
 |Enterasys                                           |tiger                     |tiger123                                                       |
+
+## Entrust
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Entrust                                             |admin                     |admin                                                          |
 |Entrust                                             |websecadm                 |changeme                                                       |
+
+## Epox
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Epox                                                |<blank>                   |central                                                        |
+
+## Ericsson
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Ericsson                                            |MD110                     |help                                                           |
 |Ericsson                                            |admin                     |default                                                        |
 |Ericsson                                            |expert                    |expert                                                         |
 |Ericsson                                            |netman                    |netman                                                         |
-|Ericsson ACC                                        |public                    |<blank>                                                        |
+|Ericsson                                            |public                    |<blank>                                                        |
+|Ericsson                                            |<blank>                   |<blank>                                                        |
+|Ericsson                                            |<blank>                   |help                                                           |
+
+## EverFocus
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |EverFocus                                           |admin                     |admin                                                          |
 |EverFocus                                           |operator                  |operator                                                       |
 |EverFocus                                           |supervisor                |supervisor                                                     |
+
+## Exabyte
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Exabyte                                             |anonymous                 |Exabyte                                                        |
+
+## Exacq
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Exacq Technologies                                  |admin                     |admin256                                                       |
 |Exacq Technologies                                  |user                      |user5710                                                       |
+
+## Exinda Networks
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Exinda Networks                                     |admin                     |exinda                                                         |
+
+## Extended Systems
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Extended Systems                                    |admin                     |admin                                                          |
 |Extended Systems                                    |admin                     |extendnet                                                      |
+
+## Extereme Networks
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Extreme Networks                                    |admin                     |<blank>                                                        |
+
+## Eyes of Netowrk
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |EyesOfNetwork (snmp)                                |<blank>                   |EyesOfNetwork                                                  |
+
+## eZ Systems
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|eZ Systems                                          |admin                     |publish                                                        |
+
+## F5
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |F5                                                  |admin                     |admin                                                          |
 |F5                                                  |root                      |default                                                        |
 |F5                                                  |support                   |<blank>                                                        |
 |F5-Networks                                         |<blank>                   |<blank>                                                        |
+
+## Fastresm Technologies
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Fastream Technologies                               |root                      |<blank>                                                        |
+
+## Fastwire
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Fastwire                                            |fastwire                  |fw                                                             |
+
+## Fatwire
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |FatWire                                             |firstsite                 |firstsite                                                      |
 |FatWire                                             |fwadmin                   |xceladmin                                                      |
+
+## Firebird
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Firebird                                            |SYSDBA                    |masterkey                                                      |
 |Firebird Project                                    |SYSDBA                    |masterkey                                                      |
+
+## Flowpoint
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Flowpoint                                           |<blank>                   |<blank>                                                        |
 |Flowpoint                                           |<blank>                   |password                                                       |
 |Flowpoint                                           |admin                     |admin                                                          |
+
+## Fon
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|[Fon](https://fon.com/)                             |admin                     |admin                                                          |
+
+## Fortigate
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Fortigate                                           |admin                     |<blank>                                                        |
+
+## Fortinet
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Fortinet                                            |<blank>                   |bcpb(serial number of the firewall)                            |
 |Fortinet                                            |admin                     |<blank>                                                        |
 |Fortinet                                            |maintainer                |admin                                                          |
 |Fortinet                                            |maintainer                |bcpb[SERIAL NO.]                                               |
 |Fortinet                                            |maintainer                |pbcpbn(add-serial-number)                                      |
+
+## Foscam
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Foscam                                              |admin                     |<blank>                                                        |
+
+## Foundry Networks
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Foundry Networks                                    |<blank>                   |<blank>                                                        |
 |Foundry Networks                                    |admin                     |admin                                                          |
+
+## Freetech
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Freetech                                            |<blank>                   |Posterie                                                       |
+
+## FritzBox
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |FritzBox                                            |admin                     |admin                                                          |
 |FritzBox                                            |admin                     |fritzfonbox                                                    |
+
+## FrontRange
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |FrontRange Solutions                                |master                    |access                                                         |
+
+## FTP
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|FTP                                           |anonymous                 |<blank>                                                        |
+|FTP                                           |ftp                       |ftp                                                            |
+|FTP                                           |guest                     |guest                                                          |
+
+## Fujitsu
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Fujitsu Siemens                                     |<blank>                   |connect                                                        |
 |Fujitsu Siemens                                     |manage                    |!manage                                                        |
+
+## Funk
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Funk Software                                       |admin                     |radius                                                         |
+
+## GE
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |GE                                                  |museadmin                 |Muse!Admin                                                     |
 |GE Security,Inc.                                    |install                   |install                                                        |
+
+## Geovision
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Geovision                                     |admin                     |admin                                                          |
+
+## GVC
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |GVC                                                 |Administrator             |admin                                                          |
+
+## Galacticomm
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Galacticomm                                         |Sysop                     |Sysop                                                          |
+
+## Gandalf
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Gandalf                                             |<blank>                   |console                                                        |
 |Gandalf                                             |<blank>                   |gandalf                                                        |
 |Gandalf                                             |<blank>                   |system                                                         |
 |Gandalf                                             |<blank>                   |xmux                                                           |
+
+## GarrettCom
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |GarrettCom                                          |manager                   |manager                                                        |
 |GarrettCom Magnum Switch(Web)                       |manager                   |manager                                                        |
+
+## Gateway
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Gateway                                             |admin                     |admin                                                          |
+
+## Geeklog
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Geeklog                                             |username                  |password                                                       |
+
+## General Instruments
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |General Instruments                                 |test                      |test                                                           |
+
+## GeoNetwork
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |GeoNetwork (mssql)                                  |admin                     |gnos                                                           |
+
+## Gericom
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Gericom                                             |Administrator             |<blank>                                                        |
+
+## Giga
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Giga                                                |Administrator             |admin                                                          |
+
+## GigaFiber
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |GigaFiber                                           |admin                     |jiocentrum                                                     |
+
+## Gigabyte
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Gigabyte                                            |admin                     |admin                                                          |
+
+## glFTPd
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|glFtpD                                              |glftpd                    |glftpd                                                         |
+|glftpd                                              |glftpd                    |glftpd                                                         |
+
+## Globespan Virata
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Globespan Virata                                    |DSL                       |DSL                                                            |
 |GlobespanVirata                                     |root                      |root                                                           |
+
+## Google
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Google                                              |admin                     |urchin                                                         |
+
+## Gossamer
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Gossamer Threads Inc.                               |admin                     |admin                                                          |
 |Gossamer Threads Inc.                               |author                    |author                                                         |
 |Gossamer Threads Inc.                               |guest                     |guest                                                          |
-|Grafana (general)                                   |admin                     |admin                                                          |
+
+## Grafana 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Grafana                                  |admin                     |admin                                                          |
+
+## GrandStream
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |GrandStream                                         |<blank>                   |admin                                                          |
 |GrandStream                                         |Administrator             |admin                                                          |
 |GrandStream                                         |End User                  |123 (or blank)                                                 |
@@ -1722,35 +2705,81 @@ A list of icons to help highlight some key features about these tools/resources.
 |Grandstream                                         |admin                     |admin                                                          |
 |Grandstream Networks,Inc                            |End User                  |123                                                            |
 |Grandstream Networks,Inc                            |admin                     |admin                                                          |
+
+## Greatspeed
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Greatspeed                                          |admin                     |broadband                                                      |
+|Greatspeed                                          |netadmin                  |nimdaten                                                       |
+
+
+## Groupee
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Groupee,Inc.                                        |Admin5                    |4tugboat                                                       |
+
+## GuardOne
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |GuardOne                                            |<blank>                   |guardone                                                       |
 |GuardOne                                            |n.a                       |guardone                                                       |
+
+## Guru
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Guru                                                |admin                     |admin                                                          |
+
+## H20 Project
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |H2O Project                                         |admin                     |admin                                                          |
-|HC-05 Bluetooth Module                              |                          |1234                                                           |
-|HP                                                  |<blank>                   |<blank>                                                        |
-|HP                                                  |<blank>                   |AUTORAID                                                       |
-|HP                                                  |Administrator             |admin                                                          |
-|HP                                                  |Factory                   |56789                                                          |
-|HP                                                  |HELLO                     |OP.OPERATOR                                                    |
-|HP                                                  |MGR                       |ITF3000                                                        |
-|HP                                                  |MGR                       |NETBASE                                                        |
-|HP                                                  |admin                     |!admin                                                         |
-|HP                                                  |admin                     |<blank>                                                        |
-|HP                                                  |admin                     |admin                                                          |
-|HP                                                  |admin                     |isee                                                           |
-|HP                                                  |root                      |password                                                       |
-|HP LaserJet 600 (printer)                           |<blank>                   |<blank>                                                        |
-|HP LaserJet No Password (printer)                   |<blank>                   |<blank>                                                        |
-|HP LaserJet No Password Legacy (printer)            |<blank>                   |<blank>                                                        |
-|HP Server Automation (web)                          |Administrator             |admin                                                          |
-|HP Server Automation (web)                          |admin                     |opsware_admin                                                  |
+
+## Haier
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Haier                                               |ucenik23                  |ucenik                                                         |
+
+## Haivision
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Haivision Makito X Decoder (web)                    |admin                     |manager                                                        |
+
+## Hayes
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Hayes                                               |system                    |isp                                                            |
+
+## HC-O5
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|HC-05 Bluetooth Module                              |                          |1234                                                           |
+
+## Heatmister
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Heatmiser Wifi Thermostat (iot)                     |admin                     |admin                                                          |
+
+## Hemoco
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Hemoco Software                                     |lansweeperuser            |mysecretpassword0*                                             |
-|Hewlett Packard                                     |admin                     |admin                                                          |
+
+## Hewlett Packard
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Hewlett-Packard                                     |admin                     |admin                                                          |
 |Hewlett-Packard                                     |<blank>                   |<blank>                                                        |
 |Hewlett-Packard                                     |<blank>                   |hewlpack                                                       |
 |Hewlett-Packard                                     |ADVMAIL                   |<blank>                                                        |
@@ -1822,14 +2851,74 @@ A list of icons to help highlight some key features about these tools/resources.
 |Hewlett-Packard                                     |admin                     |admin                                                          |
 |Hewlett-Packard                                     |admin                     |hp.com                                                         |
 |Hewlett-Packard                                     |admin                     |isee                                                           |
+|Hewlett-Packard                                                 |<blank>                   |<blank>                                                        |
+|Hewlett-Packard                                                    |<blank>                   |AUTORAID                                                       |
+|Hewlett-Packard                                                    |Administrator             |admin                                                          |
+|Hewlett-Packard                                                   |Factory                   |56789                                                          |
+|Hewlett-Packard                                                    |HELLO                     |OP.OPERATOR                                                    |
+|Hewlett-Packard                                                    |MGR                       |ITF3000                                                        |
+|Hewlett-Packard                                                    |MGR                       |NETBASE                                                        |
+|Hewlett-Packard                                                    |admin                     |!admin                                                         |
+|Hewlett-Packard                                                    |admin                     |<blank>                                                        |
+|Hewlett-Packard                                                    |admin                     |admin                                                          |
+|Hewlett-Packard                                                    |admin                     |isee                                                           |
+|Hewlett-Packard                                                    |root                      |password                                                       |
+|Hewlett-Packard LaserJet 600 (printer)                           |<blank>                   |<blank>                                                        |
+|Hewlett-Packard LaserJet No Password (printer)                   |<blank>                   |<blank>                                                        |
+|Hewlett-Packard LaserJet No Password Legacy (printer)            |<blank>                   |<blank>                                                        |
+|Hewlett-Packard Server Automation (web)                          |Administrator             |admin                                                          |
+|Hewlett-Packard Server Automation (web)                          |admin                     |opsware_admin                                                  |
+
+## HighPoint
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |HighPOint                                           |RAID                      |hpt                                                            |
+
+## Hikvision
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|hikvision (ssh)                                     |admin                     |12345                                                          |
+
+## HipChat
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |HipChat Server (ssh)                                |admin                     |hipchat                                                        |
+
+## Honeynet
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Honeynet Project                                    |roo                       |honey                                                          |
 |Honeynet Project                                    |root                      |honey                                                          |
+
+## Honeywell
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Honeywell                                           |LocalComServer            |LCS pwd 03                                                     |
 |Honeywell                                           |TPSLocalServer            |TLS pwd 03                                                     |
+|Honeywell (ssh)                                     |admin                     |12345                                                          |
+|Honeywell (web)                                     |admin                     |1234                                                           |
+
+## Horizon
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Horizon DataSys                                     |<blank>                   |foolproof                                                      |
+
+## Hosting Controller
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Hosting Controller                                  |AdvWebadmin               |advcomm500349                                                  |
+
+## Huawei
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Huawei                                              |TMAR#HWMT8007079          |<blank>                                                        |
 |Huawei                                              |admin                     |Admin@huawei                                                   |
 |Huawei                                              |admin                     |admin                                                          |
@@ -1837,7 +2926,49 @@ A list of icons to help highlight some key features about these tools/resources.
 |Huawei                                              |admin                     |superonline                                                    |
 |Huawei Technologies Co                              |TMAR#HWMT8007079          |<blank>                                                        |
 |Huawei Technologies Co                              |admin                     |admin                                                          |
+|Huawei (ssh)                                        |Admin                     |admin                                                          |
+|Huawei (ssh)                                        |admin                     |<blank>                                                        |
+|Huawei (ssh)                                        |admin                     |admin                                                          |
+|Huawei (ssh)                                        |digicel                   |digicel                                                        |
+|Huawei (ssh)                                        |telecomadmin              |admintelecom                                                   |
+|Huawei (ssh)                                        |user                      |HuaweiUser                                                     |
+|Huawei (ssh)                                        |user                      |user                                                           |
+|Huawei (ssh)                                        |vodafone                  |vodafone                                                       |
+
+## Hyperic
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Hyperic,Inc.                                        |hqadmin                   |hqadmin                                                        |
+
+## i2b2
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|[i2b2 Workbench](https://www.i2b2.org/) (mssql)                              |I2b2demodata              |i2b2demodata                                                   |
+|[i2b2 Workbench](https://www.i2b2.org/) (mssql)                              |I2b2demodata2             |i2b2demodata2                                                  |
+|[i2b2 Workbench](https://www.i2b2.org/) (mssql)                              |I2b2hive                  |i2b2hive                                                       |
+|[i2b2 Workbench](https://www.i2b2.org/) (mssql)                              |I2b2metadata              |i2b2metadata                                                   |
+|[i2b2 Workbench](https://www.i2b2.org/) (mssql)                              |I2b2metadata2             |i2b2metadata2                                                  |
+|[i2b2 Workbench](https://www.i2b2.org/) (mssql)                              |I2b2workdata              |i2b2workdata                                                   |
+|[i2b2 Workbench](https://www.i2b2.org/) (mssql)                              |I2b2workdata2             |i2b2workdata2                                                  |
+
+## iBall
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|iBall                                               |admin                     |admin                                                          |
+
+## iblitzz
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|iblitzz                                             |admin                     |admin                                                          |
+
+## IBM
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |IBM                                                 |$ALOC$                    |<blank>                                                        |
 |IBM                                                 |$SRV                      |$SRV                                                           |
 |IBM                                                 |11111111                  |11111111                                                       |
@@ -2001,26 +3132,124 @@ A list of icons to help highlight some key features about these tools/resources.
 |IBM UrbanCode Deploy (web)                          |admin                     |admin                                                          |
 |IBM UrbanCode Deploy (web)                          |ucdpadmin                 |ucdpadmin                                                      |
 |IBM WAS (mssql)                                     |wasadmin                  |wasadmin                                                       |
+
+## iCatch
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|icatch (camera)                                     |admin                     |123456                                                         |
+|icatch (camera)                                     |root                      |icatch99                                                       |
+
+## iDirect
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|iDirect                                             |admin                     |P@55w0rd!                                                      |
+|iDirect                                             |root                      |iDirect                                                        |
+
+## IHS 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |IHS Kingdom (mssql)                                 |sa                        |$ei$micMicro                                                   |
+
+## Infosmart
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |INFOSMART                                           |admin                     |0 or 0000                                                      |
+
+## Inova
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |INOVA                                               |iclock                    |timely                                                         |
+
+## IQinVision
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |IQinVision                                          |root                      |system                                                         |
+
+## IRC
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |IRC                                                 |<blank>                   |FOOBAR                                                         |
+
+## Inchon
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Inchon                                              |admin                     |admin                                                          |
+
+## Inedo
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Inedo                                               |Admin                     |Admin                                                          |
+
+## Infacta
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Infacta                                             |Administrator             |<blank>                                                        |
+
+## Infoblox
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Infoblox                                            |admin                     |<blank>                                                        |
+
+## Informix
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Informix                                            |informix                  |informix                                                       |
+
+## Infosmart
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Infosmart                                           |admin                     |0                                                              |
+
+## Infrant
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Infrant                                             |admin                     |infrant1                                                       |
+
+## Innovaphone
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Innovaphone                                         |admin                     |ip20                                                           |
 |Innovaphone                                         |admin                     |ip21                                                           |
 |Innovaphone                                         |admin                     |ip3000                                                         |
 |Innovaphone                                         |admin                     |ip305Beheer                                                    |
 |Innovaphone                                         |admin                     |ip400                                                          |
+
+## Inova
 |Inova                                               |iclock                    |timely                                                         |
+
+## Integral
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Integral                                            |Administrator             |letmein                                                        |
+
+## Integrated Networks
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Integrated Networks                                 |Administrator             |1234                                                           |
 |Integrated Networks                                 |Administrator             |12345678                                                       |
 |Integrated Networks                                 |Administrator             |19750407                                                       |
+
+## Intel
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Intel                                               |<blank>                   |Intel                                                          |
 |Intel                                               |<blank>                   |isolation                                                      |
 |Intel                                               |<blank>                   |shiva                                                          |
@@ -2029,53 +3258,262 @@ A list of icons to help highlight some key features about these tools/resources.
 |Intel                                               |intel                     |intel                                                          |
 |Intel                                               |root                      |<blank>                                                        |
 |Intel                                               |setup                     |setup                                                          |
-|Intel/Shiva                                         |admin                     |hello                                                          |
+|Intel                                               |admin                     |hello                                                          |
+|Intel                                               |<blank>                   |<blank>                                                        |
+|Intel                                               |admin                     |<blank>                                                        |
+|Intel                                               |khan                      |kahn                                                           |
+|Intel                                               |root                      |admin                                                          |
+
+## IntelliTouch
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |IntelliTouch                                        |administrator             |1234                                                           |
+
+## Interbase
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Interbase                                           |SYSDBA                    |masterkey                                                      |
+
+## iNTERFACEWARE
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|[iNTERFACEWARE Inc.](https://www.interfaceware.com/)                          |admn                      |password                                                       |
+
+## Intermec
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Intermec                                            |<blank>                   |intermec                                                       |
 |Intermec                                            |intermec                  |intermec                                                       |
+
+## Internet Archive
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Internet Archive                                    |admin                     |letmein                                                        |
+
+## Intershop
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Intershop                                           |operator                  |$chwarzepumpe                                                  |
+
+## Intersystems
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Intersystems                                        |system                    |sys                                                            |
+
+## Intex
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Intex                                               |<blank>                   |<blank>                                                        |
+
+## Intracom
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Intracom                                            |admin                     |admin                                                          |
+
+## Inventel
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Inventel                                            |admin                     |admin                                                          |
+
+## Inventel Wanadoo
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Inventel Wanadoo                                    |Admin                     |Admin                                                          |
+
+## Ion
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|ion                                                 |<blank>                   |admin                                                          |
+|ion                                                 |Administrator             |admin                                                          |
+
+## IPFire
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|ipfire (ssh)                                        |admin                     |<blank>                                                        |
+|ipfire (ssh)                                        |admin                     |admin                                                          |
+|ipfire (ssh)                                        |root                      |admin                                                          |
+
+## iPSTAR
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|[iPSTAR](https://ipstarbroadband.com.au/)           |admin                     |operator                                                       |
+
+## IPSwitch
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Ipswitch                                            |XXSESS_MGRYY              |X#1833                                                         |
 |Ipswitch                                            |admin                     |admin                                                          |
 |Ipswitch                                            |guest                     |<blank>                                                        |
+
+## IQInvision
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|iqinvision (web)                                    |root                      |system                                                         |
+
+## IronPort
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |IronPort                                            |admin                     |ironport                                                       |
+
+## Irongate
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Irongate                                            |admin                     |NetSurvibox                                                    |
+
+## ISO Sistemi
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|iso sistemi                                         |<blank>                   |<blank>                                                        |
+
+## IWill
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Iwill                                               |<blank>                   |iwill                                                          |
+
+## JAHT
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |JAHT                                                |admin                     |epicrouter                                                     |
+
+## JAMF Software
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |JAMF Software                                       |jamfsoftware              |jamfsw03                                                       |
+
+## JBoss
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |JBoss AS 6 (web)                                    |admin                     |admin                                                          |
 |JBoss AS 6 Alt (web)                                |admin                     |admin                                                          |
+
+## JD Edwards
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |JD Edwards                                          |JDE                       |JDE                                                            |
+
+## JDE
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |JDE                                                 |PRODDTA                   |PRODDTA                                                        |
+
+## JDS
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |JDS                                                 |hydrasna                  |<blank>                                                        |
 |JDS Microprocessing                                 |hydrasna                  |<blank>                                                        |
+
+## Janitza
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Janitza                                             |Homepage Password         |0th                                                            |
 |Janitza                                             |admin                     |Janitza                                                        |
 |Janitza                                             |guest                     |Janitza                                                        |
 |Janitza                                             |user                      |Janitza                                                        |
+
+## JasperReports
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |JasperReports (web)                                 |jasperadmin               |bitnami                                                        |
 |JasperReports (web)                                 |jasperadmin               |jasperadmin                                                    |
 |Jaspersoft Corporation                              |demo                      |demo                                                           |
 |Jaspersoft Corporation                              |jasperadmin               |jasperadmin                                                    |
 |Jaspersoft Corporation                              |joeuser                   |joeuser                                                        |
 |Jaspersoft Corporation                              |superuser                 |superuser                                                      |
+
+## Jean-Philippe
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Jean-Philippe Lang                                  |admin                     |admin                                                          |
+
+## Jeebles Technology
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Jeebles Technology                                  |<blank>                   |admin                                                          |
+
+## Jenkins
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Jenkins (web)                                       |<blank>                   |<blank>                                                        |
+
+## Jetway
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |JetWay                                              |<blank>                   |spooml                                                         |
+
+## Jetform
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Jetform                                             |Jetform                   |<blank>                                                        |
+
+## Jio
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Jio                                                 |admin                     |Jiocentrum                                                     |
 |Jio                                                 |administrator             |administrator                                                  |
+
+## JioFi
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |JioFi                                               |administrator             |administrator                                                  |
+
+## JioFiber
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |JioFiber                                            |admin                     |jiocentrum                                                     |
+
+## Johnson Controls
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Johnson Controls                                    |johnson                   |control                                                        |
+
+## Joss Technology
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Joss Technology                                     |<blank>                   |57gbzb                                                         |
 |Joss Technology                                     |<blank>                   |technolgi                                                      |
+
+## Juniper
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Juniper                                             |admin                     |abc123                                                         |
 |Juniper                                             |admin                     |netscreen                                                      |
 |Juniper                                             |admin                     |peribit                                                        |
@@ -2089,27 +3527,102 @@ A list of icons to help highlight some key features about these tools/resources.
 |Juniper (ssh)                                       |netscreen                 |netscreen                                                      |
 |Juniper (ssh)                                       |redline                   |redline                                                        |
 |Juniper (ssh)                                       |serial#                   |serial#                                                        |
+|Juniper (ssh)                                       |admin                     |<<< %s(un=\'%s\') = %u.                                        |
+|Juniper (ssh)                                       |admin                     |abc123                                                         |
+|Juniper (ssh)                                       |super                     |juniper123                                                     |
 |Juniper ScreenOS/Netscreen (telnet)                 |netscreen                 |<<< %s(un='%s') = %u                                           |
+
+## Justin Hagstrom
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Justin Hagstrom                                     |admin                     |admin                                                          |
 |Justin Hagstrom                                     |test                      |test                                                           |
+
+## JVC
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|JVC (web)                                           |admin                     |jvc                                                            |
+
+## Kaptest
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|kaptest                                             |admin                     |<blank>                                                        |
+
+## KASDA
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |KASDA                                               |admin                     |adslroot                                                       |
+
+## KTI
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |KTI                                                 |admin                     |123                                                            |
 |KTI                                                 |admin                     |123456                                                         |
 |KTI                                                 |superuser                 |123456                                                         |
+
+## Kalatel
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Kalatel                                             |<blank>                   |3477                                                           |
 |Kalatel                                             |<blank>                   |8111                                                           |
+
+## Kali Linux
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Kali linux (OS)                                     |kali                      |kali                                                           |
 |Kali linux (OS)                                     |root                      |toor                                                           |
+
+## Kanboard
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Kanboard (web)                                      |admin                     |admin                                                          |
+
+## Kentico
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Kentico Software                                    |administrator             |<blank>                                                        |
+
+## Kethinov
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Kethinov                                            |root                      |password                                                       |
+
+## Keyscan
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Keyscan                                             |keyscan                   |KEYSCAN                                                        |
+
+## Kodak
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Kodak                                               |PACSLinkIP                |NetServer                                                      |
 |Kodak                                               |PLMIMService              |NetServer                                                      |
 |Kodak                                               |RNIServiceManager         |NetServer                                                      |
 |Kodak                                               |SA                        |PASSWORD                                                       |
 |Kodak                                               |Service                   |Service                                                        |
+
+## Kodi
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Kodi                                                |kodi                      |kodi                                                           |
+
+## Konica
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Konica Minolta                                      |<blank>                   |0                                                              |
 |Konica Minolta                                      |<blank>                   |1234                                                           |
 |Konica Minolta                                      |<blank>                   |<blank>                                                        |
@@ -2124,30 +3637,63 @@ A list of icons to help highlight some key features about these tools/resources.
 |Konica Minolta (web)                                |<blank>                   |sysAdmin                                                       |
 |Konica Minolta (web)                                |<blank>                   |sysadm                                                         |
 |Konica Minolta (web)                                |admin                     |administrator                                                  |
+
+## Kronos
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Kronos                                              |SuperUser                 |kronites                                                       |
+
+## Kyocera
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Kyocera                                             |2800                      |2800                                                           |
 |Kyocera                                             |<blank>                   |PASSWORD                                                       |
 |Kyocera                                             |<blank>                   |admin00                                                        |
 |Kyocera                                             |admin                     |<blank>                                                        |
 |Kyocera                                             |admin                     |admin                                                          |
 |Kyocera                                             |root                      |root                                                           |
-|LANCOM                                              |<blank>                   |<blank>                                                        |
-|LANSA                                               |WEBADM                    |password                                                       |
-|LANSA                                               |admin                     |admin                                                          |
-|LANSA                                               |dev                       |dev                                                            |
-|LAXO                                                |admin                     |admin                                                          |
-|LG                                                  |<blank>                   |jannie                                                         |
-|LG                                                  |admin                     |admin                                                          |
-|LG                                                  |admin                     |epicrouter                                                     |
-|LG                                                  |vikram                    |singh                                                          |
-|LGIC                                                |LR-ISDN                   |LR-ISDN                                                        |
-|LOGITECH                                            |                          |0 or 0000                                                      |
+
+## LaCie
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |LaCie                                               |admin                     |admin                                                          |
+
+## LANCOM
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|LANCOM                                              |<blank>                   |<blank>                                                        |
+
+## Lanier
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Lanier                                              |<blank>                   |sysadm                                                         |
 |Lanier                                              |admin                     |<blank>                                                        |
 |Lanier                                              |supervisor                |<blank>                                                        |
+
+## LANSA
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|LANSA                                               |WEBADM                    |password                                                       |
+|LANSA                                               |admin                     |admin                                                          |
+|LANSA                                               |dev                       |dev                                                            |
+
+## Lantronics
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Lantronics                                          |<blank>                   |access                                                         |
 |Lantronics                                          |<blank>                   |system                                                         |
+
+## Lantronix
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Lantronix                                           |<blank>                   |<blank>                                                        |
 |Lantronix                                           |<blank>                   |access                                                         |
 |Lantronix                                           |<blank>                   |admin                                                          |
@@ -2155,16 +3701,89 @@ A list of icons to help highlight some key features about these tools/resources.
 |Lantronix                                           |<blank>                   |system                                                         |
 |Lantronix                                           |login                     |access                                                         |
 |Lantronix                                           |sysadmin                  |PASS                                                           |
+
+## Lasa AIMS
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Lasa AIMS (mssql)                                   |ADMIN                     |AIMS                                                           |
 |Lasa AIMS (mssql)                                   |FB                        |AIMS                                                           |
+
+## Latis
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|latis network                                       |<blank>                   |<blank>                                                        |
+
+## LAXO
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|LAXO                                                |admin                     |admin                                                          |
+
+## LDAP Account Manager
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|ldap account manager(lam)                           |lam                       |lam                                                            |
+
+## Leading Edge
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Leading Edge                                        |<blank>                   |MASTER                                                         |
+
+## Lenel
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Lenel                                               |admin                     |admin                                                          |
 |Lenel OnGuard (mssql)                               |LENEL                     |MULTIMEDIA                                                     |
+
+## Level1
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Level1                                              |admin                     |admin                                                          |
+
+## Leviton
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Leviton                                             |admin                     |leviton                                                        |
+
+## LG
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|LG                                                  |<blank>                   |jannie                                                         |
+|LG                                                  |admin                     |admin                                                          |
+|LG                                                  |admin                     |epicrouter                                                     |
+|LG                                                  |vikram                    |singh                                                          |
+
+## LGIC
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|LGIC                                                |LR-ISDN                   |LR-ISDN                                                        |
+
+## Liebert
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Liebert                                             |Liebert                   |Liebert                                                        |
+
+## Lindsay Electronics
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Lindsay Electronics                                 |ADMINISTRATOR             |SENTINEL                                                       |
 |Lindsay Electronics                                 |SENTINEL                  |SENTINEL                                                       |
+
+## Linksys
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Linksys                                             |<blank>                   |<blank>                                                        |
 |Linksys                                             |<blank>                   |admin                                                          |
 |Linksys                                             |<blank>                   |epicrouter                                                     |
@@ -2174,19 +3793,74 @@ A list of icons to help highlight some key features about these tools/resources.
 |Linksys                                             |comcast                   |1234                                                           |
 |Linksys                                             |root                      |orion99                                                        |
 |Linksys                                             |user                      |tivonpw                                                        |
+|Linksys (ssh)                                       |admin                     |admin                                                          |
+|Linksys (ssh)                                       |admin                     |password                                                       |
+|Linksys (ssh)                                       |linksys                   |<blank>                                                        |
+|Linksys (ssh)                                       |root                      |admin                                                          |
+
+## Linux
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Linux                                               |gonzo                     |<blank>                                                        |
 |Linux                                               |root                      |uClinux                                                        |
 |Linux                                               |satan                     |<blank>                                                        |
 |Linux                                               |snake                     |<blank>                                                        |
+
+## Liquidware
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Liquidware Labs,Inc.                                |ssadmin                   |sspassword                                                     |
+
+## Livingston
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Livingston                                          |!root                     |<blank>                                                        |
+
+## Livingstone
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Livingstone                                         |root                      |<blank>                                                        |
+
+## Lockdown
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Lockdown                                            |setup                     |changeme!                                                      |
+
+## LogiLink
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |LogiLink                                            |admin                     |1234                                                           |
+
+## Logitech
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Logitech                                            |<blank>                   |0                                                              |
+|Logitech                                            |                          |0 or 0000                                                      |
+
+## Loglogic
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Loglogic                                            |root                      |logapp                                                         |
 |Loglogic                                            |toor                      |logapp                                                         |
+
+## Longshine
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Longshine                                           |admin                     |0                                                              |
+
+## Lucent
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Lucent                                              |(any 3 characters)        |cascade                                                        |
 |Lucent                                              |(any 3 chars)             |cascade                                                        |
 |Lucent                                              |<blank>                   |admin                                                          |
@@ -2226,59 +3900,271 @@ A list of icons to help highlight some key features about these tools/resources.
 |Lucent                                              |sysadm                    |sysadmpw                                                       |
 |Lucent                                              |sysadm                    |syspw                                                          |
 |Lucent                                              |tech                      |field                                                          |
+
+## Luxon 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Luxon Communications                                |administrator             |19750407                                                       |
+
+## M Technology
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |M Technology                                        |<blank>                   |mMmM                                                           |
-|MERCURY                                             |Administrator             |admin                                                          |
-|MP3Mystic                                           |admin                     |mp3mystic                                                      |
-|MRV                                                 |admin                     |admin                                                          |
-|MSSQL (mssql)                                       |ADONI                     |BPMS                                                           |
-|MSSQL (mssql)                                       |sa                        |<blank>                                                        |
-|MSSQL (mssql)                                       |sa                        |Password123                                                    |
-|MSSQL (mssql)                                       |sa                        |password                                                       |
-|MSSQL (mssql)                                       |sa                        |sa                                                             |
-|MSSQL (mssql)                                       |sa                        |sqlserver                                                      |
-|MTNL                                                |admin                     |admin                                                          |
+
+## M0n0wall
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|m0n0wall                                            |admin                     |mono                                                           |
+
+## Maxdata
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|maxdata                                             |<blank>                   |<blank>                                                        |
+
+## MachSpeed
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |MachSpeed                                           |<blank>                   |sp99dd                                                         |
+
+## Macromedia
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Macromedia                                          |<blank>                   |admin                                                          |
+
+## Macsense
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Macsense                                            |admin                     |admin                                                          |
+
+## Magento
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Magento                                             |admin                     |123123                                                         |
+
+## Magic-Pro
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Magic-Pro                                           |<blank>                   |prost                                                          |
+
+## Main Street Softworks
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Main Street Softworks                               |MCVEADMIN                 |password                                                       |
+
+## Makito Decoder
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Makito Decoder (web)                                |admin                     |%89%F0%01%8F%D0%01%80%F0%01%85%D0%01%83%F0%01%83%E0%01%84%F0%01|
+
+## Mambo
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Mambo                                               |admin                     |admin                                                          |
+
+## ManageEngine
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |ManageEngine                                        |admin                     |admin                                                          |
+
+## Mandarin Library
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Mandarin Library Automation                         |admin                     |boca raton                                                     |
+
+## Manjaro
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Manjaro                                             |manjaro                   |sudo access                                                    |
 |Manjaro                                             |manjaro                   |user access                                                    |
+
+## Mantis
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Mantis                                              |administrator             |root                                                           |
+
+## Marconi
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Marconi                                             |ami                       |<blank>                                                        |
+
+## MayGion Camera
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |MayGion Camera (webcam)                             |admin                     |admin                                                          |
+
+## McAfee
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |McAfee                                              |admin                     |admin123                                                       |
 |McAfee                                              |scmadmin                  |scmchangeme                                                    |
 |McAfee                                              |webshield                 |webshieldchangeme                                              |
+
+## McData
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |McData                                              |Administrator             |password                                                       |
 |McData                                              |McdataSE                  |redips                                                         |
+
+
+
+
+
+
+
+
+
+## Medion
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|medion                                              |<blank>                   |medion                                                         |
+
+## Medo Check
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|medo.check (mssql)                                  |mcUser                    |medocheck123                                                   |
+
+## MediaPortal
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |MediaPortal (mssql)                                 |sa                        |M3d!aP0rtal                                                    |
+
+## Mediatrix
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Mediatrix                                           |admin                     |1234                                                           |
 |Mediatrix                                           |administrator             |<blank>                                                        |
+
+## Megastar
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Megastar                                            |<blank>                   |star                                                           |
+
+## Memotec
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Memotec                                             |memotec                   |supervisor                                                     |
+
+## Mentec
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Mentec                                              |MICRO                     |RSX                                                            |
+
+## Mercury
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|MERCURY                                             |Administrator             |admin                                                          |
+
+## Mercury Interactive
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Mercury Interactive                                 |admin                     |admin                                                          |
+
+## Meridian
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Meridian                                            |service                   |smile                                                          |
+
+## Metasploit
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|metasploit (ssh)                                    |msf                       |msf                                                            |
+|metasploit (ssh)                                    |msfdev                    |msfdev                                                         |
+
+## Metro
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|metro                                               |client                    |client                                                         |
+
+## Michiel
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Michiel                                             |admin                     |phplist                                                        |
+
+## Micro Focus
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Micro Focus Silk Central (mssql)                    |sa                        |SilkCentral12!34                                               |
+
+## Microcom
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Microcom                                            |admin                     |epicrouter                                                     |
 |Microcom                                            |admin                     |superuser                                                      |
 |Microcom                                            |user                      |password                                                       |
+
+## Micron
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Micron                                              |<blank>                   |sldkj754                                                       |
 |Micron                                              |<blank>                   |xyzall                                                         |
+
+## Micronet
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Micronet                                            |admin                     |admin                                                          |
 |Micronet                                            |admin                     |epicrouter                                                     |
 |Micronet                                            |mac                       |<blank>                                                        |
 |Micronet                                            |root                      |default                                                        |
+
+## Micronics
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Micronics                                           |<blank>                   |dn_04rjc                                                       |
+
+## Microplex
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Microplex                                           |root                      |root                                                           |
+
+## MicroRouter
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|microRouter                                         |<blank>                   |letmein                                                        |
+
+## Microsoft
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Microsoft                                           |<blank>                   |<blank>                                                        |
 |Microsoft                                           |<blank>                   |admin                                                          |
 |Microsoft                                           |<blank>                   |sa                                                             |
@@ -2294,28 +4180,100 @@ A list of icons to help highlight some key features about these tools/resources.
 |Microsoft                                           |MSHOME                    |MSHOME                                                         |
 |Microsoft                                           |User                      |User                                                           |
 |Microsoft                                           |sa                        |<blank>                                                        |
+
+## Mike Peters
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Mike Peters                                         |bsxuser                   |bsxpass                                                        |
+
+## MikroTik
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |MikroTik                                            |admin                     |<blank>                                                        |
 |Mikrotik                                            |admin                     |<blank>                                                        |
+
+## Milan
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Milan                                               |root                      |root                                                           |
+
+## Minolta 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Minolta PagrPro                                     |<blank>                   |sysadm                                                         |
 |Minolta QMS                                         |admin                     |<blank>                                                        |
 |Minolta QMS                                         |operator                  |<blank>                                                        |
+
+## Mintel
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Mintel                                              |<blank>                   |SYSTEM                                                         |
+
+## Mitel
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Mitel                                               |<blank>                   |<blank>                                                        |
 |Mitel                                               |installer                 |1000                                                           |
 |Mitel                                               |system                    |mnet                                                           |
 |Mitel                                               |system                    |password                                                       |
+
+## Mitel Networks
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Mitel Networks                                      |1nstaller                 |5X2000                                                         |
 |Mitel Networks                                      |installer                 |sx2000                                                         |
 |Mitel Networks                                      |maint1                    |sx2000                                                         |
 |Mitel Networks                                      |maint2                    |sx2000                                                         |
 |Mitel Networks                                      |s1stem                    |5X2000                                                         |
 |Mitel Networks                                      |system                    |sx2000                                                         |
+
+## Mklencke
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|mklencke                                            |root                      |blablabla                                                      |
+
+## Mobotix
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Mobotix                                             |admin                     |meinsm                                                         |
+
+## Modern.ie
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|modern.ie (ssh)                                     |IEUser                    |D@rj33l1ng                                                     |
+
+## Mole 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Mole                                                |admin                     |admin                                                          |
+
+## MongoDB
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Mongodb noauth (mongodb)                            |<blank>                   |<blank>                                                        |
+
+## Motive
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Motive                                              |admin                     |isee                                                           |
+
+## Motorola
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Motorola                                            |<blank>                   |0                                                              |
 |Motorola                                            |admin                     |motorola                                                       |
 |Motorola                                            |admin                     |password                                                       |
@@ -2323,50 +4281,251 @@ A list of icons to help highlight some key features about these tools/resources.
 |Motorola                                            |service                   |smile                                                          |
 |Motorola                                            |setup                     |<blank>                                                        |
 |Motorola                                            |technician                |yZgO8Bvj                                                       |
+|Motorola                                            |<blank>                   |<blank>                                                        |
+
+## Movistar
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|movistar (ssh)                                      |1234                      |1234                                                           |
+|movistar (ssh)                                      |admin                     |admin                                                          |
+
+## MP3Mystic
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|MP3Mystic                                           |admin                     |mp3mystic                                                      |
+
+## MRO Software
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|mro software                                        |SYSADM                    |sysadm                                                         |
+
+## MRV
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|MRV                                                 |admin                     |admin                                                          |
+
+## MSSQL
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|MSSQL (mssql)                                       |ADONI                     |BPMS                                                           |
+|MSSQL (mssql)                                       |sa                        |<blank>                                                        |
+|MSSQL (mssql)                                       |sa                        |Password123                                                    |
+|MSSQL (mssql)                                       |sa                        |password                                                       |
+|MSSQL (mssql)                                       |sa                        |sa                                                             |
+|MSSQL (mssql)                                       |sa                        |sqlserver                                                      |
+
+## MTNL
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|MTNL                                                |admin                     |admin                                                          |
+
+## Mutare
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Mutare                                              |<blank>                   |admin                                                          |
+
+## Muze
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Muze                                                |admin                     |muze                                                           |
+
+## MySQL
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |MySQL                                               |admin@example.com         |admin                                                          |
 |MySQL                                               |root                      |(none)                                                         |
 |MySQL                                               |root                      |<blank>                                                        |
 |MySQL                                               |superdba                  |admin                                                          |
 |MySQL (ssh)                                         |root                      |root                                                           |
+
+## MyioSoft
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |MyioSoft                                            |demo                      |demo                                                           |
+
+## NAI
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |NAI                                                 |GlobalAdmin               |GlobalAdmin                                                    |
 |NAI                                                 |admin                     |admin123                                                       |
+
+## nCIRCLE
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|nCircle                                             |root                      |ciwuxe                                                         |
+
+## Netcore
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Netcore (ssh)                                       |admin                     |admin                                                          |
+|Netcore (ssh)                                       |guest                     |guest                                                          |
+
+## NCR
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |NCR                                                 |ncrm                      |ncrm                                                           |
+
+## NEC
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |NEC                                                 |<blank>                   |<blank>                                                        |
 |NEC                                                 |admin                     |password                                                       |
+
+## NETIO
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |NETIO 4All PowerPDU                                 |admin                     |admin                                                          |
+
+## NGSecure
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |NGSEcure                                            |admin                     |admin                                                          |
+
+## NGSec
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |NGSec                                               |admin                     |<blank>                                                        |
 |NGSec                                               |admin                     |asd                                                            |
+
+## NICE Systems
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |NICE Systems Ltd.                                   |Administrator             |nicecti                                                        |
 |NICE Systems Ltd.                                   |Nice-admin                |nicecti                                                        |
+
+## Nomadix
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |NOMADIX                                             |admin                     |<blank>                                                        |
+
+## NRG
 |NRG or RICOH                                        |<blank>                   |password                                                       |
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+
+## NSI
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |NSI                                                 |root                      |nsi                                                            |
+
+## Nanoteq
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Nanoteq                                             |admin                     |NetSeq                                                         |
+
+## Napco
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Napco Continental Access (mssql)                    |cic                       |Cic!23456789                                                   |
 |Napco Continental Access (mssql)                    |cic                       |cic                                                            |
 |Napco Continental Access (mssql)                    |cic                       |cic!23456789                                                   |
 |Napco Continental Access (mssql)                    |sa                        |Cic!23456789                                                   |
 |Napco Continental Access (mssql)                    |sa                        |cic                                                            |
 |Napco Continental Access (mssql)                    |sa                        |cic!23456789                                                   |
+
+## NeXT
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |NeXT                                                |me                        |<blank>                                                        |
 |NeXT                                                |root                      |NeXT                                                           |
 |NeXT                                                |signa                     |signa                                                          |
+
+## NetApp
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |NetApp                                              |admin                     |NetCache                                                       |
 |NetApp                                              |admin                     |admin123                                                       |
-|NetBackup OpsCenter Analytics (web)                 |admin                     |password                                                       |
-|NetBotz                                             |netbotz                   |netbotz                                                        |
-|NetGear                                             |admin                     |password                                                       |
-|NetGenesis                                          |naadmin                   |naadmin                                                        |
-|NetXMS (mssql)                                      |admin                     |netxms                                                         |
+
+## Netasq
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Netasq                                              |admin                     |admin                                                          |
+
+## Netcomm
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Netcomm                                             |<blank>                   |admin                                                          |
 |Netcomm                                             |admin                     |password                                                       |
 |Netcomm                                             |user                      |password                                                       |
+
+## Netcordia
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Netcordia                                           |admin                     |admin                                                          |
+
+## NetBackup
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|NetBackup OpsCenter Analytics (web)                 |admin                     |password                                                       |
+
+## NetBotz
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|NetBotz                                             |netbotz                   |netbotz                                                        |
+
+## Netgear
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Netgear                                             |admin                     |password                                                       |
+|Netgear (ssh)                                        |admin                     |1234                                                           |
+|Netgear (ssh)                                        |admin                     |<blank>                                                        |
+|Netgear (ssh)                                        |admin                     |admin                                                          |
+
+## NetGenesis
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|NetGenesis                                          |naadmin                   |naadmin                                                        |
+
+## Netsys
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Netsys (ssh)                                        |admin                     |admin                                                          |
+
+## NetXMS
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|NetXMS (mssql)                                      |admin                     |netxms                                                         |
+
+
+## Netgear
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Netgear                                             |(none)                    |1234                                                           |
 |Netgear                                             |<blank>                   |1234                                                           |
 |Netgear                                             |<blank>                   |<blank>                                                        |
@@ -2388,31 +4547,111 @@ A list of icons to help highlight some key features about these tools/resources.
 |Netgear                                             |cusadmin                  |highspeed                                                      |
 |Netgear                                             |super                     |5777364                                                        |
 |Netgear                                             |superman                  |21241036                                                       |
+
+## Netopia
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Netopia                                             |<blank>                   |<blank>                                                        |
 |Netopia                                             |admin                     |<blank>                                                        |
 |Netopia                                             |admin                     |noway                                                          |
 |Netopia                                             |factory                   |(see note)                                                     |
 |Netopia                                             |netopia                   |netopia                                                        |
+
+## Netport
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Netport                                             |setup                     |setup                                                          |
+
+## Netscape
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Netscape                                            |admin                     |admin                                                          |
+
+## Netscreen
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Netscreen                                           |<blank>                   |<blank>                                                        |
 |Netscreen                                           |Administrator             |<blank>                                                        |
 |Netscreen                                           |admin                     |<blank>                                                        |
 |Netscreen                                           |admin                     |netscreen                                                      |
 |Netscreen                                           |netscreen                 |netscreen                                                      |
 |Netscreen                                           |operator                  |<blank>                                                        |
+
+## Netstar
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Netstar                                             |admin                     |password                                                       |
+
+## Network Appliance
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Network Appliance                                   |admin                     |NetCache                                                       |
+
+## Network Associates
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Network Associates                                  |e250                      |e250changeme                                                   |
 |Network Associates                                  |e500                      |e500changeme                                                   |
+
+## Network Everywhere
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Network Everywhere                                  |<blank>                   |admin                                                          |
+
+## NetworkICE
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |NetworkICE                                          |iceman                    |<blank>                                                        |
+
+## NevisIDM
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |NevisIDM                                            |bootstrap                 |generated                                                      |
+
+## NewsMedia
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |NewMedia-NET GmbH                                   |root                      |admin                                                          |
+
+## Nexsan
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Nexsan                                              |ADMIN                     |PASSWORD                                                       |
+
+## Nexus Repo
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Nexus Repository Manager (web)                      |admin                     |admin123                                                       |
+
+## Niksun
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Niksun                                              |vcr                       |NetVCR                                                         |
+
+## Nimble
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Nimble                                              |<blank>                   |xdfk9874t3                                                     |
+
+## Nokia
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Nokia                                               |<blank>                   |9999                                                           |
 |Nokia                                               |<blank>                   |Telecom                                                        |
 |Nokia                                               |<blank>                   |nokai                                                          |
@@ -2427,8 +4666,18 @@ A list of icons to help highlight some key features about these tools/resources.
 |Nokia                                               |root                      |nokia                                                          |
 |Nokia                                               |root                      |rootme                                                         |
 |Nokia                                               |telecom                   |telecom                                                        |
+
+## Norstar
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Norstar                                             |**23646                   |23646                                                          |
 |Norstar                                             |**266344                  |266344                                                         |
+
+## Nortel
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Nortel                                              |266344                    |266344                                                         |
 |Nortel                                              |<blank>                   |0                                                              |
 |Nortel                                              |<blank>                   |266344                                                         |
@@ -2478,6 +4727,11 @@ A list of icons to help highlight some key features about these tools/resources.
 |Nortel                                              |user                      |user                                                           |
 |Nortel                                              |user                      |user0000                                                       |
 |Nortel Integrated Call Director (web)               |admin                     |admin                                                          |
+
+## Novell
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Novell                                              |<blank>                   |cr0wmt 911                                                     |
 |Novell                                              |<blank>                   |root                                                           |
 |Novell                                              |<blank>                   |san fran 8                                                     |
@@ -2542,33 +4796,128 @@ A list of icons to help highlight some key features about these tools/resources.
 |Novell                                              |admin                     |novell                                                         |
 |Novell                                              |sadmin                    |<blank>                                                        |
 |Novell                                              |servlet                   |manager                                                        |
+
+## Nullsoft
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Nullsoft                                            |admin                     |changeme                                                       |
+
+## Nurit
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Nurit                                               |$system                   |<blank>                                                        |
+
+## Nuxeo
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Nuxeo Server (general)                              |Administrator             |Administrator                                                  |
+
+## OCE
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |OCE                                                 |<blank>                   |0 and the number of OCE printer                                |
+
+## ODS
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |ODS                                                 |ods                       |ods                                                            |
+
+## OMRON
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |OMRON                                               |<blank>                   |<blank>                                                        |
+
+## OPEN Networks
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |OPEN Networks                                       |root                      |0P3N                                                           |
+
+## OSMC
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |OSMC                                                |osmc                      |osmc                                                           |
+
+## OTRS
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |OTRS Inc.                                           |root@localhost            |root                                                           |
+
+## Odoo
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Odoo (general)                                      |admin                     |admin                                                          |
 |Odoo (general)                                      |demo                      |demo                                                           |
+
+## Offsensive Security
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Offensive Security                                  |kali                      |kali                                                           |
 |Offensive Security                                  |root                      |toor                                                           |
+
+## Oki
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Oki                                                 |admin                     |<SEE COMMENT>                                                  |
 |Oki                                                 |admin                     |OkiLAN                                                         |
 |Oki                                                 |root                      |<SEE COMMENT>                                                  |
+
+## Oleg
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Oleg Khabarov                                       |username                  |password                                                       |
+
+## Olicom
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Olicom                                              |<blank>                   |AaBbCcDd                                                       |
+
+## Omnitronix
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Omnitronix                                          |<blank>                   |SMDR                                                           |
 |Omnitronix                                          |<blank>                   |SUPER                                                          |
+
+## Open-Xchange
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Open-Xchange Inc.                                   |mailadmin                 |secret                                                         |
+
+## OpenConnect
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |OpenConnect                                         |admin                     |OCS                                                            |
 |OpenConnect                                         |adminstat                 |OCS                                                            |
 |OpenConnect                                         |adminuser                 |OCS                                                            |
 |OpenConnect                                         |adminview                 |OCS                                                            |
 |OpenConnect                                         |helpdesk                  |OCS                                                            |
+
+## OpenGTS
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |OpenGTS (mssql)                                     |gts                       |opengts                                                        |
+
+## OpenMarket
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |OpenMarket                                          |Bobo                      |hello                                                          |
 |OpenMarket                                          |Coco                      |hello                                                          |
 |OpenMarket                                          |Flo                       |hello                                                          |
@@ -2585,11 +4934,36 @@ A list of icons to help highlight some key features about these tools/resources.
 |OpenMarket                                          |user_marketer             |demo                                                           |
 |OpenMarket                                          |user_pricer               |demo                                                           |
 |OpenMarket                                          |user_publisher            |demo                                                           |
+
+## OpenNetAdmin
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |OpenNetAdmin                                        |admin                     |admin                                                          |
+
+## OpenLink
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Openlink                                            |admin                     |admin                                                          |
+
+## Openwave
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Openwave                                            |cac_admin                 |cacadmin                                                       |
 |Openwave                                            |sys                       |uplink                                                         |
+
+## Optivision
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Optivision                                          |root                      |mpegvideo                                                      |
+
+## Oracle
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Oracle                                              |<blank>                   |<blank>                                                        |
 |Oracle                                              |ADAMS                     |WOOD                                                           |
 |Oracle                                              |ADLDEMO                   |ADLDEMO                                                        |
@@ -2828,8 +5202,18 @@ A list of icons to help highlight some key features about these tools/resources.
 |Oracle                                              |wlpisystem                |wlpisystem                                                     |
 |Oracle Glassfish (web)                              |admin                     |<blank>                                                        |
 |Oracle Glassfish (web)                              |admin                     |admin                                                          |
+
+## Orange
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Orange                                              |admin                     |admin                                                          |
 |Orange                                              |root                      |1234                                                           |
+
+## Osicom
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Osicom                                              |Manager                   |Admin                                                          |
 |Osicom                                              |Manager                   |Manager                                                        |
 |Osicom                                              |d.e.b.u.g                 |User                                                           |
@@ -2841,51 +5225,210 @@ A list of icons to help highlight some key features about these tools/resources.
 |Osicom                                              |sysadm                    |Admin                                                          |
 |Osicom                                              |sysadm                    |sysadm                                                         |
 |Osicom                                              |write                     |private                                                        |
+
+## Overland
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Overland                                            |Factory                   |56789                                                          |
+
+## Overland Storage
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Overland Storage                                    |root                      |Password                                                       |
+
+## OvisLink
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |OvisLink Canada Inc.                                |root                      |root                                                           |
 |OvisLink Canada Inc.                                |user                      |user                                                           |
+
+## PBX
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |PBX                                                 |tech                      |nician                                                         |
+
+## PFSense
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |PFSense                                             |admin                     |pfsense                                                        |
+
+## PHPReactor
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |PHPReactor                                          |core                      |phpreactor                                                     |
+
+## Planet Technology
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |PLANET Technology Corp.                             |admin                     |ISPMODE                                                        |
 |PLANET Technology Corp.                             |admin                     |[^_^]                                                          |
+
+## Powerlogic
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |POWERLOGIC                                          |Administrator             |Gateway                                                        |
+
+## PRTG
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |PRTG                                                |prtgadmin                 |prtgadmin                                                      |
+
+## Pacific Micro Data
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Pacific Micro Data                                  |pmd                       |<blank>                                                        |
+
+## Packard Bell
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Packard Bell                                        |<blank>                   |bell9                                                          |
+
+## Packeteer
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Packeteer                                           |<blank>                   |touchpwd=                                                      |
+
+## Panasonic
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Panasonic                                           |<blank>                   |1234                                                           |
 |Panasonic                                           |<blank>                   |<blank>                                                        |
 |Panasonic                                           |admin                     |1234                                                           |
 |Panasonic                                           |admin                     |12345                                                          |
+
+## Panatel
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Pandatel                                            |admin                     |admin                                                          |
+
+## Parallels
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Parallels                                           |admin                     |setup                                                          |
+
+## Parrot
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Parrot                                              |<blank>                   |0                                                              |
+
+## Patton
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Patton                                              |monitor                   |monitor                                                        |
 |Patton                                              |superuser                 |superuser                                                      |
+
+## PentaSafe
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |PentaSafe                                           |PSEAdmin                  |$secure$                                                       |
+
+## Pentagram
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Pentagram                                           |admin                     |password                                                       |
+
+## Penta Office
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Pentaoffice                                         |<blank>                   |pento                                                          |
+
+## Perle
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Perle                                               |admin                     |superuser                                                      |
-|Pfsense (web)                                       |admin                     |pfsense                                                        |
+
+## Philips
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Philips                                             |admin                     |admin                                                          |
+
+## Phoenix
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Phoenix v1.14                                       |Administrator             |admin                                                          |
+
+## Pikatel
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Pikatel                                             |DSL                       |DSL                                                            |
+
+## Pirelli
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Pirelli                                             |admin                     |admin                                                          |
 |Pirelli                                             |admin                     |microbusiness                                                  |
 |Pirelli                                             |admin                     |mu                                                             |
 |Pirelli                                             |admin                     |smallbusiness                                                  |
 |Pirelli                                             |user                      |password                                                       |
+
+## Pivotal Software
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Pivotal Software,Inc.                               |guest                     |guest                                                          |
+
+## PlainTree
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |PlainTree                                           |<blank>                   |default.password                                               |
+
+## Planet
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Planet                                              |<blank>                   |default                                                        |
 |Planet                                              |admin                     |1234                                                           |
 |Planet                                              |admin                     |epicrouter                                                     |
+
+## Planex
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Planex                                              |admin                     |0                                                              |
+
+## PokerTracker
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |PokerTracker Software                               |postgres                  |dbpass                                                         |
 |PokerTracker Software                               |postgres                  |svcPASS83                                                      |
+
+## Pollsafe
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Pollsafe                                            |SMDR                      |SECONDARY                                                      |
+
+## Polycom
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Polycom                                             |<blank>                   |<blank>                                                        |
 |Polycom                                             |<blank>                   |ACCORD                                                         |
 |Polycom                                             |<blank>                   |admin                                                          |
@@ -2895,10 +5438,35 @@ A list of icons to help highlight some key features about these tools/resources.
 |Polycom                                             |administrator             |* * #                                                          |
 |Polycom VVX 500 (phone)                             |Admin                     |456                                                            |
 |Polycom VVX 500 (phone)                             |User                      |123                                                            |
+
+## PostgreSQL
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |PostgreSQL                                          |postgres                  |<blank>                                                        |
+
+## Powerchute
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Powerchute                                          |pwrchute                  |pwrchute                                                       |
+
+## Prestige
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Prestige                                            |admin                     |1234                                                           |
+
+## Prestigio
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Prestigio                                           |<blank>                   |<blank>                                                        |
+
+## Prime
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Prime                                               |dos                       |dos                                                            |
 |Prime                                               |fam                       |fam                                                            |
 |Prime                                               |guest                     |guest                                                          |
@@ -2920,37 +5488,141 @@ A list of icons to help highlight some key features about these tools/resources.
 |Prime                                               |system                    |system                                                         |
 |Prime                                               |tele                      |tele                                                           |
 |Prime                                               |test                      |test                                                           |
+
+## Primebase
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |PrimeBase                                           |Administrator             |<blank>                                                        |
-|Product/Vendor                                      |Username                  |Password                                                       |
+
+## Prolink
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Prolink                                             |admin                     |password                                                       |
+
+## Proliphix
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Proliphix Thermostat (iot)                          |admin                     |admin                                                          |
+
+## Promise
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Promise                                             |admin                     |admin                                                          |
 |Promise                                             |engmode                   |hawk201                                                        |
 |Promise Technology,Inc.                             |administrator             |password                                                       |
+
+## Prostar
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Prostar                                             |<blank>                   |4321                                                           |
+
+## Protocraft
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Protocraft                                          |musi1921                  |Musi%1921                                                      |
+
+## Proxicast
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Proxicast                                           |<blank>                   |1234                                                           |
+
+## Proxim
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Proxim                                              |<blank>                   |<blank>                                                        |
 |Proxim                                              |<blank>                   |public                                                         |
+
+## Psionteklogix
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Psionteklogix                                       |admin                     |admin                                                          |
 |Psionteklogix                                       |support                   |h179350                                                        |
+
+## Pyramid Computer
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Pyramid Computer                                    |admin                     |admin                                                          |
 |Pyramid Computer                                    |admin                     |gnumpf                                                         |
+
+## Q-Tec
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Q-Tec                                               |Admin                     |<blank>                                                        |
+
+## QDI
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |QDI                                                 |<blank>                   |QDI                                                            |
 |QDI                                                 |<blank>                   |lesarotl                                                       |
 |QDI                                                 |<blank>                   |password                                                       |
+
+## QLogic
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |QLogic                                              |admin                     |password                                                       |
 |QLogic                                              |images                    |images                                                         |
+
+## QualiTeam
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |QualiTeam                                           |master                    |master                                                         |
+
+## Quantex
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Quantex                                             |<blank>                   |teX1                                                           |
 |Quantex                                             |<blank>                   |xljlbj                                                         |
+
+## Quantum
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Quantum                                             |<blank>                   |<blank>                                                        |
+
+## Quest Software
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Quest Software                                      |TOAD                      |TOAD                                                           |
+
+## Questra Corporation
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Questra Corporation                                 |guest                     |guest                                                          |
 |Questra Corporation                                 |questra                   |questra                                                        |
+
+## Quintum Technologies
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Quintum Technologies Inc.                           |admin                     |admin                                                          |
+
+## RCA 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |RCA                                                 |<blank>                   |admin                                                          |
+
+## RM
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |RM                                                  |<blank>                   |RM                                                             |
 |RM                                                  |RMUser1                   |password                                                       |
 |RM                                                  |admin                     |rmnetlm                                                        |
@@ -2968,29 +5640,109 @@ A list of icons to help highlight some key features about these tools/resources.
 |RM                                                  |topicalt                  |password                                                       |
 |RM                                                  |topicnorm                 |password                                                       |
 |RM                                                  |topicres                  |password                                                       |
+
+## RNN
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |RNN                                                 |admin                     |demo                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |RObiGVqUbQt                                         |wVQxyQec                  |eomjbOBLLwbZeiKV                                               |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |RSA                                                 |admin                     |admin1234                                                      |
 |RSA                                                 |administrator             |RSAAppliance                                                   |
 |RSA                                                 |master                    |themaster01                                                    |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Radio Shack                                         |<blank>                   |744                                                            |
 |Radio Shack                                         |[MULTIPLE]                |744                                                            |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Radvision                                           |<blank>                   |MCUrv                                                          |
 |Radvision                                           |admin                     |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Radware                                             |lp                        |lp                                                             |
 |Radware                                             |radware                   |radware                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Raidzone                                            |<blank>                   |raidzone                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Rainbow                                             |<blank>                   |PASSWORD                                                       |
 |Rainbow                                             |<blank>                   |rainbow                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Ramp Networks                                       |wradmin                   |trancell                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Rapid7 Inc                                          |msfadmin                  |msfadmin                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |RapidStream                                         |rsadmin                   |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Raritan                                             |admin                     |raritan                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Raritan Inc.                                        |admin                     |raritan                                                        |
 |Raritan Inc.                                        |epiq_api                  |raritan                                                        |
 |Raritan Inc.                                        |web_api                   |sl33p30F00dumass!                                              |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Raspberry Pi Foundation                             |pi                        |raspberry                                                      |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |RayTalk                                             |root                      |root                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Red Hat,Inc                                         |<blank>                   |AMIAMI                                                         |
 |Red Hat,Inc                                         |<blank>                   |AMIDECOD                                                       |
 |Red Hat,Inc                                         |admin                     |admin                                                          |
@@ -3003,15 +5755,50 @@ A list of icons to help highlight some key features about these tools/resources.
 |RedHat (ssh)                                        |admin                     |admin                                                          |
 |RedHat (ssh)                                        |piranha                   |piranha                                                        |
 |RedHat (ssh)                                        |piranha                   |q                                                              |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Redcreek Communications                             |<blank>                   |1234                                                           |
 |Redcreek Communications                             |<blank>                   |private                                                        |
-|Redhat                                              |piranha                   |piranha                                                        |
+
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Redis (redis)                                       |<blank>                   |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Remedy                                              |ARAdmin                   |AR#Admin#                                                      |
 |Remedy                                              |Demo                      |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Research                                            |<blank>                   |Col2ogro2                                                      |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Research Machines                                   |manager                   |changeme                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Resumix                                             |root                      |resumix                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Ricoh                                               |<blank>                   |password                                                       |
 |Ricoh                                               |<blank>                   |sysadm                                                         |
 |Ricoh                                               |admin                     |<blank>                                                        |
@@ -3020,17 +5807,62 @@ A list of icons to help highlight some key features about these tools/resources.
 |Ricoh                                               |sysadm                    |sysadm                                                         |
 |Ricoh                                               |sysadmin                  |password                                                       |
 |Ricoh MP (printer)                                  |supervisor                |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Riverbed                                            |Admin                     |password                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Rizen                                               |Admin                     |123qwe                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |RoamAbout                                           |admin                     |password                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Rodopi                                              |Rodopi                    |Rodopi                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |RuggedCom                                           |Admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SAF Tehnika                                         |administrator             |d1scovery                                                      |
 |SAF Tehnika                                         |integrator                |p1nacate                                                       |
 |SAF Tehnika                                         |monitor                   |monitor                                                        |
 |SAF Tehnika                                         |operator                  |col1ma                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SAGEM                                               |admin                     |epicrouter                                                     |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SAMSUNG                                             |admin                     |sec00000                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SAP                                                 |Administrator             |manage                                                         |
 |SAP                                                 |DDIC                      |19920706                                                       |
 |SAP                                                 |Developer                 |isdev                                                          |
@@ -3065,9 +5897,29 @@ A list of icons to help highlight some key features about these tools/resources.
 |SAP (web)                                           |xmi_demo                  |sap123                                                         |
 |SAP (web) client EARLYWATCH                         |admin                     |Support                                                        |
 |SAP client EARLYWATCH                               |admin                     |Support                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SKF @ptitude Analyst (mssql)                        |sa                        |skf_admin1                                                     |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SKY                                                 |admin                     |sky                                                            |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SMA America                                         |<blank>                   |sma                                                            |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SMC                                                 |<blank>                   |0                                                              |
 |SMC                                                 |<blank>                   |<blank>                                                        |
 |SMC                                                 |<blank>                   |smcadmin                                                       |
@@ -3081,6 +5933,11 @@ A list of icons to help highlight some key features about these tools/resources.
 |SMC                                                 |default                   |WLAN_AP                                                        |
 |SMC                                                 |mso                       |w0rkplac3rul3s                                                 |
 |SMC                                                 |smc                       |smcadmin                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SNMP (snmp)                                         |<blank>                   |0                                                              |
 |SNMP (snmp)                                         |<blank>                   |0392a0                                                         |
 |SNMP (snmp)                                         |<blank>                   |1234                                                           |
@@ -3194,32 +6051,107 @@ A list of icons to help highlight some key features about these tools/resources.
 |SNMP (snmp)                                         |<blank>                   |write                                                          |
 |SNMP (snmp)                                         |<blank>                   |xyzzy                                                          |
 |SNMP (snmp)                                         |<blank>                   |yellow                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SOPHIA (Schweiz)                                    |admin                     |Protector                                                      |
 |SOPHIA (Schweiz)                                    |root                      |root                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SSA                                                 |SSA                       |SSA                                                            |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SUN                                                 |root                      |sun123                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SWEEX                                               |sweex                     |mysweex                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Saba                                                |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SafeNet Sentinel EMS (mssql)                        |sa                        |DBA!sa@EMSDB123                                                |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Safecom                                             |admin                     |epicrouter                                                     |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Sagem                                               |Menara                    |Menara                                                         |
 |Sagem                                               |admin                     |admin                                                          |
 |Sagem                                               |root                      |1234                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Samba                                               |Any                       |Any                                                            |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Sambar Technologies                                 |admin                     |<blank>                                                        |
 |Sambar Technologies                                 |anonymous                 |<blank>                                                        |
 |Sambar Technologies                                 |billy-bob                 |<blank>                                                        |
 |Sambar Technologies                                 |ftp                       |<blank>                                                        |
 |Sambar Technologies                                 |guest                     |guest                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Samsung                                             |<blank>                   |<blank>                                                        |
 |Samsung                                             |<blank>                   |s!a@m#n$p%c                                                    |
 |Samsung                                             |admin                     |password                                                       |
 |Samsung                                             |public                    |public                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Samuel Abels                                        |user                      |password                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Schlage SMS (mssql)                                 |SMSAdmin                  |SECAdmin1                                                      |
 |Schlage SMS (mssql)                                 |sa                        |SECAdmin1                                                      |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Schneider                                           |USER                      |USER                                                           |
 |Schneider                                           |sysdiag                   |factorycast@schneider                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Schneider Electric                                  |<blank>                   |admin                                                          |
 |Schneider Electric                                  |USER                      |USER                                                           |
 |Schneider Electric                                  |ntpupdate                 |ntpupdate                                                      |
@@ -3227,36 +6159,121 @@ A list of icons to help highlight some key features about these tools/resources.
 |Schneider M340(Web)                                 |USER                      |USER                                                           |
 |Schneider Premium(FTP)                              |sysdiag                   |factorycast@schneider                                          |
 |Schneider Premium(WEB)                              |USER                      |USER                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Scientific Atlanta                                  |admin                     |w2402                                                          |
-|Seagate                                             |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Seagate                                             |admin                     |admin                                                          |5
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Seagull Scientific                                  |ADMIN                     |admin                                                          |
 |Seagull Scientific                                  |USER                      |USER                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Seclore                                             |root                      |changeonfirstlogin                                             |
 |Seclore                                             |sa                        |changeonfirstlogin                                             |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Secure Computing                                    |admin                     |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Securicor3NET                                       |manager                   |friend                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Semaphore                                           |DESQUETOP                 |<blank>                                                        |
 |Semaphore                                           |DS                        |<blank>                                                        |
 |Semaphore                                           |DSA                       |<blank>                                                        |
 |Semaphore                                           |PHANTOM                   |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Sempre                                              |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Senao                                               |admin                     |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Sercom                                              |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Server Technology                                   |ADMN                      |admn                                                           |
 |Server Technology                                   |GEN1                      |gen1                                                           |
 |Server Technology                                   |GEN2                      |gen2                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Seyeon Technology Co.,Ltd                           |root                      |root                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Sharp                                               |<blank>                   |sysadm                                                         |
 |Sharp                                               |Administrator             |admin                                                          |
 |Sharp                                               |admin                     |Sharp                                                          |
 |Sharp                                               |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Shiva                                               |admin                     |hello                                                          |
 |Shiva                                               |guest                     |<blank>                                                        |
 |Shiva                                               |hello                     |hello                                                          |
 |Shiva                                               |root                      |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |ShoreTel                                            |Admin                     |admin1                                                         |
 |Shoretel                                            |admin                     |changeme                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Shuttle                                             |<blank>                   |Spacve                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Siemens                                             |31994                     |31994                                                          |
 |Siemens                                             |<blank>                   |0                                                              |
 |Siemens                                             |<blank>                   |123456                                                         |
@@ -3298,11 +6315,41 @@ A list of icons to help highlight some key features about these tools/resources.
 |Siemens Corp                                        |system                    |system                                                         |
 |Siemens Corp                                        |tech                      |tech                                                           |
 |Siemens S7-1200(Web)                                |admin                     |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Sierra Wireless                                     |user                      |12345                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Sigma                                               |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Signamax                                            |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Siips                                               |Administrator             |ganteng                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Silex Technology                                    |root                      |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Silicon Graphics                                    |4Dgifts                   |4Dgifts                                                        |
 |Silicon Graphics                                    |4Dgifts                   |<blank>                                                        |
 |Silicon Graphics                                    |6.x                       |<blank>                                                        |
@@ -3315,73 +6362,288 @@ A list of icons to help highlight some key features about these tools/resources.
 |Silicon Graphics                                    |tour                      |tour                                                           |
 |Silicon Graphics                                    |tutor                     |<blank>                                                        |
 |Silicon Graphics                                    |tutor                     |tutor                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Silvercrest                                         |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Site Interactive                                    |admin                     |pass                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Sitecom                                             |<blank>                   |damin                                                          |
 |Sitecom                                             |<blank>                   |sitecom                                                        |
 |Sitecom                                             |admin                     |admin                                                          |
 |Sitecom                                             |admin                     |password                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Sitecore Corporation                                |Audrey                    |a                                                              |
 |Sitecore Corporation                                |Bill                      |b                                                              |
 |Sitecore Corporation                                |Denny                     |d                                                              |
 |Sitecore Corporation                                |Lonnie                    |l                                                              |
 |Sitecore Corporation                                |Minnie                    |m                                                              |
 |Sitecore Corporation                                |admin                     |b                                                              |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SmartSwitch                                         |admin                     |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Snap Appliance                                      |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SnapGear                                            |root                      |default                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Snapgear                                            |root                      |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Snom                                                |Administrator             |0                                                              |
 |Snom                                                |admi                      |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Software AG                                         |Administrator             |manage                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Softwarehouse                                       |manager                   |manager                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SolarWinds                                          |LocalAdministrator        |#l@$ak#.lk;0@P                                                 |
 |SolarWinds                                          |whd                       |whd                                                            |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Solution 6                                          |aaa                       |often blank                                                    |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Solwise                                             |root                      |same as webui pwd                                              |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SonarQube (web)                                     |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SonarSource                                         |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Sonic-X                                             |root                      |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SonicWALL                                           |admin                     |password                                                       |
 |Sonicwall                                           |admin                     |password                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Sonus                                               |admin                     |Sonus12345                                                     |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Sony                                                |admin                     |admin                                                          |
 |Sony Ericsson                                       |<blank>                   |0                                                              |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Sorenson                                            |<blank>                   |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Sourcefire                                          |admin                     |password                                                       |
 |Sourcefire                                          |root                      |password                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Sovereign Hill                                      |Admin                     |shs                                                            |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Sparklan                                            |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Speco Technologies IP Camera (camera)               |admin                     |1234                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Spectra Logic                                       |administrator             |<blank>                                                        |
 |Spectra Logic                                       |operator                  |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SpeedStream                                         |<blank>                   |admin                                                          |
 |SpeedStream                                         |<blank>                   |adminttd                                                       |
 |SpeedStream                                         |Administrator             |admin                                                          |
 |SpeedStream                                         |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SpeedXess                                           |<blank>                   |speedxess                                                      |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Sphairon                                            |admin                     |passwort                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Spider Systems                                      |<blank>                   |hello                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Spike                                               |enable                    |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SplendidCRM (mssql)                                 |sa                        |splendidcrm2005                                                |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Splunk                                              |admin                     |changeme                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Ssangyoung                                          |<blank>                   |2501                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Stan Ozier                                          |admin                     |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Stratitec                                           |root                      |ahetzip8                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SuSE GmbH                                           |root                      |root                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Sun                                                 |admin                     |admin                                                          |
 |Sun                                                 |root                      |changeme                                                       |
 |Sun                                                 |root                      |t00lk1t                                                        |
 |Sun                                                 |ssp                       |ssp                                                            |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Sun Microsystems                                    |root                      |changeme                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Super Micro Computer,Inc.                           |ADMIN                     |ADMIN                                                          |
 |SuperMicro                                          |<blank>                   |ksdjfg934t                                                     |
-|Supercook                                           |admin                     |AlpheusDigital1010                                             |
-|Supercook                                           |super                     |super                                                          |
 |Supermicro                                          |ADMIN                     |admin                                                          |
 |Supermicro (web)                                    |ADMIN                     |ADMIN                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Supercook                                           |admin                     |AlpheusDigital1010                                             |
+|Supercook                                           |super                     |super                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Surecom                                             |admin                     |admin                                                          |
 |Surecom                                             |admin                     |surecom                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Sweex                                               |<blank>                   |<blank>                                                        |
 |Sweex                                               |<blank>                   |admin                                                          |
 |Sweex                                               |<blank>                   |blank                                                          |
@@ -3390,47 +6652,147 @@ A list of icons to help highlight some key features about these tools/resources.
 |Sweex                                               |admin                     |epicrouter                                                     |
 |Sweex                                               |rdc123                    |rdc123                                                         |
 |Sweex                                               |sweex                     |mysweex                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Swissvoice                                          |target                    |password                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Syabas Technology                                   |ftpuser                   |1234                                                           |
 |Syabas Technology                                   |nmt                       |1234                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Sybase                                              |12.x                      |<blank>                                                        |
 |Sybase                                              |DBA                       |SQL                                                            |
 |Sybase                                              |jagadmin                  |<blank>                                                        |
 |Sybase                                              |sa                        |<blank>                                                        |
 |Sybase                                              |sa                        |sasasa                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Symantec                                            |(none)                    |admin                                                          |
 |Symantec                                            |<blank>                   |symantec                                                       |
 |Symantec                                            |admin                     |<blank>                                                        |
 |Symantec                                            |admin                     |symantec                                                       |
 |Symantec                                            |root                      |brightmail                                                     |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Symbol                                              |<blank>                   |Symbol                                                         |
 |Symbol                                              |Symbol                    |Symbol                                                         |
 |Symbol                                              |admin                     |symbol                                                         |
 |Symbol Technologies,Inc                             |admin                     |superuser                                                      |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Symmetricom                                         |guest                     |truetime                                                       |
 |Symmetricom                                         |operator                  |mercury                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Synology Inc                                        |admin                     |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SysKonnect                                          |default.password          |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |SysMaster                                           |admin                     |12345                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |System/32                                           |install                   |secret                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |T-Com                                               |<blank>                   |0                                                              |
 |T-Com                                               |<blank>                   |123456                                                         |
 |T-Comfort                                           |Administrator             |<blank>                                                        |
 |T-com                                               |veda                      |12871                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |TELTRONIC S.A.U.                                    |admin                     |tetra                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |TIBCO                                               |admin                     |admin                                                          |
 |TIBCO                                               |admin                     |changeit                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |TMC                                                 |<blank>                   |BIGO                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |TOTOLINK                                            |onlime_r                  |12345                                                          |
 |TOTOLINK                                            |root                      |12345                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |TP Link                                             |admin                     |admin                                                          |
 |TP-LINK                                             |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |TRENDnet Internet Camera (webcam)                   |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |TVT System                                          |<blank>                   |enter                                                          |
 |TVT System                                          |craft                     |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |TYPO3                                               |<blank>                   |joh316                                                         |
 |TYPO3                                               |admin                     |password                                                       |
-|Table 1                                             |                          |                                                               |
+
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Tandberg                                            |<blank>                   |10023                                                          |
 |Tandberg                                            |<blank>                   |GWrv                                                           |
 |Tandberg                                            |<blank>                   |TANDBERG                                                       |
@@ -3438,50 +6800,205 @@ A list of icons to help highlight some key features about these tools/resources.
 |Tandberg                                            |admin                     |<blank>                                                        |
 |Tandberg                                            |admin                     |TANDBERG                                                       |
 |Tandberg                                            |root                      |TANDBERG                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Tandem                                              |super.super               |<blank>                                                        |
 |Tandem                                              |super.super               |master                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Tasman                                              |Tasman                    |Tasmannet                                                      |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Team Xodus                                          |xbox                      |xbox                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |TeamCity 9 Guest (web)                              |<blank>                   |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Tegile                                              |admin                     |tegile                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Teklogix                                            |Administrator             |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Telappliant                                         |admin                     |1234                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Telco Systems                                       |telco                     |telco                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Telebit                                             |setup                     |setup                                                          |
 |Telebit                                             |snmp                      |nopasswd                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Teledat                                             |admin                     |1234                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Telelec                                             |eagle                     |eagle                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Teleopti WFM (web)                                  |admin@company.com         |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Telestream Vantage (mssql)                          |sa                        |vantage12!                                                     |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Teletronics                                         |admin                     |1234                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Telewell                                            |admin                     |admin                                                          |
 |Telewell                                            |admin                     |password                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Telindus                                            |<blank>                   |<blank>                                                        |
 |Telindus                                            |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Tellabs                                             |root                      |admin_1                                                        |
 |Tellabs                                             |tellabs                   |tellabs#1                                                      |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Telus                                               |(created)                 |telus00                                                        |
 |Telus                                               |(created)                 |telus99                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Terayon                                             |<blank>                   |<blank>                                                        |
 |Terayon                                             |admin                     |password                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |TexBox                                              |<blank>                   |123                                                            |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |TextPortal                                          |god1                      |12345                                                          |
 |TextPortal                                          |god2                      |12345                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Thecus Tech                                         |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Thomson                                             |<blank>                   |admin                                                          |
 |Thomson                                             |admin                     |admin                                                          |
 |Thomson                                             |admin                     |password                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Tiara                                               |tiara                     |tiaranet                                                       |
 |Tiara Networks                                      |<blank>                   |tiara                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Tim Schaab                                          |theman                    |changeit                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |TimeForce (mssql)                                   |sa                        |Dr8gedog                                                       |
 |TimeForce (mssql)                                   |sa                        |dr8gedog                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |TimeTools                                           |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Tiny                                                |<blank>                   |Tiny                                                           |
 |Tinys                                               |<blank>                   |Tiny                                                           |
 |Tinys                                               |<blank>                   |tiny                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |TopLayer                                            |siteadmin                 |toplayer                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Topcom                                              |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Toshiba                                             |(none)                    |toshy99                                                        |
 |Toshiba                                             |<blank>                   |24Banc81                                                       |
 |Toshiba                                             |<blank>                   |<blank>                                                        |
@@ -3490,19 +7007,69 @@ A list of icons to help highlight some key features about these tools/resources.
 |Toshiba                                             |Admin                     |123456                                                         |
 |Toshiba                                             |admin                     |123456                                                         |
 |Toshiba                                             |super                     |superpass                                                      |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Trend Micro                                         |admin                     |admin                                                          |
 |Trend Micro                                         |admin                     |imsa7.0                                                        |
 |Trend Micro                                         |root                      |trendimsa1.0                                                   |
 |TrendMicro                                          |admin                     |admin                                                          |
 |TrendMicro                                          |admin                     |imss7.0                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |TrendNET                                            |admin                     |password                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Trintech                                            |t3admin                   |Trintech                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Tripp Lite                                          |root                      |TrippLite                                                      |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Triumph-Adler                                       |admin                     |0                                                              |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Troy                                                |admin                     |extendnet                                                      |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Tsunami                                             |managers                  |managers                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Tumbleweed                                          |Admin                     |SECRET123                                                      |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Typo3 Association                                   |admin                     |password                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |U.S. Robotics                                       |<blank>                   |12345                                                          |
 |U.S. Robotics                                       |<blank>                   |admin                                                          |
 |U.S. Robotics                                       |<blank>                   |amber                                                          |
@@ -3512,7 +7079,13 @@ A list of icons to help highlight some key features about these tools/resources.
 |U.S. Robotics                                       |root                      |12345                                                          |
 |U.S. Robotics                                       |root                      |admin                                                          |
 |U.S. Robotics                                       |support                   |support                                                        |
-|UNEX                                                |<blank>                   |password                                                       |
+
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|UNIX                                                |<blank>                   |password                                                       |
 |UNIX                                                |adm                       |<blank>                                                        |
 |UNIX                                                |adm                       |adm                                                            |
 |UNIX                                                |admin                     |admin                                                          |
@@ -3612,63 +7185,263 @@ A list of icons to help highlight some key features about these tools/resources.
 |UNIX                                                |webmaster                 |webmaster                                                      |
 |UNIX                                                |www                       |<blank>                                                        |
 |UNIX                                                |www                       |www                                                            |
-|USRobotics                                          |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |UT Lexar                                            |lexar                     |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |UTC FCWnx (mssql)                                   |sa                        |SecurityMaster08                                               |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |UTStarcom                                           |dbase                     |dbase                                                          |
 |UTStarcom                                           |field                     |field                                                          |
 |UTStarcom                                           |guru                      |*3noguru                                                       |
 |UTStarcom                                           |snmp                      |snmp                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Ubiquiti EdgeOS (web)                               |ubnt                      |ubnt                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Unex                                                |<blank>                   |password                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Unidesk                                             |Administrator             |Unidesk1                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Unify                                               |<blank>                   |123456                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Union                                               |root                      |root                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Unisys                                              |ADMINISTRATOR             |ADMINISTRATOR                                                  |
 |Unisys                                              |HTTP                      |HTTP                                                           |
 |Unisys                                              |NAU                       |NAU                                                            |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |United Technologies Corporation                     |admin                     |1234                                                           |
-|Unknown                                             |<blank>                   |password                                                       |
-|Unknown                                             |operator                  |operator                                                       |
-|Unknown                                             |overseer                  |overseer                                                       |
-|Unknown                                             |test                      |test                                                           |
+
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |UsRobotics                                          |Any                       |12345                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Utstar                                              |admin                     |utstar                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |VASCO                                               |admin                     |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |VBrick Systems                                      |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |VPASP                                               |admin                     |admin                                                          |
 |VPASP                                               |vpasp                     |vpasp                                                          |
-|Various                                             |root                      |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Veramark                                            |admin                     |password                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Verifone                                            |<blank>                   |166816                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Verilink                                            |<blank>                   |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Veritas                                             |admin                     |password                                                       |
-|Verity                                              |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
+|Verity                                              |admin                     |admin                                                          |1
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Verizon                                             |admin                     |password                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Vextrec Technology                                  |<blank>                   |Vextrex                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Video Insight (mssql)                               |sa                        |V4in$ight                                                      |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Video Web Server (webcam)                           |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |VieNuke                                             |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Vina Technologies                                   |<blank>                   |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Virtual Programming                                 |admin                     |admin                                                          |
 |Virtual Programming                                 |vpasp                     |vpasp                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Visa VAP                                            |root                      |QNX                                                            |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Visual Networks                                     |admin                     |visual                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Vobis                                               |<blank>                   |merlin                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |VoiceGenie Technologies                             |pw                        |pw                                                             |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |VoiceObjects Germany                                |voadmin                   |manager                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Vonage                                              |user                      |user                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |VxWorks                                             |admin                     |admin                                                          |
 |VxWorks                                             |guest                     |guest                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |WAAV                                                |admin                     |waav                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |WLAN_3D                                             |Administrator             |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |WWWBoard                                            |WebAdmin                  |WebBoard                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Wanadoo                                             |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Wanco,Inc.                                          |<blank>                   |ABCD                                                           |
 |Wanco,Inc.                                          |<blank>                   |Guest                                                          |
 |Wanco,Inc.                                          |<blank>                   |NTCIP                                                          |
 |Wanco,Inc.                                          |<blank>                   |Public                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Wang                                                |CSG                       |SESAME                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |WatchGuard                                          |<blank>                   |wg                                                             |
 |WatchGuard                                          |admin                     |admin                                                          |
 |WatchGuard                                          |admin                     |readwrite                                                      |
@@ -3676,9 +7449,29 @@ A list of icons to help highlight some key features about these tools/resources.
 |Watchguard                                          |<blank>                   |wg                                                             |
 |Watchguard                                          |admin                     |<blank>                                                        |
 |Watchguard                                          |user                      |pass                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Web Wiz                                             |Administrator             |letmein                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |WebSphere (web)                                     |system                    |manager                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |WebTrends                                           |Admin                     |(none)                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Weblogic (web)                                      |EXAMPLES                  |EXAMPLES                                                       |
 |Weblogic (web)                                      |PUBLIC                    |PUBLIC                                                         |
 |Weblogic (web)                                      |WEBLOGIC                  |WEBLOGIC                                                       |
@@ -3692,17 +7485,57 @@ A list of icons to help highlight some key features about these tools/resources.
 |Weblogic (web)                                      |weblogic                  |weblogic                                                       |
 |Weblogic (web)                                      |weblogic                  |weblogic1                                                      |
 |Weblogic (web)                                      |weblogic                  |welcome(1)                                                     |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Webmin                                              |admin                     |hp.com                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Webramp                                             |wradmin                   |trancell                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Weidmüller                                          |admin                     |detmond                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |WelchAllyn CardioPerfect (mssql)                    |sa                        |Cardio.Perfect                                                 |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Westell                                             |CSG                       |SESAME                                                         |
 |Westell                                             |admin                     |<blank>                                                        |
 |Westell                                             |admin                     |password                                                       |
 |Westell                                             |admin                     |password1                                                      |
 |Westell                                             |admin                     |sysAdmin                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Wim Bervoets                                        |<blank>                   |Compleri                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Wireless,Inc.                                       |root                      |rootpass                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Wonderware Historian (mssql)                        |aaAdmin                   |pwAdmin                                                        |
 |Wonderware Historian (mssql)                        |aaPower                   |pwPower                                                        |
 |Wonderware Historian (mssql)                        |aaUser                    |pwUser                                                         |
@@ -3711,20 +7544,49 @@ A list of icons to help highlight some key features about these tools/resources.
 |Wonderware Historian (mssql)                        |wwPower                   |wwPower                                                        |
 |Wonderware Historian (mssql)                        |wwUser                    |wwUser                                                         |
 |Wonderware Historian (mssql)                        |wwdbo                     |wwdbo                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |WorldClient                                         |WebAdmin                  |Admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Wyse                                                |<blank>                   |Fireport                                                       |
 |Wyse                                                |<blank>                   |password                                                       |
 |Wyse                                                |VNC                       |winterm                                                        |
 |Wyse                                                |rapport                   |r@p8p0r+                                                       |
 |Wyse                                                |root                      |<blank>                                                        |
 |Wyse                                                |root                      |wyse                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |X-Micro                                             |1502                      |1502                                                           |
 |X-Micro                                             |super                     |super                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |XAMPP                                               |newuser                   |wampp                                                          |
 |XAMPP (web)                                         |newuser                   |wampp                                                          |
-|XEROX Phaser 6700 (printer)                         |admin                     |1111                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Xavi                                                |<blank>                   |<blank>                                                        |
 |Xavi                                                |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Xerox                                               |11111                     |x-admin                                                        |
 |Xerox                                               |<blank>                   |0                                                              |
 |Xerox                                               |<blank>                   |11111                                                          |
@@ -3737,34 +7599,125 @@ A list of icons to help highlight some key features about these tools/resources.
 |Xerox                                               |admin                     |admin                                                          |
 |Xerox                                               |admin                     |x-admin                                                        |
 |Xerox                                               |savelogs                  |crash                                                          |
+|XEROX Phaser 6700 (printer)                         |admin                     |1111                                                           |
 |Xerox WorkCentre 5020/DN (printer)                  |11111                     |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Xinit Systems Ltd.                                  |openfiler                 |password                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Xylan                                               |admin                     |switch                                                         |
 |Xylan                                               |diag                      |switch                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Xyplex                                              |<blank>                   |<blank>                                                        |
 |Xyplex                                              |<blank>                   |access                                                         |
 |Xyplex                                              |<blank>                   |system                                                         |
 |Xyplex                                              |setpriv                   |system                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Yakumo                                              |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Yealink                                             |admin                     |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Yokogawa                                            |<blank>                   |727                                                            |
 |Yokogawa                                            |admin                     |!admin                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Yuxin                                               |User                      |1234                                                           |
 |Yuxin                                               |User                      |19750407                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |ZEOS                                                |<blank>                   |zeosx                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |ZTE                                                 |ADSL                      |expert03                                                       |
 |ZTE                                                 |admin                     |Telkomdso123                                                   |
 |ZTE                                                 |user                      |user                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Zabbix (web)                                        |Admin                     |zabbix                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Zcom                                                |root                      |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Zcomax                                              |admin                     |password                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Zebra                                               |admin                     |1234                                                           |
 |Zebra Technologies                                  |admin                     |1234                                                           |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Zenith                                              |<blank>                   |3098z                                                          |
 |Zenith                                              |<blank>                   |Zenith                                                         |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Zeus                                                |admin                     |<blank>                                                        |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Zoom                                                |admin                     |zoomadsl                                                       |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |ZyWALL Series                                       |<blank>                   |admin                                                          |
+
+## 
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |Zyxel                                               |(none)                    |1234                                                           |
 |Zyxel                                               |1234                      |1234                                                           |
 |Zyxel                                               |1234                      |Administrator                                                  |
@@ -3781,157 +7734,11 @@ A list of icons to help highlight some key features about these tools/resources.
 |Zyxel                                               |webadmin                  |1234                                                           |
 |Zyxel (ssh)                                         |zyfwp                     |PrOw!aN_fXp                                                    |
 |Zyxel NWA/NAP/WAC wireless access point series (ftp)|devicehaecived            |1234                                                           |
-|accton t-online                                     |<blank>                   |0                                                              |
-|acer                                                |acer                      |acer                                                           |
-|acti (web)                                          |Admin                     |12345                                                          |
-|acti (web)                                          |Admin                     |123456                                                         |
-|acti (web)                                          |admin                     |12345                                                          |
-|acti (web)                                          |admin                     |123456                                                         |
-|actiontec                                           |admin                     |admin                                                          |
-|adtran                                              |<blank>                   |<blank>                                                        |
-|adtran                                              |<blank>                   |Password                                                       |
-|adtran                                              |<blank>                   |adtran                                                         |
-|allied                                              |<blank>                   |<blank>                                                        |
-|american_dynamics (web)                             |admin                     |9999                                                           |
-|american_dynamics (web)                             |admin                     |admin                                                          |
-|antsle (ssh)                                        |root                      |antsle                                                         |
-|arecont (web)                                       |<blank>                   |<blank>                                                        |
-|arecont (web)                                       |admin                     |<blank>                                                        |
-|asmax (ssh)                                         |admin                     |admin                                                          |
-|asmax (ssh)                                         |support                   |support                                                        |
-|asmax (ssh)                                         |user                      |user                                                           |
-|ast                                                 |<blank>                   |<blank>                                                        |
-|asus (ssh)                                          |Admin                     |Admin                                                          |
-|asus (ssh)                                          |admin                     |admin                                                          |
-|asus (ssh)                                          |admin                     |password                                                       |
-|asus (ssh)                                          |root                      |root                                                           |
-|avigilon (web)                                      |Administrator             |<blank>                                                        |
-|avigilon (web)                                      |admin                     |admin                                                          |
-|avtech (web)                                        |admin                     |admin                                                          |
-|axis (web)                                          |root                      |admin                                                          |
-|axis (web)                                          |root                      |pass                                                           |
-|backtrack                                           |root                      |toor                                                           |
-|basler (web)                                        |admin                     |admin                                                          |
-|bhu (ssh)                                           |admin                     |admin                                                          |
-|billion (ssh)                                       |admin                     |admin                                                          |
-|boson                                               |<blank>                   |<blank>                                                        |
-|brickcom (web)                                      |admin                     |admin                                                          |
-|caldera                                             |admin                     |admin                                                          |
-|canon (web)                                         |root                      |camera                                                         |
-|canyon                                              |Administrator             |admin                                                          |
-|comtrend (ssh)                                      |admin                     |admin                                                          |
-|crt                                                 |egcr                      |ergc                                                           |
-|cuproplus                                           |<blank>                   |<blank>                                                        |
-|cyberguard                                          |cgadmin                   |cgadmin                                                        |
-|darkman                                             |ioFTPD                    |ioFTPD                                                         |
-|db2 (db2)                                           |ADONIS                    |BPMS                                                           |
-|db2 (db2)                                           |dasusr1                   |dasusr1                                                        |
-|db2 (db2)                                           |db2admin                  |db2admin                                                       |
-|db2 (db2)                                           |db2fenc1                  |db2fenc1                                                       |
-|db2 (db2)                                           |db2inst1                  |db2inst1                                                       |
-|db2 (db2)                                           |db2inst1                  |db2pass                                                        |
-|db2 (db2)                                           |db2inst1                  |db2password                                                    |
-|db2 (db2)                                           |db2inst1                  |db2pw                                                          |
-|decnet                                              |operator                  |admin                                                          |
-|digicom                                             |Admin                     |<blank>                                                        |
-|drupal.org                                          |admin                     |admin                                                          |
-|eMachines                                           |emaq                      |4133                                                           |
-|eQ-3                                                |root                      |MuZhlo9n%8!G                                                   |
-|eSeSIX Computer GmbH                                |root                      |jstwo                                                          |
-|eZ Systems                                          |admin                     |publish                                                        |
-|easyWinArt (mssql)                                  |sa                        |$easyWinArt4                                                   |
-|elasticsearch (web)                                 |elastic                   |changeme                                                       |
-|enCAD                                               |<blank>                   |<blank>                                                        |
-|ericsson                                            |<blank>                   |<blank>                                                        |
-|ericsson                                            |<blank>                   |help                                                           |
-|fon                                                 |admin                     |admin                                                          |
-|fortinet (web)                                      |admin                     |<blank>                                                        |
-|fortinet (web)                                      |maintainer                |admin                                                          |
-|fortinet (web)                                      |maintainer                |bcpb+serial#                                                   |
-|ftp (ftp)                                           |anonymous                 |<blank>                                                        |
-|ftp (ftp)                                           |ftp                       |ftp                                                            |
-|ftp (ftp)                                           |guest                     |guest                                                          |
-|geovision (web)                                     |admin                     |admin                                                          |
-|giga                                                |Administrator             |admin                                                          |
-|glFtpD                                              |glftpd                    |glftpd                                                         |
-|glftpd                                              |glftpd                    |glftpd                                                         |
-|grandstream (web)                                   |admin                     |admin                                                          |
-|greatspeed                                          |netadmin                  |nimdaten                                                       |
-|haier                                               |ucenik23                  |ucenik                                                         |
-|hikvision (ssh)                                     |admin                     |12345                                                          |
-|honeywell (ssh)                                     |admin                     |12345                                                          |
-|honeywell (web)                                     |admin                     |1234                                                           |
-|huawei (ssh)                                        |Admin                     |admin                                                          |
-|huawei (ssh)                                        |admin                     |<blank>                                                        |
-|huawei (ssh)                                        |admin                     |admin                                                          |
-|huawei (ssh)                                        |digicel                   |digicel                                                        |
-|huawei (ssh)                                        |telecomadmin              |admintelecom                                                   |
-|huawei (ssh)                                        |user                      |HuaweiUser                                                     |
-|huawei (ssh)                                        |user                      |user                                                           |
-|huawei (ssh)                                        |vodafone                  |vodafone                                                       |
-|i2b2 Workbench (mssql)                              |I2b2demodata              |i2b2demodata                                                   |
-|i2b2 Workbench (mssql)                              |I2b2demodata2             |i2b2demodata2                                                  |
-|i2b2 Workbench (mssql)                              |I2b2hive                  |i2b2hive                                                       |
-|i2b2 Workbench (mssql)                              |I2b2metadata              |i2b2metadata                                                   |
-|i2b2 Workbench (mssql)                              |I2b2metadata2             |i2b2metadata2                                                  |
-|i2b2 Workbench (mssql)                              |I2b2workdata              |i2b2workdata                                                   |
-|i2b2 Workbench (mssql)                              |I2b2workdata2             |i2b2workdata2                                                  |
-|iBall                                               |admin                     |admin                                                          |
-|iDirect                                             |admin                     |P@55w0rd!                                                      |
-|iDirect                                             |root                      |iDirect                                                        |
-|iNTERFACEWARE Inc.                                  |admn                      |password                                                       |
-|iPSTAR                                              |admin                     |operator                                                       |
-|iblitzz                                             |admin                     |admin                                                          |
-|icatch (camera)                                     |admin                     |123456                                                         |
-|icatch (camera)                                     |root                      |icatch99                                                       |
-|inchon                                              |admin                     |admin                                                          |
-|infacta                                             |Administrator             |<blank>                                                        |
-|intel                                               |<blank>                   |<blank>                                                        |
-|intel                                               |admin                     |<blank>                                                        |
-|intel                                               |khan                      |kahn                                                           |
-|intel                                               |root                      |admin                                                          |
-|intex                                               |<blank>                   |<blank>                                                        |
-|ion                                                 |<blank>                   |admin                                                          |
-|ion                                                 |Administrator             |admin                                                          |
-|ipfire (ssh)                                        |admin                     |<blank>                                                        |
-|ipfire (ssh)                                        |admin                     |admin                                                          |
-|ipfire (ssh)                                        |root                      |admin                                                          |
-|iqinvision (web)                                    |root                      |system                                                         |
-|iso sistemi                                         |<blank>                   |<blank>                                                        |
-|juniper (ssh)                                       |admin                     |<<< %s(un=\'%s\') = %u.                                        |
-|juniper (ssh)                                       |admin                     |abc123                                                         |
-|juniper (ssh)                                       |super                     |juniper123                                                     |
-|jvc (web)                                           |admin                     |jvc                                                            |
-|kaptest                                             |admin                     |<blank>                                                        |
-|latis network                                       |<blank>                   |<blank>                                                        |
-|ldap account manager(lam)                           |lam                       |lam                                                            |
-|linksys (ssh)                                       |admin                     |admin                                                          |
-|linksys (ssh)                                       |admin                     |password                                                       |
-|linksys (ssh)                                       |linksys                   |<blank>                                                        |
-|linksys (ssh)                                       |root                      |admin                                                          |
-|longshine                                           |admin                     |0                                                              |
-|m0n0wall                                            |admin                     |mono                                                           |
-|maxdata                                             |<blank>                   |<blank>                                                        |
-|medion                                              |<blank>                   |medion                                                         |
-|medo.check (mssql)                                  |mcUser                    |medocheck123                                                   |
-|metasploit (ssh)                                    |msf                       |msf                                                            |
-|metasploit (ssh)                                    |msfdev                    |msfdev                                                         |
-|metro                                               |client                    |client                                                         |
-|microRouter                                         |<blank>                   |letmein                                                        |
-|mklencke                                            |root                      |blablabla                                                      |
-|mobotix (web)                                       |admin                     |meinsm                                                         |
-|modern.ie (ssh)                                     |IEUser                    |D@rj33l1ng                                                     |
-|motorola                                            |<blank>                   |<blank>                                                        |
-|movistar (ssh)                                      |1234                      |1234                                                           |
-|movistar (ssh)                                      |admin                     |admin                                                          |
-|mro software                                        |SYSADM                    |sysadm                                                         |
-|nCircle                                             |root                      |ciwuxe                                                         |
-|netcore (ssh)                                       |admin                     |admin                                                          |
-|netcore (ssh)                                       |guest                     |guest                                                          |
-|netgar (ssh)                                        |admin                     |1234                                                           |
-|netgar (ssh)                                        |admin                     |<blank>                                                        |
-|netgar (ssh)                                        |admin                     |admin                                                          |
-|netsys (ssh)                                        |admin                     |admin                                                          |
+
+## To Be Sorted
+
+| Vendor  | User | Password |
+|:--------|:-----|:---------|
 |olitec                                              |admin                     |adslolitec                                                     |
 |olitec (Trendchip)                                  |admin                     |admin                                                          |
 |oodie.com                                           |admin                     |admin                                                          |
@@ -4009,7 +7816,6 @@ A list of icons to help highlight some key features about these tools/resources.
 |telnet (telnet)                                     |administrator             |1234                                                           |
 |telnet (telnet)                                     |guest                     |12345                                                          |
 |telnet (telnet)                                     |guest                     |guest                                                          |
-|telnet (telnet)                                     |mother                    |fucker                                                         |
 |telnet (telnet)                                     |root                      |0                                                              |
 |telnet (telnet)                                     |root                      |1111                                                           |
 |telnet (telnet)                                     |root                      |1234                                                           |
