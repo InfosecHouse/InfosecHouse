@@ -34,17 +34,17 @@ A list of icons to help highlight some key features about these tools/resources.
 | [KeepassX](https://www.keepassx.org/) | An application for people with extremly high demands on secure personal data management. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [KeepassXC](https://keepassxc.org/) | Cross-Platform Password Manager. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [LastPass](https://www.lastpass.com/) | Keeps your information private, secure, and hidden. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
-| [Sticky Password](https://www.stickypassword.com/) | Log in securely. Autofill forms in a second. Use your passwords wherever you go. Be safe.  | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png)) |
+| [Sticky Password](https://www.stickypassword.com/) | Log in securely. Autofill forms in a second. Use your passwords wherever you go. Be safe.  | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png)) |
 | [Post-It](https://www.post-it.com/3M/en_US/post-it/) | Safest place to write your passwords. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) |
 
 ## Enterprise Password/Secret Managers
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [CyberArk](https://www.cyberark.com/) | Keep your business and its most valuable assets secure. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) |
-| [Hashicorp Vault](https://www.hashicorp.com/products/vault) | Secure, store and tightly control access to tokens, passwords, certificates, and more. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) |
-| [Password Safe (BeyondTrust)](https://www.beyondtrust.com/password-safe) | Discover, manage, audit, and monitor privileged accounts of all types. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) |
-| [Thycotic](https://thycotic.com/products/secret-server/) | Protect your privileged accounts with our enterprise-grade Privileged Access Management. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) |
+| [CyberArk](https://www.cyberark.com/) | Keep your business and its most valuable assets secure. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+| [Hashicorp Vault](https://www.hashicorp.com/products/vault) | Secure, store and tightly control access to tokens, passwords, certificates, and more. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+| [Password Safe (BeyondTrust)](https://www.beyondtrust.com/password-safe) | Discover, manage, audit, and monitor privileged accounts of all types. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+| [Thycotic](https://thycotic.com/products/secret-server/) | Protect your privileged accounts with our enterprise-grade Privileged Access Management. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
 
 
 
