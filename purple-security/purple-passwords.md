@@ -1307,8 +1307,8 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Vendor  | User | Password |
 |:--------|:-----|:---------|
-|CA APM Team Center (web)                            |Admin                     |<blank>                                                        |
-|CA APM Team Center (web)                            |Guest                     |Guest                                                          |
+|CA APM Team Center                            |Admin                     |<blank>                                                        |
+|CA APM Team Center                            |Guest                     |Guest                                                          |
 
 ## CA NetQoS
 
