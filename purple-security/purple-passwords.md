@@ -7679,7 +7679,7 @@ A list of icons to help highlight some key features about these tools/resources.
 |Zyxel (ssh)                                         |zyfwp                     |PrOw!aN_fXp                                                    |
 |Zyxel NWA/NAP/WAC wireless access point series (ftp)|devicehaecived            |1234                                                           |
 
-## To Be Sorted
+## To Be Sorted Soon 
 
 | Vendor  | User | Password |
 |:--------|:-----|:---------|
