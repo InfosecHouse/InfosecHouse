@@ -78,6 +78,8 @@ _Shoutout to the following amazing individuals for suggesting and adding resourc
 | [Authentication](operation-security/operation-authentication.md) | Secure your authentication methods with 2-Factor Authentication. |
 | [Burners](operation-security/operation-burners.md) | Everything for your temporary needs. |
 | [Communication](operation-security/operation-communication.md) | Protect your SMS messages, voice calls, and e-mails. Big brother is always watching. |
+| [Operating Systems](operation-security/operation-operating-systems.md) | Hardening your operating system. |
+| [Password/Secret Managers](operation-security/operation-pass-managers.md) | Hardening your operating system. |
 
 ## Purple Security
 
