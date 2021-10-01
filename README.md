@@ -80,6 +80,8 @@ _Shoutout to the following amazing individuals for suggesting and adding resourc
 | [Communication](operation-security/operation-communication.md) | Protect your SMS messages, voice calls, and e-mails. Big brother is always watching. |
 | [Operating Systems](operation-security/operation-operating-systems.md) | Hardening your operating system. |
 | [Password/Secret Managers](operation-security/operation-pass-managers.md) | Secure your passwords, secrets, and notes. |
+| [Search Engines](operation-security/operation-search-engines.md) | Hardening your operating system. |
+
 
 ## Purple Security
 
