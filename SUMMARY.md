@@ -47,7 +47,7 @@
 * [Burners](operation-security/operation-burners.md)
 * [Communication](operation-security/operation-communication.md)
 * [Operating Systems](operation-security/operation-operating-systems.md)
-*[Password/Secrets Manager](operation-security/operation-pass-managers.md)
+* [Password/Secrets Manager](operation-security/operation-pass-managers.md)
 
 ## Purple Security
 
