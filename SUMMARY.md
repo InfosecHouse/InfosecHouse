@@ -48,7 +48,7 @@
 * [Communication](operation-security/operation-communication.md)
 * [Operating Systems](operation-security/operation-operating-systems.md)
 * [Password/Secrets Manager](operation-security/operation-pass-managers.md)
-* [Search Engines](operation-security/operation-search-engines.md)
+* [Search Engine](operation-security/operation-search-engines.md)
 
 ## Purple Security
 
