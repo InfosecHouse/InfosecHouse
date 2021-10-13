@@ -1,6 +1,6 @@
 # Windows
 
-Mirosoft Windows pentesting tools and resources.
+Microsoft Windows pentesting tools and resources.
 
 ## ICON DIRECTORY
 

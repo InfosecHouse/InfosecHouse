@@ -1,6 +1,6 @@
 # Mobile
 
-Incident response tools, and resources when alarms pop off.
+Protect your mobile applications from being reverse engineered, and follow industry best practices. 
 
 ## ICON DIRECTORY
 

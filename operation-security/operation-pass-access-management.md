@@ -1,6 +1,6 @@
-# Authentication
+# Password & Access Management
 
-Secure your authentication with MFA. 
+Secure your passwords, secrets, and notes.
 
 ## ICON DIRECTORY
 
@@ -21,6 +21,31 @@ A list of icons to help highlight some key features about these tools/resources.
 | ![transparency](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/transparency.png) | Transparency - Resource has provided Infosec House with transparency report/log. |
 | ![verified](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/verified.png) | Verified - Verified resource/organization. |
 | ![winner-1](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/winner.png) | Winner - Resource was a winner in the Infosec House tool battle arena. |
+
+## Consumer Password/Secret Managers
+
+| Tool | Description | Directory |
+| :--- | :--- | :--- |
+| [1Password](https://1password.com) | Password Manager for Families, Businesses, Teams . | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+| [Bitwarden]() | Easiest and safest way for teams and individuals to store and share sensitive data from any device. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+| [Dashlane](https://www.dashlane.com/) | Password Manager App for Home, Mobile, Business. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+| [GoPass](https://www.gopass.pw/) | The slightly more awesome standard unix password manager for teams. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Keepass](https://keepass.info/) |  A free open source password manager. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [KeepassX](https://www.keepassx.org/) | An application for people with extremly high demands on secure personal data management. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [KeepassXC](https://keepassxc.org/) | Cross-Platform Password Manager. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [LastPass](https://www.lastpass.com/) | Keeps your information private, secure, and hidden. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+| [Sticky Password](https://www.stickypassword.com/) | Log in securely. Autofill forms in a second. Use your passwords wherever you go. Be safe.  | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+| [Post-It](https://www.post-it.com/3M/en_US/post-it/) | Safest place to write your passwords. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) |
+
+## Enterprise Password/Secret Managers
+
+| Tool | Description | Directory |
+| :--- | :--- | :--- |
+| [CyberArk](https://www.cyberark.com/) | Keep your business and its most valuable assets secure. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+| [Hashicorp Vault](https://www.hashicorp.com/products/vault) | Secure, store and tightly control access to tokens, passwords, certificates, and more. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+| [Password Safe (BeyondTrust)](https://www.beyondtrust.com/password-safe) | Discover, manage, audit, and monitor privileged accounts of all types. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+| [Thycotic](https://thycotic.com/products/secret-server/) | Protect your privileged accounts with our enterprise-grade Privileged Access Management. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+
 
 ## MFA Hardware
 
@@ -55,4 +80,6 @@ A list of icons to help highlight some key features about these tools/resources.
 | [Aerobase Server](https://github.com/aerobase/omnibus-aerobase-server) | Simple secure and seamless authentication. | ![last-commit](https://img.shields.io/github/last-commit/aerobase/omnibus-aerobase-server?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [LinOTP](https://github.com/LinOTP/LinOTP) | Open source solution for two factor authentication. | ![last-commit](https://img.shields.io/github/last-commit/LinOTP/LinOTP?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [PrivacyIDEA](https://github.com/beemdevelopment/Aegis) | A free, secure, and open source 2FA app for android. | ![last-commit](https://img.shields.io/github/last-commit/beemdevelopment/Aegis?color=947cb0&style=flat-square) |
+
+
 

@@ -1,6 +1,6 @@
 # Video
 
-Talks, livestreams, and presentations.
+Talks, live-streams, and presentations.
 
 ## ICON DIRECTORY
 

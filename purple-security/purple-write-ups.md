@@ -1,6 +1,6 @@
 # Write-Ups
 
-Write-ups both offensive and defensive operataions can utilize.
+Write-ups both offensive and defensive operations can utilize.
 
 ## ICON DIRECTORY
 

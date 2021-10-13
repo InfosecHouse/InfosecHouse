@@ -52,6 +52,7 @@ A list of icons to help highlight some key features about these tools/resources.
 | [Myne-us](http://www.myne-us.com/) | Hardware security research. | N/A |
 | [Pentest Blog](https://pentest.blog/) | Mix of research. Vulnerability research team of PRODAFT SARL. | N/A |
 | [Question Defense](https://www.question-defense.com/) | Mix of research. | N/A |
+| [Ross Mark](https://rossmarks.uk/blog/) | Security Consultant. Pentester. Exploit Dev. | Mix of Research |
 | [Reusable Security](https://reusablesec.blogspot.com/) | Password Cracking, Crypto, and General Security Research. | N/A |
 | [Security Reliks](https://securityreliks.wordpress.com/) | Mix of research. | N/A |
 | [Security Sift](https://9emin1.github.io/pages/) | CTF Write-ups/Windows Research. | N/A |

@@ -1,6 +1,6 @@
 # Honeypots
 
-Catch them with their hands/attacks sticky.
+Deploy honeypots to catch the ops moves. 
 
 ## ICON DIRECTORY
 
