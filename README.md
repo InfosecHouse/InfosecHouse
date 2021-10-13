@@ -17,7 +17,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 _Shoutout to the following amazing individuals for suggesting and adding resources!_
 
-[0xrom](https://www.twitch.tv/0xrom), [Binary.rip](https://www.instagram.com/binary.rip/), [chadb\_n00b](https://www.twitch.tv/chadb_n00b), [CyberLola](https://www.twitch.tv/CyberLola), [DevNullZen](https://www.twitch.tv/DevNullZen), [EightBitOni](https://www.twitch.tv/eightbitoni/), [footpics4sale](https://www.twitch.tv/footpics4sale), [goldyautomation](https://www.twitch.tv/goldyautomation), [GoProSlowYo](https://www.twitch.tv/goproslowyo), [halfamomo](https://www.twitch.tv/halfamomo) [JR0ch17](https://twitter.com/JR0ch17), [p4r4n0ir](https://www.twitch.tv/p4r4n0ir), [PaWNmUnCher](https://www.twitch.tv/PaWNmUnCher), [RySkill](https://www.twitch.tv/ryskill), [theGwar](https://www.twitch.tv/thegwar), [Vander_Grift](https://www.twitch.tv/Vander_Grift), and [zuphzuph](https://www.twitch.tv/zuphzuph).
+[0xgnnr](https://www.twitch.tv/0xgnnr), [0xrom](https://www.twitch.tv/0xrom), [Binary.rip](https://www.instagram.com/binary.rip/), [chadb\_n00b](https://www.twitch.tv/chadb_n00b), [CyberLola](https://www.twitch.tv/CyberLola), [DevNullZen](https://www.twitch.tv/DevNullZen), [EightBitOni](https://www.twitch.tv/eightbitoni/), [footpics4sale](https://www.twitch.tv/footpics4sale), [goldyautomation](https://www.twitch.tv/goldyautomation), [GoProSlowYo](https://www.twitch.tv/goproslowyo), [halfamomo](https://www.twitch.tv/halfamomo) [JR0ch17](https://twitter.com/JR0ch17), [p4r4n0ir](https://www.twitch.tv/p4r4n0ir), [PaWNmUnCher](https://www.twitch.tv/PaWNmUnCher), [RySkill](https://www.twitch.tv/ryskill), [skyfire100](https://www.twitch.tv/skyfire100), [theGwar](https://www.twitch.tv/thegwar), [Vander_Grift](https://www.twitch.tv/Vander_Grift), and [zuphzuph](https://www.twitch.tv/zuphzuph).
 
 ## Follow Us
 
@@ -42,6 +42,7 @@ _Shoutout to the following amazing individuals for suggesting and adding resourc
 | [IOC](defensive-security/defensive-ioc.md) | Indicators of compromise. Discover if you've been compromised. |
 | [Malware](defensive-security/defensive-malware.md) | All the malware you can wish for to reverse engineer. |
 | [Monitoring](defensive-security/defensive-monitoring.md) | Monitor your network, e-mail, packets, and infrastructure. |
+| [Operating Systems](defensive-security/defensive-operating-systems.md) | Operating system's solely focused for defensive security teams. |
 | [Phishing](defensive-security/defensive-phishing.md) | Tools and resources for analyzing phishing attacks. |
 | [Threat Intel](defensive-security/defensive-threat-intel.md) | Discover where the threats begin. |
 
@@ -63,7 +64,9 @@ _Shoutout to the following amazing individuals for suggesting and adding resourc
 | [Linux](offensive-security/offensive-linux.md) | Tools and resources for popping those linux boxes. |
 | [Mobile](offensive-security/offensive-mobile.md) | Tools and resources for pentesting on mobile applications. |
 | [Network](offensive-security/offensive-network.md) | Sniff the network. Modify the packets. |
+| [Operating Systems](offensive-security/offensive-operating-systems.md) | Operating system's solely focused for offensive security teams. |
 | [Reconnaissance](offensive-security/offensive-recon.md) | Understand your target. Perform in-depth research and discover new attack surfaces. |
+| [Shells](offensive-security/offensive-shells.md) | Generating pre-built webshells to customizing your own. |
 | [Social Engineering](offensive-security/offensive-social-engineering.md) | Manipulation techniques that exploits human error to gain private information, access, or valuables. |
 | [Vulnerability Scanners](offensive-security/offensive-vuln-scanners.md) | Discover vulnerabilities fast, and automate some of the heavy loads. |
 | [Web Application](offensive-security/offensive-web-app.md) | Break that web application. |
@@ -101,4 +104,3 @@ _Shoutout to the following amazing individuals for suggesting and adding resourc
 | :--- | :--- |
 | [Entertainment](xtras/xtras-entertainment.md) | Kick back relax and enjoy some entertainment. |
 | [Video](xtras/xtras-video.md) | Talks, livestreams, and presentations. |
-

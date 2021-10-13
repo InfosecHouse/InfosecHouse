@@ -32,6 +32,12 @@ A list of icons to help highlight some key features about these tools/resources.
 | [FakeMail](https://www.fakemail.net/) | Temp Mail Address Protects Your Privacy. | N/A |
 | [Temp Mail Gen](https://tempmailgen.com/) | A disposable, throwaway, temporary,one-click email. No IP logging. | N/A |
 
+## Financial
+
+| Organization | Description | Directory |
+| :--- | :--- | :--- |
+| [Privacy](https://privacy.com/) | Make a unique debit card number for every single purchase online with just 1 click. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+
 ## Phone Numbers
 
 | Organization | Description | Directory |

@@ -1,8 +1,8 @@
-# Forensics
+# Shells
 
-Uncover the dirty little secrets of a recovered HDD, Image, malware, and more.
+Generating pre-built webshells to customizing your own.
 
-### ICON DIRECTORY
+## ICON DIRECTORY
 
 A list of icons to help highlight some key features about these tools/resources.
 
@@ -22,27 +22,18 @@ A list of icons to help highlight some key features about these tools/resources.
 | ![verified](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/verified.png) | Verified - Verified resource/organization. |
 | ![winner-1](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/winner.png) | Winner - Resource was a winner in the Infosec House tool battle arena. |
 
-## Browser
+## Generators
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Hindsight](https://github.com/obsidianforensics/hindsight) | Web browser forensics for Google Chrome/Chromium. | ![last-commit](https://img.shields.io/github/last-commit/obsidianforensics/hindsight?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [RevShells](https://www.revshells.com/) | Reverse Shell generator with a ton of functionality. | ![last-commit](https://img.shields.io/github/last-commit/0dayCTF/reverse-shell-generator?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Shellerator](https://github.com/ShutdownRepo/shellerator) | Simple CLI tool for the generation of bind and reverse shells in multiple languages. | ![last-commit](https://img.shields.io/github/last-commit/ShutdownRepo/shellerator?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png)
 
-## Mobile
 
-| Tool | Description | Directory |
-| :--- | :--- | :--- |
-| [Andriller](https://github.com/den4uk/andriller) | Performs read-only, forensically sound, non-destructive acquisition from Android devices. | ![last-commit](https://img.shields.io/github/last-commit/den4uk/andriller?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-
-## Scripts
+## Webshells
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [DissectingMalwa.re Lab](https://github.com/f0wl/MalwareLab_VM-Setup) | Download/setup script for malware analysis/software reverse engineering. | ![last-commit](https://img.shields.io/github/last-commit/f0wl/MalwareLab_VM-Setup?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-
-## Tools
-
-| Tool | Description | Directory |
-| :--- | :--- | :--- |
-| [Beagle](https://github.com/yampelo/beagle) | Digital forensics tool which transforms security logs and data into graphs. | ![last-commit](https://img.shields.io/github/last-commit/yampelo/beagle?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-
+| [p0wny shell](https://github.com/flozz/p0wny-shell) |  Single-file PHP shell.  | ![last-commit](https://img.shields.io/github/last-commit/flozz/p0wny-shell?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [php reverse shell](https://github.com/ivan-sincek/php-reverse-shell) | PHP reverse shell script. Works on Linux OS, macOS, and Windows OS. | ![last-commit](https://img.shields.io/github/last-commit/ivan-sincek/php-reverse-shell?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [RedTeam Cookbook Webshells](https://gnnr.net/redteam_cookbook/foothold/webshells/) | Reference manual for shells.  | N/A |

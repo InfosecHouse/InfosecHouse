@@ -52,10 +52,13 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
+| [iKy](https://github.com/kennbroorg/iKy) |  OSINT Project. | ![last-commit](https://img.shields.io/github/last-commit/kennbroorg/iKy?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [IntelOwl](https://github.com/intelowlproject/IntelOwl) | OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale. | ![last-commit](https://img.shields.io/github/last-commit/intelowlproject/IntelOwl?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Maltego](https://www.maltego.com/) | Increase the speed and precision of investigations. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
 | [OpenCTI](https://github.com/OpenCTI-Platform/opencti) | Open Cyber Threat Intelligence Platform. | ![last-commit](https://img.shields.io/github/last-commit/OpenCTI-Platform/opencti?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [OSweep](https://github.com/ecstatic-nobel/OSweep) | Don't Just Search OSINT. Sweep It. | ![last-commit](https://img.shields.io/github/last-commit/ecstatic-nobel/OSweep?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [QueryTool](https://github.com/oryon-osint/querytool) | Querytool is an OSINT framework based on Google Spreadsheets. | ![last-commit](https://img.shields.io/github/last-commit/oryon-osint/querytool?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Scrummage](https://github.com/matamorphosis/Scrummage) | The Ultimate OSINT and Threat Hunting Framework. | ![last-commit](https://img.shields.io/github/last-commit/matamorphosis/Scrummage?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png)
 
 ## People
 

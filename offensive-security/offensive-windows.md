@@ -76,6 +76,12 @@ A list of icons to help highlight some key features about these tools/resources.
 | :--- | :--- | :--- |
 | [SharpRDP](https://github.com/0xthirteen/SharpRDP) | Remote Desktop Protocol .NET Console Application for Authenticated Command Execution. | ![last-commit](https://img.shields.io/github/last-commit/0xthirteen/SharpRDP?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
+## RPC
+
+| Tool | Descrption | Directory |
+| :--- | :--- | :--- |
+| [rpcenum](https://github.com/s4vitar/rpcenum) | Bash tool to extract info from a domain via RPCClient. | ![last-commit](https://img.shields.io/github/last-commit/s4vitar/rpcenum?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+
 ## Scripts
 
 | Tool | Descrption | Directory |

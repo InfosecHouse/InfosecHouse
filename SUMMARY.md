@@ -14,6 +14,7 @@
 * [Malware](defensive-security/defensive-malware.md)
 * [Mobile](defensive-security/defensive-mobile.md)
 * [Monitoring](defensive-security/defensive-monitoring.md)
+* [Operating Systems](defensive-security/defensive-operating-systems.md)
 * [Phishing](defensive-security/defensive-phishing.md)
 * [Threat Intel](defensive-security/defensive-threat-intel.md)
 
@@ -33,7 +34,9 @@
 * [Linux](offensive-security/offensive-linux.md)
 * [Mobile](offensive-security/offensive-mobile.md)
 * [Network](offensive-security/offensive-network.md)
+* [Operating Systems](offensive-security/offensive-operating-systems.md)
 * [Reconnaissance](offensive-security/offensive-recon.md)
+* [Shells](offensive-security/offensive-shells.md)
 * [Social Engineering](offensive-security/offensive-social-engineering.md)
 * [Vulnerability Scanners](offensive-security/offensive-vuln-scanners.md)
 * [Web Application](offensive-security/offensive-web-app.md)
@@ -43,7 +46,6 @@
 ## Operation Security
 
 * [Anonymity](operation-security/operation-anonymity.md)
-* [Authentication](operation-security/operation-authentication.md)
 * [Burners](operation-security/operation-burners.md)
 * [Communication](operation-security/operation-communication.md)
 * [Operating Systems](operation-security/operation-operating-systems.md)

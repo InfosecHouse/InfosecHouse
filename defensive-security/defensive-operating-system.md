@@ -1,8 +1,8 @@
-# Forensics
+# Operating Systems
 
-Uncover the dirty little secrets of a recovered HDD, Image, malware, and more.
+Operating system's solely focused for defensive security teams.
 
-### ICON DIRECTORY
+## ICON DIRECTORY
 
 A list of icons to help highlight some key features about these tools/resources.
 
@@ -22,27 +22,12 @@ A list of icons to help highlight some key features about these tools/resources.
 | ![verified](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/verified.png) | Verified - Verified resource/organization. |
 | ![winner-1](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/winner.png) | Winner - Resource was a winner in the Infosec House tool battle arena. |
 
-## Browser
+## ISO/VM Images
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Hindsight](https://github.com/obsidianforensics/hindsight) | Web browser forensics for Google Chrome/Chromium. | ![last-commit](https://img.shields.io/github/last-commit/obsidianforensics/hindsight?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-
-## Mobile
-
-| Tool | Description | Directory |
-| :--- | :--- | :--- |
-| [Andriller](https://github.com/den4uk/andriller) | Performs read-only, forensically sound, non-destructive acquisition from Android devices. | ![last-commit](https://img.shields.io/github/last-commit/den4uk/andriller?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-
-## Scripts
-
-| Tool | Description | Directory |
-| :--- | :--- | :--- |
-| [DissectingMalwa.re Lab](https://github.com/f0wl/MalwareLab_VM-Setup) | Download/setup script for malware analysis/software reverse engineering. | ![last-commit](https://img.shields.io/github/last-commit/f0wl/MalwareLab_VM-Setup?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-
-## Tools
-
-| Tool | Description | Directory |
-| :--- | :--- | :--- |
-| [Beagle](https://github.com/yampelo/beagle) | Digital forensics tool which transforms security logs and data into graphs. | ![last-commit](https://img.shields.io/github/last-commit/yampelo/beagle?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-
+| [Bitscout](https://bitscout-forensics.info/) | LiveCD/LiveUSB for remote forensic acquisition and analysis. | N/A |
+| [SANS Investigative Forensics Toolkit \(SIFT\)](https://github.com/teamdfir/sift) | Linux distribution for forensic analysis | ![last-commit](https://img.shields.io/github/last-commit/teamdfir/sift?color=947cb0&style=flat-square) |
+| [The Sleuth Kit](https://github.com/sleuthkit/sleuthkit) | Forensic toolkit for analyzing Microsoft and UNIX file systems and disks. | ![last-commit](https://img.shields.io/github/last-commit/sleuthkit/sleuthkit?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Tsurugi](https://tsurugi-linux.org/) | Linux distribution for DFIR | N/A |
+| [WinFE](https://www.winfe.net/home) | Windows Forensics | N/A |

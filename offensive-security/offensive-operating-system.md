@@ -1,8 +1,8 @@
-# Forensics
+# Operating Systems
 
-Uncover the dirty little secrets of a recovered HDD, Image, malware, and more.
+Operating system's solely focused for offensive security teams.
 
-### ICON DIRECTORY
+## ICON DIRECTORY
 
 A list of icons to help highlight some key features about these tools/resources.
 
@@ -22,27 +22,18 @@ A list of icons to help highlight some key features about these tools/resources.
 | ![verified](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/verified.png) | Verified - Verified resource/organization. |
 | ![winner-1](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/winner.png) | Winner - Resource was a winner in the Infosec House tool battle arena. |
 
-## Browser
+## Docker Images
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Hindsight](https://github.com/obsidianforensics/hindsight) | Web browser forensics for Google Chrome/Chromium. | ![last-commit](https://img.shields.io/github/last-commit/obsidianforensics/hindsight?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Exegol](https://github.com/ShutdownRepo/Exegol) | A fully featured and community-driven hacking environment. | ![last-commit](https://img.shields.io/github/last-commit/ShutdownRepo/Exegol?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
-## Mobile
-
-| Tool | Description | Directory |
-| :--- | :--- | :--- |
-| [Andriller](https://github.com/den4uk/andriller) | Performs read-only, forensically sound, non-destructive acquisition from Android devices. | ![last-commit](https://img.shields.io/github/last-commit/den4uk/andriller?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-
-## Scripts
+## ISO/VM Images
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [DissectingMalwa.re Lab](https://github.com/f0wl/MalwareLab_VM-Setup) | Download/setup script for malware analysis/software reverse engineering. | ![last-commit](https://img.shields.io/github/last-commit/f0wl/MalwareLab_VM-Setup?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Black Arch](https://www.blackarch.org/) | Arch Linux-based penetration testing distribution for penetration testers and security researchers. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Kali LInux](https://www.kali.org/get-kali/) | Debian-derived Linux distribution designed for digital forensics and penetration testing. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Parrot OS](https://www.parrotsec.org/) | GNU/Linux distribution based on Debian and designed with Security and Privacy in mind. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
-## Tools
-
-| Tool | Description | Directory |
-| :--- | :--- | :--- |
-| [Beagle](https://github.com/yampelo/beagle) | Digital forensics tool which transforms security logs and data into graphs. | ![last-commit](https://img.shields.io/github/last-commit/yampelo/beagle?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 

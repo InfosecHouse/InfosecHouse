@@ -34,6 +34,7 @@ A list of icons to help highlight some key features about these tools/resources.
 | :--- | :--- | :--- |
 | [ARTIF](https://github.com/CRED-CLUB/ARTIF) | An advanced real time threat intelligence framework to identify threats and malicious web traffic on the basis of IP reputation and historical data. | ![last-commit](https://img.shields.io/github/last-commit/CRED-CLUB/ARTIF?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [MISP](https://github.com/MISP/MISP) | MISP \(core software\) - Open Source Threat Intelligence and Sharing Platform \(formely known as Malware Information Sharing Platform\). | ![last-commit](https://img.shields.io/github/last-commit/MISP/MISP?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [ZeroBOX]( https://box.zero.camp/) | A collaborative threat intel dashboard | ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
 
 ## Pastes
 
