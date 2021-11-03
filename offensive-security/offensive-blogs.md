@@ -35,8 +35,10 @@ A list of icons to help highlight some key features about these tools/resources.
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
+| [0xSP](https://0xsp.com/) | Red Team Cheat Sheets | N/A |
 | [Archangel Amael](http://archangelamael.blogspot.com/) | Mix of research. | N/A |
 | [Attack and Defense](https://blog.carnal0wnage.com/) | Mix of research. | N/A |
+| [Brendon](https://tiszka.com/) | Computer security and C programming | N/a |
 | [carnal0wnage](https://blog.carnal0wnage.com/) | CVE research. | N/A |
 | [Ch3rn0byl](https://ch3rn0byl.com/) | CVE research. | N/A |
 | [Coldwind](https://gynvael.coldwind.pl/?blog=1&lang=en) | Mix of research. | N/A |
@@ -44,6 +46,7 @@ A list of icons to help highlight some key features about these tools/resources.
 | [Darknet.org.uk](https://www.darknet.org.uk/) | Mix of research. | N/A |
 | [Digi Ninja](https://digi.ninja/blog.php) | Mix of research. | N/A |
 | [GnuCitizen](https://www.gnucitizen.org/) | Mix of research. | N/A |
+| [Great Scott Gadgets](https://greatscottgadgets.com/) | Hardware Security | 
 | [Hacking & Security](https://hackingandsecurity.blogspot.com/) | Mix of research. | N/A |
 | [ihazomgsecurityskills](http://ihazomgsecurityskillz.blogspot.com/) | Mix of research. | N/A |
 | [Mad Irish](https://www.madirish.net/) | Mix of research. | N/A |

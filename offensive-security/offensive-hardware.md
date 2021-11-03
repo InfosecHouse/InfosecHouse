@@ -45,4 +45,5 @@ A list of icons to help highlight some key features about these tools/resources.
 | [Hacker Gadgets](https://hacker-gadgets.com/) | One-stop warehouse, for the best Hacking Gadgets, Pentesting Equipment, Hacker Hardware Tools and everyday Swag. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) |
 | [Hacker Warehouse](https://hackerwarehouse.com/) | Your one-stop shop for all your computer security needs from defense to offense. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) |
 | [Hak5](https://shop.hak5.org/) | Pentest tools for authorized auditing/security analysis only where permitted. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) |
+| [Red Team Tools](https://www.redteamtools.com/) | Red teaming physical products.  |  ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) |
 
