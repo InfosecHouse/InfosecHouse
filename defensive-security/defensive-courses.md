@@ -22,16 +22,6 @@ A list of icons to help highlight some key features about these tools/resources.
 | ![verified](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/verified.png) | Verified - Verified resource/organization. |
 | ![winner-1](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/winner.png) | Winner - Resource was a winner in the Infosec House tool battle arena. |
 
-## Management Platform
-
-| Tool | Description | Directory |
-| :--- | :--- | :--- |
-| [Cyphon](https://github.com/cyphonmdr/cyphon) | Platform that receives, processes, and triages events to create a more efficient analytic workflow. |  ![last-commit](https://img.shields.io/github/last-commit/cyphonmdr/cyphon?color=947cb0&style=flat-square) ![archive](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/archive.png) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [DFIRTrack](https://github.com/dfirtrack/dfirtrack) | The Incident Response Tracking Application. |  ![last-commit](https://img.shields.io/github/last-commit/dfirtrack/dfirtrack?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [FIR](https://github.com/certsocietegenerale/FIR) | Fast Incident Response allows for easy creation, tracking, and reporting of cybersecurity incidents. |  ![last-commit](https://img.shields.io/github/last-commit/certsocietegenerale/FIR?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [The Hive](https://github.com/TheHive-Project/TheHive) | A Scalable, Open Source and Free Security Incident Response Platform. |  ![last-commit](https://img.shields.io/github/last-commit/TheHive-Project/TheHive?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-| [Wazuh](https://github.com/wazuh/wazuh) | Capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments. |  ![last-commit](https://img.shields.io/github/last-commit/wazuh/wazuh?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
-
 ##  Courses and Training
 
 | Tool | Description | Directory |
