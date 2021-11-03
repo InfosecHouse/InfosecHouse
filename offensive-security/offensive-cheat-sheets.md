@@ -1,6 +1,6 @@
 # Cheat Sheets
 
-Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase.
+Offensive security cheat sheets
 
 ## ICON DIRECTORY
 

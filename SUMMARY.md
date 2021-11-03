@@ -5,6 +5,7 @@
 ## Defensive Security
 
 * [Asset Management](defensive-security/defensive-assets-management.md)
+* [Courses](defensive-security/defensive-courses.md)
 * [Firewalls](defensive-security/defensive-firewalls.md)
 * [Forensics](defensive-security/defensive-forensics.md)
 * [Honeypots](defensive-security/defensive-honeypot.md)
@@ -24,6 +25,7 @@
 * [Blogs](offensive-security/offensive-blogs.md)
 * [Bug Bounty](offensive-security/offensive-bug-bounty.md)
 * [C2](offensive-security/offensive-C2.md)
+* [Cheat Sheets](offensive-security/offensive-cheat-sheets.md)
 * [Cloud](offensive-security/offensive-cloud.md)
 * [Collaboration](offensive-security/offensive-collab.md)
 * [Courses](offensive-security/offensive-courses.md)

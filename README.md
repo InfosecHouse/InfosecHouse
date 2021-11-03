@@ -35,6 +35,7 @@ _Shoutout to the following amazing individuals for suggesting and adding resourc
 | Sub-Category | Description |
 | :--- | :--- |
 | [Asset Management](defensive-security/defensive-assets-management.md) | Keep track of your inventory. You can't protect what you don't see. |
+| [Courses](defensive-security/defensive-courses.md) | Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase. |
 | [Forensics](defensive-security/defensive-forensics.md) | Uncover the dirty little secrets of a recovered HDD, Image, malware, and more. |
 | [Honeypots](defensive-security/defensive-honeypot.md) | Catch them with their hands/attacks sticky. |
 | [IDS/IPS](defensive-security/defensive-ids-ips.md) | Intrusion Detection and Prevention Systems. |
@@ -54,6 +55,7 @@ _Shoutout to the following amazing individuals for suggesting and adding resourc
 | [Blogs](offensive-security/offensive-blogs.md) | Reading material for offensive security researchers. |
 | [Bug Bounty](offensive-security/offensive-bug-bounty.md) | Test out your skills against other hackers. Get paid for finding vulnerabilities. |
 | [C2](offensive-security/offensive-C2.md) | Command and Control tools and frameworks. |
+| [Cheat Sheets](offensive-security/offensive-cheat-sheets.md) | Offensive security cheat sheets. |
 | [Cloud](offensive-security/offensive-cloud.md) | Discover tools and resources dedicated to hacking cloud platforms. |
 | [Collaboration](offensive-security/offensive-collab.md) | Discover tools and frameworks for red team collaboration. |
 | [Courses](offensive-security/offensive-courses.md) | Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase. |
