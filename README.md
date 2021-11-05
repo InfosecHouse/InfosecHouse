@@ -61,6 +61,7 @@ _Shoutout to the following amazing individuals for suggesting and adding resourc
 | [Courses](offensive-security/offensive-courses.md) | Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase. |
 | [Cracking](offensive-security/offensive-cracking.md) | Everything you need to crack all the hashes. |
 | [CTF Offensive](offensive-security/offensive-ctf.md) | Compete your hacking skills against others. |
+| [Data Exfiltration](offensive-security/offensive-data-exfiltration.md) | Exfiltrate the data, and test your DLP. |
 | [Exploits](offensive-security/offensive-exploits.md) | Gather all your exploits needed to pop that box. |
 | [Hardware](offensive-security/offensive-hardware.md) | Grab some of the most used hardware within the penetration testing industry. |
 | [Linux](offensive-security/offensive-linux.md) | Tools and resources for popping those linux boxes. |

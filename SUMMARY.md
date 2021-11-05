@@ -31,6 +31,7 @@
 * [Courses](offensive-security/offensive-courses.md)
 * [Cracking](offensive-security/offensive-cracking.md)
 * [CTF Offensive](offensive-security/offensive-ctf.md)
+* [Data Exfiltration](offensive-security/offensive-data-exfiltration.md)|
 * [Exploits](offensive-security/offensive-exploits.md)
 * [Hardware](offensive-security/offensive-hardware.md)
 * [Linux](offensive-security/offensive-linux.md)
