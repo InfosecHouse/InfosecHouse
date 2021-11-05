@@ -29,8 +29,9 @@ A list of icons to help highlight some key features about these tools/resources.
 | [HackListX](https://hacklistx.github.io/) | A list of Hacking Streamers. | ![last-commit](https://img.shields.io/github/last-commit/HackListX/HackListX.github.io?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [InfoSec Streamers](https://infosecstreams.github.io) | InfoSec streamers list sorted based on 14-day activity to help you find active streamers more easily. | ![last-commit](https://img.shields.io/github/last-commit/infosecstreams/infosecstreams.github.io?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 
-## Presentations
+## Presentations & Conferences
 
 | Resource | Description | Category |
 | :--- | :--- | :--- |
+| [InfoCon](https://infocon.org/) | Hacking conference archive | N/A |
 | [OPSEC: Because Jail is for wuftpd](https://www.youtube.com/watch?v=9XaYdCdwiWU) | This talk focuses on practical operational security (OPSEC) measures to avoid detection and prevent arrest by Law Enforcement Officials. | Operation Security |
