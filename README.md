@@ -1,6 +1,6 @@
 # Introduction
 
-![](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/img/infosechouse-banner.png)
+![](img/infosechouse-banner.png)
 
 <p align="center"> 
 <img src="https://img.shields.io/github/last-commit/infosechouse/infosechouse?color=%23947cb0&style=for-the-badge"><br>
@@ -13,24 +13,10 @@ Infosec resource center for offensive and defensive security operations.
 </h4>
 <br>
 
-A curated list of many tools and resources for both offensive and defensive security teams. Please visit [https://infosec.house/](https://infosec.house/) for our website version of this repo. Found a resources that should be on here? Feel free to submit a pull request or drop it in our [Discord](https://discord.gg/FWe9bjDBfY) server.
-
-_Shoutout to the following amazing individuals for suggesting and adding resources!_
-
-[0xgnnr](https://www.twitch.tv/0xgnnr), [0xrom](https://www.twitch.tv/0xrom), [Binary.rip](https://www.instagram.com/binary.rip/), [chadb\_n00b](https://www.twitch.tv/chadb_n00b), [CyberLola](https://www.twitch.tv/CyberLola), [DevNullZen](https://www.twitch.tv/DevNullZen), [EightBitOni](https://www.twitch.tv/eightbitoni/), [footpics4sale](https://www.twitch.tv/footpics4sale), [goldyautomation](https://www.twitch.tv/goldyautomation), [GoProSlowYo](https://www.twitch.tv/goproslowyo), [halfamomo](https://www.twitch.tv/halfamomo) [JR0ch17](https://twitter.com/JR0ch17), [p4r4n0ir](https://www.twitch.tv/p4r4n0ir), [PaWNmUnCher](https://www.twitch.tv/PaWNmUnCher), [RySkill](https://www.twitch.tv/ryskill), [skyfire100](https://www.twitch.tv/skyfire100), [theGwar](https://www.twitch.tv/thegwar), [Vander_Grift](https://www.twitch.tv/Vander_Grift), and [zuphzuph](https://www.twitch.tv/zuphzuph).
-
-## Follow Us
-
-| Organization | Hyperlink |
-| :--- | :--- |
-| Discord | [https://discord.gg/FWe9bjDBfY](https://discord.gg/FWe9bjDBfY) |
-| Instagram | [https://www.instagram.com/InfosecHouse/](https://www.instagram.com/InfosecHouse/) |
-| Twitter | [https://twitter.com/InfosecHouse](https://twitter.com/InfosecHouse) |
-| Telegram | [https://t.me/InfosecHouse](https://t.me/InfosecHouse) |
-| Twitch | [https://www.twitch.tv/InfosecHouse](https://www.twitch.tv/InfosecHouse) |
-| YouTube | [https://www.youtube.com/channel/UC4PgsAu56TSpzH66aIOqbKQ](https://www.youtube.com/channel/UC4PgsAu56TSpzH66aIOqbKQ) |
+A curated list of many tools and resources for both offensive and defensive security teams. Please visit [https://infosec.house/](https://infosec.house/) for our website version of this repo. Found a resources that should be on here? Feel free to submit a pull request!
 
 ## Defensive Security
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-122-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
@@ -48,6 +34,7 @@ _Shoutout to the following amazing individuals for suggesting and adding resourc
 | [Threat Intel](defensive-security/defensive-threat-intel.md) | Discover where the threats begin. |
 
 ## Offensive Security
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-429-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
@@ -77,6 +64,7 @@ _Shoutout to the following amazing individuals for suggesting and adding resourc
 | [Wireless](offensive-security/offensive-wireless.md) | Discover tools and resources for exploiting Wi-Fi, bluetooth, RFID, and more. |
 
 ## Operation Security
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-94-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
@@ -90,6 +78,7 @@ _Shoutout to the following amazing individuals for suggesting and adding resourc
 
 
 ## Purple Security
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-33-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
@@ -102,8 +91,30 @@ _Shoutout to the following amazing individuals for suggesting and adding resourc
 | [Write-Ups](purple-security/purple-write-ups.md) | Write-ups both offensive and defensive operataions can utilize. |
 
 ## Xtras
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-36-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
 | [Entertainment](xtras/xtras-entertainment.md) | Kick back relax and enjoy some entertainment. |
 | [Video](xtras/xtras-video.md) | Talks, livestreams, and presentations. |
+
+## Contributors
+
+---
+
+Shoutout to the following amazing individuals for suggesting and adding resources!
+
+[0xgnnr](https://www.twitch.tv/0xgnnr), [0xrom](https://www.twitch.tv/0xrom), [Binary.rip](https://www.instagram.com/binary.rip/), [chadb\_n00b](https://www.twitch.tv/chadb_n00b), [CyberLola](https://www.twitch.tv/CyberLola), [DevNullZen](https://www.twitch.tv/DevNullZen), [EightBitOni](https://www.twitch.tv/eightbitoni/), [footpics4sale](https://www.twitch.tv/footpics4sale), [goldyautomation](https://www.twitch.tv/goldyautomation), [GoProSlowYo](https://www.twitch.tv/goproslowyo), [halfamomo](https://www.twitch.tv/halfamomo) [JR0ch17](https://twitter.com/JR0ch17), [p4r4n0ir](https://www.twitch.tv/p4r4n0ir), [PaWNmUnCher](https://www.twitch.tv/PaWNmUnCher), [RySkill](https://www.twitch.tv/ryskill), [skyfire100](https://www.twitch.tv/skyfire100), [theGwar](https://www.twitch.tv/thegwar), [Vander_Grift](https://www.twitch.tv/Vander_Grift), and [zuphzuph](https://www.twitch.tv/zuphzuph).
+
+## Social Media
+
+---
+
+| Organization | Hyperlink |
+| :--- | :--- |
+| Discord | [https://discord.gg/FWe9bjDBfY](https://discord.gg/FWe9bjDBfY) |
+| Instagram | [https://www.instagram.com/InfosecHouse/](https://www.instagram.com/InfosecHouse/) |
+| Twitter | [https://twitter.com/InfosecHouse](https://twitter.com/InfosecHouse) |
+| Telegram | [https://t.me/InfosecHouse](https://t.me/InfosecHouse) |
+| Twitch | [https://www.twitch.tv/InfosecHouse](https://www.twitch.tv/InfosecHouse) |
+| YouTube | [https://www.youtube.com/channel/UC4PgsAu56TSpzH66aIOqbKQ](https://www.youtube.com/channel/UC4PgsAu56TSpzH66aIOqbKQ) |

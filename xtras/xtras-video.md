@@ -2,32 +2,48 @@
 
 Talks, live-streams, and presentations.
 
-## ICON DIRECTORY
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-24-947cb0?style=for-the-badge)
 
-A list of icons to help highlight some key features about these tools/resources.
+## Links <!-- {docsify-ignore} -->
 
-| Icon | Description |
-| :--- | :--- |
-| ![no-recent-update](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/no-recent-update.png) | Aged Resource - There has not been any update to resource in past 2 years. |
-| ![archive](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/archive.png) | Archived - Tool/Resource is in archived state. No longer updated/maintained. |
-| ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png) | Freemium - Tool/Resource is free but offers premium plan/upgrade of service. |
-| ![legal](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/legal.png) | Legality - Accessing this resource can be considered illegal. Check your local laws. |
-| ![malware](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/malware.png) | Malware - Live malware is hosted on this resource and can cause harm/damage to property. Proceed with caution. |
-| ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) | Open Source - Source code is freely available and anyone can review it. |
-| ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) | Payment Required - Tool/Service requires payment for usage. |
-| ![recommended-resource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/recommended-resource.png) | Recommended - Infosec House recommendation of tool/resource |
-| ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) | Registration Required - An account is required to access this resource. |
-| ![tor-icon](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/tor-icon.png) | TOR Access - This resource has a TOR website. The TOR software is required to access it. |
-| ![transparency](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/transparency.png) | Transparency - Resource has provided Infosec House with transparency report/log. |
-| ![verified](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/verified.png) | Verified - Verified resource/organization. |
-| ![winner-1](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/winner.png) | Winner - Resource was a winner in the Infosec House tool battle arena. |
+- [Icon Directory](../ICONS.md) - Unsure what an icon means? Check out our directory.
 
-## Livestreamers
+## Documentaries
+
+| Resource | Description | 
+| :--- | :--- | 
+| [Anonymous - The Hacker Wars Full Documentary](https://youtu.be/ku9edEKvGuY) | YouTube - Anonymous Official |
+| [Anonymous Comes to Town: The hackers who took on high school sexual assault in Ohio](https://youtu.be/3pJyMC5lKds) | YouTube - The Guardian |
+| [Computer Virus That Caused $50 Billion Damage](https://youtu.be/cRH-khasTfg) | YouTube - The Infographic Show |
+| [Cybersecurity Expert Answers Hacking Questions From Twitter](https://youtu.be/b52cfb6lweU) | YouTube - Wired |
+| [Defcon - The Full Documentary](https://youtu.be/3ctQOmjQyYg) | YouTube - The Documentary Network |
+| [Earth's Most Wanted Hacker](https://youtu.be/PlbUYl67LTY/) | YouTube - Disrupt TV |
+| [Hacker Breaks Down 26 Hacking Scenes From Movies & TV](https://youtu.be/GWKB2AeUR04) | YouTube - Wired |
+| [Hackers Find Missing People For Fun](https://youtu.be/2puBmXfi9Z0) | YouTube - Freethink |
+| [How Hackers Could Wirelessly Bug Your Office](https://youtu.be/5GnMj5cus4A) | YouTube - Motherboard |
+| [How I Hacked The US Government Aged 16](https://youtu.be/HXXoO0FwUKQ) | YouTube - LADbible TV |
+| [ILOVEYOU: Earth's Deadliest [Computer] Viruses](https://youtu.be/soZyb6lMx4c) | YouTube - Disrupt TV |
+| [Inside Russia’s Hacker Underworld](https://youtu.be/GWKB2AeUR04) | YouTube - Bloomberg |
+| [Russia Perfected Its Cyberwarfare In Ukraine — America Could Pay The Price](https://youtu.be/nW__A5V-EmQ) | YouTube - NBC News |
+| [Sammy Kamkar Takes Down Myspace](https://youtu.be/DtnuaHl378M) | YouTube - Motherboard |
+| [The Dark Side of the Web](https://youtu.be/mUP0tx7Ib2w) | YouTube - LEMMiNO |
+| [The Million-Dollar Hacker](https://youtu.be/icyTUMjlvMg) | YouTube - Bloomberg Quicktale |
+| [Wannacry: The Marcus Hutchins Story](https://youtu.be/vveLaA-z3-o) | YouTube - Tomorrow Unlocked |
+
+
+## Livestreams
 
 | Resource | Description | Directory |
 | :--- | :--- | :--- |
 | [HackListX](https://hacklistx.github.io/) | A list of Hacking Streamers. | ![last-commit](https://img.shields.io/github/last-commit/HackListX/HackListX.github.io?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
 | [InfoSec Streamers](https://infosecstreams.github.io) | InfoSec streamers list sorted based on 14-day activity to help you find active streamers more easily. | ![last-commit](https://img.shields.io/github/last-commit/infosecstreams/infosecstreams.github.io?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+
+## Movies
+
+| Resource | Description | 
+| :--- | :--- | 
+| [Hackers](https://youtu.be/5T_CqqjOPDc) | Hackers are blamed for making a virus that will capsize five oil tankers. | 
+| [Wargames](https://www.imdb.com/title/tt0086567/) | A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III. |
 
 ## Presentations & Conferences
 
@@ -35,3 +51,9 @@ A list of icons to help highlight some key features about these tools/resources.
 | :--- | :--- | :--- |
 | [InfoCon](https://infocon.org/) | Hacking conference archive | N/A |
 | [OPSEC: Because Jail is for wuftpd](https://www.youtube.com/watch?v=9XaYdCdwiWU) | This talk focuses on practical operational security (OPSEC) measures to avoid detection and prevent arrest by Law Enforcement Officials. | Operation Security |
+
+## TV Shows
+
+| Resource | Description | 
+| :--- | :--- | 
+| [Mr.Robot](https://www.imdb.com/title/tt4158110/) | Elliot, a brilliant but highly unstable young cyber-security engineer and vigilante hacker, becomes a key figure in a complex game of global dominance when he and his shadowy allies try to take down the corrupt corporation he works for. | 
