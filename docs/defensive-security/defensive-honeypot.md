@@ -12,4 +12,4 @@ Deploy honeypots to catch the ops moves.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [HellPot](https://github.com/yunginnanet/HellPot) | HellPot is an endless honeypot that sends bots to hell. Based on Heffalump. | ![last-commit](https://img.shields.io/github/last-commit/yunginnanet/HellPot?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [HellPot](https://github.com/yunginnanet/HellPot) | HellPot is an endless honeypot that sends bots to hell. Based on Heffalump. | ![last-commit](https://img.shields.io/github/last-commit/yunginnanet/HellPot?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |

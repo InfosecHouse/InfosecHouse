@@ -12,5 +12,5 @@ Write-ups both offensive and defensive operations can utilize.
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [Cybercrime Campaign Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) | APT & CyberCriminal Campaign Collection. | ![last-commit](https://img.shields.io/github/last-commit/CyberMonitor/APT_CyberCriminal_Campagin_Collections?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [Cybercrime Campaign Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) | APT & CyberCriminal Campaign Collection. | ![last-commit](https://img.shields.io/github/last-commit/CyberMonitor/APT_CyberCriminal_Campagin_Collections?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 

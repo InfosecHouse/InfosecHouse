@@ -12,5 +12,5 @@ Protect your mobile applications from being reverse engineered, and follow indus
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [DexGuard](https://www.guardsquare.com/dexguard) | The full spectrum of protection for Android apps. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
+| [DexGuard](https://www.guardsquare.com/dexguard) | The full spectrum of protection for Android apps. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
 | [ProGuard](http://android-doc.github.io/tools/help/proguard.html) | Shrinks, optimizes, and obfuscates your code by removing unused code and renaming classes. | N/A |

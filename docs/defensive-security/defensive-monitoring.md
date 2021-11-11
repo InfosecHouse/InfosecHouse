@@ -12,7 +12,7 @@ Monitor your network, e-mail, packets, and infrastructure.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) | A passive network sniffer/packet capturing tool. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/freemium-service.png) |
-| [Splunk](https://www.splunk.com/) | Turn data into doing. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/register-profile.png) |
-| [Zeek](https://github.com/zeek/zeek) | A powerful framework for network traffic analysis and security monitoring. | ![last-commit](https://img.shields.io/github/last-commit/zeek/zeek?color=947cb0&style=flat-square)  ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/icons/opensource.png) |
+| [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) | A passive network sniffer/packet capturing tool. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/freemium-service.png) |
+| [Splunk](https://www.splunk.com/) | Turn data into doing. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
+| [Zeek](https://github.com/zeek/zeek) | A powerful framework for network traffic analysis and security monitoring. | ![last-commit](https://img.shields.io/github/last-commit/zeek/zeek?color=947cb0&style=flat-square)  ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 
