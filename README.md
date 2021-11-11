@@ -1,6 +1,6 @@
 # Introduction
 
-![](img/infosechouse-banner.png)
+![](docs/img/infosechouse-banner.png)
 
 <p align="center"> 
 <img src="https://img.shields.io/github/last-commit/infosechouse/infosechouse?color=%23947cb0&style=for-the-badge"><br>
