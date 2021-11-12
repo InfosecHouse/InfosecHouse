@@ -86,16 +86,16 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Emulation](purple-security/purple-emulation.md) | Emulate the adversary. |
 | [Network](purple-security/purple-network.md) | Network tools both offensive and defensive operations can utilize. |
 | [OSINT](purple-security/purple-osint.md) | Open-Source Intel. Get all the information needed for your target. |
-| [Passwords](purple-security/purple-passwords.md) | From default passwords, to brute force dictionaries. |
+| [Passwords](purple-security/purple-passwords.md) | 1,000+ default passwords. |
 | [Reverse Engineering](purple-security/purple-re.md) | Reverse engineering tools both offensive and defensive operations can utilize. |
 | [Write-Ups](purple-security/purple-write-ups.md) | Write-ups both offensive and defensive operataions can utilize. |
 
 ## Xtras
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-36-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-35-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
-| [Entertainment](xtras/xtras-entertainment.md) | Kick back relax and enjoy some entertainment. |
+| [Music](xtras/xtras-music.md) | Kick back relax and enjoy some entertainment. |
 | [Video](xtras/xtras-video.md) | Talks, livestreams, and presentations. |
 
 ## Contributors

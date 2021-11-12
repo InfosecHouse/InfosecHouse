@@ -2,7 +2,7 @@
 
 Talks, live-streams, and presentations.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-24-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-23-947cb0?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
