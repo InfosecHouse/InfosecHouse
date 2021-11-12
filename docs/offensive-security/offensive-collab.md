@@ -1,6 +1,6 @@
 # Collaboration
 
-Discover tools and resources dedicated to hacking cloud platforms.
+Discover tools used for red team collaboration.
 
 ![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-1-947cb0?style=for-the-badge)
 

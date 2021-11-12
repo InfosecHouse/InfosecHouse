@@ -45,12 +45,11 @@ Talks, live-streams, and presentations.
 | [Hackers](https://youtu.be/5T_CqqjOPDc) | Hackers are blamed for making a virus that will capsize five oil tankers. | 
 | [Wargames](https://www.imdb.com/title/tt0086567/) | A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III. |
 
-## Presentations & Conferences
+## Past Conference Presentations
 
-| Resource | Description | Category |
-| :--- | :--- | :--- |
-| [InfoCon](https://infocon.org/) | Hacking conference archive | N/A |
-| [OPSEC: Because Jail is for wuftpd](https://www.youtube.com/watch?v=9XaYdCdwiWU) | This talk focuses on practical operational security (OPSEC) measures to avoid detection and prevent arrest by Law Enforcement Officials. | Operation Security |
+<p align="center"> 
+<a href="https://infocon.org/" target="_blank"><img src="https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/img/partners-and-sponsors/infocon.png"></a>
+</p>
 
 ## TV Shows
 

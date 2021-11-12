@@ -1,6 +1,6 @@
 # C2 (Command and Control)
 
-Discover tools and resources dedicated to hacking cloud platforms.
+Command and control systems.
 
 ![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-6-947cb0?style=for-the-badge)
 
