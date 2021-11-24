@@ -2,7 +2,7 @@
 
 Understand your target. Perform in-depth research and discover new attack surfaces.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-55-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-55-947cb0?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 

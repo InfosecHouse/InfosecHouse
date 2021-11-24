@@ -2,7 +2,7 @@
 
 Discover vulnerabilities fast, and automate some of the heavy loads.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-11-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-11-947cb0?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 

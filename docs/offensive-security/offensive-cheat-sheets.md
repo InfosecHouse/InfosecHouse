@@ -2,7 +2,7 @@
 
 Offensive security cheat sheets
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-2-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-2-947cb0?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 

@@ -2,7 +2,7 @@
 
 A CTF event is usually timed, and the points are totaled once the time has expired. The winning player/team will be the one that solved the most challenges, and thus, secured the highest score.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-12-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-12-947cb0?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 

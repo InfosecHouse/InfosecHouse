@@ -2,7 +2,7 @@
 
 Protect your SMS messages, voice calls, and e-mails. Big brother is always watching.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-19-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-19-947cb0?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 

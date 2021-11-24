@@ -5,7 +5,7 @@
 > The Infosec Resource Center
 
 - 1,000+ Manually Indexed Resources
-- Open-Source Resrouce Center
+- Open-Source Resource Center
 
 [GitHub](https://github.com/infosechouse/infosechouse)
 [Search Resources](#introduction)

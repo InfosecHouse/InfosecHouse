@@ -16,7 +16,7 @@ Infosec resource center for offensive and defensive security operations.
 A curated list of many tools and resources for both offensive and defensive security teams. Please visit [https://infosec.house/](https://infosec.house/) for our website version of this repo. Found a resources that should be on here? Feel free to submit a pull request!
 
 ## Defensive Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-122-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-149-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
@@ -34,7 +34,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Threat Intel](defensive-security/defensive-threat-intel.md) | Discover where the threats begin. |
 
 ## Offensive Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-429-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-429-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
@@ -64,7 +64,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Wireless](offensive-security/offensive-wireless.md) | Discover tools and resources for exploiting Wi-Fi, bluetooth, RFID, and more. |
 
 ## Operation Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-94-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-94-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
@@ -78,7 +78,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 ## Purple Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-33-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-33-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
@@ -91,7 +91,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Write-Ups](purple-security/purple-write-ups.md) | Write-ups both offensive and defensive operataions can utilize. |
 
 ## Xtras
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-35-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-35-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |

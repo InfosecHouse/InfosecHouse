@@ -2,7 +2,7 @@
 
 Discover tools and resources dedicated to hacking cloud platforms.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-16-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-16-947cb0?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 

@@ -2,7 +2,7 @@
 
 Manipulation techniques that exploits human error to gain private information, access, or valuables.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Availalbe-13-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-13-947cb0?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
