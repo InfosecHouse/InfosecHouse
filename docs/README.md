@@ -78,7 +78,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 ## Purple Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-33-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-34-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
