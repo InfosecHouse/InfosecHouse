@@ -1,6 +1,6 @@
 # Introduction
 
-![](docs/img/infosechouse-banner.png)
+![](img/infosechouse-banner.png)
 
 <p align="center"> 
 <img src="https://img.shields.io/github/last-commit/infosechouse/infosechouse?color=%23947cb0&style=for-the-badge"><br>
@@ -16,65 +16,65 @@ Infosec resource center for offensive and defensive security operations.
 A curated list of many tools and resources for both offensive and defensive security teams. Please visit [https://infosec.house/](https://infosec.house/) for our website version of this repo. Found a resources that should be on here? Feel free to submit a pull request!
 
 ## Defensive Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-122-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-149-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
-| [Asset Management](docs/defensive-security/defensive-assets-management.md) | Keep track of your inventory. You can't protect what you don't see. |
-| [Courses](docs/defensive-security/defensive-courses.md) | Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase. |
-| [Forensics](docs/defensive-security/defensive-forensics.md) | Uncover the dirty little secrets of a recovered HDD, Image, malware, and more. |
-| [Honeypots](docs/defensive-security/defensive-honeypot.md) | Catch them with their hands/attacks sticky. |
-| [IDS/IPS](docs/defensive-security/defensive-ids-ips.md) | Intrusion Detection and Prevention Systems. |
-| [Incident Response](docs/defensive-security/defensive-ir.md) | Incident response tools, and resources when alarms pop off. |
-| [IOC](docs/defensive-security/defensive-ioc.md) | Indicators of compromise. Discover if you've been compromised. |
-| [Malware](docs/defensive-security/defensive-malware.md) | All the malware you can wish for to reverse engineer. |
-| [Monitoring](docs/defensive-security/defensive-monitoring.md) | Monitor your network, e-mail, packets, and infrastructure. |
-| [Operating Systems](docs/defensive-security/defensive-operating-systems.md) | Operating system's solely focused for defensive security teams. |
-| [Phishing](docs/defensive-security/defensive-phishing.md) | Tools and resources for analyzing phishing attacks. |
-| [Threat Intel](docs/defensive-security/defensive-threat-intel.md) | Discover where the threats begin. |
+| [Asset Management](defensive-security/defensive-assets-management.md) | Keep track of your inventory. You can't protect what you don't see. |
+| [Courses](defensive-security/defensive-courses.md) | Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase. |
+| [Forensics](defensive-security/defensive-forensics.md) | Uncover the dirty little secrets of a recovered HDD, Image, malware, and more. |
+| [Honeypots](defensive-security/defensive-honeypot.md) | Catch them with their hands/attacks sticky. |
+| [IDS/IPS](defensive-security/defensive-ids-ips.md) | Intrusion Detection and Prevention Systems. |
+| [Incident Response](defensive-security/defensive-ir.md) | Incident response tools, and resources when alarms pop off. |
+| [IOC](defensive-security/defensive-ioc.md) | Indicators of compromise. Discover if you've been compromised. |
+| [Malware](defensive-security/defensive-malware.md) | All the malware you can wish for to reverse engineer. |
+| [Monitoring](defensive-security/defensive-monitoring.md) | Monitor your network, e-mail, packets, and infrastructure. |
+| [Operating Systems](defensive-security/defensive-operating-systems.md) | Operating system's solely focused for defensive security teams. |
+| [Phishing](defensive-security/defensive-phishing.md) | Tools and resources for analyzing phishing attacks. |
+| [Threat Intel](defensive-security/defensive-threat-intel.md) | Discover where the threats begin. |
 
 ## Offensive Security
 ![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-429-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
-| [API](docs/offensive-security/offensive-api.md) | Tools and resources for pentesting against API endpoints. |
-| [Blogs](docs/offensive-security/offensive-blogs.md) | Reading material for offensive security researchers. |
-| [Bug Bounty](docs/offensive-security/offensive-bug-bounty.md) | Test out your skills against other hackers. Get paid for finding vulnerabilities. |
-| [C2](docs/offensive-security/offensive-C2.md) | Command and Control tools and frameworks. |
-| [Cheat Sheets](docs/offensive-security/offensive-cheat-sheets.md) | Offensive security cheat sheets. |
-| [Cloud](docs/offensive-security/offensive-cloud.md) | Discover tools and resources dedicated to hacking cloud platforms. |
-| [Collaboration](docs/offensive-security/offensive-collab.md) | Discover tools and frameworks for red team collaboration. |
-| [Courses](docs/offensive-security/offensive-courses.md) | Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase. |
-| [Cracking](docs/offensive-security/offensive-cracking.md) | Everything you need to crack all the hashes. |
-| [CTF Offensive](docs/offensive-security/offensive-ctf.md) | Compete your hacking skills against others. |
-| [Data Exfiltration](docs/offensive-security/offensive-data-exfiltration.md) | Exfiltrate the data, and test your DLP. |
-| [Exploits](docs/offensive-security/offensive-exploits.md) | Gather all your exploits needed to pop that box. |
-| [Hardware](docs/offensive-security/offensive-hardware.md) | Grab some of the most used hardware within the penetration testing industry. |
-| [Linux](docs/offensive-security/offensive-linux.md) | Tools and resources for popping those linux boxes. |
-| [Mobile](docs/offensive-security/offensive-mobile.md) | Tools and resources for pentesting on mobile applications. |
-| [Network](docs/offensive-security/offensive-network.md) | Sniff the network. Modify the packets. |
-| [Operating Systems](docs/offensive-security/offensive-operating-systems.md) | Operating system's solely focused for offensive security teams. |
-| [Reconnaissance](docs/offensive-security/offensive-recon.md) | Understand your target. Perform in-depth research and discover new attack surfaces. |
-| [Shells](docs/offensive-security/offensive-shells.md) | Generating pre-built webshells to customizing your own. |
-| [Social Engineering](docs/offensive-security/offensive-social-engineering.md) | Manipulation techniques that exploits human error to gain private information, access, or valuables. |
-| [Vulnerability Scanners](docs/offensive-security/offensive-vuln-scanners.md) | Discover vulnerabilities fast, and automate some of the heavy loads. |
-| [Web Application](docs/offensive-security/offensive-web-app.md) | Break that web application. |
-| [Windows](docs/offensive-security/offensive-windows.md) | Mirosoft Windows pentesting tools and resources. |
-| [Wireless](docs/offensive-security/offensive-wireless.md) | Discover tools and resources for exploiting Wi-Fi, bluetooth, RFID, and more. |
+| [API](offensive-security/offensive-api.md) | Tools and resources for pentesting against API endpoints. |
+| [Blogs](offensive-security/offensive-blogs.md) | Reading material for offensive security researchers. |
+| [Bug Bounty](offensive-security/offensive-bug-bounty.md) | Test out your skills against other hackers. Get paid for finding vulnerabilities. |
+| [C2](offensive-security/offensive-C2.md) | Command and Control tools and frameworks. |
+| [Cheat Sheets](offensive-security/offensive-cheat-sheets.md) | Offensive security cheat sheets. |
+| [Cloud](offensive-security/offensive-cloud.md) | Discover tools and resources dedicated to hacking cloud platforms. |
+| [Collaboration](offensive-security/offensive-collab.md) | Discover tools and frameworks for red team collaboration. |
+| [Courses](offensive-security/offensive-courses.md) | Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase. |
+| [Cracking](offensive-security/offensive-cracking.md) | Everything you need to crack all the hashes. |
+| [CTF Offensive](offensive-security/offensive-ctf.md) | Compete your hacking skills against others. |
+| [Data Exfiltration](offensive-security/offensive-data-exfiltration.md) | Exfiltrate the data, and test your DLP. |
+| [Exploits](offensive-security/offensive-exploits.md) | Gather all your exploits needed to pop that box. |
+| [Hardware](offensive-security/offensive-hardware.md) | Grab some of the most used hardware within the penetration testing industry. |
+| [Linux](offensive-security/offensive-linux.md) | Tools and resources for popping those linux boxes. |
+| [Mobile](offensive-security/offensive-mobile.md) | Tools and resources for pentesting on mobile applications. |
+| [Network](offensive-security/offensive-network.md) | Sniff the network. Modify the packets. |
+| [Operating Systems](offensive-security/offensive-operating-systems.md) | Operating system's solely focused for offensive security teams. |
+| [Reconnaissance](offensive-security/offensive-recon.md) | Understand your target. Perform in-depth research and discover new attack surfaces. |
+| [Shells](offensive-security/offensive-shells.md) | Generating pre-built webshells to customizing your own. |
+| [Social Engineering](offensive-security/offensive-social-engineering.md) | Manipulation techniques that exploits human error to gain private information, access, or valuables. |
+| [Vulnerability Scanners](offensive-security/offensive-vuln-scanners.md) | Discover vulnerabilities fast, and automate some of the heavy loads. |
+| [Web Application](offensive-security/offensive-web-app.md) | Break that web application. |
+| [Windows](offensive-security/offensive-windows.md) | Mirosoft Windows pentesting tools and resources. |
+| [Wireless](offensive-security/offensive-wireless.md) | Discover tools and resources for exploiting Wi-Fi, bluetooth, RFID, and more. |
 
 ## Operation Security
 ![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-94-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
-| [Anonymity](docs/operation-security/operation-anonymity.md) | The quality or state of being anonymous. Seek out technologies and methods of remaining anonymous in the day and age of mass surveillance. |
-| [Authentication](docs/operation-security/operation-authentication.md) | Secure your authentication methods with 2-Factor Authentication. |
-| [Burners](docs/operation-security/operation-burners.md) | Everything for your temporary needs. |
-| [Communication](docs/operation-security/operation-communication.md) | Protect your SMS messages, voice calls, and e-mails. Big brother is always watching. |
-| [Operating Systems](docs/operation-security/operation-operating-systems.md) | Hardening your operating system. |
-| [Password/Secret Managers](docs/operation-security/operation-pass-managers.md) | Secure your passwords, secrets, and notes. |
-| [Search Engines](docs/operation-security/operation-search-engines.md) | Hardening your operating system. |
+| [Anonymity](operation-security/operation-anonymity.md) | The quality or state of being anonymous. Seek out technologies and methods of remaining anonymous in the day and age of mass surveillance. |
+| [Authentication](operation-security/operation-authentication.md) | Secure your authentication methods with 2-Factor Authentication. |
+| [Burners](operation-security/operation-burners.md) | Everything for your temporary needs. |
+| [Communication](operation-security/operation-communication.md) | Protect your SMS messages, voice calls, and e-mails. Big brother is always watching. |
+| [Operating Systems](operation-security/operation-operating-systems.md) | Hardening your operating system. |
+| [Password/Secret Managers](operation-security/operation-pass-managers.md) | Secure your passwords, secrets, and notes. |
+| [Search Engines](operation-security/operation-search-engines.md) | Hardening your operating system. |
 
 
 ## Purple Security
@@ -82,21 +82,21 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 | Sub-Category | Description |
 | :--- | :--- |
-| [Editors & Viewers](docs/purple-security/purple-editor-viewer.md) | Tools for editing/viewing files. |
-| [Emulation](docs/purple-security/purple-emulation.md) | Emulate the adversary. |
-| [Network](docs/purple-security/purple-network.md) | Network tools both offensive and defensive operations can utilize. |
-| [OSINT](docs/purple-security/purple-osint.md) | Open-Source Intel. Get all the information needed for your target. |
-| [Passwords](docs/purple-security/purple-passwords.md) | From default passwords, to brute force dictionaries. |
-| [Reverse Engineering](docs/purple-security/purple-re.md) | Reverse engineering tools both offensive and defensive operations can utilize. |
-| [Write-Ups](docs/purple-security/purple-write-ups.md) | Write-ups both offensive and defensive operataions can utilize. |
+| [Editors & Viewers](purple-security/purple-editor-viewer.md) | Tools for editing/viewing files. |
+| [Emulation](purple-security/purple-emulation.md) | Emulate the adversary. |
+| [Network](purple-security/purple-network.md) | Network tools both offensive and defensive operations can utilize. |
+| [OSINT](purple-security/purple-osint.md) | Open-Source Intel. Get all the information needed for your target. |
+| [Passwords](purple-security/purple-passwords.md) | 1,000+ default passwords. |
+| [Reverse Engineering](purple-security/purple-re.md) | Reverse engineering tools both offensive and defensive operations can utilize. |
+| [Write-Ups](purple-security/purple-write-ups.md) | Write-ups both offensive and defensive operataions can utilize. |
 
 ## Xtras
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-36-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-35-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
-| [Entertainment](docs/xtras/xtras-entertainment.md) | Kick back relax and enjoy some entertainment. |
-| [Video](docs/xtras/xtras-video.md) | Talks, livestreams, and presentations. |
+| [Music](xtras/xtras-music.md) | Kick back relax and enjoy some entertainment. |
+| [Video](xtras/xtras-video.md) | Talks, livestreams, and presentations. |
 
 ## Contributors
 
