@@ -28,10 +28,6 @@ Defend the kingdom.
 | [Sophos XG](https://www.sophos.com/en-us/products/free-tools/sophos-xg-firewall-home-edition.aspx) | Features full protection for your home network, including anti-malware, web security and URL filtering, application control, IPS, traffic shaping, VPN, reporting and monitoring, and much more. | N/A |
 | [VyOX](https://vyos.io/subscriptions/software/) | Open source router and firewall platform. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) |
 
-
-
-
-
 ## Web Application Firewalls (WAF)
 
 | Tool | Description | Directory |
