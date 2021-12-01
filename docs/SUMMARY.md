@@ -33,6 +33,7 @@
 * [CTF Offensive](offensive-security/offensive-ctf.md)
 * [Data Exfiltration](offensive-security/offensive-data-exfiltration.md)|
 * [Exploits](offensive-security/offensive-exploits.md)
+* [Firewalls](offensive-security/offensive-firewalls.md)
 * [Hardware](offensive-security/offensive-hardware.md)
 * [Linux](offensive-security/offensive-linux.md)
 * [Mobile](offensive-security/offensive-mobile.md)
