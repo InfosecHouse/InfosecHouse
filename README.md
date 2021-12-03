@@ -20,8 +20,8 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 | Sub-Category | Description |
 | :--- | :--- |
-| [Asset Management](defensive-security/defensive-assets-management.md) | Keep track of your inventory. You can't protect what you don't see. |
-| [Courses](defensive-security/defensive-courses.md) | Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase. |
+| [Asset Management](docs/defensive-security/defensive-assets-management.md) | Keep track of your inventory. You can't protect what you don't see. |
+| [Courses](docs/defensive-security/defensive-courses.md) | Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase. |
 | [Forensics](defensive-security/defensive-forensics.md) | Uncover the dirty little secrets of a recovered HDD, Image, malware, and more. |
 | [Honeypots](defensive-security/defensive-honeypot.md) | Catch them with their hands/attacks sticky. |
 | [IDS/IPS](defensive-security/defensive-ids-ips.md) | Intrusion Detection and Prevention Systems. |
