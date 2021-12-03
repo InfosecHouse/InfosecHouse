@@ -34,7 +34,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Threat Intel](defensive-security/defensive-threat-intel.md) | Discover where the threats begin. |
 
 ## Offensive Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-429-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-440-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
@@ -50,6 +50,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [CTF Offensive](offensive-security/offensive-ctf.md) | Compete your hacking skills against others. |
 | [Data Exfiltration](offensive-security/offensive-data-exfiltration.md) | Exfiltrate the data, and test your DLP. |
 | [Exploits](offensive-security/offensive-exploits.md) | Gather all your exploits needed to pop that box. |
+| [Firewalls](offensive-security/offensive-firewalls.md) | Attack the castle doors. |
 | [Hardware](offensive-security/offensive-hardware.md) | Grab some of the most used hardware within the penetration testing industry. |
 | [Linux](offensive-security/offensive-linux.md) | Tools and resources for popping those linux boxes. |
 | [Mobile](offensive-security/offensive-mobile.md) | Tools and resources for pentesting on mobile applications. |
