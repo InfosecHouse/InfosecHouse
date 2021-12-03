@@ -38,13 +38,13 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 | Sub-Category | Description |
 | :--- | :--- |
-| [API](docs/docs/offensive-security/offensive-api.md) | Tools and resources for pentesting against API endpoints. |
-| [Blogs](docs/docs/offensive-security/offensive-blogs.md) | Reading material for offensive security researchers. |
-| [Bug Bounty](docs/docs/offensive-security/offensive-bug-bounty.md) | Test out your skills against other hackers. Get paid for finding vulnerabilities. |
-| [C2](docs/docs/offensive-security/offensive-C2.md) | Command and Control tools and frameworks. |
-| [Cheat Sheets](docs/docs/offensive-security/offensive-cheat-sheets.md) | Offensive security cheat sheets. |
+| [API](docs/offensive-security/offensive-api.md) | Tools and resources for pentesting against API endpoints. |
+| [Blogs](docs/offensive-security/offensive-blogs.md) | Reading material for offensive security researchers. |
+| [Bug Bounty](docs/offensive-security/offensive-bug-bounty.md) | Test out your skills against other hackers. Get paid for finding vulnerabilities. |
+| [C2](docs/offensive-security/offensive-C2.md) | Command and Control tools and frameworks. |
+| [Cheat Sheets](docs/offensive-security/offensive-cheat-sheets.md) | Offensive security cheat sheets. |
 | [Cloud](docs/docs/offensive-security/offensive-cloud.md) | Discover tools and resources dedicated to hacking cloud platforms. |
-| [Collaboration](docs/docs/offensive-security/offensive-collab.md) | Discover tools and frameworks for red team collaboration. |
+| [Collaboration](docs/offensive-security/offensive-collab.md) | Discover tools and frameworks for red team collaboration. |
 | [Courses](docs/offensive-security/offensive-courses.md) | Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase. |
 | [Cracking](docs/offensive-security/offensive-cracking.md) | Everything you need to crack all the hashes. |
 | [CTF Offensive](docs/offensive-security/offensive-ctf.md) | Compete your hacking skills against others. |
