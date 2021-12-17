@@ -2,7 +2,7 @@
 
 Sniff the network. Modify the packets.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-25-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-27-947cb0?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
@@ -22,6 +22,7 @@ Sniff the network. Modify the packets.
 | [R-U-Dead-Yet \(RUDY\)](https://github.com/sahilchaddha/rudyjs) | Attack targeted web applications by starvation of available sessions on the web server. | ![last-commit](https://img.shields.io/github/last-commit/sahilchaddha/rudyjs?color=947cb0&style=flat-square) ![no-recent-update](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/no-recent-update.png) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [Slowloris](https://github.com/gkbrk/slowloris) | An HTTP Denial of Service attack that affects threaded servers. | ![last-commit](https://img.shields.io/github/last-commit/gkbrk/slowloris?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [TORs Hammer](https://github.com/Karlheinzniebuhr/torshammer) | Slow POST DoS testing tool ran through TOR. | ![last-commit](https://img.shields.io/github/last-commit/Karlheinzniebuhr/torshammer?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [Yersinia](https://github.com/tomac/yersinia) | A framework for layer 2 attacks. | ![last-commit](https://img.shields.io/github/last-commit/tomac/yersinia?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 
 ## LAN/WAN
 
@@ -34,6 +35,7 @@ Sniff the network. Modify the packets.
 | [Impacket](https://github.com/SecureAuthCorp/impacket) | Impacket is a collection of Python classes for working with network protocols. | ![last-commit](https://img.shields.io/github/last-commit/SecureAuthCorp/impacket?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [Libdnet](https://github.com/ofalk/libdnet) | Provides a simplified, portable interface to several low-level networking routines. | ![last-commit](https://img.shields.io/github/last-commit/ofalk/libdnet?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [MITMProxy](https://github.com/mitmproxy/mitmproxy) | An interactive TLS-capable intercepting HTTP proxy for penetration testers. | ![last-commit](https://img.shields.io/github/last-commit/mitmproxy/mitmproxy?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [Nemesis](https://github.com/libnet/nemesis) | A command-line network packet crafting and injection utility. | ![last-commit](https://img.shields.io/github/last-commit/libnet/nemesis?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [Scapy](https://github.com/secdev/scapy) | Python-based interactive packet manipulation program & library. | ![last-commit](https://img.shields.io/github/last-commit/secdev/scapy?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [TCPDump](https://github.com/the-tcpdump-group/tcpdump) | The TCPdump network dissector. | ![last-commit](https://img.shields.io/github/last-commit/the-tcpdump-group/tcpdump?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 
