@@ -2,7 +2,7 @@
 
 Manipulation techniques that exploits human error to gain private information, access, or valuables.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-13-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-14-947cb0?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
@@ -12,6 +12,7 @@ Manipulation techniques that exploits human error to gain private information, a
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
+| [espoofer](https://github.com/chenjj/espoofer) | An email spoofing testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures. | ![last-commit](https://img.shields.io/github/last-commit/chenjj/espoofer?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [Evilgnix](https://github.com/kgretzky/evilginx2) | MITM attack framework used for phishing credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection. | ![last-commit](https://img.shields.io/github/last-commit/kgretzky/evilginx2?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [Fierce Phish](https://github.com/Raikia/FiercePhish) | A full-fledged phishing framework to manage all phishing engagements. | ![last-commit](https://img.shields.io/github/last-commit/Raikia/FiercePhish?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [GoPhish](https://getgophish.com/) | Phishing toolkit designed for businesses and penetration testers. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |

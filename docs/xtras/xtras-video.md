@@ -2,11 +2,19 @@
 
 Talks, live-streams, and presentations.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-23-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-26-947cb0?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
 - [Icon Directory](../ICONS.md) - Unsure what an icon means? Check out our directory.
+
+## Conferences
+
+| Resource | Description | 
+| :--- | :--- |
+| [Bsides San Francisco](https://www.youtube.com/c/BSidesSFTV) | YouTube Channel |
+| [Defcon](https://www.youtube.com/user/DEFCONConference) | YouTube Channel |
+| [Wild West Hackin Fest](https://www.youtube.com/channel/UCef0TWni8ghLcJphdmDBoxw) | YouTube Channel |
 
 ## Documentaries
 

@@ -16,11 +16,12 @@ Infosec resource center for offensive and defensive security operations.
 A curated list of many tools and resources for both offensive and defensive security teams. Please visit [https://infosec.house/](https://infosec.house/) for our website version of this repo. Found a resources that should be on here? Feel free to submit a pull request!
 
 ## Defensive Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-149-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-153-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
 | [Asset Management](docs/defensive-security/defensive-assets-management.md) | Keep track of your inventory. You can't protect what you don't see. |
+| [Auditing](docs/defensive-security/defensive-auditing.md) | Stay in compliance. |
 | [Courses](docs/defensive-security/defensive-courses.md) | Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase. |
 | [Forensics](docs/defensive-security/defensive-forensics.md) | Uncover the dirty little secrets of a recovered HDD, Image, malware, and more. |
 | [Honeypots](docs/defensive-security/defensive-honeypot.md) | Catch them with their hands/attacks sticky. |
@@ -34,7 +35,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Threat Intel](docs/defensive-security/defensive-threat-intel.md) | Discover where the threats begin. |
 
 ## Offensive Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-440-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-449-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
@@ -79,10 +80,11 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 ## Purple Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-34-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-36-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
+| [Courses](docs/purple-security/purple-courses.md) | Training and courses to master your craft. |
 | [Editors & Viewers](docs/purple-security/purple-editor-viewer.md) | Tools for editing/viewing files. |
 | [Emulation](docs/purple-security/purple-emulation.md) | Emulate the adversary. |
 | [Network](docs/purple-security/purple-network.md) | Network tools both offensive and defensive operations can utilize. |
@@ -92,7 +94,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Write-Ups](docs/purple-security/purple-write-ups.md) | Write-ups both offensive and defensive operataions can utilize. |
 
 ## Xtras
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-35-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-38-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |

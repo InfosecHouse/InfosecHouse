@@ -2,7 +2,7 @@
 
 Generating pre-built webshells to customizing your own.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-5-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-6-947cb0?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
@@ -15,6 +15,11 @@ Generating pre-built webshells to customizing your own.
 | [RevShells](https://www.revshells.com/) | Reverse Shell generator with a ton of functionality. | ![last-commit](https://img.shields.io/github/last-commit/0dayCTF/reverse-shell-generator?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [Shellerator](https://github.com/ShutdownRepo/shellerator) | Simple CLI tool for the generation of bind and reverse shells in multiple languages. | ![last-commit](https://img.shields.io/github/last-commit/ShutdownRepo/shellerator?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png)
 
+## Reverse Shells
+
+| Tool | Description | Directory |
+| :--- | :--- | :--- |
+| [Simple Reverse Shell](https://github.com/tihanyin/Simple-Reverse-Shell) | Simple reverse shell to avoid Win 11 defender detection. | ![last-commit](https://img.shields.io/github/last-commit/tihanyin/Simple-Reverse-Shell?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 
 ## Webshells
 

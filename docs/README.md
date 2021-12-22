@@ -16,12 +16,13 @@ Infosec resource center for offensive and defensive security operations.
 A curated list of many tools and resources for both offensive and defensive security teams. Please visit [https://infosec.house/](https://infosec.house/) for our website version of this repo. Found a resources that should be on here? Feel free to submit a pull request!
 
 ## Defensive Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-149-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-153-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
 | [Asset Management](defensive-security/defensive-assets-management.md) | Keep track of your inventory. You can't protect what you don't see. |
-| [Courses](defensive-security/defensive-courses.md) | Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase. |
+| [Auditing](defensive-security/defensive-auditing.md) | Stay in compliance. |
+| [Courses](defensive-security/defensive-courses.md) | Training and courses to master your craft. |
 | [Forensics](defensive-security/defensive-forensics.md) | Uncover the dirty little secrets of a recovered HDD, Image, malware, and more. |
 | [Honeypots](defensive-security/defensive-honeypot.md) | Catch them with their hands/attacks sticky. |
 | [IDS/IPS](defensive-security/defensive-ids-ips.md) | Intrusion Detection and Prevention Systems. |
@@ -34,7 +35,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Threat Intel](defensive-security/defensive-threat-intel.md) | Discover where the threats begin. |
 
 ## Offensive Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-440-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-449-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
@@ -45,7 +46,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Cheat Sheets](offensive-security/offensive-cheat-sheets.md) | Offensive security cheat sheets. |
 | [Cloud](offensive-security/offensive-cloud.md) | Discover tools and resources dedicated to hacking cloud platforms. |
 | [Collaboration](offensive-security/offensive-collab.md) | Discover tools and frameworks for red team collaboration. |
-| [Courses](offensive-security/offensive-courses.md) | Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase. |
+| [Courses](offensive-security/offensive-courses.md) | Training and courses to master your craft. |
 | [Cracking](offensive-security/offensive-cracking.md) | Everything you need to crack all the hashes. |
 | [CTF Offensive](offensive-security/offensive-ctf.md) | Compete your hacking skills against others. |
 | [Data Exfiltration](offensive-security/offensive-data-exfiltration.md) | Exfiltrate the data, and test your DLP. |
@@ -79,10 +80,11 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 ## Purple Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-34-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-36-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
+| [Courses](purple-security/purple-courses.md) | Training and courses to master your craft. |
 | [Editors & Viewers](purple-security/purple-editor-viewer.md) | Tools for editing/viewing files. |
 | [Emulation](purple-security/purple-emulation.md) | Emulate the adversary. |
 | [Network](purple-security/purple-network.md) | Network tools both offensive and defensive operations can utilize. |
@@ -92,7 +94,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Write-Ups](purple-security/purple-write-ups.md) | Write-ups both offensive and defensive operataions can utilize. |
 
 ## Xtras
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-35-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-38-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
