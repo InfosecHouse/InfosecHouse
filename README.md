@@ -117,7 +117,7 @@ Shoutout to the following amazing individuals for suggesting and adding resource
 | :--- | :--- |
 | Discord | [https://discord.gg/FWe9bjDBfY](https://discord.gg/FWe9bjDBfY) |
 | Instagram | [https://www.instagram.com/InfosecHouse/](https://www.instagram.com/InfosecHouse/) |
-| Twitter | [https://twitter.com/InfosecHouse](https://twitter.com/InfosecHouse) |
-| Telegram | [https://t.me/InfosecHouse](https://t.me/InfosecHouse) |
-| Twitch | [https://www.twitch.tv/InfosecHouse](https://www.twitch.tv/InfosecHouse) |
-| YouTube | [https://www.youtube.com/channel/UC4PgsAu56TSpzH66aIOqbKQ](https://www.youtube.com/channel/UC4PgsAu56TSpzH66aIOqbKQ) |
+| Twitter | [https://twitter.com/InfosecHouse/](https://twitter.com/InfosecHouse/) |
+| Telegram | [https://t.me/InfosecHouse/](https://t.me/InfosecHouse/) |
+| Twitch | [https://www.twitch.tv/InfosecHouse/](https://www.twitch.tv/InfosecHouse/) |
+| YouTube | [https://www.youtube.com/channel/UC4PgsAu56TSpzH66aIOqbKQ/](https://www.youtube.com/channel/UC4PgsAu56TSpzH66aIOqbKQ/) |
