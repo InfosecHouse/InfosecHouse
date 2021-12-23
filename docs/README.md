@@ -107,7 +107,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 Shoutout to the following amazing individuals for suggesting and adding resources!
 
-[0xgnnr](https://www.twitch.tv/0xgnnr), [0xrom](https://www.twitch.tv/0xrom), [Binary.rip](https://www.instagram.com/binary.rip/), [chadb\_n00b](https://www.twitch.tv/chadb_n00b), [CyberLola](https://www.twitch.tv/CyberLola), [DevNullZen](https://www.twitch.tv/DevNullZen), [EightBitOni](https://www.twitch.tv/eightbitoni/), [footpics4sale](https://www.twitch.tv/footpics4sale), [goldyautomation](https://www.twitch.tv/goldyautomation), [GoProSlowYo](https://www.twitch.tv/goproslowyo), [halfamomo](https://www.twitch.tv/halfamomo) [JR0ch17](https://twitter.com/JR0ch17), [p4r4n0ir](https://www.twitch.tv/p4r4n0ir), [PaWNmUnCher](https://www.twitch.tv/PaWNmUnCher), [RySkill](https://www.twitch.tv/ryskill), [skyfire100](https://www.twitch.tv/skyfire100), [theGwar](https://www.twitch.tv/thegwar), [Vander_Grift](https://www.twitch.tv/Vander_Grift), and [zuphzuph](https://www.twitch.tv/zuphzuph).
+[0xgnnr](https://www.twitch.tv/0xgnnr), [0xrom](https://www.twitch.tv/0xrom), [Binary.rip](https://www.instagram.com/binary.rip/), [CyberLola](https://www.twitch.tv/CyberLola), [DevNullZen](https://www.twitch.tv/DevNullZen), [EightBitOni](https://www.twitch.tv/eightbitoni/), [GoProSlowYo](https://www.twitch.tv/goproslowyo), [JR0ch17](https://twitter.com/JR0ch17), [projectdp](https://github.com/projectdp/), [PaWNmUnCher](https://www.twitch.tv/PaWNmUnCher), [RySkill](https://www.twitch.tv/ryskill), [Vander_Grift](https://www.twitch.tv/Vander_Grift), [chadb\_n00b](https://www.twitch.tv/chadb_n00b), [footpics4sale](https://www.twitch.tv/footpics4sale), [goldyautomation](https://www.twitch.tv/goldyautomation), [halfamomo](https://www.twitch.tv/halfamomo), [p4r4n0ir](https://www.twitch.tv/p4r4n0ir), [skyfire100](https://www.twitch.tv/skyfire100), [theGwar](https://www.twitch.tv/thegwar), and [zuphzuph](https://www.twitch.tv/zuphzuph).
 
 ## Social Media
 
@@ -117,7 +117,7 @@ Shoutout to the following amazing individuals for suggesting and adding resource
 | :--- | :--- |
 | Discord | [https://discord.gg/FWe9bjDBfY](https://discord.gg/FWe9bjDBfY) |
 | Instagram | [https://www.instagram.com/InfosecHouse/](https://www.instagram.com/InfosecHouse/) |
-| Twitter | [https://twitter.com/InfosecHouse](https://twitter.com/InfosecHouse) |
-| Telegram | [https://t.me/InfosecHouse](https://t.me/InfosecHouse) |
-| Twitch | [https://www.twitch.tv/InfosecHouse](https://www.twitch.tv/InfosecHouse) |
-| YouTube | [https://www.youtube.com/channel/UC4PgsAu56TSpzH66aIOqbKQ](https://www.youtube.com/channel/UC4PgsAu56TSpzH66aIOqbKQ) |
+| Twitter | [https://twitter.com/InfosecHouse/](https://twitter.com/InfosecHouse/) |
+| Telegram | [https://t.me/InfosecHouse/](https://t.me/InfosecHouse/) |
+| Twitch | [https://www.twitch.tv/InfosecHouse/](https://www.twitch.tv/InfosecHouse/) |
+| YouTube | [https://www.youtube.com/channel/UC4PgsAu56TSpzH66aIOqbKQ/](https://www.youtube.com/channel/UC4PgsAu56TSpzH66aIOqbKQ/) |

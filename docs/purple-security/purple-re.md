@@ -2,7 +2,7 @@
 
 Reverse engineering tools both offensive and defensive operations can utilize.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-8-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-10-947cb0?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
@@ -22,9 +22,11 @@ Reverse engineering tools both offensive and defensive operations can utilize.
 | Tool | Descrption | Directory |
 | :--- | :--- | :--- |
 | [Binwalk](https://github.com/ReFirmLabs/binwalk) | Tool for analyzing, reverse engineering, and extracting firmware images.  |  ![last-commit](https://img.shields.io/github/last-commit/ReFirmLabs/binwalk?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [Cutter](https://github.com/rizinorg/cutter) | Free and Open Source Reverse Engineering Platform. |  ![last-commit](https://img.shields.io/github/last-commit/rizinorg/cutter?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering \(SRE\) framework. | ![last-commit](https://img.shields.io/github/last-commit/NationalSecurityAgency/ghidra?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [Hopper](https://www.hopperapp.com/) | RE tool for Mac and Linux, that lets you disassemble, decompile and debug your 32bits and 64bits executables. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/freemium-service.png) |
 | [IDA Pro](https://hex-rays.com/) | State of the art binary code analysis. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/freemium-service.png) |
+| [radare2](https://github.com/radareorg/radare2) | UNIX-like reverse engineering framework and command-line toolset. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/freemium-service.png) |
 
 ## Videos
 

@@ -2,7 +2,7 @@
 
 Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-20-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-21-947cb0?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
@@ -12,6 +12,7 @@ Training and courses to master your craft. Some of the below courses do offer pr
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
+| [Antisyphon InfoSec Training](https://www.antisyphontraining.com/course-catalog/) | Antisyphon courses are tailored to beginners and seasoned professionals alike. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
 | [AQ Answers](https://answersq.com/) | Daily updates on free courses, workshopd, interships, and jobs. | N/A |
 | [Bug Bounty Hunter](https://www.bugbountyhunter.com/) | Helping you connect the bug to bounty. | ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
 | [Cybrary](https://www.cybrary.it/) | The leading cybersecurity professional development platform. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
@@ -31,4 +32,4 @@ Training and courses to master your craft. Some of the below courses do offer pr
 | [SANS](https://www.sans.org/cyber-security-courses/?&focus-area=penetration-testing-ethical-hacking&training-format=) | SANS Institute is the most trusted resource for cybersecurity training, certifications and research. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
 | [TCM Security](https://academy.tcm-sec.com/) | A veteran-owned cybersecurity company focused on providing top of the line penetration testing, security training, and compliance services. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
 | [TestOut](https://w3.testout.com/courses/ethical-hacker-pro) | TestOut Ethical Hacker Pro teaches students to be aware of network attack strategies and common countermeasures. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
-| [Udemy](https://www.udemy.com/courses/search/?q=penetration+testing&src=sac&kw=pen) | an online learning and teaching marketplace with over 155,000 courses. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
+| [Udemy](https://www.udemy.com/courses/search/?q=penetration+testing&src=sac&kw=pen) | An online learning and teaching marketplace with over 155,000 courses. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |

@@ -2,7 +2,7 @@
 
 The quality or state of being anonymous. Seek out technologies and methods of remaining anonymous in the day and age of mass surveillance.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-18-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-19-947cb0?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
@@ -13,6 +13,7 @@ The quality or state of being anonymous. Seek out technologies and methods of re
 | Tools | Description | Directory |
 | :--- | :--- | :--- |
 | [I2P](https://geti2p.net/en/) | An anonymous network layer that allows for censorship resistant, peer to peer communication. | N/A |
+| [ipfs](https://ipfs.io/) | IPFS is the Inter-Planetary FileSystem. IPFS aims to surpass HTTP in order to build a better web for all of us. | N/A |
 | [Pantoclick](https://coveryourtracks.eff.org/) | See how trackers view your browser. | N/A |
 | [TOR](https://www.torproject.org/) | Free and open-source software for enabling anonymous communication. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [WEBKAY](https://webkay.robinlinus.com/) | A web app to show what every browser knows about you. | N/A |

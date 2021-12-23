@@ -195,4 +195,3 @@ Tools and resources for pentesting on mobile applications.
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
 | [Android Rooting:Methods, Detection, and Evastion](http://lersse-dl.ece.ubc.ca/record/310/files/p3.pdf) | Written by San-Tsai Sun, Andrea Cuadros, and Konstantin Beznosov. | N/A |
-
