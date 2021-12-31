@@ -50,6 +50,7 @@
 * Operation Security
 
   * [Anonymity](operation-security/operation-anonymity.md)
+  * [Anti-Forensics](operation-security/operation-antiforensic.md)
   * [Burners](operation-security/operation-burners.md)
   * [Communication](operation-security/operation-communication.md)
   * [Operating Systems](operation-security/operation-operating-systems.md)
