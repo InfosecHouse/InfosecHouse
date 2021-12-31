@@ -2,7 +2,7 @@
 
 Discover tools and resources for exploiting Wi-Fi, bluetooth, RFID, and more.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-9-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-10-947cb0?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
@@ -21,6 +21,7 @@ Discover tools and resources for exploiting Wi-Fi, bluetooth, RFID, and more.
 | Tool | Descrption | Directory |
 | :--- | :--- | :--- |
 | [Aircrack-NG](https://github.com/aircrack-ng/aircrack-ng) | A complete suite of tools assess WiFi network security. | ![last-commit](https://img.shields.io/github/last-commit/aircrack-ng/aircrack-ng?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [AWSY](https://github.com/BaiqingL/AWSY) | Are.We.Secure.Yet Framework aims to test the wifi security of a location, attempting to locate individual devices. | ![last-commit](https://img.shields.io/github/last-commit/BaiqingL/AWSY?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [bettercap](https://github.com/bettercap/bettercap) | Swiss army knife for WiFi, Bluetooth, HID, and ethernet network. | ![last-commit](https://img.shields.io/github/last-commit/bettercap/bettercap?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [FruityWiFi](https://github.com/xtr4nge/FruityWifi) | FruityWiFi is a wireless network auditing tool. | ![last-commit](https://img.shields.io/github/last-commit/xtr4nge/FruityWifi?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [PixieWPS](https://github.com/wiire-a/pixiewps) | An offline Wi-Fi Protected Setup brute-force utility. | ![last-commit](https://img.shields.io/github/last-commit/wiire-a/pixiewps?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |

@@ -5,7 +5,6 @@
 <p align="center"> 
 <img src="https://img.shields.io/github/last-commit/infosechouse/infosechouse?color=%23947cb0&style=for-the-badge"><br>
 <img src="https://img.shields.io/twitter/follow/infosechouse?style=social"><br>
-Created by <a href="https://twitter.com/m4giktrick">M4GIKTRICK</a>
 </p>
 
 <h4 align="center">
@@ -35,7 +34,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Threat Intel](defensive-security/defensive-threat-intel.md) | Discover where the threats begin. |
 
 ## Offensive Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-449-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-450-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
@@ -66,11 +65,12 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Wireless](offensive-security/offensive-wireless.md) | Discover tools and resources for exploiting Wi-Fi, bluetooth, RFID, and more. |
 
 ## Operation Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-94-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-101-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
 | [Anonymity](operation-security/operation-anonymity.md) | The quality or state of being anonymous. Seek out technologies and methods of remaining anonymous in the day and age of mass surveillance. |
+| [Anti-Forensics](operation-security/operation-antiforensic.md) | Destroy your data. |
 | [Authentication](operation-security/operation-authentication.md) | Secure your authentication methods with 2-Factor Authentication. |
 | [Burners](operation-security/operation-burners.md) | Everything for your temporary needs. |
 | [Communication](operation-security/operation-communication.md) | Protect your SMS messages, voice calls, and e-mails. Big brother is always watching. |
