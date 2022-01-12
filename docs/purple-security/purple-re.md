@@ -8,6 +8,12 @@ Reverse engineering tools both offensive and defensive operations can utilize.
 
 - [Icon Directory](../ICONS.md) - Unsure what an icon means? Check out our directory.
 
+## Hardware
+
+| Tool | Descrption | Directory |
+| :--- | :--- | :--- |
+| [Pinouts](https://pinouts.org/) | Free book containing layouts of connectors, single board computers, dev boards, memory cards, microcontroller chips, and more. | N/A |
+
 ## Mobile
 
 | Tool | Descrption | Directory |

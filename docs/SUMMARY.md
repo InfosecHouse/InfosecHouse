@@ -6,6 +6,7 @@
 
 * [Asset Management](defensive-security/defensive-assets-management.md)
 * [Courses](defensive-security/defensive-courses.md)
+* [Endpoint Protection](defensive-security/defensive-endpoint-protection.md)
 * [Firewalls](defensive-security/defensive-firewalls.md)
 * [Forensics](defensive-security/defensive-forensics.md)
 * [Honeypots](defensive-security/defensive-honeypot.md)

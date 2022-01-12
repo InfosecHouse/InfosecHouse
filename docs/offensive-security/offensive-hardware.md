@@ -2,7 +2,7 @@
 
 Grab some of the most used hardware within the penetration testing industry.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-19-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-20-947cb0?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
@@ -27,6 +27,12 @@ Grab some of the most used hardware within the penetration testing industry.
 | [Ubertooth One](https://greatscottgadgets.com/ubertoothone/) | Ubertooth One is an open source 2.4 GHz wireless development platform suitable for Bluetooth experimentation. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) |
 | [USB Armory Mk II](https://inversepath.com/usbarmory) | Open Source Flash-Drive Sized Computer. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) |
 | [Wi-fi Pineapple](https://shop.hak5.org/products/wifi-pineapple) | Automate WiFi auditing with all new campaigns and get actionable results from vulnerability assessment reports. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) |
+
+## Layouts
+
+| Organization | Description | Directory |
+| :--- | :--- | :--- |
+| [Pinouts](https://pinouts.org/) | Free book containing layouts of connectors, single board computers, dev boards, memory cards, microcontroller chips, and more. | N/A |
 
 ## Store
 

@@ -1,10 +1,12 @@
 # Introduction
 
-![](img/infosechouse-banner.png)
-
 <p align="center"> 
+<img src="https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/_images/INSFOSEC%20HOUSE%20WORD%20LOGO.png">
+<br>
+<br>
 <img src="https://img.shields.io/github/last-commit/infosechouse/infosechouse?color=%23947cb0&style=for-the-badge"><br>
 <img src="https://img.shields.io/twitter/follow/infosechouse?style=social"><br>
+An <a href="https://twitter.com/0xPGP" target="_blank">@0xPGP</a> Project
 </p>
 
 <h4 align="center">
@@ -15,12 +17,13 @@ Infosec resource center for offensive and defensive security operations.
 A curated list of many tools and resources for both offensive and defensive security teams. Please visit [https://infosec.house/](https://infosec.house/) for our website version of this repo. Found a resources that should be on here? Feel free to submit a pull request!
 
 ## Defensive Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-153-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-160-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
 | [Asset Management](defensive-security/defensive-assets-management.md) | Keep track of your inventory. You can't protect what you don't see. |
 | [Auditing](defensive-security/defensive-auditing.md) | Stay in compliance. |
+| [Endpoint Protection](defensive-security/defensive-endpoint-protection.md) | Protect your endpoints. | 
 | [Courses](defensive-security/defensive-courses.md) | Training and courses to master your craft. |
 | [Forensics](defensive-security/defensive-forensics.md) | Uncover the dirty little secrets of a recovered HDD, Image, malware, and more. |
 | [Honeypots](defensive-security/defensive-honeypot.md) | Catch them with their hands/attacks sticky. |
@@ -34,7 +37,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [Threat Intel](defensive-security/defensive-threat-intel.md) | Discover where the threats begin. |
 
 ## Offensive Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-450-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-451-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
@@ -80,7 +83,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 
 ## Purple Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-36-947cb0)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-37-947cb0)
 
 | Sub-Category | Description |
 | :--- | :--- |
@@ -107,7 +110,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 Shoutout to the following amazing individuals for suggesting and adding resources!
 
-[0xgnnr](https://www.twitch.tv/0xgnnr), [0xrom](https://www.twitch.tv/0xrom), [Binary.rip](https://www.instagram.com/binary.rip/), [CyberLola](https://www.twitch.tv/CyberLola), [DevNullZen](https://www.twitch.tv/DevNullZen), [EightBitOni](https://www.twitch.tv/eightbitoni/), [GoProSlowYo](https://www.twitch.tv/goproslowyo), [JR0ch17](https://twitter.com/JR0ch17), [projectdp](https://github.com/projectdp/), [PaWNmUnCher](https://www.twitch.tv/PaWNmUnCher), [RySkill](https://www.twitch.tv/ryskill), [Vander_Grift](https://www.twitch.tv/Vander_Grift), [chadb\_n00b](https://www.twitch.tv/chadb_n00b), [footpics4sale](https://www.twitch.tv/footpics4sale), [goldyautomation](https://www.twitch.tv/goldyautomation), [halfamomo](https://www.twitch.tv/halfamomo), [p4r4n0ir](https://www.twitch.tv/p4r4n0ir), [skyfire100](https://www.twitch.tv/skyfire100), [theGwar](https://www.twitch.tv/thegwar), and [zuphzuph](https://www.twitch.tv/zuphzuph).
+Anonymous, [0xgnnr](https://www.twitch.tv/0xgnnr), [0xrom](https://www.twitch.tv/0xrom), [Binary.rip](https://www.instagram.com/binary.rip/), [CyberLola](https://www.twitch.tv/CyberLola), [DevNullZen](https://www.twitch.tv/DevNullZen), [EightBitOni](https://www.twitch.tv/eightbitoni/), [GoProSlowYo](https://www.twitch.tv/goproslowyo), [JR0ch17](https://twitter.com/JR0ch17), [projectdp](https://github.com/projectdp/), [PaWNmUnCher](https://www.twitch.tv/PaWNmUnCher), [RySkill](https://www.twitch.tv/ryskill), [Vander_Grift](https://www.twitch.tv/Vander_Grift), [chadb\_n00b](https://www.twitch.tv/chadb_n00b), [footpics4sale](https://www.twitch.tv/footpics4sale), [goldyautomation](https://www.twitch.tv/goldyautomation), [halfamomo](https://www.twitch.tv/halfamomo), [p4r4n0ir](https://www.twitch.tv/p4r4n0ir), [skyfire100](https://www.twitch.tv/skyfire100), [theGwar](https://www.twitch.tv/thegwar), and [zuphzuph](https://www.twitch.tv/zuphzuph).
 
 ## Social Media
 
