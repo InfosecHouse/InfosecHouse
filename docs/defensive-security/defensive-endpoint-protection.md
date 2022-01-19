@@ -12,8 +12,7 @@ Protect your endpoints.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Avast](https://www.avast.com/) | Ensure your privacy, security, and performance with
-Avast’s complete online protection. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
+| [Avast](https://www.avast.com/) | Ensure your privacy, security, and performance with Avast’s complete online protection. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
 | [Avira](https://www.avira.com/) | Award-winning cybersecurity, powered by 1 click. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png)  |
 | [BitDefender](https://bitdefender.com/) | Threat prevention, detection, and response solutions worldwide. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png)  |
 | [ClamAV](https://github.com/Cisco-Talos/clamav) | Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing. | ![last-commit](https://img.shields.io/github/last-commit/Cisco-Talos/clamav?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
