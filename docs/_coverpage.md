@@ -1,4 +1,4 @@
-![logo](/img/sectoolsLogo.png)
+![logo](/img/infosecHouseBannerTransparent.png)
 
 <small>v.4.0</small>
 
