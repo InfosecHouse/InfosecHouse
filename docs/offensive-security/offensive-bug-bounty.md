@@ -2,7 +2,7 @@
 
 Test out your skills against other hackers. Get paid for finding vulnerabilities.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-9-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-9-3c85d4?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
@@ -12,7 +12,7 @@ Test out your skills against other hackers. Get paid for finding vulnerabilities
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [Bug bounty Roadmaps](https://github.com/1ndianl33t/Bug-Bounty-Roadmaps) | Bug Bounty Roadmaps | ![GitHub last commit](https://img.shields.io/github/last-commit/1ndianl33t/Bug-Bounty-Roadmaps?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [Bug bounty Roadmaps](https://github.com/1ndianl33t/Bug-Bounty-Roadmaps) | Bug Bounty Roadmaps | ![GitHub last commit](https://img.shields.io/github/last-commit/1ndianl33t/Bug-Bounty-Roadmaps?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 
 ## Platforms
 

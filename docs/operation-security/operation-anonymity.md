@@ -2,7 +2,7 @@
 
 The quality or state of being anonymous. Seek out technologies and methods of remaining anonymous in the day and age of mass surveillance.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-19-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-19-3c85d4?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 

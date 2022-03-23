@@ -2,7 +2,7 @@
 
 Protect your endpoints.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-34-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-34-3c85d4?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
@@ -15,7 +15,7 @@ Protect your endpoints.
 | [Avast](https://www.avast.com/) | Ensure your privacy, security, and performance with Avast’s complete online protection. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
 | [Avira](https://www.avira.com/) | Award-winning cybersecurity, powered by 1 click. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png)  |
 | [BitDefender](https://bitdefender.com/) | Threat prevention, detection, and response solutions worldwide. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png)  |
-| [ClamAV](https://github.com/Cisco-Talos/clamav) | Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing. | ![last-commit](https://img.shields.io/github/last-commit/Cisco-Talos/clamav?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [ClamAV](https://github.com/Cisco-Talos/clamav) | Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing. | ![last-commit](https://img.shields.io/github/last-commit/Cisco-Talos/clamav?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [Emsisoft](https://www.emsisoft.com/en/) | New Zealand-based anti-virus distributed company software company. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png)  |
 | [ESET](https://www.eset.com/us/home/antivirus/) | Fast and light, vital for gamers and everyday users that don’t want any interruptions. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png)  |
 | [F-Secure](https://www.f-secure.com/) | A global cyber security and privacy company with over 30 offices around the world and is headquartered in Helsinki, Finland. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png)  |

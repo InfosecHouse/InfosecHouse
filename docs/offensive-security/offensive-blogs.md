@@ -2,7 +2,7 @@
 
 Reading material for offensive security researchers.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-33-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-33-3c85d4?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 

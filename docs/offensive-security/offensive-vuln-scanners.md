@@ -2,7 +2,7 @@
 
 Discover vulnerabilities fast, and automate some of the heavy loads.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-11-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-11-3c85d4?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
@@ -20,7 +20,7 @@ Discover vulnerabilities fast, and automate some of the heavy loads.
 | [ManageEngine](https://www.manageengine.com/vulnerability-management/) | Gain 360 degree visibility into your security exposure. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
 | [Nessus](https://www.tenable.com/products/nessus) | Proprietary vulnerability scanner developed by Tenable, Inc. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
 | [Nexpose](https://www.rapid7.com/products/nexpose/) | Your on-prem vulnerability scanner. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
-| [nuclei](https://github.com/projectdiscovery/nuclei) | Fast and customisable vulnerability scanner based on simple YAML based DSL. | ![last-commit](https://img.shields.io/github/last-commit/projectdiscovery/nuclei?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [nuclei](https://github.com/projectdiscovery/nuclei) | Fast and customisable vulnerability scanner based on simple YAML based DSL. | ![last-commit](https://img.shields.io/github/last-commit/projectdiscovery/nuclei?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [OpenVAS](https://openvas.org/) | A full-featured vulnerability scanner. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
 | [ZAP](https://www.zaproxy.org/) | World's most widely used web app scanner. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 

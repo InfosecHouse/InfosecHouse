@@ -2,7 +2,7 @@
 
 Discover where the threats begin.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-40-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-40-3c85d4?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
@@ -18,8 +18,8 @@ Discover where the threats begin.
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [ARTIF](https://github.com/CRED-CLUB/ARTIF) | An advanced real time threat intelligence framework to identify threats and malicious web traffic on the basis of IP reputation and historical data. | ![last-commit](https://img.shields.io/github/last-commit/CRED-CLUB/ARTIF?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
-| [MISP](https://github.com/MISP/MISP) | MISP \(core software\) - Open Source Threat Intelligence and Sharing Platform \(formely known as Malware Information Sharing Platform\). | ![last-commit](https://img.shields.io/github/last-commit/MISP/MISP?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [ARTIF](https://github.com/CRED-CLUB/ARTIF) | An advanced real time threat intelligence framework to identify threats and malicious web traffic on the basis of IP reputation and historical data. | ![last-commit](https://img.shields.io/github/last-commit/CRED-CLUB/ARTIF?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [MISP](https://github.com/MISP/MISP) | MISP \(core software\) - Open Source Threat Intelligence and Sharing Platform \(formely known as Malware Information Sharing Platform\). | ![last-commit](https://img.shields.io/github/last-commit/MISP/MISP?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [ZeroBOX]( https://box.zero.camp/) | A collaborative threat sintel dashboard | ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
 
 ## Pastes

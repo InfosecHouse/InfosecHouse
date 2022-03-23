@@ -2,7 +2,7 @@
 
 Open-Source Intel. Get all the information needed for your target.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-84-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-84-3c85d4?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
@@ -33,20 +33,20 @@ Open-Source Intel. Get all the information needed for your target.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Holehe](https://github.com/megadose/holehe) | Allows you to check if the email is used on different sites and will retrieve information on sites with the forgotten password function. | ![last-commit](https://img.shields.io/github/last-commit/megadose/holehe?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [Holehe](https://github.com/megadose/holehe) | Allows you to check if the email is used on different sites and will retrieve information on sites with the forgotten password function. | ![last-commit](https://img.shields.io/github/last-commit/megadose/holehe?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 
 ## Frameworks/Platforms
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [iKy](https://github.com/kennbroorg/iKy) |  OSINT Project. | ![last-commit](https://img.shields.io/github/last-commit/kennbroorg/iKy?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
-| [IntelOwl](https://github.com/intelowlproject/IntelOwl) | OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale. | ![last-commit](https://img.shields.io/github/last-commit/intelowlproject/IntelOwl?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [iKy](https://github.com/kennbroorg/iKy) |  OSINT Project. | ![last-commit](https://img.shields.io/github/last-commit/kennbroorg/iKy?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [IntelOwl](https://github.com/intelowlproject/IntelOwl) | OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale. | ![last-commit](https://img.shields.io/github/last-commit/intelowlproject/IntelOwl?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [Maltego](https://www.maltego.com/) | Increase the speed and precision of investigations. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
-| [OpenCTI](https://github.com/OpenCTI-Platform/opencti) | Open Cyber Threat Intelligence Platform. | ![last-commit](https://img.shields.io/github/last-commit/OpenCTI-Platform/opencti?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
-| [OSweep](https://github.com/ecstatic-nobel/OSweep) | Don't Just Search OSINT. Sweep It. | ![last-commit](https://img.shields.io/github/last-commit/ecstatic-nobel/OSweep?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
-| [OSINT Framework](https://github.com/lockfale/osint-framework) | Meta: OSINT framework is focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources.  | ![last-commit](https://img.shields.io/github/last-commit/lockfale/osint-framework?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
-| [QueryTool](https://github.com/oryon-osint/querytool) | Querytool is an OSINT framework based on Google Spreadsheets. | ![last-commit](https://img.shields.io/github/last-commit/oryon-osint/querytool?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
-| [Scrummage](https://github.com/matamorphosis/Scrummage) | The Ultimate OSINT and Threat Hunting Framework. | ![last-commit](https://img.shields.io/github/last-commit/matamorphosis/Scrummage?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png)
+| [OpenCTI](https://github.com/OpenCTI-Platform/opencti) | Open Cyber Threat Intelligence Platform. | ![last-commit](https://img.shields.io/github/last-commit/OpenCTI-Platform/opencti?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [OSweep](https://github.com/ecstatic-nobel/OSweep) | Don't Just Search OSINT. Sweep It. | ![last-commit](https://img.shields.io/github/last-commit/ecstatic-nobel/OSweep?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [OSINT Framework](https://github.com/lockfale/osint-framework) | Meta: OSINT framework is focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources.  | ![last-commit](https://img.shields.io/github/last-commit/lockfale/osint-framework?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [QueryTool](https://github.com/oryon-osint/querytool) | Querytool is an OSINT framework based on Google Spreadsheets. | ![last-commit](https://img.shields.io/github/last-commit/oryon-osint/querytool?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [Scrummage](https://github.com/matamorphosis/Scrummage) | The Ultimate OSINT and Threat Hunting Framework. | ![last-commit](https://img.shields.io/github/last-commit/matamorphosis/Scrummage?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png)
 
 ## People
 
@@ -116,9 +116,9 @@ Open-Source Intel. Get all the information needed for your target.
 | :--- | :--- | :--- |
 | [GeoSocial Footprint](http://geosocialfootprint.com/) | Provides twitter users with an opportunity to view their geosocial footprint. | N/A |
 | [One Million Tweet Map](https://onemilliontweetmap.com/) | Displays last 24h geolocalized tweets delivered. Real Time. | N/A |
-| [Sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username. | ![last-commit](https://img.shields.io/github/last-commit/sherlock-project/sherlock?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
-| [Social Analyzer](https://github.com/qeeqbox/social-analyzer) | API, CLI & Web App for analyzing & finding a person's profile across +800 social media. | ![last-commit](https://img.shields.io/github/last-commit/qeeqbox/social-analyzer?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [Sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username. | ![last-commit](https://img.shields.io/github/last-commit/sherlock-project/sherlock?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [Social Analyzer](https://github.com/qeeqbox/social-analyzer) | API, CLI & Web App for analyzing & finding a person's profile across +800 social media. | ![last-commit](https://img.shields.io/github/last-commit/qeeqbox/social-analyzer?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [Social Searcher](https://www.social-searcher.com/) | Social Media Search Engine. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/freemium-service.png)![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
-| [Toutatis](https://github.com/megadose/toutatis) | a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more. | ![last-commit](https://img.shields.io/github/last-commit/megadose/toutatis?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
-| [WhatsMyName](https://github.com/webbreacher/whatsmyname) | Unified data required to perform user and username enumeration on various websites. | ![last-commit](https://img.shields.io/github/last-commit/webbreacher/whatsmyname?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [Toutatis](https://github.com/megadose/toutatis) | a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more. | ![last-commit](https://img.shields.io/github/last-commit/megadose/toutatis?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [WhatsMyName](https://github.com/webbreacher/whatsmyname) | Unified data required to perform user and username enumeration on various websites. | ![last-commit](https://img.shields.io/github/last-commit/webbreacher/whatsmyname?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 

@@ -2,7 +2,7 @@
 
 Grab some of the most used hardware within the penetration testing industry.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-20-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-20-3c85d4?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 

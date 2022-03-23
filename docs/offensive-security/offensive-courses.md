@@ -2,7 +2,7 @@
 
 Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-21-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-21-3c85d4?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
@@ -28,7 +28,7 @@ Training and courses to master your craft. Some of the below courses do offer pr
 | [PortSwigger](https://portswigger.net/web-security) | Free, online web security training from the creators of Burp Suite. | ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
 | [Pluralsight](https://www.pluralsight.com/) | The tech workforce development company. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
 | [Professor Messer](https://www.professormesser.com/) | Professor Messer IT Certification Training. | ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
-| [PWN College](https://pwn.college/) | A first-stage education platform for students. | ![last-commit](https://img.shields.io/github/last-commit/pwncollege/pwncollege.github.io?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [PWN College](https://pwn.college/) | A first-stage education platform for students. | ![last-commit](https://img.shields.io/github/last-commit/pwncollege/pwncollege.github.io?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [SANS](https://www.sans.org/cyber-security-courses/?&focus-area=penetration-testing-ethical-hacking&training-format=) | SANS Institute is the most trusted resource for cybersecurity training, certifications and research. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
 | [TCM Security](https://academy.tcm-sec.com/) | A veteran-owned cybersecurity company focused on providing top of the line penetration testing, security training, and compliance services. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
 | [TestOut](https://w3.testout.com/courses/ethical-hacker-pro) | TestOut Ethical Hacker Pro teaches students to be aware of network attack strategies and common countermeasures. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |

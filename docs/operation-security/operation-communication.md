@@ -2,7 +2,7 @@
 
 Protect your SMS messages, voice calls, and e-mails. Big brother is always watching.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-19-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-19-3c85d4?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
@@ -28,13 +28,13 @@ Protect your SMS messages, voice calls, and e-mails. Big brother is always watch
 | [Briar](https://briarproject.org/) | Secure messaging, anywhere. | ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [Element](https://element.io/) | A messenger that gives you the privacy you expect from a conversation in your own home, but with everyone across the globe. Runs on the matrix network. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/freemium-service.png) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
 | [Ricochet](https://ricochet.im/) | Ricochet is a different approach to instant messaging that doesn’t trust anyone in protecting your privacy. | ![no-recent-update](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/no-recent-update.png) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
-| [Telegram](https://telegram.org/) | A new era of messaging. | ![last-commit](https://img.shields.io/github/last-commit/telegramdesktop/tdesktop?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [Telegram](https://telegram.org/) | A new era of messaging. | ![last-commit](https://img.shields.io/github/last-commit/telegramdesktop/tdesktop?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 
 ## SMS
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [Signal](https://www.signal.org/) | Speak Freely. | ![last-commit](https://img.shields.io/github/last-commit/signalapp/Signal-Desktop?color=947cb0&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
+| [Signal](https://www.signal.org/) | Speak Freely. | ![last-commit](https://img.shields.io/github/last-commit/signalapp/Signal-Desktop?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
 
 ## XMPP Services
 

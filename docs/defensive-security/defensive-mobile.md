@@ -2,7 +2,7 @@
 
 Protect your mobile applications from being reverse engineered, and follow industry best practices. 
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-2-947cb0?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-2-3c85d4?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
