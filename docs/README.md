@@ -1,7 +1,7 @@
 # Introduction
 
 <p align="center">
-<img src="/img/infosecHouseBannerTransparent.png">
+<img src="/docs/img/infosecHouseBanner.png">
 <br>
 <img src="https://img.shields.io/github/last-commit/InfosecHouse/InfosecHouse?color=%233c85d4&style=for-the-badge"><br>
 <img src="https://img.shields.io/twitter/follow/infosechouse?style=social"><br>
