@@ -1,4 +1,4 @@
-![logo](/docs/img/infosecHouseBannerTransparent.png)
+<img src="https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/img/infosecHouseBannerTransparent.png">
 
 <small>v.4.0</small>
 
