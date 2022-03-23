@@ -1,7 +1,7 @@
 # Introduction
 
 <p align="center">
-<img src="/docs/img/infosecHouseBanner.png">
+<img src="/img/infosecHouseBannerTransparent.png">
 <br>
 <img src="https://img.shields.io/github/last-commit/InfosecHouse/InfosecHouse?color=%233c85d4&style=for-the-badge"><br>
 <img src="https://img.shields.io/twitter/follow/infosechouse?style=social"><br>
@@ -114,8 +114,6 @@ Anonymous, [0xgnnr](https://www.twitch.tv/0xgnnr), [0xrom](https://www.twitch.tv
 
 ---
 
-| Organization | Hyperlink |
-| :--- | :--- |
 | Organization | Hyperlink |
 | :--- | :--- |
 | Telegram | [https://t.me/InfosecHouse/](https://twitter.com/InfosecHouse/) |
