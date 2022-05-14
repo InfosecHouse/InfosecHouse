@@ -2,7 +2,7 @@
 
 Microsoft Windows pentesting tools and resources.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-17-3c85d4?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-19-3c85d4?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
@@ -12,6 +12,7 @@ Microsoft Windows pentesting tools and resources.
 
 | Tool | Descrption | Directory |
 | :--- | :--- | :--- |
+| [BadBlood](https://github.com/davidprowe/BadBlood) | Fills a Microsoft Active Directory Domain with a structure and thousands of objects. | ![last-commit](https://img.shields.io/github/last-commit/davidprowe/BadBlood?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [BloodHound](https://github.com/BloodHoundAD/BloodHound) | Six Degrees of Domain Admin. | ![last-commit](https://img.shields.io/github/last-commit/BloodHoundAD/BloodHound?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) | A swiss army knife for pentesting networks. | ![last-commit](https://img.shields.io/github/last-commit/byt3bl33d3r/CrackMapExec?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 
@@ -60,6 +61,7 @@ Microsoft Windows pentesting tools and resources.
 
 | Tool | Descrption | Directory |
 | :--- | :--- | :--- |
+| [PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) | Remote Desktop entirely coded in PowerShell. | ![last-commit](https://img.shields.io/github/last-commit/DarkCoderSc/PowerRemoteDesktop?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [SharpRDP](https://github.com/0xthirteen/SharpRDP) | Remote Desktop Protocol .NET Console Application for Authenticated Command Execution. | ![last-commit](https://img.shields.io/github/last-commit/0xthirteen/SharpRDP?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 
 ## RPC

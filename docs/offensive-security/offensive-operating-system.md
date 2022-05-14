@@ -2,7 +2,7 @@
 
 Operating system's solely focused for offensive security teams.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-4-3c85d4?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-5-3c85d4?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
@@ -27,5 +27,6 @@ Operating system's solely focused for offensive security teams.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
+| [CommandoVM](https://github.com/mandiant/commando-vm) | Windows-based pentesting virtual machine distribution. | ![last-commit](https://img.shields.io/github/last-commit/mandiant/commando-vm?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [RedNix](https://github.com/redcode-labs/RedNix) | Hackable NixOS container. | ![last-commit](https://img.shields.io/github/last-commit/redcode-labs/RedNix?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 

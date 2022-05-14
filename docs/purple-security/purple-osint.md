@@ -2,7 +2,7 @@
 
 Open-Source Intel. Get all the information needed for your target.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-84-3c85d4?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-85-3c85d4?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
@@ -116,6 +116,7 @@ Open-Source Intel. Get all the information needed for your target.
 | :--- | :--- | :--- |
 | [GeoSocial Footprint](http://geosocialfootprint.com/) | Provides twitter users with an opportunity to view their geosocial footprint. | N/A |
 | [One Million Tweet Map](https://onemilliontweetmap.com/) | Displays last 24h geolocalized tweets delivered. Real Time. | N/A |
+| [Osintgram](https://github.com/Datalux/Osintgram) | Displays last 24h geolocalized tweets delivered. Real Time. | ![last-commit](https://img.shields.io/github/last-commit/Datalux/Osintgram?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [Sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username. | ![last-commit](https://img.shields.io/github/last-commit/sherlock-project/sherlock?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [Social Analyzer](https://github.com/qeeqbox/social-analyzer) | API, CLI & Web App for analyzing & finding a person's profile across +800 social media. | ![last-commit](https://img.shields.io/github/last-commit/qeeqbox/social-analyzer?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [Social Searcher](https://www.social-searcher.com/) | Social Media Search Engine. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/freemium-service.png)![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |

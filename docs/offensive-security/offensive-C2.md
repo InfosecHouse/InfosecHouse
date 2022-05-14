@@ -2,7 +2,7 @@
 
 Command and control systems.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-6-3c85d4?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-7-3c85d4?style=for-the-badge)
 
 ## Links <!-- {docsify-ignore} -->
 
@@ -12,6 +12,7 @@ Command and control systems.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
+| [C3](https://github.com/FSecureLABS/C3) | A framework for rapid prototyping of custom C2 channels, while still providing integration with existing offensive toolkits. | ![last-commit](https://img.shields.io/github/last-commit/FSecureLABS/C3?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [Cobalt Strike](https://www.cobaltstrike.com/) | Software for Adversary Simulation and Red Team Operations. | ![paid-product](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/paid-product.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
 | [Covenant](https://github.com/cobbr/Covenant) | Covenant is a collaborative .NET C2 framework for red teamers. | ![last-commit](https://img.shields.io/github/last-commit/cobbr/Covenant?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 | [Merlin](https://github.com/Ne0nd0g/merlin) | Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang. | ![last-commit](https://img.shields.io/github/last-commit/Ne0nd0g/merlin?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
