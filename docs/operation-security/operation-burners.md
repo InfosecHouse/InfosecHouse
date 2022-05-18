@@ -4,9 +4,8 @@ Everything for your temporary needs.
 
 ![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-8-3c85d4?style=for-the-badge)
 
-## Links <!-- {docsify-ignore} -->
 
-- [Icon Directory](../ICONS.md) - Unsure what an icon means? Check out our directory.
+
 
 ## E-Mail
 
@@ -22,12 +21,12 @@ Everything for your temporary needs.
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [Privacy](https://privacy.com/) | Make a unique debit card number for every single purchase online with just 1 click. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
+| [Privacy](https://privacy.com/) | Make a unique debit card number for every single purchase online with just 1 click. | ![freemium-service](../icons/freemium-service.png) ![register-profile](../icons/register-profile.png) |
 
 ## Phone Numbers
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [BurnerApp](https://www.burnerapp.com/) | phone number app for calling, texting and picture messaging. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
-| [Hushed](https://hushed.com/) | Temporary & Second Phone Numbers for Talk & Texting. | ![freemium-service](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/freemium-service.png) ![register-profile](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/register-profile.png) |
+| [BurnerApp](https://www.burnerapp.com/) | phone number app for calling, texting and picture messaging. | ![freemium-service](../icons/freemium-service.png) ![register-profile](../icons/register-profile.png) |
+| [Hushed](https://hushed.com/) | Temporary & Second Phone Numbers for Talk & Texting. | ![freemium-service](../icons/freemium-service.png) ![register-profile](../icons/register-profile.png) |
 
