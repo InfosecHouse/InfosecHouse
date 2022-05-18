@@ -140,4 +140,8 @@ const config = {
     }),
 };
 
-module.exports = config;
+module.exports = {
+  url: 'https://infosechouse.netlify.app',
+  baseUrl: '/', 
+  // ...
+};

@@ -20,7 +20,7 @@ A CTF event is usually timed, and the points are totaled once the time has expir
 | [Hack The Box](https://www.hackthebox.eu/) | Massive online cyber security training platform, allowing individuals, companies, universities and all kinds of organizations around the world to level up their hacking skills. | ![freemium-service](../icons/freemium-service.png)![register-profile](../icons/register-profile.png) |
 | [Nightmare](https://guyinatuxedo.github.io/) | Nightmare is an intro to binary exploitation / reverse engineering course based around ctf challenges. | ![register-profile](../icons/register-profile.png) |
 | [Offensive Security](https://www.offensive-security.com/labs/individual) | Practice your pentesting skills in a standalone, private lab environment within Offensive Security’s Proving Grounds | ![freemium-service](../icons/freemium-service.png) ![register-profile](../icons/register-profile.png) |
-| [pwnable.tw](https//pwnable.tw) | Pwnable.tw is a wargame site for hackers to test and expand their binary exploiting skills. | ![register-profile](../icons/register-profile.png) |
+| [pwnable.tw](https://pwnable.tw/) | Pwnable is a wargame site for hackers to test and expand their binary exploiting skills. | ![register-profile](../icons/register-profile.png) |
 | [pwnable.kr](https://pwnable.kr) | A non-commercial wargame site which provides various pwn challenges regarding system exploitation. | ![register-profile](../icons/register-profile.png) |
 | [pwnable.xyz](https://pwnable.xyz) | Beginner tailored CTF challenges. | ![register-profile](../icons/register-profile.png) |
 | [ringzer0ctf](https://ringzer0ctf.com/challenges) | Ringzero CTF Challenges | ![register-profile](../icons/register-profile.png) |
