@@ -1,0 +1,8 @@
+{
+  "label": "Offensive Security",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Offensive security tools and resources."
+  }
+}

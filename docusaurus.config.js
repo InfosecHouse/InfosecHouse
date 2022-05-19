@@ -9,7 +9,7 @@ const config = {
   title: 'Infosec House',
   tagline: 'Tools & Resources for Cyber Security Operations.',
   url: 'https://infosec.house',
-  baseUrl: '/website',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
@@ -140,8 +140,9 @@ const config = {
     }),
 };
 
-module.exports = {
+module.exports = 
+{
   url: 'https://infosechouse.netlify.app',
-  baseUrl: '/website', 
+  baseUrl: '/', 
   title: 'Infosec House'
 };
