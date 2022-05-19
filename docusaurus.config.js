@@ -143,5 +143,5 @@ const config = {
 module.exports = {
   url: 'https://infosechouse.netlify.app',
   baseUrl: '/', 
-  // ...
+  title: 'Infosec House'
 };
