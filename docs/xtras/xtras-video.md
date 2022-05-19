@@ -4,6 +4,10 @@ Talks, live-streams, and presentations.
 
 ![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-26-3c85d4?style=for-the-badge)
 
+## Links <!-- {docsify-ignore} -->
+
+- [Icon Directory](../ICONS.md) - Unsure what an icon means? Check out our directory.
+
 ## Conferences
 
 | Resource | Description | 
@@ -39,8 +43,8 @@ Talks, live-streams, and presentations.
 
 | Resource | Description | Directory |
 | :--- | :--- | :--- |
-| [HackListX](https://hacklistx.github.io/) | A list of Hacking Streamers. | ![last-commit](https://img.shields.io/github/last-commit/HackListX/HackListX.github.io?color=3c85d4&style=flat-square) ![opensource](../icons/opensource.png) |
-| [InfoSec Streamers](https://infosecstreams.github.io) | InfoSec streamers list sorted based on 14-day activity to help you find active streamers more easily. | ![last-commit](https://img.shields.io/github/last-commit/infosecstreams/infosecstreams.github.io?color=3c85d4&style=flat-square) ![opensource](../icons/opensource.png) |
+| [HackListX](https://hacklistx.github.io/) | A list of Hacking Streamers. | ![last-commit](https://img.shields.io/github/last-commit/HackListX/HackListX.github.io?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
+| [InfoSec Streamers](https://infosecstreams.github.io) | InfoSec streamers list sorted based on 14-day activity to help you find active streamers more easily. | ![last-commit](https://img.shields.io/github/last-commit/infosecstreams/infosecstreams.github.io?color=3c85d4&style=flat-square) ![opensource](https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/icons/opensource.png) |
 
 ## Movies
 
@@ -48,6 +52,12 @@ Talks, live-streams, and presentations.
 | :--- | :--- | 
 | [Hackers](https://youtu.be/5T_CqqjOPDc) | Hackers are blamed for making a virus that will capsize five oil tankers. | 
 | [Wargames](https://www.imdb.com/title/tt0086567/) | A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III. |
+
+## Past Conference Presentations
+
+<p align="center"> 
+<a href="https://infocon.org/" target="_blank"><img src="https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/img/partners-and-sponsors/infocon.png"></a>
+</p>
 
 ## TV Shows
 

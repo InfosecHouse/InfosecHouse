@@ -4,6 +4,10 @@ Kick back relax and enjoy some entertainment.
 
 ![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-12-3c85d4?style=for-the-badge)
 
+## Links <!-- {docsify-ignore} -->
+
+- [Icon Directory](../ICONS.md) - Unsure what an icon means? Check out our directory.
+
 ## Nerdcore/Hackercore Music
 
 | Artist | Platform |
