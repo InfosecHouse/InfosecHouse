@@ -42,7 +42,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 | [API](docs/offensive-security/offensive-api.md) | Tools and resources for pentesting against API endpoints. |
 | [Blogs](docs/offensive-security/offensive-blogs.md) | Reading material for offensive security researchers. |
 | [Bug Bounty](docs/offensive-security/offensive-bug-bounty.md) | Test out your skills against other hackers. Get paid for finding vulnerabilities. |
-| [C2](docs/offensive-security/offensive-C2.md) | Command and Control tools and frameworks. |
+| [Command & Control](docs/offensive-security/offensive-C2.md) | Command and Control tools and frameworks. |
 | [Cheat Sheets](docs/offensive-security/offensive-cheat-sheets.md) | Offensive security cheat sheets. |
 | [Cloud](docs/docs/offensive-security/offensive-cloud.md) | Discover tools and resources dedicated to hacking cloud platforms. |
 | [Collaboration](docs/offensive-security/offensive-collab.md) | Discover tools and frameworks for red team collaboration. |
@@ -72,11 +72,10 @@ A curated list of many tools and resources for both offensive and defensive secu
 | :--- | :--- |
 | [Anonymity](docs/operation-security/operation-anonymity.md) | The quality or state of being anonymous. Seek out technologies and methods of remaining anonymous in the day and age of mass surveillance. |
 | [Anti-Forensics](docs/operation-security/operation-antiforensic.md) | Destroy your data. |
-| [Authentication](docs/operation-security/operation-authentication.md) | Secure your authentication methods with 2-Factor Authentication. |
 | [Burners](docs/operation-security/operation-burners.md) | Everything for your temporary needs. |
 | [Communication](docs/operation-security/operation-communication.md) | Protect your SMS messages, voice calls, and e-mails. Big brother is always watching. |
 | [Operating Systems](docs/operation-security/operation-operating-systems.md) | Hardening your operating system. |
-| [Password/Secret Managers](docs/operation-security/operation-pass-managers.md) | Secure your passwords, secrets, and notes. |
+| [Passwords & Authentication](docs/operation-security/operation-pass-access-management.md) | Secure your passwords, secrets, and notes. |
 | [Search Engines](docs/operation-security/operation-search-engines.md) | Hardening your operating system. |
 
 
@@ -104,15 +103,11 @@ A curated list of many tools and resources for both offensive and defensive secu
 
 ## Contributors
 
----
-
 Shoutout to the following amazing individuals for suggesting and adding resources!
 
 Anonymous, [0xgnnr](https://www.twitch.tv/0xgnnr), [0xrom](https://www.twitch.tv/0xrom), [Binary.rip](https://www.instagram.com/binary.rip/), [CyberLola](https://www.twitch.tv/CyberLola), [DevNullZen](https://www.twitch.tv/DevNullZen), [EightBitOni](https://www.twitch.tv/eightbitoni/), [GoProSlowYo](https://www.twitch.tv/goproslowyo), [JR0ch17](https://twitter.com/JR0ch17), [projectdp](https://github.com/projectdp/), [PaWNmUnCher](https://www.twitch.tv/PaWNmUnCher), [RySkill](https://www.twitch.tv/ryskill), [Vander_Grift](https://www.twitch.tv/Vander_Grift), [chadb\_n00b](https://www.twitch.tv/chadb_n00b), [footpics4sale](https://www.twitch.tv/footpics4sale), [goldyautomation](https://www.twitch.tv/goldyautomation), [halfamomo](https://www.twitch.tv/halfamomo), [p4r4n0ir](https://www.twitch.tv/p4r4n0ir), [skyfire100](https://www.twitch.tv/skyfire100), [theGwar](https://www.twitch.tv/thegwar), and [zuphzuph](https://www.twitch.tv/zuphzuph).
 
 ## Social Media
-
----
 
 | Organization | Hyperlink |
 | :--- | :--- |

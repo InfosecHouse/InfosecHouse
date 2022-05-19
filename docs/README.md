@@ -12,7 +12,7 @@ Tools & Resource center for offensive and defensive security operations.
 </h4>
 <br>
 
-A curated list of many tools and resources for both offensive and defensive security teams. Please visit [Infosec.House](https://infosec.house) for our website version of this repo. Found a resources that should be on here? Feel free to submit a pull request!
+A curated list of many tools and resources for both offensive and defensive security teams. Please visit [Infosec.House](https://infosec.house) for our website version of this repo. Found a resources that should be on here? Feel free to submit a pull request.
 
 ## Defensive Security
 ![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-190-3c85d4)

@@ -38,7 +38,6 @@ Talks, live-streams, and presentations.
 | [The Million-Dollar Hacker](https://youtu.be/icyTUMjlvMg) | YouTube - Bloomberg Quicktale |
 | [Wannacry: The Marcus Hutchins Story](https://youtu.be/vveLaA-z3-o) | YouTube - Tomorrow Unlocked |
 
-
 ## Livestreams
 
 | Resource | Description | Directory |
@@ -52,12 +51,6 @@ Talks, live-streams, and presentations.
 | :--- | :--- | 
 | [Hackers](https://youtu.be/5T_CqqjOPDc) | Hackers are blamed for making a virus that will capsize five oil tankers. | 
 | [Wargames](https://www.imdb.com/title/tt0086567/) | A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III. |
-
-## Past Conference Presentations
-
-<p align="center"> 
-<a href="https://infocon.org/" target="_blank"><img src="https://raw.githubusercontent.com/InfosecHouse/InfosecHouse/main/docs/img/partners-and-sponsors/infocon.png"></a>
-</p>
 
 ## TV Shows
 
