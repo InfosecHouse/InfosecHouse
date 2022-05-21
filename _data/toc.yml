@@ -1,0 +1,142 @@
+- title: 👋 Welcome
+  url: 
+  links:
+    - title: "Icon Directory"
+      url: "docs/icon-directory"
+    - title: "Attributes"
+      url: "attributes"
+    - title: "Blog"
+      url: "blog"
+- title: "Defensive Security"
+  url: "docs/defensive-security"
+  links:
+    - title: Assets Management
+      url: "docs/defensive-security/assets-management"
+    - title: Auditing
+      url: "docs/defensive-security/auditing"
+    - title: Cheat Sheets
+      url: "docs/defensive-security/cheat-sheets"
+    - title: Courses
+      url: "docs/defensive-security/courses"
+    - title: Endpoint Protection
+      url: "docs/defensive-security/endpoint-protection"
+    - title: Firewalls
+      url: "docs/defensive-security/firewalls"
+    - title: Forensics
+      url: "docs/defensive-security/forensics"
+    - title: Honeypot
+      url: "docs/defensive-security/honeypot"
+    - title: IDS/IPS
+      url: "docs/defensive-security/ids-ips"
+    - title: Indicators of Compromise
+      url: "docs/defensive-security/ioc"
+    - title: Incident Response
+      url: "docs/defensive-security/ir"
+    - title: Malware
+      url: "docs/defensive-security/malware"
+    - title: Mobile
+      url: "docs/defensive-security/mobile"
+    - title: Monitoring
+      url: "docs/defensive-security/monitoring"
+    - title: Operating Systems
+      url: "docs/defensive-security/operating-system"
+    - title: Phishing
+      url: "docs/defensive-security/phishing"
+    - title: Threat Intel
+      url: "docs/defensive-security/threat-intel"
+- title: "Offensive Security"
+  url: "docs/offensive-security"
+  links:
+    - title: API
+      url: "docs/offensive-security/api"
+    - title: Blogs
+      url: "docs/offensive-security/blogs"
+    - title: Bug Bounty
+      url: "docs/offensive-security/bug-bounty"
+    - title: C2
+      url: "docs/offensive-security/C2"
+    - title: Cheat Sheets
+      url: "docs/offensive-security/cheat-sheets"
+    - title: Cloud
+      url: "docs/offensive-security/cloud"
+    - title: Collaboration
+      url: "docs/offensive-security/collab"
+    - title: Courses
+      url: "docs/offensive-security/courses"
+    - title: Cracking
+      url: "docs/offensive-security/cracking"
+    - title: CTF
+      url: "docs/offensive-security/ctf"
+    - title: Data Exfiltration
+      url: "docs/offensive-security/data-exfiltration"
+    - title: Exploits
+      url: "docs/offensive-security/exploits"
+    - title: Firewalls
+      url: "docs/offensive-security/firewalls"
+    - title: Hardware
+      url: "docs/offensive-security/hardware"
+    - title: Linux
+      url: "docs/offensive-security/linux"
+    - title: Mobile
+      url: "docs/offensive-security/mobile"
+    - title: Network
+      url: "docs/offensive-security/network"
+    - title: Operating Systems
+      url: "docs/offensive-security/operating-system"
+    - title: Recon
+      url: "docs/offensive-security/recon"
+    - title: Shells
+      url: "docs/offensive-security/shells"
+    - title: Social Engineering
+      url: "docs/offensive-security/social-engineering"
+    - title: Vulnerability Scanners
+      url: "docs/offensive-security/vuln-scanners"
+    - title: Web Application
+      url: "docs/offensive-security/web-app"
+    - title: Windows
+      url: "docs/offensive-security/windows"
+    - title: Wireless
+      url: "docs/offensive-security/wireless"
+- title: "Operation Security"
+  url: "docs/operation-security"
+  links:
+    - title: Anonymity
+      url: "docs/operation-security/anonymity"
+    - title: Anti-Forensics
+      url: "docs/operation-security/antiforensic"
+    - title: Burners
+      url: "docs/operation-security/burners"
+    - title: Communication
+      url: "docs/operation-security/communication"
+    - title: Operating Systems
+      url: "docs/operation-security/operating-systems"
+    - title: Password & Access Management
+      url: "docs/operation-security/pass-access-management"
+    - title: Search Engines
+      url: "docs/operation-security/search-engines"
+- title: "Purple Security"
+  url: "docs/purple-security"
+  links:
+    - title: Courses
+      url: "docs/purple-security/courses"
+    - title: Default Passwords
+      url: "docs/purple-security/default-passwords"
+    - title: Editor & Viewers
+      url: "docs/purple-security/editor-viewer"
+    - title: Emulation
+      url: "docs/purple-security/emulation"
+    - title: Network
+      url: "docs/purple-security/network"
+    - title: OSINT
+      url: "docs/purple-security/osint"
+    - title: Reverse Engineering
+      url: "docs/purple-security/re"
+    - title: Write-Ups
+      url: "docs/purple-security/write-ups"
+- title: "Entertainment"
+  url: "docs/entertainment"
+  links:
+    - title: Music
+      url: "docs/entertainment/music"
+    - title: Videos
+      url: "docs/entertainment/videos"

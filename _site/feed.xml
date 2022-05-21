@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infosec House</title>
+    <description>Tools &amp; Resources for Cyber Security Operations</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 20 May 2022 18:31:41 -0600</pubDate>
+    <lastBuildDate>Fri, 20 May 2022 18:31:41 -0600</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Welcome to Infosec House</title>
+        <description>&lt;p&gt;Welcome to the new Infosec House website! We’ve recently updated our links and changed the layout a bit. Please forgive us if you’ve bookmarked any pages recently. With this update we are planning on expanding our resource center to now include this blog post section.&lt;/p&gt;
+
+&lt;p&gt;Here you’ll find technical write-ups, tutorials, learning resouces, hidden mini-games, site news, and more. Be sure to subscribe to the RSS feed to catch latest posts.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 May 2022 04:52:21 -0600</pubDate>
+        <link>http://localhost:4000/2022/welcome/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/welcome/</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
