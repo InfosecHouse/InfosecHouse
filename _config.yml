@@ -23,7 +23,7 @@ description: Tools & Resources for Cyber Security Operations
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://infosechouse.house" # the base hostname & protocol for your site
+url: "https://infosec.house" # the base hostname & protocol for your site
 
 # Social (First three Required)
 repo: "https://github.com/infosechouse/infosechouse"
