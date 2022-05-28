@@ -7,9 +7,7 @@ tags:
 
 ## Defensive Security
 
-
-
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-190-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-199-A65F5F?style=for-the-badge)
 
 | Sub-Category | Description |
 | :--- | :--- |

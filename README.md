@@ -14,7 +14,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 Please visit [https://infosec.house](https://infosec.house) for our website version of this repo. Found a resources that should be on here? Feel free to submit a pull request!
 
 ## Defensive Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-190-3c85d4?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-199-3c85d4?style=for-the-badge)
 
 | Sub-Category | Description |
 | :--- | :--- |
