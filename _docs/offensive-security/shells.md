@@ -7,7 +7,7 @@ description: Generating pre-built webshells to customizing your own.
 
 Generating pre-built webshells to customizing your own.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-6-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-7-A65F5F?style=for-the-badge)
 
 ## Generators
 

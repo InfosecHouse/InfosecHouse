@@ -7,7 +7,7 @@ description: Evade getting caught.
 
 Evade getting caught.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-11-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-2-A65F5F?style=for-the-badge)
 
 ## ELF
 

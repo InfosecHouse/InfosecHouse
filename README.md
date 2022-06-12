@@ -49,6 +49,7 @@ Please visit [https://infosec.house](https://infosec.house) for our website vers
 | [Cracking](_docs/offensive-security/cracking.md) | Everything you need to crack all the hashes. |
 | [CTF Offensive](_docs/offensive-security/ctf.md) | Compete your hacking skills against others. |
 | [Data Exfiltration](_docs/offensive-security/data-exfiltration.md) | Exfiltrate the data, and test your DLP. |
+| [Evasion](_docs/offensive-security/evasion.md) | Evade getting caught. |
 | [Exploits](_docs/offensive-security/exploits.md) | Gather all your exploits needed to pop that box. |
 | [Firewalls](_docs/offensive-security/firewalls.md) | Attack the castle doors. |
 | [Hardware](_docs/offensive-security/hardware.md) | Grab some of the most used hardware within the penetration testing industry. |

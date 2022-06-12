@@ -7,7 +7,7 @@ description: Defend the kingdom.
 
 Defend the kingdom.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-15-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-16-A65F5F?style=for-the-badge)
 
 ## Firewall Hardware
 

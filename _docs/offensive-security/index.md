@@ -7,7 +7,7 @@ tags:
 
 ## Offensive Security
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-461-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-477-A65F5F?style=for-the-badge)
 
 | Sub-Category | Description |
 | :--- | :--- |
@@ -22,6 +22,7 @@ tags:
 | [Cracking](cracking) | Everything you need to crack all the hashes. |
 | [CTF Offensive](ctf) | Compete your hacking skills against others. |
 | [Data Exfiltration](data-exfiltration) | Exfiltrate the data, and test your DLP. |
+| [Evasion](evasion) | Evade getting caught. |
 | [Exploits](exploits) | Gather all your exploits needed to pop that box. |
 | [Firewalls](firewalls) | Attack the castle doors. |
 | [Hardware](hardware) | Grab some of the most used hardware within the penetration testing industry. |

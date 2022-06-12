@@ -7,7 +7,7 @@ description: Destroy your data.
 
 Destroy your data.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-7-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-8-A65F5F?style=for-the-badge)
 
 ## Filesystem Manipulation 
 

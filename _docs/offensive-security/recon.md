@@ -7,7 +7,7 @@ description: Understand your target. Perform in-depth research and discover new 
 
 Understand your target. Perform in-depth research and discover new attack surfaces.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-55-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-58-A65F5F?style=for-the-badge)
 
 ## Content Discovery
 
