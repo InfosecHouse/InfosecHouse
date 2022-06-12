@@ -29,6 +29,7 @@ Generating pre-built webshells to customizing your own.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
+| [JShell](https://github.com/s0md3v/JShell) | JShell - Get a JavaScript shell with XSS. | ![last-commit](https://img.shields.io/github/last-commit/s0md3v/JShell?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [p0wny shell](https://github.com/flozz/p0wny-shell) |  Single-file PHP shell.  | ![last-commit](https://img.shields.io/github/last-commit/flozz/p0wny-shell?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [php reverse shell](https://github.com/ivan-sincek/php-reverse-shell) | PHP reverse shell script. Works on Linux OS, macOS, and Windows OS. | ![last-commit](https://img.shields.io/github/last-commit/ivan-sincek/php-reverse-shell?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [RedTeam Cookbook Webshells](https://gnnr.net/redteam_cookbook/foothold/webshells/) | Reference manual for shells.  | N/A |

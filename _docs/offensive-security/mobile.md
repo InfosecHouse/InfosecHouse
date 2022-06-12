@@ -34,6 +34,7 @@ Tools and resources for pentesting on mobile applications.
 | [CuckooDroid](https://github.com/idanr1986/cuckoo-droid) | Automated Android Malware Analysis with Cuckoo Sandbox. | ![last-commit](https://img.shields.io/github/last-commit/idanr1986/cuckoo-droid?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [Cutter](https://github.com/rizinorg/cutter) | Reverse engineering platform powered by rizin. | ![last-commit](https://img.shields.io/github/last-commit/rizinorg/cutter?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [DECAF](https://github.com/decaf-project/DECAF) | DECAF \(short for Dynamic Executable Code Analysis Framework\) is a binary analysis platform based on QEMU. | ![last-commit](https://img.shields.io/github/last-commit/decaf-project/DECAF?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [Diggy](https://github.com/s0md3v/Diggy) | Extract endpoints from apk files. | ![last-commit](https://img.shields.io/github/last-commit/s0md3v/Diggy?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [Droid-FF](https://github.com/antojoseph/droid-ff) | The android fuzzing framework. | ![last-commit](https://img.shields.io/github/last-commit/antojoseph/droid-ff?color=a65f5f&style=flat-square) ![no-recent-update](../../assets/img/icons/aged.png) ![opensource](../../assets/img/icons/open-source.png) |
 | [Drozer](https://github.com/FSecureLABS/drozer) | Security testing framework for Android. | ![last-commit](https://img.shields.io/github/last-commit/FSecureLABS/drozer?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [Frida](https://github.com/frida/frida) | Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. | ![last-commit](https://img.shields.io/github/last-commit/frida/frida?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
@@ -118,8 +119,6 @@ Tools and resources for pentesting on mobile applications.
 | [ProxyDroid](https://github.com/madeye/proxydroid) | Global Proxy for Android. | ![last-commit](https://img.shields.io/github/last-commit/madeye/proxydroid?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [Simplify](https://github.com/CalebFenton/simplify) | Android virtual machine and deobfuscator. | ![last-commit](https://img.shields.io/github/last-commit/CalebFenton/simplify?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [TCPDump](https://github.com/the-tcpdump-group/tcpdump) | The TCPdump network dissector. | ![last-commit](https://img.shields.io/github/last-commit/the-tcpdump-group/tcpdump?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
-
-
 
 ## Post Exploitation (iOS)
 

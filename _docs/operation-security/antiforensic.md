@@ -13,6 +13,7 @@ Destroy your data.
 
 | Tools | Description | Directory |
 | :--- | :--- | :--- |
+| [Darik's Book & Nuke](https://sourceforge.net/projects/dban/) | A self-contained boot image that securely wipes the hard disks of most computers. | N/A |
 | [SetMace](https://github.com/jschicht/SetMace) | Manipulate timestamps on NTFS. | ![last-commit](https://img.shields.io/github/last-commit/jschicht/SetMace?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [Wipe](https://github.com/berke/wipe) | A Unix tool for secure deletion. | ![last-commit](https://img.shields.io/github/last-commit/berke/wipe?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [WipeDicks](https://github.com/Drewsif/wipedicks) | Wipe files and drives securely with randoms ASCII dicks. | ![last-commit](https://img.shields.io/github/last-commit/Drewsif/wipedicks?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |

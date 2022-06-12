@@ -9,11 +9,25 @@ Uncover the dirty little secrets of a recovered HDD, Image, malware, and more.
 
 ![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-31-A65F5F?style=for-the-badge)
 
+## Blockchain
+
+| Tool | Description | Directory |
+| :--- | :--- | :--- |
+| [Orbit](https://github.com/s0md3v/Orbit) | Blockchain Transactions Investigation Tool. | ![last-commit](https://img.shields.io/github/last-commit/s0md3v/Orbit?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+
 ## Browser
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
 | [Hindsight](https://github.com/obsidianforensics/hindsight) | Web browser forensics for Google Chrome/Chromium. | ![last-commit](https://img.shields.io/github/last-commit/obsidianforensics/hindsight?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+
+## Disk Images
+
+| Tool | Description | Directory |
+| :--- | :--- | :--- |
+| [AFFLIBv3](https://github.com/sshock/AFFLIBv3) | AFF is an open and extensible file format to store disk images and associated metadata. | ![last-commit](https://img.shields.io/github/last-commit/sshock/AFFLIBv3?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [Autopsy](http://www.sleuthkit.org/autopsy/) | A digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. | N/A |
+| [DMG2IMG](https://github.com/Lekensteyn/dmg2img) | DMG2IMG is a tool which allows converting Apple compressed dmg archives to standard (hfsplus) image disk files. | ![last-commit](https://img.shields.io/github/last-commit/Lekensteyn/dmg2img?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 
 ## Mobile
 
@@ -46,6 +60,7 @@ Uncover the dirty little secrets of a recovered HDD, Image, malware, and more.
 | :--- | :---------- | :------- |
 | [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser) | Parses amcache.hve files, but with a twist. | ![last-commit](https://img.shields.io/github/last-commit/EricZimmerman/AmcacheParser?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [AppCompatCacheParser](https://github.com/EricZimmerman/AppCompatCacheParser) | AppCompatCache (shimcache) parser. Supports Windows 7 (x86 and x64), Windows 8.x, and Windows 10. | ![last-commit](https://img.shields.io/github/last-commit/EricZimmerman/AppCompatCacheParser?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [Auditpol](https://docs.microsoft.com/en-gb/windows-server/administration/windows-commands/auditpol) | Displays information about and performs functions to manipulate audit policies. | N/A | 
 | [EvtxECmd](https://github.com/EricZimmerman/evtx) | C# based evtx parser with lots of extras. | ![last-commit](https://img.shields.io/github/last-commit/EricZimmerman/evtx?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [ExtensionBlocks](https://github.com/EricZimmerman/ExtensionBlocks) | Extension blocks as found in ShellBags and other places in the Registry. | ![last-commit](https://img.shields.io/github/last-commit/EricZimmerman/ExtensionBlocks?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [iisGeolocate](https://github.com/EricZimmerman/iisGeolocate) | geolocate ip addresses in IIS logs. | ![last-commit](https://img.shields.io/github/last-commit/EricZimmerman/iisGeolocate?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
