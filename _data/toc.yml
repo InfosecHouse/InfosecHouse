@@ -69,6 +69,8 @@
       url: "docs/offensive-security/ctf"
     - title: Data Exfiltration
       url: "docs/offensive-security/data-exfiltration"
+    - title: Evasion
+      url: "docs/offensive-security/evasion"
     - title: Exploits
       url: "docs/offensive-security/exploits"
     - title: Firewalls
