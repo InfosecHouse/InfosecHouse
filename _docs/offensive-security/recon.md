@@ -7,7 +7,7 @@ description: Understand your target. Perform in-depth research and discover new 
 
 Understand your target. Perform in-depth research and discover new attack surfaces.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-58-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-59-A65F5F?style=for-the-badge)
 
 ## Content Discovery
 
@@ -28,6 +28,7 @@ Understand your target. Perform in-depth research and discover new attack surfac
 | [RecurseBuster](https://github.com/C-Sto/recursebuster) | Rapid content discovery tool for recursively querying webservers. | ![last-commit](https://img.shields.io/github/last-commit/C-Sto/recursebuster?color=a65f5f&style=flat-square) ![no-recent-update](../../assets/img/icons/aged.png) ![opensource](../../assets/img/icons/open-source.png) |
 | [Scilla](https://github.com/edoardottt/scilla) | Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration. | ![last-commit](https://img.shields.io/github/last-commit/edoardottt/scilla?color=a65f5f&style=flat-square)  ![opensource](../../assets/img/icons/open-source.png) |
 | [UnChain](https://github.com/redcode-labs/UnChain) | A tool to find redirection chains in multiple URLs. | ![last-commit](https://img.shields.io/github/last-commit/redcode-labs/UnChain?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [xnLinkFinder](https://github.com/xnl-h4ck3r/xnLinkFinder) | A python tool used to discover endpoints for a given target. | ![last-commit](https://img.shields.io/github/last-commit/xnl-h4ck3r/xnLinkFinder?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [x8](https://github.com/Sh1Yo/x8) | Hidden parameters discovery suite written in Rust. | ![last-commit](https://img.shields.io/github/last-commit/Sh1Yo/x8?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 
 

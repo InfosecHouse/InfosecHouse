@@ -7,7 +7,7 @@ description: Tools and resources for pentesting on mobile applications.
 
 Tools and resources for pentesting on mobile applications.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-115-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-120-A65F5F?style=for-the-badge)
 
 ## App/File Management
 
@@ -141,6 +141,15 @@ Tools and resources for pentesting on mobile applications.
 | [SSLKillSwitch2](https://github.com/nabla-c0d3/ssl-kill-switch2) | Blackbox tool to disable SSL certificate validation. | ![last-commit](https://img.shields.io/github/last-commit/nabla-c0d3/ssl-kill-switch2?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [TCPDump](https://github.com/the-tcpdump-group/tcpdump) | The TCPdump network dissector. | ![last-commit](https://img.shields.io/github/last-commit/the-tcpdump-group/tcpdump?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 
+## Reverse Engineering 
+
+| Tool | Description | Directory |
+| :--- | :--- | :--- |
+| [bfdecrypt](https://github.com/BishopFox/bfdecrypt) | Utility to decrypt App Store apps on jailbroken iOS 11.x | ![last-commit](https://img.shields.io/github/last-commit/BishopFox/bfdecrypt?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [Clutch](https://github.com/KJCracks/Clutch) | Fast iOS executable dumper. | ![last-commit](https://img.shields.io/github/last-commit/KJCracks/Clutch?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [flexdecrypt](https://github.com/JohnCoates/flexdecrypt) | Decrypt iOS Apps and Mach-O binaries. | ![last-commit](https://img.shields.io/github/last-commit/NyaMisty/fouldecrypt?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [FoulDecrypt](https://github.com/NyaMisty/fouldecrypt) | A lightweight and simpling iOS binary decryptor. | ![last-commit](https://img.shields.io/github/last-commit/NyaMisty/fouldecrypt?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [r2flutch](https://github.com/as0ler/r2flutch) | Tool to decrypt iOS apps using r2frida. | ![last-commit](https://img.shields.io/github/last-commit/as0ler/r2flutch?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 
 ## Static Analysis
 

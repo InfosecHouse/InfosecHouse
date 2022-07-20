@@ -7,7 +7,7 @@ description: Break that web application.
 
 Break that web application.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-8-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-9-A65F5F?style=for-the-badge)
 
 ## CORS
 
@@ -26,7 +26,7 @@ Break that web application.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Bolt](https://github.com/s0md3v/Bolt) | XSS'OR - Hack with JavaScript. | ![last-commit](https://img.shields.io/github/last-commit/s0md3v/Bolt?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [Bolt](https://github.com/s0md3v/Bolt) | CSRF Scanner. | ![last-commit](https://img.shields.io/github/last-commit/s0md3v/Bolt?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 
 ## Databases
 
@@ -47,3 +47,8 @@ Break that web application.
 | :--- | :--- | :--- |
 | [http-request-smuggling](https://github.com/anshumanpattnaik/http-request-smuggling) | HTTP Request Smuggling Detection Tool. | ![last-commit](https://img.shields.io/github/last-commit/anshumanpattnaik/http-request-smuggling?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 
+## SSL/TLS
+
+| Tool | Description | Directory |
+| :--- | :--- | :--- |
+| [TLS-Scanner](https://github.com/tls-attacker/TLS-Scanner) | Assists in the evaluation of TLS Server configurations. | ![last-commit](https://img.shields.io/github/last-commit/tls-attacker/TLS-Scanner?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |

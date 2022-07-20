@@ -7,12 +7,13 @@ description: Microsoft Windows pentesting tools and resources.
 
 Microsoft Windows pentesting tools and resources.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-19-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-20-A65F5F?style=for-the-badge)
 
 ## Active Directory
 
 | Tool | Descrption | Directory |
 | :--- | :--- | :--- |
+| [Aced](https://github.com/garrettfoster13/aced) | A tool to parse and resolve a single targeted Active Directory principal's DACL) | ![last-commit](https://img.shields.io/github/last-commit/garrettfoster13/aced?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [BadBlood](https://github.com/davidprowe/BadBlood) | Fills a Microsoft Active Directory Domain with a structure and thousands of objects. | ![last-commit](https://img.shields.io/github/last-commit/davidprowe/BadBlood?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [BloodHound](https://github.com/BloodHoundAD/BloodHound) | Six Degrees of Domain Admin. | ![last-commit](https://img.shields.io/github/last-commit/BloodHoundAD/BloodHound?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) | A swiss army knife for pentesting networks. | ![last-commit](https://img.shields.io/github/last-commit/byt3bl33d3r/CrackMapExec?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
