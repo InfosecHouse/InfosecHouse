@@ -9,7 +9,7 @@
 Tools & Resources for Cyber Security Operations</h4>
 <br>
 
-A curated list of many tools and resources for both offensive and defensive security teams. 
+A curated list of many tools and resources for both offensive and defensive security teams.
 
 Please visit [https://infosec.house](https://infosec.house) for our website version of this repo. Found a resources that should be on here? Feel free to submit a pull request!
 
@@ -47,8 +47,10 @@ Please visit [https://infosec.house](https://infosec.house) for our website vers
 | [Collaboration](_docs/offensive-security/collab.md) | Discover tools and frameworks for red team collaboration. |
 | [Courses](_docs/offensive-security/courses.md) | Training and courses to master your craft. Some of the below courses do offer professional certifications as add-ons to course purchase. |
 | [Cracking](_docs/offensive-security/cracking.md) | Everything you need to crack all the hashes. |
+| [Cryptography](_docs/offensive-security/cryptography.md) | How great is your cryptography. |
 | [CTF Offensive](_docs/offensive-security/ctf.md) | Compete your hacking skills against others. |
 | [Data Exfiltration](_docs/offensive-security/data-exfiltration.md) | Exfiltrate the data, and test your DLP. |
+| [E-Mail](_docs/offensive-security/e-mail.md) | E-Mail pentesting tools and resources. |
 | [Evasion](_docs/offensive-security/evasion.md) | Evade getting caught. |
 | [Exploits](_docs/offensive-security/exploits.md) | Gather all your exploits needed to pop that box. |
 | [Firewalls](_docs/offensive-security/firewalls.md) | Attack the castle doors. |
@@ -84,6 +86,7 @@ Please visit [https://infosec.house](https://infosec.house) for our website vers
 
 | Sub-Category | Description |
 | :--- | :--- |
+| [Analysis](_docs/purple-security/analysis.md) | Tools and scripts for analyzing data. |
 | [Courses](_docs/purple-security/courses.md) | Training and courses to master your craft. |
 | [Editors & Viewers](_docs/purple-security/editor-viewer.md) | Tools for editing/viewing files. |
 | [Emulation](_docs/purple-security/emulation.md) | Emulate the adversary. |
