@@ -1,4 +1,4 @@
-- title: 👋 Welcome
+- title: 👋 Welcomee
   url: 
   links:
     - title: "Icon Directory"
@@ -65,10 +65,14 @@
       url: "docs/offensive-security/courses"
     - title: Cracking
       url: "docs/offensive-security/cracking"
+   - title: Cryptography
+      url: "docs/offensive-security/cryptography"
     - title: CTF
       url: "docs/offensive-security/ctf"
     - title: Data Exfiltration
       url: "docs/offensive-security/data-exfiltration"
+    - title: E-Mail
+      url: "docs/offensive-security/e-mail"
     - title: Evasion
       url: "docs/offensive-security/evasion"
     - title: Exploits
@@ -119,6 +123,8 @@
 - title: "Purple Security"
   url: "docs/purple-security"
   links:
+    - title: Analysis
+      url: "docs/purple-security/analysis"
     - title: Courses
       url: "docs/purple-security/courses"
     - title: Default Passwords
