@@ -7,7 +7,7 @@ description: Generating pre-built webshells to customizing your own.
 
 Generating pre-built webshells to customizing your own.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-7-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-11-A65F5F?style=for-the-badge)
 
 ## Generators
 
@@ -23,6 +23,7 @@ Generating pre-built webshells to customizing your own.
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
 | [GoodSpeed](https://github.com/redcode-labs/GodSpeed) | Fast and intuitive manager for multiple reverse shells. | ![last-commit](https://img.shields.io/github/last-commit/redcode-labs/GodSpeed?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [ReverseSSH](https://github.com/NHAS/reverse_ssh) | SSH based reverse shell. | ![last-commit](https://img.shields.io/github/last-commit/NHAS/reverse_ssh?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [Simple Reverse Shell](https://github.com/tihanyin/Simple-Reverse-Shell) | Simple reverse shell to avoid Win 11 defender detection. | ![last-commit](https://img.shields.io/github/last-commit/tihanyin/Simple-Reverse-Shell?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 
 ## Webshells

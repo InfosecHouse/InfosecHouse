@@ -3,7 +3,6 @@
 <br>
 <img src="https://img.shields.io/github/last-commit/InfosecHouse/InfosecHouse?color=%233c85d4&style=for-the-badge)"><br>
 <img src="https://img.shields.io/twitter/follow/infosechouse?style=social"><br>
-<a href="https://discord.com/invite/eKW2aWZd8F"><img src="https://img.shields.io/discord/742260867344891916?color=A65F5F&label=Discord&logo=discord&logoColor=fff&style=flat-square"></a><br>
 </p>
 
 <h4 align="center">
@@ -35,7 +34,7 @@ Please visit [https://infosec.house](https://infosec.house) for our website vers
 | [Threat Intel](_docs/defensive-security/threat-intel.md) | Discover where the threats begin. |
 
 ## Offensive Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-477-3c85d4?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-491-3c85d4?style=for-the-badge)
 
 | Sub-Category | Description |
 | :--- | :--- |
@@ -81,7 +80,7 @@ Please visit [https://infosec.house](https://infosec.house) for our website vers
 
 
 ## Purple Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-42-3c85d4?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-45-3c85d4?style=for-the-badge)
 
 | Sub-Category | Description |
 | :--- | :--- |

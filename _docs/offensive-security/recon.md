@@ -7,7 +7,7 @@ description: Understand your target. Perform in-depth research and discover new 
 
 Understand your target. Perform in-depth research and discover new attack surfaces.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-59-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-66-A65F5F?style=for-the-badge)
 
 ## Content Discovery
 
@@ -21,6 +21,9 @@ Understand your target. Perform in-depth research and discover new attack surfac
 | [Feroxbuster](https://github.com/epi052/feroxbuster) | A fast, simple, recursive content discovery tool written in Rust. | ![GitHub last commit](https://img.shields.io/github/last-commit/epi052/feroxbuster?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [ffuf](https://github.com/ffuf/ffuf) | Fast web fuzzer written in Go. | ![last-commit](https://img.shields.io/github/last-commit/ffuf/ffuf?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [GoBuster](https://github.com/OJ/gobuster) | Directory/File, DNS and VHost busting tool written in Go. | ![last-commit](https://img.shields.io/github/last-commit/OJ/gobuster?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [Hakrawler](https://github.com/hakluke/hakrawler) | Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application. | ![last-commit](https://img.shields.io/github/last-commit/https://github.com/hakluke/hakrawler?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [HTTPLoot](https://github.com/redhuntlabs/httploot) | An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages. | ![last-commit](https://img.shields.io/github/last-commit/https://github.com/redhuntlabs/httploot?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [IISRecon](https://github.com/0xRTH/IISRecon) | IIS shortname scanner + bruteforce. | ![last-commit](https://img.shields.io/github/last-commit/https://github.com/0xRTH/IISRecon?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [Kiterunner](https://github.com/assetnote/kiterunner) | Contextual Content Discovery Tool. | ![last-commit](https://img.shields.io/github/last-commit/assetnote/kiterunner?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [LinkFinder](https://github.com/GerbenJavado/LinkFinder) | A python script that finds endpoints in JavaScript files. | ![last-commit](https://img.shields.io/github/last-commit/GerbenJavado/LinkFinder?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [ParamSpider](https://github.com/devanshbatham/ParamSpider) | Mining parameters from dark corners of Web Archives. | ![last-commit](https://img.shields.io/github/last-commit/devanshbatham/ParamSpider?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
@@ -40,6 +43,7 @@ Understand your target. Perform in-depth research and discover new attack surfac
 | [dnsdumpter](https://dnsdumpster.com/) | dns recon & research, find & lookup dns records. | N/A |
 | [dnssearch](https://github.com/evilsocket/dnssearch) | A subdomain enumeration tool. | ![last-commit](https://img.shields.io/github/last-commit/evilsocket/dnssearch?color=a65f5f&style=flat-square) ![no-recent-update](../../assets/img/icons/aged.png) ![opensource](../../assets/img/icons/open-source.png) |
 | [dnsX](https://github.com/projectdiscovery/dnsx) | Fast and multi-purpose DNS toolkit allow to run multiple DNS queries. | ![last-commit](https://img.shields.io/github/last-commit/projectdiscovery/dnsx?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [Fastsub](https://github.com/codingo/fastsub) | A custom built DNS bruteforcer with multi-threading, and handling of bad resolvers. | ![last-commit](https://img.shields.io/github/last-commit/codingo/fastsub?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [Fierce](https://github.com/mschwager/fierce) | A DNS reconnaissance tool for locating non-contiguous IP space. | ![last-commit](https://img.shields.io/github/last-commit/mschwager/fierce?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [MassDNS](https://github.com/blechschmidt/massdns) | A high-performance DNS stub resolver for bulk lookups and reconnaissance. | ![last-commit](https://img.shields.io/github/last-commit/blechschmidt/massdns?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [Raccoon](https://github.com/evyatarmeged/Raccoon) | A high performance offensive security tool for reconnaissance and vulnerability scanning. | ![last-commit](https://img.shields.io/github/last-commit/evyatarmeged/Raccoon?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
@@ -68,6 +72,7 @@ Understand your target. Perform in-depth research and discover new attack surfac
 | [subfinder](https://github.com/projectdiscovery/subfinder) | Fast passive subdomian enumeration tool. | ![last-commit](https://img.shields.io/github/last-commit/projectdiscovery/subfinder?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [sublist3r](https://github.com/aboul3la/Sublist3r) | Fast subdomains enumeration tool for penetration testers. | ![last-commit](https://img.shields.io/github/last-commit/aboul3la/Sublist3r?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [Turbolist3r](https://github.com/fleetcaptain/Turbolist3r) | Subdomain enumeration tool with analysis features for discovered domains. | ![last-commit](https://img.shields.io/github/last-commit/fleetcaptain/Turbolist3r?color=a65f5f&style=flat-square)![opensource](../../assets/img/icons/open-source.png) |
+| [Websitewatcher](https://github.com/firefart/websitewatcher) | Monitor webist domain for changes. | ![last-commit](https://img.shields.io/github/last-commit/firefart/websitewatcher?color=a65f5f&style=flat-square)![opensource](../../assets/img/icons/open-source.png) |
 
 ## Dorking
 

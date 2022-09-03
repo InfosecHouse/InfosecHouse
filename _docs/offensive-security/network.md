@@ -7,7 +7,7 @@ description: Sniff the network. Modify the packets.
 
 Sniff the network. Modify the packets.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-27-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-30-A65F5F?style=for-the-badge)
 
 ## Denial of Service
 
@@ -49,7 +49,9 @@ Sniff the network. Modify the packets.
 | [masscan](https://github.com/robertdavidgraham/masscan) | TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. | ![last-commit](https://img.shields.io/github/last-commit/robertdavidgraham/masscan?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [naabu](https://github.com/projectdiscovery/naabu) | A fast port scanner written in go with a focus on reliability and simplicity. | ![last-commit](https://img.shields.io/github/last-commit/projectdiscovery/naabu?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [NMAP](https://github.com/nmap/nmap) | The Network Mapper. | ![last-commit](https://img.shields.io/github/last-commit/nmap/nmap?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [NP](https://github.com/leesoh/np) | A tool to parse, deduplicate, and query multiple port scans. | ![last-commit](https://img.shields.io/github/last-commit/leesoh/np?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [RustScan](https://github.com/RustScan/RustScan) | The Modern Port Scanner. | ![last-commit](https://img.shields.io/github/last-commit/RustScan/RustScan?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [Skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) | Dangerously fast DNS/network/port scanner. | ![last-commit](https://img.shields.io/github/last-commit/Esc4iCEscEsc/skanuvaty?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 
 ## SSL/TLS
 

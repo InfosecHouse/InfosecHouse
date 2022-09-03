@@ -7,13 +7,19 @@ description: Test out your skills against other hackers. Get paid for finding vu
 
 Test out your skills against other hackers. Get paid for finding vulnerabilities.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-9-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-10-A65F5F?style=for-the-badge)
 
 ## Cheatsheets/Checklists
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
 | [Bug bounty Roadmaps](https://github.com/1ndianl33t/Bug-Bounty-Roadmaps) | Bug Bounty Roadmaps | ![GitHub last commit](https://img.shields.io/github/last-commit/1ndianl33t/Bug-Bounty-Roadmaps?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+
+## Organization
+
+| Organization | Description | Directory |
+| :--- | :--- | :--- |
+| [HackWithGoodFaith](https://github.com/brevityinmotion/goodfaith) |  Stay within program scope. | ![GitHub last commit](https://img.shields.io/github/last-commit/brevityinmotion/goodfaith?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 
 ## Platforms
 

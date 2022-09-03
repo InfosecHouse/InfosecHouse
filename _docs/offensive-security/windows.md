@@ -7,7 +7,7 @@ description: Microsoft Windows pentesting tools and resources.
 
 Microsoft Windows pentesting tools and resources.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-20-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-21-A65F5F?style=for-the-badge)
 
 ## Active Directory
 
@@ -30,6 +30,12 @@ Microsoft Windows pentesting tools and resources.
 | :--- | :--- | :--- |
 | [LOLBAS](https://lolbas-project.github.io) | Living Off The Land Binaries and Scripts. | ![last-commit](https://img.shields.io/github/last-commit/sqlmapproject/sqlmap?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 
+## Interprocess Communication
+
+| Tool | Descrption | Directory |
+| :--- | :--- | :--- |
+| [pipe-intercept](https://github.com/gabriel-sztejnworcel/pipe-intercept) | Intercept Windows Named Pipes communication. | ![last-commit](https://img.shields.io/github/last-commit/gabriel-sztejnworcel/pipe-intercept?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+
 ## Kerberos
 
 | Tool | Descrption | Directory |
@@ -43,6 +49,7 @@ Microsoft Windows pentesting tools and resources.
 | Tool | Descrption | Directory |
 | :--- | :--- | :--- |
 | [Blackbone](https://github.com/DarthTon/Blackbone) | DLL scatter manual mapper. | ![last-commit](https://img.shields.io/github/last-commit/DarthTon/Blackbone?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+
 
 ## Post Exploitation
 

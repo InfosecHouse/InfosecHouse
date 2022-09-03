@@ -7,7 +7,7 @@ description: Open-Source Intel. Get all the information needed for your target.
 
 Open-Source Intel. Get all the information needed for your target.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-85-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-86-A65F5F?style=for-the-badge)
 
 ## Business
 
@@ -43,6 +43,8 @@ Open-Source Intel. Get all the information needed for your target.
 | [iKy](https://github.com/kennbroorg/iKy) |  OSINT Project. | ![last-commit](https://img.shields.io/github/last-commit/kennbroorg/iKy?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [IntelOwl](https://github.com/intelowlproject/IntelOwl) | OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale. | ![last-commit](https://img.shields.io/github/last-commit/intelowlproject/IntelOwl?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [Maltego](https://www.maltego.com/) | Increase the speed and precision of investigations. | ![freemium-service](../../assets/img/icons/freemium.png) ![register-profile](../../assets/img/icons/registration.png) |
+| [Metabigor](https://github.com/j3ssie/metabigor) | Intelligence tool but without API key | ![last-commit](https://img.shields.io/github/last-commit/j3ssie/metabigor?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [OSINT Framework](https://github.com/lockfale/osint-framework) | OSINT framework is focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources.  | ![last-commit](https://img.shields.io/github/last-commit/lockfale/osint-framework?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [OpenCTI](https://github.com/OpenCTI-Platform/opencti) | Open Cyber Threat Intelligence Platform. | ![last-commit](https://img.shields.io/github/last-commit/OpenCTI-Platform/opencti?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [OSweep](https://github.com/ecstatic-nobel/OSweep) | Don't Just Search OSINT. Sweep It. | ![last-commit](https://img.shields.io/github/last-commit/ecstatic-nobel/OSweep?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [OSINT Framework](https://github.com/lockfale/osint-framework) | Meta: OSINT framework is focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources.  | ![last-commit](https://img.shields.io/github/last-commit/lockfale/osint-framework?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |

@@ -7,7 +7,7 @@ tags:
 
 ## Offensive Security
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-477-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-491-A65F5F?style=for-the-badge)
 
 | Sub-Category | Description |
 | :--- | :--- |
