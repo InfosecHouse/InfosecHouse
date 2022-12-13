@@ -7,7 +7,7 @@ description: Microsoft Windows pentesting tools and resources.
 
 Microsoft Windows pentesting tools and resources.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-21-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-30-A65F5F?style=for-the-badge)
 
 ## Active Directory
 

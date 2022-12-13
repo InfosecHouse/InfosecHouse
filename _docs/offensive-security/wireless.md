@@ -7,7 +7,7 @@ description: Discover tools and resources for exploiting Wi-Fi, bluetooth, RFID,
 
 Discover tools and resources for exploiting Wi-Fi, bluetooth, RFID, and more.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-12-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-13-A65F5F?style=for-the-badge)
 
 ## Bluetooth
 

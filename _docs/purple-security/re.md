@@ -7,7 +7,7 @@ description: Reverse engineering tools both offensive and defensive operations c
 
 Reverse engineering tools both offensive and defensive operations can utilize.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-11-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-21-A65F5F?style=for-the-badge)
 
 ## Binary Analysis
 

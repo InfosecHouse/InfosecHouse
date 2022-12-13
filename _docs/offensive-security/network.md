@@ -7,7 +7,7 @@ description: Sniff the network. Modify the packets.
 
 Sniff the network. Modify the packets.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-30-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-31-A65F5F?style=for-the-badge)
 
 ## Denial of Service
 

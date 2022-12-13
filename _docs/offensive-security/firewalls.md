@@ -7,7 +7,7 @@ description: Attack the castle doors.
 
 Attack the castle doors!
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-12-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-13-A65F5F?style=for-the-badge)
 
 ## Web Application Firewalls (WAF)
 
