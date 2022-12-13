@@ -16,7 +16,10 @@ Microsoft Windows pentesting tools and resources.
 | [Aced](https://github.com/garrettfoster13/aced) | A tool to parse and resolve a single targeted Active Directory principal's DACL) | ![last-commit](https://img.shields.io/github/last-commit/garrettfoster13/aced?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [BadBlood](https://github.com/davidprowe/BadBlood) | Fills a Microsoft Active Directory Domain with a structure and thousands of objects. | ![last-commit](https://img.shields.io/github/last-commit/davidprowe/BadBlood?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [BloodHound](https://github.com/BloodHoundAD/BloodHound) | Six Degrees of Domain Admin. | ![last-commit](https://img.shields.io/github/last-commit/BloodHoundAD/BloodHound?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [Certify](https://github.com/GhostPack/Certify) | Active Directory certificate abuse. | ![last-commit](https://img.shields.io/github/last-commit/GhostPack/Certify?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) | A swiss army knife for pentesting networks. | ![last-commit](https://img.shields.io/github/last-commit/byt3bl33d3r/CrackMapExec?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) | Automation for internal Windows Penetrationtest / AD-Security. | ![last-commit](https://img.shields.io/github/last-commit/S3cur3Th1sSh1t/WinPwn?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+
 
 ## Bitlocker
 
@@ -29,6 +32,23 @@ Microsoft Windows pentesting tools and resources.
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
 | [LOLBAS](https://lolbas-project.github.io) | Living Off The Land Binaries and Scripts. | ![last-commit](https://img.shields.io/github/last-commit/sqlmapproject/sqlmap?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+
+## Credentials
+
+| Tool | Description | Directory |
+| :--- | :--- | :--- |
+| [LaZagne](https://github.com/AlessandroZ/LaZagne) | Credentials recovery project | ![last-commit](https://img.shields.io/github/last-commit/AlessandroZ/LaZagne?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [Redsnarf](https://github.com/nccgroup/redsnarf) | Tool for retrieving hashes and credentials from Windows workstations, servers and domain controllers using OpSec Safe Techniques. | ![last-commit](https://img.shields.io/github/last-commit/nccgroup/redsnarf?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [SCOMDecrypt](https://github.com/nccgroup/SCOMDecrypt) | Tool to decrypt stored RunAs credentials from SCOM servers. | ![last-commit](https://img.shields.io/github/last-commit/nccgroup/SCOMDecrypt?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+
+
+## Exchange
+
+| Tool | Description | Directory |
+| :--- | :--- | :--- |
+| [MailSniper](https://github.com/dafthack/MailSniper) | A penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms | ![last-commit](https://img.shields.io/github/last-commit/dafthack/MailSniper?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [Ruler](https://github.com/sensepost/ruler) | A tool to abuse Exchange services. | ![last-commit](https://img.shields.io/github/last-commit/sensepost/ruler?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+
 
 ## Interprocess Communication
 
@@ -44,6 +64,12 @@ Microsoft Windows pentesting tools and resources.
 | [Pykek](https://github.com/mubix/pykek) | A python library to manipulate KRB5-related data. | ![last-commit](https://img.shields.io/github/last-commit/mubix/pykek?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [Rubeus](https://github.com/GhostPack/Rubeus) | A C\# toolset for raw Kerberos interaction and abuses. | ![last-commit](https://img.shields.io/github/last-commit/GhostPack/Rubeus?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 
+## Kernel
+
+| Tool | Descrption | Directory |
+| :--- | :--- | :--- |
+| [Fibratus](https://github.com/rabbitstack/fibratus) | A modern tool for Windows kernel exploration and tracing with a focus on security. | ![last-commit](https://img.shields.io/github/last-commit/nidem/kerberoast?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+
 ## Memory
 
 | Tool | Descrption | Directory |
@@ -55,6 +81,7 @@ Microsoft Windows pentesting tools and resources.
 
 | Tool | Descrption | Directory |
 | :--- | :--- | :--- |
+| [CredNinja](https://github.com/Raikia/CredNinja) | A multithreaded tool designed to identify if credentials are valid, invalid, or local admin valid credentials within a network at-scale via SMB. | ![last-commit](https://img.shields.io/github/last-commit/Raikia/CredNinja?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [Mimikatz](https://github.com/gentilkiwi/mimikatz) | Experiments with Windows security. | ![last-commit](https://img.shields.io/github/last-commit/gentilkiwi/mimikatz?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 
 ## Powershell

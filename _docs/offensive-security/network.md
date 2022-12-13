@@ -41,6 +41,12 @@ Sniff the network. Modify the packets.
 | [TCPDump](https://github.com/the-tcpdump-group/tcpdump) | The TCPdump network dissector. | ![last-commit](https://img.shields.io/github/last-commit/the-tcpdump-group/tcpdump?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [YAS](https://github.com/redcode-labs/YAS) | Yet Another Sniffer for monitoring network traffic. | ![last-commit](https://img.shields.io/github/last-commit/redcode-labs/YAS?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 
+## Man In The Middle
+
+| Tool | Description | Directory |
+| :--- | :--- | :--- |
+| [Inveigh](https://github.com/Kevin-Robertson/Inveigh) | .NET IPv4/IPv6 machine-in-the-middle tool for penetration testers. | ![last-commit](https://img.shields.io/github/last-commit/Kevin-Robertson/Inveigh?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+
 ## Port/Network Scanning
 
 | Tool | Description | Directory |

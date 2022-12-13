@@ -25,6 +25,7 @@ Attack the castle doors!
 | [WAF Ninja](https://github.com/khalilbijjou/wafninja) | Tool which contains two functions to attack Web Application Firewalls. | ![last-commit](https://img.shields.io/github/last-commit/khalilbijjou/wafninja?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [WAF Tester](https://github.com/Raz0r/waftester) | WAF Testing Tool. | ![last-commit](https://img.shields.io/github/last-commit/Raz0r/waftester?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [wafw00f](https://github.com/EnableSecurity/wafw00f) | Allows one to identify and fingerprint WAF products protecting a website. | ![last-commit](https://img.shields.io/github/last-commit/EnableSecurity/wafw00f?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [WhatWaf](https://github.com/Ekultek/WhatWaf) | Detect and bypass web application firewalls and protection systems | ![last-commit](https://img.shields.io/github/last-commit/Ekultek/WhatWaf?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 
 
 
