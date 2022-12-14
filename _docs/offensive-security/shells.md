@@ -7,7 +7,7 @@ description: Generating pre-built webshells to customizing your own.
 
 Generating pre-built webshells to customizing your own.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-13-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-12-A65F5F?style=for-the-badge)
 
 ## Generators
 
@@ -15,7 +15,6 @@ Generating pre-built webshells to customizing your own.
 | :--- | :--- | :--- |
 | [GoSH](https://github.com/redcode-labs/GoSH) | Golang reverse/bind shell generator. | ![last-commit](https://img.shields.io/github/last-commit/redcode-labs/GoSH?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [RevShells](https://www.revshells.com/) | Reverse Shell generator with a ton of functionality. | ![last-commit](https://img.shields.io/github/last-commit/0dayCTF/reverse-shell-generator?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
-| [Shellab](https://github.com/redcode-labs/Shellab) | Linux and Windows shellcode enrichment utility. | ![last-commit](https://img.shields.io/github/last-commit/redcode-labs/Shellab?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png)
 | [Shellerator](https://github.com/ShutdownRepo/shellerator) | Simple CLI tool for the generation of bind and reverse shells in multiple languages. | ![last-commit](https://img.shields.io/github/last-commit/ShutdownRepo/shellerator?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png)
 
 ## Reverse Shells

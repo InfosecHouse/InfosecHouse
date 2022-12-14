@@ -7,7 +7,7 @@ description: Incident response tools, and resources when alarms pop off.
 
 Incident response tools, and resources when alarms pop off.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-9-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-8-A65F5F?style=for-the-badge)
 
 ## Active Directory
 
@@ -19,7 +19,6 @@ Incident response tools, and resources when alarms pop off.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [Cyphon](https://github.com/cyphonmdr/cyphon) | Platform that receives, processes, and triages events to create a more efficient analytic workflow. | ![last-commit](https://img.shields.io/github/last-commit/cyphonmdr/cyphon?color=a65f5f&style=flat-square) ![archive](../../assets/img/icons/archived.png) ![opensource](../../assets/img/icons/open-source.png) |
 | [DFIRTrack](https://github.com/dfirtrack/dfirtrack) | The Incident Response Tracking Application. |  ![last-commit](https://img.shields.io/github/last-commit/dfirtrack/dfirtrack?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [FIR](https://github.com/certsocietegenerale/FIR) | Fast Incident Response allows for easy creation, tracking, and reporting of cybersecurity incidents. | ![last-commit](https://img.shields.io/github/last-commit/certsocietegenerale/FIR?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [The Hive](https://github.com/TheHive-Project/TheHive) | A Scalable, Open Source and Free Security Incident Response Platform. | ![last-commit](https://img.shields.io/github/last-commit/TheHive-Project/TheHive?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |

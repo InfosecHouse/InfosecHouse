@@ -53,13 +53,13 @@ The quality or state of being anonymous. Seek out technologies and methods of re
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
 | [Comparision Sheet](https://docs.google.com/spreadsheets/d/1V1MFJJqwAtn9O_WgynUMXRbXLhsY2SAViADYsLZy63U/edit#gid=0) | VPN comparision sheet. | ![opensource](../../assets/img/icons/open-source.png) |
-| [Mullvad VPN](https://mullvad.net/en/) \[[TOR](http://xcln5hkbriyklr6n.onion/)\] | Service that helps keep your online activity, identity, and location private. | ![opensource](../../assets/img/icons/open-source.png) ![tor-icon](../../assets/img/icons/tor-icon.png) |
+| [Mullvad VPN](https://mullvad.net/en/) | Service that helps keep your online activity, identity, and location private. | ![opensource](../../assets/img/icons/open-source.png)  |
 | [ProtonVPN](https://protonvpn.com/) | High-speed Swiss VPN that safeguards your privacy. | ![freemium-service](../../assets/img/icons/freemium.png) ![opensource](../../assets/img/icons/open-source.png) ![register-profile](../../assets/img/icons/registration.png) |
 
 ## Whistleblowing
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [Global Leaks](https://www.globaleaks.org/) \[[TOR](https://github.com/InfosecHouse/InfosecHouse/tree/2090e2a1dc964520de3d029c942056e232737fc6/resources/sunkfzudgd2lrv6hncwdhnemrm5lcu7ejb6iem5shrliljx7m27mukyd.onion)\] | Free and open source whistleblowing software, under the AGPL License. | ![opensource](../../assets/img/icons/open-source.png) ![tor-icon](../../assets/img/icons/tor-icon.png) |
-| [SecureDrop](https://securedrop.org/) \[[TOR](http://sdolvtfhatvsysc6l34d65ymdwxcujausv7k5jk4cy5ttzhjoi6fzvyd.onion)\] | Share and accept documents securely. | ![opensource](../../assets/img/icons/open-source.png) ![tor-icon](../../assets/img/icons/tor-icon.png) |
+| [Global Leaks](https://www.globaleaks.org/) | Free and open source whistleblowing software, under the AGPL License. | ![opensource](../../assets/img/icons/open-source.png) |
+| [SecureDrop](https://securedrop.org/) | Share and accept documents securely. | ![opensource](../../assets/img/icons/open-source.png) |
 

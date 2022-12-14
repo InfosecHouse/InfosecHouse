@@ -13,7 +13,7 @@ Discover tools and resources dedicated to hacking cloud platforms.
 
 | Organization | Description | Directory |
 | :--- | :--- | :--- |
-| [Cloudsplaining](https://github.com/salesforce/cloudsplaining) | Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report. | [last-commit](https://img.shields.io/github/last-commit/salesforce/cloudsplaining?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [Cloudsplaining](https://github.com/salesforce/cloudsplaining) | Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report. | ![last-commit](https://img.shields.io/github/last-commit/salesforce/cloudsplaining?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [Greyhat Warfare](https://buckets.grayhatwarfare.com/) | Search scanned archived AWS buckets. | ![freemium-service](../../assets/img/icons/freemium.png) ![register-profile](../../assets/img/icons/registration.png) |
 | [pacu](https://github.com/RhinoSecurityLabs/pacu) | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | ![last-commit](https://img.shields.io/github/last-commit/RhinoSecurityLabs/pacu?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [Prowler](https://github.com/toniblyx/prowler) | Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. | ![last-commit](https://img.shields.io/github/last-commit/toniblyx/prowler?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |

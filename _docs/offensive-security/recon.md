@@ -7,7 +7,7 @@ description: Understand your target. Perform in-depth research and discover new 
 
 Understand your target. Perform in-depth research and discover new attack surfaces.
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-66-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-65-A65F5F?style=for-the-badge)
 
 ## Content Discovery
 
@@ -64,7 +64,6 @@ Understand your target. Perform in-depth research and discover new attack surfac
 | [findsubdomains.com \(spyse\)](https://spyse.com/tools/subdomain-finder) | subdomain finder in order to make your reconnaissance process faster and effortless. | ![freemium-service](../../assets/img/icons/freemium.png) ![register-profile](../../assets/img/icons/registration.png) |
 | [Knock](https://github.com/guelfoweb/knock) | Knock Subdomain Scan. | ![last-commit](https://img.shields.io/github/last-commit/guelfoweb/knock?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [OneForAll](https://github.com/shmilylty/OneForAll) | A powerful subdomain integration tool. | ![last-commit](https://img.shields.io/github/last-commit/shmilylty/OneForAll?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
-| [PD Actions](https://github.com/projectdiscovery/pd-actions) | Continous reconnaissance and vuln assesment using Github Actions. | ![last-commit](https://img.shields.io/github/last-commit/projectdiscovery/pd-actions?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [Raccoon](https://github.com/evyatarmeged/Raccoon) | A high performance offensive security tool for reconnaissance and vulnerability scanning. | ![last-commit](https://img.shields.io/github/last-commit/evyatarmeged/Raccoon?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [Robtex](https://www.robtex.com/) | Robtex is used for various kinds of research of IP numbers, Domain names, etc. | N/A |
 | [Scilla](https://github.com/edoardottt/scilla) | Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration. | ![last-commit](https://img.shields.io/github/last-commit/edoardottt/scilla?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |

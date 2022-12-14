@@ -13,8 +13,7 @@ Intrusion Detection and Prevention Systems.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [CrowdSec](https://github.com/crowdsecurity/crowdsec) | A free, open-source and collaborative IPS.
-Analyze behaviors, respond to attacks & share signals across the community. | ![last-commit](https://img.shields.io/github/last-commit/crowdsecurity/crowdsec?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [CrowdSec](https://github.com/crowdsecurity/crowdsec) | A free, open-source and collaborative IPS - Analyze behaviors, respond to attacks & share signals across the community. | ![last-commit](https://img.shields.io/github/last-commit/crowdsecurity/crowdsec?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [SecurityOnion](https://github.com/Security-Onion-Solutions/securityonion) |   Security Onion 2 - Linux distro for threat hunting, enterprise security monitoring, and log management | ![last-commit](https://img.shields.io/github/last-commit/Security-Onion-Solutions/securityonion?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [SELKS](https://github.com/StamusNetworks/SELKS) | A Suricata based IDS/IPS/NSM distro.  | ![last-commit](https://img.shields.io/github/last-commit/StamusNetworks/SELKS?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [Snort](https://github.com/snort3/snort3) | Open Source detection software. | ![last-commit](https://img.shields.io/github/last-commit/snort3/snort3?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |

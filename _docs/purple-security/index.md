@@ -7,7 +7,7 @@ tags:
 
 ## Purple Security
 
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-45-A65F5F?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-55-A65F5F?style=for-the-badge)
 
 | Sub-Category | Description |
 | :--- | :--- |

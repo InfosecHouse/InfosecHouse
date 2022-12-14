@@ -27,5 +27,5 @@ Tools and resources for popping those linux boxes.
 | :--- | :--- | :--- |
 | [EggShell](https://github.com/neoneggplant/EggShell) | iOS/macOS/Linux Remote Administration Tool. | ![last-commit](https://img.shields.io/github/last-commit/neoneggplant/EggShell?color=a65f5f&style=flat-square) ![no-recent-update](../../assets/img/icons/aged.png) ![opensource](../../assets/img/icons/open-source.png) |
 | [Mimipenguin](https://github.com/huntergregal/mimipenguin) | A tool to dump the login password from the current linux user. | ![last-commit](https://img.shields.io/github/last-commit/huntergregal/mimipenguin?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
-| [REVENANT](https://github.com/redcode-labs/REVENANT) | Volatile ELF payloads generator with Metasploit integrations for testing GNU/Linux ecosystems. | ![last-commit](https://img.shields.io/github/last-commit/redcode-labs/REVENANT?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+
 
