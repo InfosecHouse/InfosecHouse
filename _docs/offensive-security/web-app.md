@@ -67,3 +67,11 @@ Break that web application.
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
 | [TLS-Scanner](https://github.com/tls-attacker/TLS-Scanner) | Assists in the evaluation of TLS Server configurations. | ![last-commit](https://img.shields.io/github/last-commit/tls-attacker/TLS-Scanner?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+
+## LFI
+
+| Tool | Description | Directory |
+| :--- | :--- | :--- |
+| [LFISuite](https://github.com/D35m0nd142/LFISuite) | Automated scan and exploitation of Local File Inclusion. | ![last-commit](https://shields.io/github/last-commit/D35m0nd142/LFISuite) ![opensource](../../assets/img/icons/open-source.png) |
+| [LFIFreak](https://github.com/OsandaMalith/LFiFreak) | Local File Inclusion automation tool for PHP. | ![last-commit](https://shields.io/github/last-commit/OsandaMalith/LFiFreak) ![opensource](../../assets/img/icons/open-source.png) |
+| [Liffy](https://github.com/mzfr/liffy) | Local File Inclusion automation tool for PHP. | ![last-commit](https://shields.io/github/last-commit/mzfr/liffy) ![opensource](../../assets/img/icons/open-source.png) |
