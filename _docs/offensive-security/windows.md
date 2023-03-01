@@ -20,7 +20,6 @@ Microsoft Windows pentesting tools and resources.
 | [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) | A swiss army knife for pentesting networks. | ![last-commit](https://img.shields.io/github/last-commit/byt3bl33d3r/CrackMapExec?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 | [WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) | Automation for internal Windows Penetrationtest / AD-Security. | ![last-commit](https://img.shields.io/github/last-commit/S3cur3Th1sSh1t/WinPwn?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 
-
 ## Bitlocker
 
 | Tool | Descrption | Directory |
@@ -111,5 +110,7 @@ Microsoft Windows pentesting tools and resources.
 | Tool | Descrption | Directory |
 | :--- | :--- | :--- |
 | [LOLBAS](https://lolbas-project.github.io/#) | Living Off The Land Binaries and Scripts. | ![last-commit](https://img.shields.io/github/last-commit/LOLBAS-Project/LOLBAS?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [Macshift](https://github.com/nayuki/Macshift) | Windows command-line application changes the MAC address of a given network adapter on the current machine to a random or given value. | ![last-commit](https://img.shields.io/github/last-commit/nayuki/Macshift?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+
 | [Windows-Pentest](https://github.com/ankh2054/windows-pentest) | Windows Pentest Scripts. | ![last-commit](https://img.shields.io/github/last-commit/ankh2054/windows-pentest?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
 

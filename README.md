@@ -14,7 +14,7 @@ A curated list of many tools and resources for both offensive and defensive secu
 Please visit [https://infosec.house](https://infosec.house) for our website version of this repo. Found a resources that should be on here? Feel free to submit a pull request!
 
 ## Defensive Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-203-a65f5f?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-205-a65f5f?style=for-the-badge)
 
 | Sub-Category | Description |
 | :--- | :--- |
@@ -34,7 +34,7 @@ Please visit [https://infosec.house](https://infosec.house) for our website vers
 | [Threat Intel](_docs/defensive-security/threat-intel.md) | Discover where the threats begin. |
 
 ## Offensive Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-508-a65f5f?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-578-a65f5f?style=for-the-badge)
 
 | Sub-Category | Description |
 | :--- | :--- |
@@ -82,7 +82,7 @@ Please visit [https://infosec.house](https://infosec.house) for our website vers
 
 
 ## Purple Security
-![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-55-a65f5f?style=for-the-badge)
+![asset-count](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-58-a65f5f?style=for-the-badge)
 
 | Sub-Category | Description |
 | :--- | :--- |
@@ -104,8 +104,14 @@ Please visit [https://infosec.house](https://infosec.house) for our website vers
 | [Music](_docs/entertainment/music.md) | Kick back relax and enjoy some entertainment. |
 | [Video](_docs/entertainment/video.md) | Talks, livestreams, and presentations. |
 
+## PR Contributors
+
+Shoutout to the following amazing individuals for the pull requests!
+
+[JR0ch17](https://github.com/JR0ch17), [projectdp](https://github.com/projectdp) [MetaMan13](https://github.com/MetaMan13), [C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy), [gigglebits](https://github.com/)gigglebits)
+
 ## Livestream Contributors
 
-Shoutout to the following amazing individuals for suggesting and adding resources during our livestream.
+Shoutout to the following amazing individuals for suggesting tools/resources during our livestream!
 
 Anonymous, [0xgnnr](https://www.twitch.tv/0xgnnr), [0xrom](https://www.twitch.tv/0xrom), [Binary.rip](https://www.instagram.com/binary.rip/), [CyberLola](https://www.twitch.tv/CyberLola), [DevNullZen](https://www.twitch.tv/DevNullZen), [EightBitOni](https://www.twitch.tv/eightbitoni/), [GoProSlowYo](https://www.twitch.tv/goproslowyo), [JR0ch17](https://twitter.com/JR0ch17), [projectdp](https://github.com/projectdp/), [PaWNmUnCher](https://www.twitch.tv/PaWNmUnCher), [RySkill](https://www.twitch.tv/ryskill), [Vander_Grift](https://www.twitch.tv/Vander_Grift), [chadb\_n00b](https://www.twitch.tv/chadb_n00b), [footpics4sale](https://www.twitch.tv/footpics4sale), [goldyautomation](https://www.twitch.tv/goldyautomation), [halfamomo](https://www.twitch.tv/halfamomo), [p4r4n0ir](https://www.twitch.tv/p4r4n0ir), [skyfire100](https://www.twitch.tv/skyfire100), [theGwar](https://www.twitch.tv/thegwar), and [zuphzuph](https://www.twitch.tv/zuphzuph).

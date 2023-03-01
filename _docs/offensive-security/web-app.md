@@ -72,6 +72,6 @@ Break that web application.
 
 | Tool | Description | Directory |
 | :--- | :--- | :--- |
-| [LFISuite](https://github.com/D35m0nd142/LFISuite) | Automated scan and exploitation of Local File Inclusion. | ![last-commit](https://shields.io/github/last-commit/D35m0nd142/LFISuite) ![opensource](../../assets/img/icons/open-source.png) |
-| [LFIFreak](https://github.com/OsandaMalith/LFiFreak) | Local File Inclusion automation tool for PHP. | ![last-commit](https://shields.io/github/last-commit/OsandaMalith/LFiFreak) ![opensource](../../assets/img/icons/open-source.png) |
-| [Liffy](https://github.com/mzfr/liffy) | Local File Inclusion automation tool for PHP. | ![last-commit](https://shields.io/github/last-commit/mzfr/liffy) ![opensource](../../assets/img/icons/open-source.png) |
+| [LFISuite](https://github.com/D35m0nd142/LFISuite) | Automated scan and exploitation of Local File Inclusion. | ![last-commit](https://img.shields.io/github/last-commit/D35m0nd142/LFISuite?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [LFIFreak](https://github.com/OsandaMalith/LFiFreak) | Local File Inclusion automation tool for PHP. | ![last-commit](https://img.shields.io/github/last-commit/OsandaMalith/LFiFreak?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
+| [Liffy](https://github.com/mzfr/liffy) | Local File Inclusion automation tool for PHP. | ![last-commit](https://img.shields.io/github/last-commit/mzfr/liffy?color=a65f5f&style=flat-square) ![opensource](../../assets/img/icons/open-source.png) |
