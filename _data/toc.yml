@@ -65,7 +65,7 @@
       url: "docs/offensive-security/courses"
     - title: Cracking
       url: "docs/offensive-security/cracking"
-   - title: Cryptography
+    - title: Cryptography
       url: "docs/offensive-security/cryptography"
     - title: CTF
       url: "docs/offensive-security/ctf"
