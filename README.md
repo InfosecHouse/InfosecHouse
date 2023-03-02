@@ -92,7 +92,7 @@ Please visit [https://infosec.house](https://infosec.house) for our website vers
 | [Emulation](_docs/purple-security/emulation.md) | Emulate the adversary. |
 | [Network](_docs/purple-security/network.md) | Network tools both offensive and defensive operations can utilize. |
 | [OSINT](_docs/purple-security/osint.md) | Open-Source Intel. Get all the information needed for your target. |
-| [Passwords](_docs/purple-security/passwords.md) | 1,000+ default passwords. |
+| [Passwords](_docs/purple-security/default-passwords.md) | 1,000+ default passwords. |
 | [Reverse Engineering](_docs/purple-security/re.md) | Reverse engineering tools both offensive and defensive operations can utilize. |
 | [Write-Ups](_docs/purple-security/write-ups.md) | Write-ups both offensive and defensive operataions can utilize. |
 
@@ -102,13 +102,13 @@ Please visit [https://infosec.house](https://infosec.house) for our website vers
 | Sub-Category | Description |
 | :--- | :--- |
 | [Music](_docs/entertainment/music.md) | Kick back relax and enjoy some entertainment. |
-| [Video](_docs/entertainment/video.md) | Talks, livestreams, and presentations. |
+| [Video](_docs/entertainment/videos.md) | Talks, livestreams, and presentations. |
 
 ## PR Contributors
 
 Shoutout to the following amazing individuals for the pull requests!
 
-[JR0ch17](https://github.com/JR0ch17), [projectdp](https://github.com/projectdp) [MetaMan13](https://github.com/MetaMan13), [C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy), [gigglebits](https://github.com/)gigglebits)
+[JR0ch17](https://github.com/JR0ch17), [projectdp](https://github.com/projectdp) [MetaMan13](https://github.com/MetaMan13), [C3n7ral051nt4g3ncy](https://github.com/C3n7ral051nt4g3ncy), [gigglebits](https://github.com/gigglebits)
 
 ## Livestream Contributors
 
