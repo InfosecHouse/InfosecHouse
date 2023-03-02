@@ -32,7 +32,7 @@ Discover tools and resources for exploiting Wi-Fi, bluetooth, RFID, and more.
 
 
 
-## Celluar
+## Cellular
 
 | Tool | Descrption | Directory |
 | :--- | :--- | :--- |
