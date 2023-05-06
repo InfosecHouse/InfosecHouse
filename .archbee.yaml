@@ -1,0 +1,8 @@
+root: _docs
+structure:
+  summary: summary.md
+  assets: assets/img/
+headerIncludes:  |
+  <script>
+  document.getElementById("demo").innerHTML = "Hello JavaScript!";
+  </script> 
