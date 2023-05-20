@@ -1,0 +1,2 @@
+[mkdocs.plugins]
+git-revision-date-localized = mkdocs_git_revision_date_localized_plugin.plugin:GitRevisionDateLocalizedPlugin

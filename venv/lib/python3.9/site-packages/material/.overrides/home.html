@@ -1,0 +1,22 @@
+{#-
+  This file was automatically generated - do not edit
+-#}
+{% extends "main.html" %}
+{% block htmltitle %}
+  <title>{{ config.site_name }}</title>
+{% endblock %}
+{% block extrahead %}
+  <link rel="me" href="https://fosstodon.org/@squidfunk">
+{% endblock %}
+{% block styles %}
+  {{ super() }}
+  <link rel="stylesheet" href="{{ 'assets/stylesheets/home.fefd3cb3.min.css' | url }}">
+  <script>"Apple Computer, Inc."===navigator.vendor&&document.documentElement.classList.add("safari")</script>
+{% endblock %}
+{% block announce %}{% endblock %}
+{% block hero %}
+  {% include "partials/parallax.html" %}
+{% endblock %}
+{% block tabs %}{% endblock %}
+{% block content %}{% endblock %}
+{% block footer %}{% endblock %}
