@@ -1,7 +1,6 @@
 ---
 label: Home
 layout: page
-order: 100
 ---
 
 <center>

@@ -11,4 +11,11 @@ links:
   link: changelog.md
 footer:
   copyright: "&copy; Copyright 2021-{{ year }}. All rights reserved."
+edit:
+  repo: "https://github.com/InfosecHouse/InfosecHouse"
+  branch: "main"
+  label: "Edit this page"
+integrations:
+  plausible:
+    domain: infosec.house
 poweredByRetype: false
