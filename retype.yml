@@ -10,6 +10,5 @@ links:
 - text: Changelog
   link: changelog.md
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
-
+  copyright: "&copy; Copyright 2021-{{ year }}. All rights reserved."
 poweredByRetype: false
