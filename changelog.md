@@ -7,6 +7,19 @@ description: Infosec House changelog. See what latest changes have been made!
 
 # Changelog
 
+### June 6, 2023
+
++++ :icon-file-added: Additions
+- Added [About](/about.md) page.
+- Various website configuration changes
+- Header logo swap
+- Added social media links
+- Added blog section
+- Moved contributors section in README.md over to About page section under "Credits"
+- Added "Edit this page" for easy Github edits/contributions
+- Made few changes to README (Index) page
++++
+
 ### June 2, 2023
 
 +++ :icon-tools: Major Changes

@@ -8,6 +8,9 @@ links:
 - text: Home
   link: README.md
   icon: home
+- text: About
+  link: about.md
+  icon: info
 - text: Blog
   link: /blog
   icon: book
