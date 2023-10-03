@@ -15,7 +15,8 @@ Training and courses to master your craft. Some of the below courses do offer pr
 * [AQ Answers](https://answersq.com/) - Daily updates on free courses, workshopd, interships, and jobs. 
 * [Bug Bounty Hunter](https://www.bugbountyhunter.com/) - Helping you connect the bug to bounty. 
 * [Bust-A-Kube](https://www.bustakube.com/) - An intentionally-vulnerable Kubernetes cluster, intended to help people self-train on attacking and defending Kubernetes clusters. 
-* [Cybrary](https://www.cybrary.it/) - The leading cybersecurity professional development platform. 
+* [Cybrary](https://www.cybrary.it/) - The leading cybersecurity professional development platform.
+* [DFIR Diva](https://training.dfirdiva.com/) - Curated list of free and affordable courses. 
 * [eLearn Security](https://elearnsecurity.com/) - Infosec careers are heating up and candidates are doing everything they can to stand out. 
 * [Hacker101](https://www.hacker101.com/) - A free class for web security. 
 * [HTB Academy](https://academy.hackthebox.eu/) - Cyber security trainingp by HackTheBox. 
@@ -32,4 +33,4 @@ Training and courses to master your craft. Some of the below courses do offer pr
 * [SANS](https://www.sans.org/cyber-security-courses/?&focus-area=penetration-testing-ethical-hacking&training-format=) - SANS Institute is the most trusted resource for cybersecurity training, certifications and research. 
 * [TCM Security](https://academy.tcm-sec.com/) - A veteran-owned cybersecurity company focused on providing top of the line penetration testing, security training, and compliance services. 
 * [TestOut](https://w3.testout.com/courses/ethical-hacker-pro) - TestOut Ethical Hacker Pro teaches students to be aware of network attack strategies and common countermeasures. 
-* [Udemy](https://www.udemy.com/courses/search/?q=penetration+testing&src=sac&kw=pen) - An online learning and teaching marketplace with over 155,000 courses. 
+* [Udemy](https://www.udemy.com/courses/search/?q=penetration+testing&src=sac&kw=pen) - An online learning and teaching marketplace with over 155,000 courses.

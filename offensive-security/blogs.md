@@ -37,6 +37,7 @@ Reading material for offensive security researchers.
 * [MG.LOL](https://mg.lol/blog/) - Hardware security research. 
 * [Myne-us](http://www.myne-us.com/) - Hardware security research. 
 * [Pentest Blog](https://pentest.blog/) - Mix of research. Vulnerability research team of PRODAFT SARL. 
+* [Primal Cerebral](https://primalcerebral.com/blog.php) - Mix of research. Vulnerability research team of PRODAFT SARL. 
 * [Question Defense](https://www.question-defense.com/) - Mix of research. 
 * [Ross Mark](https://rossmarks.uk/blog/) - Security Consultant. Pentester. Exploit Dev. 
 * [Reusable Security](https://reusablesec.blogspot.com/) - Password Cracking, Crypto, and General Security Research. 
