@@ -7,6 +7,16 @@ description: Infosec House changelog. See what latest changes have been made!
 
 # Changelog
 
+### December 7, 2023
+
++++ :icon-tools: Major Changes
+- New structure and layout for tools and resources. Too many tools cross over between red/blue/purple teams. Made individual categories for tools.
+- Created graphics header for pages instead of duplicate text titles.
+- Added handful of new resources.
+- Removed some dead tools/resources.
++++
+
+
 ### June 6, 2023
 
 +++ :icon-file-added: Additions

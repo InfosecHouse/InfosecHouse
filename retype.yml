@@ -48,3 +48,5 @@ integrations:
   plausible:
     domain: infosec.house
 poweredByRetype: false
+start:
+  pro: true
