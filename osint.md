@@ -98,6 +98,7 @@ description: Open-Source Intel. Get all the information needed for your target.
 
 ### Phone Numbers
 
+* [411](https://www.411.com/phone/) - Phone number directoy lookup. |[Opt-Out](https://whitepagesprivacy.zendesk.com/hc/en-us/requests/new) 
 * [Telephone Directories](https://Telephonedirectories.us) - Phone number directoy lookup. |[Opt-Out](https://www.telephonedirectories.us/Edit_Records) 
 * [Caller Smart](https://Callersmart.com) - Phone number directoy lookup. | [Opt-Out](https://www.callersmart.com/opt-out)
 * [All Area Codes](https://Allareacodes.com/) - Phone number directoy lookup. | [Opt-Out](https://www.allareacodes.com/remove_name.htm) 
@@ -106,6 +107,7 @@ description: Open-Source Intel. Get all the information needed for your target.
 
 ### Physical Address
 
+* [Melissa](https://lookups.melissa.com/home/addresscheck/address/) - [Opt-Out](https://apps.melissa.com/user/consumerprivacy.aspx) 
 * [Neighbor Who (Been Verified)](https://www.neighborwho.com) - [Opt-Out](https://www.neighborwho.com/app/optout/search) 
 
 
