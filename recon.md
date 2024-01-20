@@ -9,7 +9,9 @@ description: Understand your target. Perform in-depth research and discover new 
 
 ### Azure
 
-* [Greyhat Warfare](https://buckets.grayhatwarfare.com/) - Search scanned archived AWS buckets. 
+* [Greyhat Warfare](https://buckets.grayhatwarfare.com/) - Search scanned archived AWS buckets.
+* [OpenBuckets](https://openbuckets.io/) - Search public or misconfigured Azure buckets and its contents.  
+
 
 ### Content Discovery/Fuzzers
 
@@ -93,6 +95,7 @@ description: Understand your target. Perform in-depth research and discover new 
 * [OnionScan](https://github.com/s-rah/onionscan) - TOR scanner. ![last-commit](https://img.shields.io/github/last-commit/s-rah/onionscan?style=flat)
 * [Shodan](https://shodan.io) - The security search engine. Search everything IoT. 
 * [Wayback Machine](https://archive.org/web/web.php) - Internet archive of saved web pages. 
+* [OpenBuckets](https://openbuckets.io/) - Search public or misconfigured buckets and its contents from all cloud providers (AWS, GCP, IBM, Linode etc).
 
 
 ### Wordlists
