@@ -87,7 +87,8 @@ Everything for your temporary needs.
 * [E-Mail Fake](https://emailfake.com/) - Burner e-mail server. No IP logging. 
 * [Fake E-Mail Generatort](https://mail-fake.com/) - The Fake Mail Generator is an absolutely free disposable email system. 
 * [FakeMail](https://www.fakemail.net/) - Temp Mail Address Protects Your Privacy. 
-* [Temp Mail Gen](https://tempmailgen.com/) - A disposable, throwaway, temporary,one-click email. No IP logging. 
+* [Temp Mail Gen](https://tempmailgen.com/) - A disposable, throwaway, temporary,one-click email. No IP logging.
+* [Mail Sweatshop](https://mailsweat.shop/) - Disposable e-mail provider. No IP logging.
 
 
 ### Financial
