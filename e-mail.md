@@ -9,4 +9,5 @@ description: E-Mail pentesting tools and resources.
 
 ### MX Records
 
-* [MX-Takeover](https://github.com/musana/mx-takeover) - Focuses DNS MX records and detects misconfigured MX records. ![last-commit](https://img.shields.io/github/last-commit/musana/mx-takeover?style=flat) 
+* [MX-Takeover](https://github.com/musana/mx-takeover) - Focuses DNS MX records and detects misconfigured MX records. ![last-commit](https://img.shields.io/github/last-commit/musana/mx-takeover?style=flat)
+* [Email Header Analysis](https://stellastra.com/email-deliverability-check) - Understand SPF, DKIM, and DMARC configuration from email headers.
