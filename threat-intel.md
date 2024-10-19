@@ -11,6 +11,10 @@ description: Discover where the threats begin.
 
 * [Cybercrime Campaign Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) - APT & CyberCriminal Campaign Collection. ![last-commit](https://img.shields.io/github/last-commit/CyberMonitor/APT_CyberCriminal_Campagin_Collections?style=flat) 
 
+### Cybercrime Intelligence - Infostealer Infection Check
+
+* [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Free cybercrime intelligence toolset to check if a specific digital asset (domain, email address, etc.) was compromised in global Infostealer malware attacks.
+
 ### Frameworks/Platforms
 
 * [ARTIF](https://github.com/CRED-CLUB/ARTIF) - An advanced real time threat intelligence framework to identify threats and malicious web traffic on the basis of IP reputation and historical data. ![last-commit](https://img.shields.io/github/last-commit/CRED-CLUB/ARTIF?style=flat)
