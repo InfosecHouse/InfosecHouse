@@ -19,10 +19,10 @@ description: Training and courses to master your craft.
 * [Hacker101](https://www.hacker101.com/) - A free class for web security.
 * [Hacksplaining](https://www.hacksplaining.com/) - Security training for developers.
 * [HTB Academy](https://academy.hackthebox.eu/) - Cyber security trainingp by HackTheBox.
-* [ICS Learn] (https://www.icslearn.co.uk/courses/it/bcs/bcs-foundation-certificate-in-information-security-management-principles/) - Quick course covering the basics of information security.
+* [ICS Learn](https://www.icslearn.co.uk/courses/it/bcs/bcs-foundation-certificate-in-information-security-management-principles/) - Quick course covering the basics of information security.
 * [INE](https://ine.com/pages/cybersecurity) - The premier provider of online it training. 
 * [Infosec Institute](https://www.infosecinstitute.com/) - Helps IT and security professionals advance their careers with skills development and certifications.
-* [ITonlinelearning] (https://www.itonlinelearning.com/course/comptia-cybersecurity-analyst-cysa/) - Course focused on combining cyber security with behavioural analytics to identify and prevent threats. 
+* [ITonlinelearning](https://www.itonlinelearning.com/course/comptia-cybersecurity-analyst-cysa/) - Course focused on combining cyber security with behavioural analytics to identify and prevent threats. 
 * [Kontra](https://application.security/) - Application Security Training Redefined. 
 * [Offensive Security](https://www.offensive-security.com/) - The tech workforce development company. 
 * [Pentester Academy](https://www.pentesteracademy.com/) - Courses and Online Labs. 
@@ -31,6 +31,7 @@ description: Training and courses to master your craft.
 * [Pluralsight](https://www.pluralsight.com/) - The tech workforce development company. 
 * [Professor Messer](https://www.professormesser.com/) - Professor Messer IT Certification Training. 
 * [PWN College](https://pwn.college/) - A first-stage education platform for students. 
+* [pwn.guide](https://pwn.guide/) - A cybersecurity education website, with bout 100 tutorials. Offers a free, unlimited VM & 50% tutorials on the free plan.
 * [SANS](https://www.sans.org/cyber-security-courses/?&focus-area=penetration-testing-ethical-hacking&training-format=) - SANS Institute is the most trusted resource for cybersecurity training, certifications and research. 
 * [TCM Security](https://academy.tcm-sec.com/) - A veteran-owned cybersecurity company focused on providing top of the line penetration testing, security training, and compliance services. 
 * [TestOut](https://w3.testout.com/courses/ethical-hacker-pro) - TestOut Ethical Hacker Pro teaches students to be aware of network attack strategies and common countermeasures. 
