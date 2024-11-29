@@ -34,5 +34,6 @@ description: Training and courses to master your craft.
 * [pwn.guide](https://pwn.guide/) - A cybersecurity education website, with bout 100 tutorials. Offers a free, unlimited VM & 50% tutorials on the free plan.
 * [SANS](https://www.sans.org/cyber-security-courses/?&focus-area=penetration-testing-ethical-hacking&training-format=) - SANS Institute is the most trusted resource for cybersecurity training, certifications and research. 
 * [TCM Security](https://academy.tcm-sec.com/) - A veteran-owned cybersecurity company focused on providing top of the line penetration testing, security training, and compliance services. 
-* [TestOut](https://w3.testout.com/courses/ethical-hacker-pro) - TestOut Ethical Hacker Pro teaches students to be aware of network attack strategies and common countermeasures. 
+* [TestOut](https://w3.testout.com/courses/ethical-hacker-pro) - TestOut Ethical Hacker Pro teaches students to be aware of network attack strategies and common countermeasures.
+* [Training.com.au] (https://www.training.com.au/cyber-security-courses/) - Offers a range of cyber security courses aimed at professionals in Australia.
 * [Udemy](https://www.udemy.com/courses/search/?q=penetration+testing&src=sac&kw=pen) - An online learning and teaching marketplace with over 155,000 courses.
