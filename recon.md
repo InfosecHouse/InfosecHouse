@@ -5,7 +5,7 @@ description: Understand your target. Perform in-depth research and discover new 
 
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-69-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-72-757575?style=for-the-badge)
 
 ### Azure
 
@@ -27,7 +27,6 @@ description: Understand your target. Perform in-depth research and discover new 
 * [Hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application. ![last-commit](https://img.shields.io/github/last-commit/hakluke/hakrawler?style=flat)
 * [HTTPLoot](https://github.com/redhuntlabs/httploot) - An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages. ![last-commit](https://img.shields.io/github/last-commit/redhuntlabs/httploot?style=flat)
 * [IISRecon](https://github.com/0xRTH/IISRecon) - IIS shortname scanner + bruteforce. ![last-commit](https://img.shields.io/github/last-commit/0xRTH/IISRecon?style=flat)
-* [IPScout](https://github.com/jonhadfield/ipscout) - Host information and threat aggregator for network administrators and security analysts. ![last-commit](https://img.shields.io/github/last-commit/jonhadfield/ipscout?style=flat)
 * [Kiterunner](https://github.com/assetnote/kiterunner) - Contextual Content Discovery Tool. ![last-commit](https://img.shields.io/github/last-commit/assetnote/kiterunner?style=flat)
 * [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files. ![last-commit](https://img.shields.io/github/last-commit/GerbenJavado/LinkFinder?style=flat)
 * [ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining parameters from dark corners of Web Archives. ![last-commit](https://img.shields.io/github/last-commit/devanshbatham/ParamSpider?style=flat)
@@ -52,7 +51,7 @@ description: Understand your target. Perform in-depth research and discover new 
 * [SubBrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains. ![last-commit](https://img.shields.io/github/last-commit/TheRook/subbrute?style=flat)
 
 
-### Domains
+### Domain/IP
 
 * [Altdns](https://github.com/infosec-au/altdns) - Generates permutations, alterations and mutations of subdomains and then resolves them. ![last-commit](https://img.shields.io/github/last-commit/infosec-au/altdns?style=flat)
 * [Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery. ![last-commit](https://img.shields.io/github/last-commit/OWASP/Amass?style=flat)
@@ -62,7 +61,8 @@ description: Understand your target. Perform in-depth research and discover new 
 * [ctfr](https://github.com/UnaPibaGeek/ctfr) - Abusing Certificate Transparency logs for getting HTTPS websites subdomains. ![last-commit](https://img.shields.io/github/last-commit/UnaPibaGeek/ctfr?style=flat)
 * [Discover](https://github.com/leebaird/discover) - Custom bash scripts to automate various pentesting tasks including recon. ![last-commit](https://img.shields.io/github/last-commit/leebaird/discover?style=flat)
 * [findomain](https://github.com/Findomain/Findomain) - The complete solution for domain recognition. ![last-commit](https://img.shields.io/github/last-commit/Findomain/Findomain?style=flat)
-* [findsubdomains.com (spyse)](https://spyse.com/tools/subdomain-finder) - subdomain finder in order to make your reconnaissance process faster and effortless. 
+* [findsubdomains.com (spyse)](https://spyse.com/tools/subdomain-finder) - subdomain finder in order to make your reconnaissance process faster and effortless.
+* [IPScout](https://github.com/jonhadfield/ipscout) - Host information and threat aggregator for network administrators and security analysts. ![last-commit](https://img.shields.io/github/last-commit/jonhadfield/ipscout?style=flat)
 * [Knock](https://github.com/guelfoweb/knock) - Knock Subdomain Scan. ![last-commit](https://img.shields.io/github/last-commit/guelfoweb/knock?style=flat)
 * [OneForAll](https://github.com/shmilylty/OneForAll) - A powerful subdomain integration tool. ![last-commit](https://img.shields.io/github/last-commit/shmilylty/OneForAll?style=flat)
 * [Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning. ![last-commit](https://img.shields.io/github/last-commit/evyatarmeged/Raccoon?style=flat)

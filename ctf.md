@@ -17,7 +17,7 @@ description: Offensive Security Capture the Flag Events.
 * [DomGoat](https://domgo.at/cxss/intro) - DOM security learning platform 
 * [Hack The Box](https://www.hackthebox.eu/) - Massive online cyber security training platform, allowing individuals, companies, universities and all kinds of organizations around the world to level up their hacking skills. 
 * [Nightmare](https://guyinatuxedo.github.io/) - Nightmare is an intro to binary exploitation / reverse engineering course based around ctf challenges. 
-* [Offensive Security](https://www.offensive-security.com/labs/individual) - Practice your pentesting skills in a standalone, private lab environment within Offensive Security’s Proving Grounds 
+* [Offensive Security](https://www.offsec.com/labs/individual) - Practice your pentesting skills in a standalone, private lab environment within Offensive Security’s Proving Grounds 
 * [pwnable.tw](https://pwnable.tw) - Pwnable.tw is a wargame site for hackers to test and expand their binary exploiting skills. 
 * [pwnable.kr](https://pwnable.kr) - A non-commercial wargame site which provides various pwn challenges regarding system exploitation. 
 * [pwnable.xyz](https://pwnable.xyz) - Beginner tailored CTF challenges. 

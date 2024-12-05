@@ -177,7 +177,6 @@ description: Tools & Resources for Defending and Attacking Mobile Applications.
 * [Qark](https://github.com/linkedin/qark) - designed to look for several security related Android application vulnerabilities, either in source code or packaged APKs. ![last-commit](https://img.shields.io/github/last-commit/linkedin/qark?style=flat)
 * [Quark](https://github.com/quark-engine/quark-engine) - An Obfuscation-Neglect Android Malware Scoring System. ![last-commit](https://img.shields.io/github/last-commit/quark-engine/quark-engine?style=flat)
 * [Smali](https://github.com/JesusFreke/smali) - An assembler/disassembler for the dex format used by dalvik, Android's Java VM implementation. ![last-commit](https://img.shields.io/github/last-commit/JesusFreke/smali?style=flat)
-* [Smali-CFG](https://github.com/EugenioDelfa/Smali-CFGs) - Smali Control Flow Graph's ![last-commit](https://img.shields.io/github/last-commit/EugenioDelfa/Smali-CFGs?style=flat)
 * [Soot](https://github.com/soot-oss/soot) - Smali Control Flow Graph's ![last-commit](https://img.shields.io/github/last-commit/soot-oss/soot?style=flat)
 * [Sparta](https://github.com/typetools/sparta) - Static program analysis for reliable trusted apps. ![last-commit](https://img.shields.io/github/last-commit/typetools/sparta?style=flat)
 * [StaCoAn](https://github.com/vincentcox/StaCoAn) - A crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications ![last-commit](https://img.shields.io/github/last-commit/vincentcox/StaCoAn?style=flat)

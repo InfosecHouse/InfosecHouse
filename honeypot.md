@@ -5,7 +5,7 @@ description: Deploy honeypots to catch the ops moves.
 
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-10-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-11-757575?style=for-the-badge)
 
 
 * [Cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot. ![last-commit](https://img.shields.io/github/last-commit/cowrie/cowrie?style=flat)
@@ -18,3 +18,4 @@ description: Deploy honeypots to catch the ops moves.
 * [SNARE](https://github.com/mushorg/snare) - Super Next generation Advanced Reactive honEypot ![last-commit](https://img.shields.io/github/last-commit/mushorg/snare?style=flat)
 * [TANNER](https://github.com/mushorg/tanner/) - He who flays the hide. ![last-commit](https://img.shields.io/github/last-commit/mushorg/tanner?style=flat)
 * [THUG](https://github.com/buffer/thug) - Python low-interaction honeyclient. ![last-commit](https://img.shields.io/github/last-commit/buffer/thug?style=flat)
+* [T-Pot](https://github.com/buffer/thug) - All in One Multi Honeypot Platform. ![last-commit](https://img.shields.io/github/last-commit/telekom-security/tpotce?style=flat)

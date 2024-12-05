@@ -5,7 +5,8 @@ description: Uncover the dirty little secrets of a recovered HDD, Image, malware
 
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-38-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-39-757575?style=for-the-badge)
+
 
 ### Blockchain
 
@@ -26,10 +27,9 @@ description: Uncover the dirty little secrets of a recovered HDD, Image, malware
 
 ### Images/Documents
 
+* [Disk Drill](https://www.disk-drill.com) - Recover deleted files for Mac and Windows.
 * [Exfiltool](https://exiftool.org/) - Tool for reading, writing and editing meta information.
 * [FOCA](https://github.com/ElevenPaths/FOCA) -  Tool to find metadata and hidden information in the documents. ![last-commit](https://img.shields.io/github/last-commit/ElevenPaths/FOCA?style=flat)
-
-
 
 ### Mobile
 
@@ -39,11 +39,9 @@ description: Uncover the dirty little secrets of a recovered HDD, Image, malware
 
 * [DissectingMalwa.re Lab](https://github.com/f0wl/MalwareLab_VM-Setup) - Download/setup script for malware analysis/software reverse engineering. ![last-commit](https://img.shields.io/github/last-commit/f0wl/MalwareLab_VM-Setup?style=flat)
 
-
 ### SQL
 
 * [DFIR SQL Query](https://github.com/abrignoni/DFIR-SQL-Query-Repo) - Download/setup script for malware analysis/software reverse engineering. ![last-commit](https://img.shields.io/github/last-commit/abrignoni/DFIR-SQL-Query-Repo?style=flat)  -
-
 
 ### Tools
 

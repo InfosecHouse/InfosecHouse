@@ -5,7 +5,7 @@ description: Test out your skills against other hackers. Get paid for finding vu
 
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-10-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-9-757575?style=for-the-badge)
 
 ### Cheatsheets/Checklists
 
@@ -23,8 +23,4 @@ description: Test out your skills against other hackers. Get paid for finding vu
 * [Intigriti](https://www.intigriti.com/programs) - Europe's #1 ethical hacking and bug bounty platform. 
 * [Safe Hats](https://app.safehats.com/signup) - Managed Bug Bounty. 
 * [Synack](https://www.synack.com/) - Built by hackers for hackers. 
-* [Yes We Hack](https://yeswehack.com/auth/register#create-hunter) - Global bug bounty platform crowdsourced security & vulnerability disclosure. 
-
-### Services
-
-* [Recon.Dev](https://recon.dev/) - Collects recon data on bounty targets and provides tools to help quickly find targets and discover bugs. 
+* [Yes We Hack](https://yeswehack.com/auth/register#create-hunter) - Global bug bounty platform crowdsourced security & vulnerability disclosure.

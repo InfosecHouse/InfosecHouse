@@ -1,11 +1,11 @@
 ---
-title: Certifications & Courses
+title: Education
 description: Training and courses to master your craft.
 ---
 
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-23-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-28-757575?style=for-the-badge)
 
 
 * [Antisyphon InfoSec Training](https://www.antisyphontraining.com/course-catalog/) - Antisyphon courses are tailored to beginners and seasoned professionals alike. 
@@ -24,7 +24,7 @@ description: Training and courses to master your craft.
 * [Infosec Institute](https://www.infosecinstitute.com/) - Helps IT and security professionals advance their careers with skills development and certifications.
 * [ITonlinelearning](https://www.itonlinelearning.com/course/comptia-cybersecurity-analyst-cysa/) - Course focused on combining cyber security with behavioural analytics to identify and prevent threats. 
 * [Kontra](https://application.security/) - Application Security Training Redefined. 
-* [Offensive Security](https://www.offensive-security.com/) - The tech workforce development company. 
+* [Offensive Security](https://www.offsec.com/) - The tech workforce development company. 
 * [Pentester Academy](https://www.pentesteracademy.com/) - Courses and Online Labs. 
 * [Pentester Lab](https://www.pentesterlab.com/) - We make learning web hacking easier. 
 * [PortSwigger](https://portswigger.net/web-security) - Free, online web security training from the creators of Burp Suite. 

@@ -19,7 +19,6 @@ Grab some of the most used hardware within the penetration testing industry.
 * [Raspberry Pi](https://www.raspberrypi.org/) - A tiny and affordable computer that you can use to learn programming through fun, practical projects.
 * [USB Armory Mk II](https://inversepath.com/usbarmory) - Open Source Flash-Drive Sized Computer.
 
-
 ### Equipment
 
 * [Attify Badge](https://www.attify-store.com/) - A hardware security assessment tool. Used to communicate between a PC and an embedded device over various hardware communication protocols. 
@@ -29,7 +28,6 @@ Grab some of the most used hardware within the penetration testing industry.
 * [O.MG Cable](https://shop.hak5.org/collections/mischief-gadgets/products/o-mg-cable?variant=29408695582833) - For covert field-use, with features that enhance remote execution, stealth, and forensics evasion. 
 * [OpticSpy](https://www.attify-store.com/products/opticspy) - a platform to explore, evaluate, and experiment with optical data transmissions. 
 * [Throwing Star LAN Tap/Pro](https://greatscottgadgets.com/throwingstar/) - The Great Scott Gadgets Throwing Star LAN Tap is a small, simple device for monitoring Ethernet communications. 
-
 
 ### Layouts
 

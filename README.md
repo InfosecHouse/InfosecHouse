@@ -10,7 +10,7 @@ meta:
 <p>
 <center>
 <img src="https://img.shields.io/github/last-commit/InfosecHouse/InfosecHouse?style=for-the-badge"><br>
-<img src="https://img.shields.io/badge/Tools%20%26%20Resources%20Available-1,100-757575?style=for-the-badge"><br><br>
+<img src="https://img.shields.io/badge/Tools%20%26%20Resources%20Available-1,076-757575?style=for-the-badge"><br><br>
 
 Enhance your cyber security operations with a comprehensive range of tools and resources for both offensive and defensive strategies.
 
@@ -38,7 +38,6 @@ Need to report a broken/incorrect link? Feel free to submit an [Issue](https://g
 * [Cheat Sheets](cheat-sheets.md) - Offensive security cheat sheets.
 * [Cloud & Containers](cloud-containers.md) - Discover tools and resources dedicated to hacking cloud platforms.
 * [Collaboration](collab.md) - Discover tools and frameworks for red team collaboration.
-* [Command & Control](C2.md) - Command and Control tools and frameworks.
 * [Cracking](cracking.md) - Everything you need to crack all the hashes.
 * [Cryptography](cryptography.md) - How great is your cryptography?
 * [CTF Offensive](ctf.md) - Compete your hacking skills against others.
@@ -50,11 +49,11 @@ Need to report a broken/incorrect link? Feel free to submit an [Issue](https://g
 
 ---
 
+* [E-Mail](e-mail.md) - E-Mail pentesting tools and resources.
 * [Editors & Viewers](editor-viewer.md) - Tools for editing/viewing files.
 * [Education](education.md) - Training and courses to master your craft.
 * [Emulation](emulation.md) - Emulate the adversary.
 * [Endpoint Protection](endpoint-protection.md) - Protect your endpoints.
-* [E-Mail](e-mail.md) - E-Mail pentesting tools and resources.
 * [Evasion](evasion.md) - Evade getting caught.
 * [Exploits](exploits.md) - Gather all your exploits needed to pop that box.
 
@@ -89,14 +88,18 @@ Need to report a broken/incorrect link? Feel free to submit an [Issue](https://g
 
 ---
 
-* [Operation Security](opsec.md) - Seek out technologies and methods of remaining anonymous in the day and age of mass surveillance.
 * [Operating Systems](operating-systems.md) - Operating systems for whatever task at hand.
+* [Operation Security](opsec.md) - Seek out technologies and methods of remaining anonymous in the day and age of mass surveillance.
 * [OSINT](osint.md) - Open-Source Intel. Get all the information needed for your target.
 
 ---
 
-* [Reconnaissance](recon.md) - Understand your target. Perform in-depth research and discover new attack surfaces.
+* [Privilege Escalation](privilege-escalation.md) - Understand your target. Perform in-depth research and discover new attack surfaces.
+
+---
+
 * [Reverse Engineering](re.md) - Reverse engineering tools both offensive and defensive operations can utilize.
+* [Reconnaissance](recon.md) - Understand your target. Perform in-depth research and discover new attack surfaces.
 
 ---
 
@@ -116,3 +119,4 @@ Need to report a broken/incorrect link? Feel free to submit an [Issue](https://g
 
 * [Web Application](web-app.md) - Break that web application.
 * [Windows](windows.md) - Microsoft Windows pentesting tools and resources.
+* [Wireless](windows.md) - Wireless pentesting tools and resources.

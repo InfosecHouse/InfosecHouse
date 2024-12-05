@@ -5,7 +5,7 @@ description: Discover where the threats begin.
 
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-41-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-43-757575?style=for-the-badge)
 
 ### APT Research
 
@@ -68,7 +68,7 @@ Some resources in the below section require TOR to access them. Remember, engagi
 * Hidden Links [[TOR]](http://wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion/) - TOR Link Directory 
 * Onion Link Directory [[TOR]](http://torlinkszegvxqb6.onion/) - TOR Link Directory 
 * Onion Scanner [[TOR]](http://4r4zaei5qa7qq5ha.onion/) - Onion Scanner is a unique deepweb shops crawler which gathers reviews for customers convenience. 
-* Paul's Onion Links [[TOR]](http://paullzqj3ntil7vyar3gxeks7bz5haiteeehz5vdk5fadvtto7q7liid.onion/) - TOR Link Directory 
+* Paul's Onion Links [[TOR]](http://paullzqj3ntil7vyar3gxeks7bz5haiteeehz5vdk5fadvtto7q7liid.onion/) - TOR Link Directory
 * Shops Dir [[TOR]](http://vxmua4uvg7vp5ssnvx5gexrr2nxso3wwvjwagdub67vcombj4kf4i4qd.onion/) - ShopsDir is a growing catalogue of all DeepWeb/DarkNet shops, stores and markets 
 * Tornode [[TOR]](http://e6wzjohnxejirqa2sgridvymv2jxhrqdfuyxvoxp3xpqh7kr4kbwpwad.onion/) - TOR Link Directory 
 

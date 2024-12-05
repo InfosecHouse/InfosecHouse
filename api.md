@@ -5,18 +5,7 @@ description: Tools and resources for pentesting against API endpoints.
 
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-31-757575?style=for-the-badge)
-
-
-### Cheetsheets/Checklists
-
-* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API. ![GitHub last commit](https://img.shields.io/github/last-commit/shieldfy/API-Security-Checklist?style=flat) 
-* [GraphQL OWASP](https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html) - OWASP GraphQL cheat sheet. 
-* [Microservices OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Microservices_security.html) - Microservices Security
-* [OWASP API Top 10](https://apisecurity.io/encyclopedia/content/owasp-api-security-top-10-cheat-sheet-a4.pdf) - OWASP API security Top 10. 
-* [REST Security OWASP](https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html) - OWASP REST security cheat sheet. 
-* [REST Assessment OWASP](https://cheatsheetseries.owasp.org/cheatsheets/REST_Assessment_Cheat_Sheet.html) - OWASP REST assessment cheat sheet. 
-* [Web API Pentesting](https://book.hacktricks.xyz/pentesting/pentesting-web/web-api-pentesting) - Web API pentesting GitBook. 
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-24-757575?style=for-the-badge)
 
 
 ### Documentation
@@ -34,7 +23,7 @@ description: Tools and resources for pentesting against API endpoints.
 * [Fiddler Everwhere](https://www.telerik.com/fiddler/fiddler-everywhere) - A web debugging proxy for macOS, Windows, and Linux. Capture, inspect, monitor all HTTP(S) traffic between your computer and the Internet, mock requests, and diagnose network issue. 
 * [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source tool that covers the entire testing spectrum (functional, security, load, mocking). ![GitHub last commit](https://img.shields.io/github/last-commit/hoppscotch/hoppscotch?style=flat)
 * [HttpMaster](https://www.httpmaster.net/) - Master HTTP testing & debugging.
-* [Insomnia](https://insomnia.rest/) - Quickly and easily send REST, SOAP, GraphQL, and GRPC requests directly within Insomnia. 
+* [Insomnia](https://insomnia.rest/) - Quickly and easily send REST, SOAP, GraphQL, and GRPC requests directly within Insomnia. ![GitHub last commit](https://img.shields.io/github/last-commit/Kong/insomnia?style=flat)
 * [Karate](https://github.com/intuit/karate) - Test automation made simple. ![GitHub last commit](https://img.shields.io/github/last-commit/intuit/karate?style=flat) 
 * [Kiterunner](https://github.com/assetnote/kiterunner) - Contextual Content Discovery Tool. ![GitHub last commit](https://img.shields.io/github/last-commit/assetnote/kiterunner?style=flat)
 * [Postman](https://www.postman.com/) - A collaboration platform for API development. Postman's features simplify each step of building an API and streamline collaboration so you can create better APIs—faster. 

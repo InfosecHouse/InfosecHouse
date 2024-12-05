@@ -3,9 +3,6 @@ layout: page
 meta:
   title: "Infosec House | About"
 ---
-# About
-
-Infosec House is manually indexed and maintained by [@Lyphtur](https://twitter.com/lyphtur).
 
 Bug reports for broken/incorrect links are best started as an [Issue](https://github.com/infosechouse/infosechouse/issues).
 

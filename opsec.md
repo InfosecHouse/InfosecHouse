@@ -107,9 +107,6 @@ Everything for your temporary needs.
 
 Protect your SMS messages, voice calls, and e-mails. Big brother is always watching.
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-17-757575?style=for-the-badge)
-
-
 ### E-Mail Services
 
 * Noxe [[TOR](http://noxe622edajixluakfmma5dolaakdtmhfgtz7ninulfnecsbwoybogyd.onion/) - E-Mail provider. 
@@ -122,11 +119,11 @@ Protect your SMS messages, voice calls, and e-mails. Big brother is always watch
 
 ### Messaging Services
 
-* [Adamant](https://adamant.im/) - Decentralized Messenger. 
 * [Briar](https://briarproject.org/) - Secure messaging, anywhere. 
 * [Element](https://element.io/) - A messenger that gives you the privacy you expect from a conversation in your own home, but with everyone across the globe. Runs on the matrix network. 
 * [Ricochet](https://ricochet.im/) - Ricochet is a different approach to instant messaging that doesn’t trust anyone in protecting your privacy. 
 * [Telegram](https://telegram.org/) - A new era of messaging. ![last-commit](https://img.shields.io/github/last-commit/telegramdesktop/tdesktop?style=flat)
+* [Tox](https://github.com/TokTok/c-toxcore) - A new era of messaging. ![last-commit](https://img.shields.io/github/last-commit/TokTok/c-toxcore?style=flat)
 
 
 ### SMS
@@ -142,7 +139,6 @@ Want to check compliance status of an XMPP server? Check out [https://compliance
 
 * [404 City](https://404.city/) - Cipher-punk community in federation XMPP. Our goal is to protect the privacy of personal life. 
 * [Creep](https://creep.im) [[TOR]](http://creep7nissfumwyx.onion) - Free XMPP/Jabber server in France. IP's not logged. XSF standards. 
-* [CRIME](https://crime.io) - Secure & Unmonitored XMPP. Encryption Required. Registration Open. 
 * [Darknet.IM](https://darknet.im) - Free XMPP service for secure unmonitored communications. 
 * [JabberX](https://jabberx.net/) - Free Private XMPP Chat Service. Designed in Sweeded and Hosted in Germany. 
 
@@ -234,8 +230,6 @@ This ain't your mommas notebook. Secure your passwords, secrets, and notes.
 ## Search Engines 
 
 Discover alternative search engines that respect your privacy.
-
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-10-757575?style=for-the-badge)
 
 ### Browser Based
 

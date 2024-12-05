@@ -7,6 +7,7 @@ description: Keep track of your inventory. You can't protect what you don't see.
 
 ![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-6-757575?style=for-the-badge)
 
+
 ### Endpoint Visibility
 
 * [GLPI](https://github.com/glpi-project/glpi) - Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing. ![last-commit](https://img.shields.io/github/last-commit/glpi-project/glpi?style=flat)

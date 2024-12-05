@@ -7,6 +7,12 @@ description: Infosec House changelog. See what latest changes have been made!
 
 # Changelog
 
+### December 4, 2024
+
++++ :icon-tools: Major Changes
+- New 
++++
+
 ### December 7, 2023
 
 +++ :icon-tools: Major Changes

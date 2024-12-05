@@ -5,13 +5,12 @@ description: Discover tools and resources dedicated to hacking cloud platforms.
 
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-18-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-19-757575?style=for-the-badge)
 
 ### AWS
 
 * [Cloudsplaining](https://github.com/salesforce/cloudsplaining) - Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report. ![last-commit](https://img.shields.io/github/last-commit/salesforce/cloudsplaining?style=flat)
 * [Greyhat Warfare](https://buckets.grayhatwarfare.com/) - Search scanned archived AWS buckets.
-* [OpenBuckets](https://openbuckets.io/) - Search public or misconfigured AWS buckets and its contents. 
 * [pacu](https://github.com/RhinoSecurityLabs/pacu) - The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. ![last-commit](https://img.shields.io/github/last-commit/RhinoSecurityLabs/pacu?style=flat)
 * [Prowler](https://github.com/toniblyx/prowler) - Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. ![last-commit](https://img.shields.io/github/last-commit/toniblyx/prowler?style=flat)
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool. ![last-commit](https://img.shields.io/github/last-commit/nccgroup/ScoutSuite?style=flat)
@@ -21,21 +20,12 @@ description: Discover tools and resources dedicated to hacking cloud platforms.
 
 * [Azurcar](https://github.com/nccgroup/azucar) - Security auditing tool for Azure environments ![last-commit](https://img.shields.io/github/last-commit/nccgroup/azucar?style=flat)
 * [Greyhat Warfare](https://buckets.grayhatwarfare.com/) - Search scanned archived AWS buckets.
-* [OpenBuckets](https://openbuckets.io/) - Search public or misconfigured Azure buckets and its contents. 
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool ) ![last-commit](https://img.shields.io/github/last-commit/nccgroup/ScoutSuite?style=flat)
 
-### Google Cloud
 
-* [OpenBuckets](https://openbuckets.io/) - Search public or misconfigured GCS buckets and its contents. 
+### Buckets
 
-
-### Digital Ocean
-
-* [OpenBuckets](https://openbuckets.io/) - Search public or misconfigured Digital Ocean buckets and its contents. 
-
-
-### IBM
-* [OpenBuckets](https://openbuckets.io/) - Search public or misconfigured IBM buckets and its contents. 
+* [OpenBuckets](https://openbuckets.io/) - Search public or misconfigured AWS, Azure, Digital Ocean, GCP, IBM, Linode, and Alibaba buckets.
 
 
 ### Docker

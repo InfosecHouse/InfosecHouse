@@ -7,17 +7,13 @@ description: Tools & Resources For Attacking and Defending Firewalls.
 
 ![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-30-757575?style=for-the-badge)
 
-## Auditing
-
-* [Nipper](https://www.titania.com/products/) - Discovers vulnerabilities in firewalls, switches and routers, automatically prioritizing risks to your organization.
-
----
 
 ## Defensive Security
 
 ### Firewall Hardware
 
-* [Netgate](https://shop.netgate.com/) - Open-source company that provides high-performance and affordable appliance and software-based firewall, VPN, and routing solutions. 
+* [Netgate](https://shop.netgate.com/) - Open-source company that provides high-performance and affordable appliance and software-based firewall, VPN, and routing solutions.
+* [UniFi](https://www.ui.com/) - Full-Stack Networking. Home to Enterprise grade equipment. 
 * [Untangle](https://www.untangle.com/untangle-ng-firewall/appliances/) - Network Security Framework provides cloud-managed security and connectivity. 
 
 
@@ -30,7 +26,7 @@ description: Tools & Resources For Attacking and Defending Firewalls.
 * [pfSense](https://github.com/pfsense/pfsense) - Main repository for pfSense. Based on FreeBSD using the pf firewall. ![last-commit](https://img.shields.io/github/last-commit/pfsense/pfsense?style=flat)
 * [Shorewall](https://shorewall.org/) - Shorewall is a gateway/firewall configuration tool for GNU/Linux. 
 * [Sophos XG](https://www.sophos.com/en-us/products/free-tools/sophos-xg-firewall-home-edition.aspx) - Features full protection for your home network, including anti-malware, web security and URL filtering, application control, IPS, traffic shaping, VPN, reporting and monitoring, and much more. 
-* [VyOS](https://vyos.io/subscriptions/software/) - Open source router and firewall platform. 
+* [VyOS](https://github.com/vyos/vyos-build) - Open source router and firewall platform. ![last-commit](https://img.shields.io/github/last-commit/vyos/vyos-build?style=flat)
 
 
 ### Web Application Firewalls (WAF)

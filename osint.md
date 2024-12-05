@@ -5,7 +5,7 @@ description: Open-Source Intel. Get all the information needed for your target.
 
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-79-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-81-757575?style=for-the-badge)
 
 
 ### Business

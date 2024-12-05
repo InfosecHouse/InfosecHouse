@@ -5,8 +5,15 @@ description: Reverse engineering tools both offensive and defensive operations c
 
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-22-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-3-757575?style=for-the-badge)
 
+## Linux
+
+* [LinPEAS](https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS) - A script that searches for possible paths to escalate privileges on Linux/Unix* hosts ![last-commit](https://img.shields.io/github/last-commit/peass-ng/PEASS-ng?style=flat)
+
+## MacOS
+
+* [LinPEAS](https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS) - A script that searches for possible paths to escalate privileges on MacOS hosts ![last-commit](https://img.shields.io/github/last-commit/peass-ng/PEASS-ng?style=flat)
 
 ## Windows
 
