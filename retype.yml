@@ -17,6 +17,9 @@ links:
 - text: Changelog
   link: changelog.md
   icon: commit
+- text: Support Us
+  link: sponsorship.md
+  icon: heart
 footer:
   copyright: "&copy; Copyright 2021-{{ year }}. All rights reserved."
   links:

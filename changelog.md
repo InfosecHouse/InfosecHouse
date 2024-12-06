@@ -7,10 +7,16 @@ description: Infosec House changelog. See what latest changes have been made!
 
 # Changelog
 
-### December 4, 2024
+### December 5, 2024
 
-+++ :icon-tools: Major Changes
-- New 
++++ :icon-file-added: Additions
+- Added new tools and resources
+- Added Sponsorship page
+- Added Wireless tools link to front page
++++ :icon-file-removed: Removals
+- Removed a few dead links
+- Removed a few dead repos no longer public
+- Removed Cloudflare Pages under credits
 +++
 
 ### December 7, 2023
