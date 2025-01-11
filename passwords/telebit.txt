@@ -1,0 +1,3 @@
+USERNAME : PASSWORD
+setup : setup
+snmp : nopasswd

@@ -1,0 +1,3 @@
+USERNAME : PASSWORD
+admin : admin
+demo : demo

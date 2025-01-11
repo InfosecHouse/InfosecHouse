@@ -1,0 +1,6 @@
+USERNAME : PASSWORD
+<blank> : snmp-Trap
+Admin : No
+admin : bintec
+admin : bintec
+admin : funkwerk

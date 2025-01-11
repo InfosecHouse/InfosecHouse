@@ -1,0 +1,8 @@
+USERNAME : PASSWORD
+<blank> : admin
+admin : admin
+adsl : adsl1234
+Admin : Admin
+admin : admin
+admin : password
+root : root

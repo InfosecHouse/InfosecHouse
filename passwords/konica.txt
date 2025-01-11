@@ -1,0 +1,15 @@
+USERNAME : PASSWORD
+<blank> : 0
+<blank> : 1234
+<blank> : <blank>
+<blank> : MagiMFP
+<blank> : sysAdmin
+<blank> : sysadm
+admin : administrator
+<blank> : 0
+<blank> : 1234
+<blank> : <blank>
+<blank> : MagiMFP
+<blank> : sysAdmin
+<blank> : sysadm
+admin : administrator

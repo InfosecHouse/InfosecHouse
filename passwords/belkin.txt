@@ -1,0 +1,5 @@
+USERNAME : PASSWORD
+ : MiniAP
+<blank> : MiniAP
+<blank> : admin
+admin : <blank>

@@ -1,0 +1,6 @@
+USERNAME : PASSWORD
+admin : <blank>
+anonymous : <blank>
+billy-bob : <blank>
+ftp : <blank>
+guest : guest

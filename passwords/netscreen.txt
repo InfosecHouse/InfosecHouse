@@ -1,0 +1,7 @@
+USERNAME : PASSWORD
+<blank> : <blank>
+Administrator : <blank>
+admin : <blank>
+admin : netscreen
+netscreen : netscreen
+operator : <blank>

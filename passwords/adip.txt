@@ -1,0 +1,3 @@
+adip : admin
+adip : consul
+adip : insta

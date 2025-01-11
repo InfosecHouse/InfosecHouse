@@ -1,0 +1,5 @@
+USERNAME : PASSWORD
+gonzo : <blank>
+root : uClinux
+satan : <blank>
+snake : <blank>

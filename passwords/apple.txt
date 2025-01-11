@@ -1,0 +1,15 @@
+USERNAME : PASSWORD
+<blank> : admin
+<blank> : password
+<blank> : public
+<blank> : xyzzy
+admin : public
+mobile : dottie
+root : admin
+root : alpine
+(blank) : public
+(blank) : xyzzy
+<blank> : public
+<blank> : xyzzy
+root : alpine
+root : dottie

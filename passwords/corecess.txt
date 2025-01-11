@@ -1,0 +1,4 @@
+USERNAME : PASSWORD
+Administrator : admin
+admin : <blank>
+corecess : corecess

@@ -1,0 +1,7 @@
+USERNAME : PASSWORD
+ADONI : BPMS
+sa : <blank>
+sa : Password123
+sa : password
+sa : sa
+sa : sqlserver

@@ -1,0 +1,10 @@
+USERNAME : PASSWORD
+ : manager
+<blank> : admin
+<blank> : manager
+admin : <blank>
+manager : admin
+manager : friend
+manager : manager
+root : <blank>
+secoff : secoff

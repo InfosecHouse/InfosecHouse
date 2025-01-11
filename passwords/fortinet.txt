@@ -1,0 +1,6 @@
+USERNAME : PASSWORD
+<blank> : bcpb(serial number of the firewall)
+admin : <blank>
+maintainer : admin
+maintainer : bcpb[SERIAL NO.]
+maintainer : pbcpbn(add-serial-number)

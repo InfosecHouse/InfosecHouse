@@ -1,0 +1,3 @@
+USERNAME : PASSWORD
+SMSAdmin : SECAdmin1
+sa : SECAdmin1

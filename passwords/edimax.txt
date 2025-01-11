@@ -1,0 +1,10 @@
+USERNAME : PASSWORD
+admin : 123
+admin : 1234
+admin : <blank>
+admin : epicrouter
+admin : password
+admin : su@psir
+edimax : software01
+guest : 1234
+guest : <blank>

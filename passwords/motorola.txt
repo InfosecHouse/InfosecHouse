@@ -1,0 +1,9 @@
+USERNAME : PASSWORD
+<blank> : 0
+admin : motorola
+admin : password
+cablecom : router
+service : smile
+setup : <blank>
+technician : yZgO8Bvj
+<blank> : <blank>

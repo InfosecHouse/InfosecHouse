@@ -1,0 +1,3 @@
+USERNAME : PASSWORD
+root : logapp
+toor : logapp

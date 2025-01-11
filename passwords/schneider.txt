@@ -1,0 +1,3 @@
+USERNAME : PASSWORD
+USER : USER
+sysdiag : factorycast@schneider

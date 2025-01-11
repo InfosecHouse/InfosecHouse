@@ -1,0 +1,3 @@
+USERNAME : PASSWORD
+manjaro : sudo access
+manjaro : user access

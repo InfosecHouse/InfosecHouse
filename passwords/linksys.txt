@@ -1,0 +1,14 @@
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : admin
+<blank> : epicrouter
+Administrator : admin
+admin : <blank>
+admin : admin
+comcast : 1234
+root : orion99
+user : tivonpw
+admin : admin
+admin : password
+linksys : <blank>
+root : admin

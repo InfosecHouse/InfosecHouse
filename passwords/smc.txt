@@ -1,0 +1,14 @@
+USERNAME : PASSWORD
+<blank> : 0
+<blank> : <blank>
+<blank> : smcadmin
+Admin : Barricade
+Administrator : smcadmin
+admin : <blank>
+admin : admin
+admin : barricade
+admin : smcadmin
+cusadmin : highspeed
+default : WLAN_AP
+mso : w0rkplac3rul3s
+smc : smcadmin

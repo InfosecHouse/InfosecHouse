@@ -1,0 +1,6 @@
+admin : password
+train : adtran
+<blank> : adtran
+admin : password
+<blank> : <blank>
+<blank> : Password

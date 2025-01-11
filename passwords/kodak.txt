@@ -1,0 +1,6 @@
+USERNAME : PASSWORD
+PACSLinkIP : NetServer
+PLMIMService : NetServer
+RNIServiceManager : NetServer
+SA : PASSWORD
+Service : Service

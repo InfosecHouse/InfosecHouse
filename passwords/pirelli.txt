@@ -1,0 +1,6 @@
+USERNAME : PASSWORD
+admin : admin
+admin : microbusiness
+admin : mu
+admin : smallbusiness
+user : password

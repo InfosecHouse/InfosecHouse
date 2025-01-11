@@ -1,0 +1,4 @@
+USERNAME : PASSWORD
+<blank> : QDI
+<blank> : lesarotl
+<blank> : password

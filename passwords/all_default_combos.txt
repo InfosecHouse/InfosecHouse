@@ -1,0 +1,5851 @@
+# 2wire
+USERNAME : PASSWORD
+http : (none)
+admin : admin
+
+# 360 Systems
+USERNAME : PASSWORD
+factory : factory
+
+# 3com
+USERNAME : PASSWORD
+<blank> : ANYCOM
+<blank> : ILMI
+<blank> : PASSWORD
+<blank> : comcomcom
+(none) : (none)
+(none) : 12345
+(none) : admin
+3comcso : RIP000
+<blank> : 12345
+<blank> : 1234admin
+<blank> : <blank>
+<blank> : ANYCOM
+<blank> : ILMI
+<blank> : PASSWORD
+<blank> : admin
+<blank> : comcomcom
+Admin : Admin
+Administrator : <blank>
+Administrator : admin
+Type User: FORCE : <blank>
+User : Password
+adm : (none)
+adm : <blank>
+admin : (none)
+admin : 1234admin
+admin : <blank>
+admin : admin
+admin : comcomcom
+admin : password
+admin : synnet
+adminttd : adminttd
+debug : synnet
+defug : synnet
+manager : manager
+monitor : monitor
+read : synnet
+recover : recover
+recovery : recovery
+root : !root
+security : security
+tech : <blank>
+tech : tech
+write : synnet
+Admin : Admin
+
+# 3m
+VOL-0215 : (none)
+VOL-0215 : <blank>
+volition : (none)
+volition : <blank>
+volition : volition
+
+# 3ware
+3ware : Administrator
+
+# Accelerated Networks
+sysadm : anicust
+
+# Accton
+(none) : 0
+<blank> : 0
+__super : (caclulated)
+admin : (none)
+admin : <blank>
+manager : manager
+monitor : monitor
+__super : (caclulated)
+<blank> : 0
+
+# Aceex
+admin : <blank>
+
+# Acer
+USERNAME : PASSWORD
+(none) : (none)
+(none) : Admin
+<blank> : <blank>
+acer : acer
+
+# Acti
+USERNAME : PASSWORD
+Admin : 12345
+Admin : 123456
+admin : 12345
+admin : 123456
+
+# Actiontec
+USERNAME : PASSWORD
+(none) : (none)
+<blank> : <blank>
+admin : password
+
+# Activemq
+USERNAME : PASSWORD
+<blank> : <blank>
+admin : admin
+
+# Adaptec
+USERNAME : PASSWORD
+Administrator : adaptec
+
+# Adc Kentrox
+<blank> : secret
+
+# Adcomplete
+USERNAME : PASSWORD
+Admin1 : Admin1
+
+# Addon
+USERNAME : PASSWORD
+admin : admin
+
+# Addpac Technology
+USERNAME : PASSWORD
+root : router
+
+# Adic
+admin : password
+admin : secure
+
+# Adip
+adip : admin
+adip : consul
+adip : insta
+
+# Adobe
+USERNAME : PASSWORD
+admin : admin
+anonymous : anonymous
+aparker@geometrixx.info : aparker
+author : author
+jdoe@geometrixx.info : jdoe
+replication-receiver : <blank>
+replication-receiver : replication-receiver
+vgnadmin : vgnadmin
+
+# Adp
+sysadmin : master
+
+# Adt
+(none) : 2580
+<blank> : 2580
+
+# Adtech
+USERNAME : PASSWORD
+root : ax400
+
+# Adtran
+admin : password
+train : adtran
+<blank> : adtran
+admin : password
+<blank> : <blank>
+<blank> : Password
+
+# Advanced Intergration
+USERNAME : PASSWORD
+ : Advance
+<blank> : Advance
+
+# Advantek Networks
+USERNAME : PASSWORD
+admin : <blank>
+
+# Aethra
+USERNAME : PASSWORD
+admin : password
+
+# Airaya
+Airaya : Airaya
+
+# Airlink
+USERNAME : PASSWORD
+(none) : admin
+<blank> : admin
+
+# Aironet
+USERNAME : PASSWORD
+(blank) : (none)
+<blank> : <blank>
+
+# Airties
+USERNAME : PASSWORD
+ : 
+
+# Airway
+USERNAME : PASSWORD
+(none) : 0
+<blank> : 0
+
+# Aladdin
+USERNAME : PASSWORD
+root : kn1TG7psLu
+
+# Alcatel
+USERNAME : PASSWORD
+(none) : (none)
+<blank> : 1064
+<blank> : <blank>
+<blank> : admin
+SUPERUSER : ANS#150
+adfexc : adfexc
+admin : switch
+at4400 : at4400
+client : client
+dhs3mt : dhs3mt
+dhs3pms : dhs3pms
+diag : switch
+ftp_admi : kilo1987
+ftp_inst : pbxk1064
+ftp_nmc : tuxalize
+ftp_oper : help1954
+halt : tlah
+install : llatsni
+kermit : kermit
+mtch : mtch
+mtcl : <blank>
+mtcl : mtcl
+root : letacla
+root : permit
+superuser : superuser
+
+# Alcatel Thomson
+USERNAME : PASSWORD
+admin : admin
+
+# Alien Technology
+USERNAME : PASSWORD
+alien : alien
+root : alien
+
+# Allied Telesyn
+USERNAME : PASSWORD
+ : manager
+<blank> : admin
+<blank> : manager
+admin : <blank>
+manager : admin
+manager : friend
+manager : manager
+root : <blank>
+secoff : secoff
+
+# Allnet
+<blank> : admin
+admin : admin
+admin : password
+
+# Allot
+USERNAME : PASSWORD
+admin : allot
+root : bagabu
+
+# Alteon
+USERNAME : PASSWORD
+admin : (none)
+admin : <blank>
+admin : admin
+admin : linga
+
+# Ambit
+USERNAME : PASSWORD
+root : <blank>
+root : root
+user : user
+
+# American Dynamics
+USERNAME : PASSWORD
+admin : 9999
+admin : admin
+
+# Ami
+stray : AM
+<blank> : AMI
+<blank> : A.M.I
+<blank> : AM
+<blank> : AMI
+<blank> : AMI!SW
+<blank> : AMI.KEY
+<blank> : AMI.KEZ
+<blank> : AMI?SW
+<blank> : AMIAMI
+<blank> : AMIDECOD
+<blank> : AMIPSWD
+<blank> : AMISETUP
+<blank> : AMI_SW
+<blank> : AMI~
+<blank> : BIOSPASS
+<blank> : CMOSPWD
+<blank> : HEWITT RAND
+<blank> : aammii
+
+# Amigo
+USERNAME : PASSWORD
+admin : epicrouter
+(none) : leaves
+(none) : snake
+<blank> : leaves
+<blank> : snake
+
+# Amitech
+USERNAME : PASSWORD
+admin : admin
+
+# Ampjuke
+USERNAME : PASSWORD
+admin : pass
+
+# Amx
+(none) : (none)
+(none) : 1988
+<blank> : 1988
+<blank> : <blank>
+<blank> : admin
+Admin : 1988
+Administrator : vision2
+NetLinx : password
+admin : 1988
+admin : admin
+administrator : password
+guest : guest
+root : mozart
+
+# Andover Controls
+USERNAME : PASSWORD
+acc : acc
+
+# Antsle
+root : antsle
+
+# Aoc
+<blank> : admin
+
+# Apache
+admin : jboss4
+
+# Apc
+stray : serial number of the Call-UPS
+stray : serial number of the Share-UPS
+(any) : TENmanUFactOryPOWER
+<blank> : TENmanUFactOryPOWER
+<blank> : backdoor
+<blank> : serial number of the Call-UPS
+<blank> : serial number of the Share-UPS
+POWERCHUTE : APC
+apc : apc
+device : apc
+device : device
+readonly : apc
+
+# Apc Network Management
+stray : serial number of the Call-UPS
+stray : serial number of the Share-UPS
+(any) : TENmanUFactOryPOWER
+<blank> : TENmanUFactOryPOWER
+<blank> : backdoor
+<blank> : serial number of the Call-UPS
+<blank> : serial number of the Share-UPS
+POWERCHUTE : APC
+apc : apc
+device : apc
+device : device
+readonly : apc
+
+# Apc Smartslot
+<blank> : TENmanUFactOryPOWER
+
+# Apc Ups
+<blank> : TENmanUFactOryPOWER
+apc : apc
+
+# Apmtron
+USERNAME : PASSWORD
+ : Polrty
+<blank> : Polrty
+
+# Apple
+USERNAME : PASSWORD
+<blank> : admin
+<blank> : password
+<blank> : public
+<blank> : xyzzy
+admin : public
+mobile : dottie
+root : admin
+root : alpine
+(blank) : public
+(blank) : xyzzy
+<blank> : public
+<blank> : xyzzy
+root : alpine
+root : dottie
+
+# Applied Innovations
+USERNAME : PASSWORD
+scout : scout
+
+# Areca
+USERNAME : PASSWORD
+admin : 0
+
+# Arecont
+<blank> : <blank>
+admin : <blank>
+
+# Arescom
+USERNAME : PASSWORD
+<blank> : atc123
+n/a : atc123
+
+# Aris
+USERNAME : PASSWORD
+ARIS9 : *ARIS!1dm9n#
+
+# Arlotto
+USERNAME : PASSWORD
+admin : 123456
+
+# Arris
+USERNAME : PASSWORD
+admin : password
+
+# Arrowpoint
+USERNAME : PASSWORD
+(blank) : (none)
+<blank> : <blank>
+admin : system
+
+# Artem
+<blank> : admin
+
+# Aruba
+USERNAME : PASSWORD
+admin : admin
+admin : admin
+
+# Arun
+USERNAME : PASSWORD
+123 : 234
+
+# Asante
+USERNAME : PASSWORD
+IntraStack : Asante
+IntraSwitch : Asante
+admin : asante
+superuser : <blank>
+superuser : asante
+
+# Ascend
+USERNAME : PASSWORD
+ : ascend
+<blank> : ascend
+readonly : lucenttech2
+readwrite : lucenttech1
+root : ascend
+
+# Ascom
+USERNAME : PASSWORD
+(none) : 3ascotel
+<blank> : 3ascotel
+
+# Asmax
+admin : epicrouter
+admin : admin
+support : support
+user : user
+
+# Aspect
+USERNAME : PASSWORD
+DTA : TJM
+customer : <blank>
+
+# Ast
+<blank> : SnuFG5
+<blank> : SnuFG5
+
+# Asterisk
+USERNAME : PASSWORD
+Admin : admin
+
+# Asus
+USERNAME : PASSWORD
+<blank> : admin
+admin : admin
+adsl : adsl1234
+Admin : Admin
+admin : admin
+admin : password
+root : root
+
+# At&t
+<blank> : mcp
+remotessh : 5SaP9I26
+
+# Atl
+Service : 5678
+operator : 1234
+
+# Atlantis
+USERNAME : PASSWORD
+admin : atlantis
+
+# Atlassian
+USERNAME : PASSWORD
+Crowd : password
+Demo : password
+Username : password
+crowd-openid-server : password
+
+# Attachmate
+USERNAME : PASSWORD
+<blank> : PASSWORD
+
+# Audioactive
+USERNAME : PASSWORD
+<blank> : telos
+
+# Audiocodes
+USERNAME : PASSWORD
+Admin : Admin
+
+# Autodesk
+USERNAME : PASSWORD
+autocad : autocad
+
+# Avaya
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : Craftr4
+<blank> : admin
+Administrator : ggdaseuaimhrke
+Craft : crftpw
+admin : admin
+admin : admin123
+admin : barney
+admin : password
+craft : <blank>
+craft : crftpw
+dadmin : dadmin
+dadmin : dadmin01
+diag : danger
+manuf : xxyyzz
+root : ROOT500
+root : cms500
+root : ggdaseuaimhrke
+root : root
+webadmin : webadmin
+
+# Avenger
+USERNAME : PASSWORD
+<blank> : Administrative
+
+# Avigilon
+Administrator : <blank>
+admin : admin
+
+# Avm
+<blank> : 0
+<blank> : <blank>
+
+# Avocent
+USERNAME : PASSWORD
+root : tslinux
+
+# Avtech
+admin : admin
+
+# Award
+<blank> : 1322222
+<blank> : 256256
+<blank> : 589589
+<blank> : 589721
+<blank> : <blank>
+<blank> : ?award
+<blank> : AWARD SW
+<blank> : AWARD?SW
+<blank> : AWARD_PW
+<blank> : AWARD_SW
+<blank> : Award
+<blank> : BIOS
+<blank> : CONCAT
+<blank> : HELGA-S
+<blank> : HEWITT RAND
+<blank> : HLT
+<blank> : PASSWORD
+<blank> : SER
+<blank> : SKY_FOX
+<blank> : SWITCHES_SW
+<blank> : SW_AWARD
+<blank> : SZYX
+<blank> : Sxyz
+<blank> : TTPTHA
+<blank> : TzqF
+<blank> : ZAAADA
+<blank> : aLLy
+<blank> : aPAf
+<blank> : admin
+<blank> : alfarome
+<blank> : award.sw
+<blank> : award_?
+<blank> : award_ps
+<blank> : awkward
+<blank> : biosstar
+<blank> : biostar
+<blank> : condo
+<blank> : djonet
+<blank> : efmukl
+<blank> : g6PJ
+<blank> : h6BB
+<blank> : j09F
+<blank> : j256
+<blank> : j262
+<blank> : j322
+<blank> : j64
+<blank> : lkw peter
+<blank> : lkwpeter
+<blank> : setup
+<blank> : t0ch20x
+<blank> : t0ch88
+<blank> : wodj
+<blank> : zbaaaca
+<blank> : zjaaadc
+
+# Axis
+USERNAME : PASSWORD
+<blank> : <blank>
+root : pass
+root : admin
+root : pass
+
+# Axus
+<blank> : 0
+
+# Axway
+USERNAME : PASSWORD
+setup : setup
+
+# Aztech
+USERNAME : PASSWORD
+admin : admin
+isp : isp
+root : admin
+
+# Backtrack Linux
+USERNAME : PASSWORD
+root : toor
+
+# Barraucuda
+USERNAME : PASSWORD
+admin : admin
+ssladmin : ssladmin
+admin : admin
+ssladmin : ssladmin
+
+# Basler
+USERNAME : PASSWORD
+admin : admin
+
+# Bausch Datacom
+USERNAME : PASSWORD
+admin : epicrouter
+
+# Bay Network
+USERNAME : PASSWORD
+<blank> : NetICs
+Manager : <blank>
+User : <blank>
+security : security
+
+# Bbr-4mg
+USERNAME : PASSWORD
+root : <blank>
+
+# Bea
+USERNAME : PASSWORD
+system : weblogic
+
+# Becu
+USERNAME : PASSWORD
+musi1921 : Musii%1921
+
+# Beetel
+USERNAME : PASSWORD
+admin : admin
+admin : password
+
+# Belkin
+USERNAME : PASSWORD
+ : MiniAP
+<blank> : MiniAP
+<blank> : admin
+admin : <blank>
+
+# Benq
+USERNAME : PASSWORD
+admin : admin
+
+# Best Practical
+USERNAME : PASSWORD
+root : password
+root : password
+
+# Bewan
+USERNAME : PASSWORD
+bewan : bewan
+
+# Bhu
+USERNAME : PASSWORD
+admin : admin
+
+# Billion
+USERNAME : PASSWORD
+<blank> : <blank>
+admin : admin
+
+# Bintec
+USERNAME : PASSWORD
+<blank> : snmp-Trap
+Admin : No
+admin : bintec
+admin : bintec
+admin : funkwerk
+
+# Biodata
+USERNAME : PASSWORD
+<blank> : Babylon
+config : biodata
+
+# Biostar
+USERNAME : PASSWORD
+<blank> : Biostar
+<blank> : Q54arwms
+
+# Biscom
+USERNAME : PASSWORD
+admin : admin
+
+# Bizdesign
+USERNAME : PASSWORD
+Admin : ImageFolio
+
+# Black Widow
+USERNAME : PASSWORD
+admin : nimda
+
+# Blackbox
+USERNAME : PASSWORD
+Administrator : public
+
+# Blaeri
+USERNAME : PASSWORD
+Blaeri : 22332323
+
+# Blitzz
+USERNAME : PASSWORD
+admin : admin
+
+# Blue Coat System
+USERNAME : PASSWORD
+admin : articon
+
+# Bluecoat
+USERNAME : PASSWORD
+admin : admin
+
+# Bmc
+USERNAME : PASSWORD
+patrol : patrol
+Administrator : the same all over
+Best1_User : BackupU$r
+
+# Bnt
+USERNAME : PASSWORD
+USER : USER
+
+# Bomgar
+USERNAME : PASSWORD
+admin : password
+
+# Borland
+USERNAME : PASSWORD
+<blank> : <blank>
+politically : correct
+
+# Bosch
+USERNAME : PASSWORD
+live : live
+service : service
+user : user
+sa : RPSsql12345
+
+# Boson
+USERNAME : PASSWORD
+<blank> : <blank>
+
+# Breezecom
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : Helpdesk
+<blank> : Master
+<blank> : Super
+<blank> : laflaf
+
+# Brickcom
+USERNAME : PASSWORD
+admin : admin
+
+# Broadlogic
+USERNAME : PASSWORD
+admin : admin
+installer : installer
+webadmin : webadmin
+
+# Brocade
+USERNAME : PASSWORD
+admin : brocade1
+admin : password
+factory : Fact4EMC
+root : Serv4EMC
+root : fibranne
+root : fivranne
+user : password
+
+# Brother
+USERNAME : PASSWORD
+<blank> : access
+admin : access
+admin : access
+<blank> : 0
+<blank> : 12345678
+admin : access
+
+# Bt
+USERNAME : PASSWORD
+admin : admin
+
+# Buffalo
+USERNAME : PASSWORD
+root : <blank>
+admin : password
+root : <blank>
+
+# Busybox
+USERNAME : PASSWORD
+admin : admin
+
+# Ca
+USERNAME : PASSWORD
+pamadmin : pamadmin
+
+# Ca Apm Team Center
+USERNAME : PASSWORD
+Admin : <blank>
+Guest : Guest
+
+# Ca Netqos
+USERNAME : PASSWORD
+nqadmin : nq
+nquser : nq
+
+# Cable And Wireless
+USERNAME : PASSWORD
+admin : 1234
+
+# Caldera
+USERNAME : PASSWORD
+admin : admin
+
+# Caletron
+USERNAME : PASSWORD
+<blank> : <blank>
+netman : <blank>
+
+# Calix
+USERNAME : PASSWORD
+admin : (blank)
+admin : admin
+
+# Canon
+USERNAME : PASSWORD
+<blank> : 0
+7654321 : 7654321
+root : camera
+
+# Canyon
+USERNAME : PASSWORD
+Administrator : admin
+
+# Capricorn
+USERNAME : PASSWORD
+<blank> : 1234567890
+
+# Carestream
+USERNAME : PASSWORD
+KeyOperator : DV5800
+LocalService : DV5800
+
+# Carsten Schmitz
+USERNAME : PASSWORD
+admin : password
+
+# Cayman
+USERNAME : PASSWORD
+<blank> : <blank>
+admin : (serial number)
+admin : <blank>
+} : <blank>
+
+# Cch
+USERNAME : PASSWORD
+sa : PracticeUser1
+
+# Celebrity
+USERNAME : PASSWORD
+mediator : mediator
+root : Mua'dib
+
+# Cellit
+USERNAME : PASSWORD
+cellit : cellit
+
+# Centreon
+USERNAME : PASSWORD
+admin : centreon
+
+# Ceragon Networks
+USERNAME : PASSWORD
+root : tooridu
+
+# Cgi World
+USERNAME : PASSWORD
+<blank> : protection
+
+# Chase Research
+USERNAME : PASSWORD
+<blank> : iolan
+
+# Checkpoint
+USERNAME : PASSWORD
+admin : admin
+admin : adminadmin
+admin : abc123
+admin : admin
+admin : abc123
+admin : admin
+
+# Chuming Chen
+USERNAME : PASSWORD
+administrator : adminpass
+
+# Ciphertrust
+USERNAME : PASSWORD
+admin : password
+admin : password
+
+# Cisco
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : Cisco
+<blank> : Cisco router
+<blank> : ILMI
+<blank> : _Cisco
+<blank> : c
+<blank> : cable-docsis
+<blank> : cc
+<blank> : changeit
+<blank> : cisco
+<blank> : letmein
+<blank> : public/private/secret
+<blank> : riverhead
+Administrator : admin
+Administrator : changeme
+CISCO15 : otbu+1
+Cisco : Cisco
+EAdmin : <blank>
+ESubscriber : <blank>
+End User : 7936
+UAMIS_ : <blank>
+UNITY_ : <blank>
+UOMNI_ : <blank>
+UVPIM_ : <blank>
+admin : <blank>
+admin : admin
+admin : changeme
+admin : cisco
+admin : default
+admin : diamond
+admin : tsunami
+bbsd-client : <blank>
+bbsd-client : changeme2
+bubba : (unknown)
+cisco : <blank>
+cisco : cisco
+cmaker : cmaker
+enable : <blank>
+enable : cisco
+guest : <blank>
+hsa : hsadb
+netrangr : attack
+pnadmin : pnadmin
+praisenetwork : perfectpraise
+private ReadWrite access : secret
+public ReadOnly access : secret
+ripeop : <blank>
+root : Cisco
+root : attack
+root : blender
+root : password
+root : secur4u
+sa : <blank>
+technician : 2 + last 4 of Audio
+uwmadmin : password
+wlse : wlsedb
+wlseuser : wlsepassword
+cisco : cisco
+pix : cisco
+Cisco : Cisco
+cisco : admin
+<blank> : riverhead
+cisco : cisco
+admin : system
+
+# Citel
+USERNAME : PASSWORD
+<blank> : citel
+citel : password
+
+# Citrix
+USERNAME : PASSWORD
+nsroot : nsroot
+root : rootadmin
+
+# Claris
+USERNAME : PASSWORD
+<blank> : familymacintosh
+
+# Clearone
+USERNAME : PASSWORD
+ClearOne : RAV
+clearone : converge
+
+# Clearpass
+USERNAME : PASSWORD
+admin : eTIPS123
+
+# Cnet
+USERNAME : PASSWORD
+Admin : epicrouter
+admin : password
+
+# Cobalt
+USERNAME : PASSWORD
+admin : admin
+
+# Colubris
+USERNAME : PASSWORD
+admin : admin
+admin : admin
+
+# Com3
+USERNAME : PASSWORD
+admin : admin
+
+# Comcast
+USERNAME : PASSWORD
+comcast : <blank>
+cusadmin : CantTouchThis
+cusadmin : highspeed
+
+# Comersus
+USERNAME : PASSWORD
+admin : dmr99
+
+# Comodo
+USERNAME : PASSWORD
+mydlp : mydlp
+
+# Compaq
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : Compaq
+PFCUser : 240653C9467E45
+administrator : administrator
+anonymous : <blank>
+operator : operator
+root : manager
+root : rootme
+user : public
+user : user
+
+# Compualynx
+USERNAME : PASSWORD
+administrator : asecret
+
+# Comtrend
+USERNAME : PASSWORD
+admin : 1234
+admin : <blank>
+admin : admin
+
+# Conceptronic
+USERNAME : PASSWORD
+admin : 1234
+admin : password
+anonymous : password
+
+# Concord
+USERNAME : PASSWORD
+<blank> : last
+
+# Conexant
+USERNAME : PASSWORD
+<blank> : admin
+<blank> : epicrouter
+Administrator : admin
+admin : amigosw1
+admin : conexant
+admin : epicrouter
+admin : password
+
+# Conitec
+USERNAME : PASSWORD
+Adam : 29111991
+
+# Control4
+USERNAME : PASSWORD
+<blank> : ducati900ss
+root : t0talc0ntr0l4!
+
+# Corecess
+USERNAME : PASSWORD
+Administrator : admin
+admin : <blank>
+corecess : corecess
+
+# Coronamatrix
+USERNAME : PASSWORD
+admin : admin
+
+# Covertix
+USERNAME : PASSWORD
+Admin : Admin
+
+# Creative
+USERNAME : PASSWORD
+<blank> : <blank>
+
+# Crossbeam
+USERNAME : PASSWORD
+<blank> : x40rocks
+
+# Crt
+USERNAME : PASSWORD
+egcr : ergc
+
+# Crystalview
+USERNAME : PASSWORD
+<blank> : Crystal
+
+# Ctx Internetnal
+USERNAME : PASSWORD
+<blank> : CTX_123
+
+# Cuproplus
+USERNAME : PASSWORD
+<blank> : <blank>
+
+# Cyberguard
+USERNAME : PASSWORD
+cgadmin : cgadmin
+
+# Cybermax
+USERNAME : PASSWORD
+<blank> : Congress
+
+# Cyberpower
+USERNAME : PASSWORD
+cyber : cyber
+device : cyber
+
+# Cyclades
+USERNAME : PASSWORD
+root : <blank>
+root : tslinux
+super : surt
+
+# D-link
+USERNAME : PASSWORD
+(none) : (none)
+(none) : 1234
+(none) : admin
+(none) : year2000
+<blank> : <blank>
+<blank> : admin
+<blank> : private
+<blank> : public
+Admin : <blank>
+Alphanetworks : wrgg15_di524
+D-Link : D-Link
+admin : (none)
+admin : 1234
+admin : <blank>
+admin : admin
+admin : dareadsl
+admin : gvt12345
+admin : password
+admin : public
+admin : year2000
+dont need one : admin
+root : admin
+user : (none)
+user : <blank>
+
+# D9287ar
+USERNAME : PASSWORD
+Clarissa : <blank>
+
+# Daewoo
+USERNAME : PASSWORD
+<blank> : Daewuu
+
+# Dallas Semiconductors
+USERNAME : PASSWORD
+root : tini
+
+# Darkman
+USERNAME : PASSWORD
+ioFTPD : ioFTPD
+
+# Dassault Systemes
+USERNAME : PASSWORD
+Test Everything : <blank>
+
+# Data General
+USERNAME : PASSWORD
+op : op
+op : operator
+operator : operator
+
+# Datacom
+USERNAME : PASSWORD
+<blank> : letmein
+sysadm : sysadm
+
+# Datastax
+USERNAME : PASSWORD
+admin : admin
+
+# Datawizard
+USERNAME : PASSWORD
+anonymous : any
+anonymous : any@
+
+# Davolink
+USERNAME : PASSWORD
+user : user
+
+# Davox
+USERNAME : PASSWORD
+admin : admin
+davox : davox
+root : davox
+sa : <blank>
+
+# Daytek
+USERNAME : PASSWORD
+<blank> : Daytec
+
+# Db2
+USERNAME : PASSWORD
+ADONIS : BPMS
+dasusr1 : dasusr1
+db2admin : db2admin
+db2fenc1 : db2fenc1
+db2inst1 : db2inst1
+db2inst1 : db2pass
+db2inst1 : db2password
+db2inst1 : db2pw
+
+# Debain
+USERNAME : PASSWORD
+<blank> : tatercounter2000
+
+# Decent
+USERNAME : PASSWORD
+operator : admin
+
+# Deerfield
+USERNAME : PASSWORD
+MDaemon : MServer
+
+# Dell
+USERNAME : PASSWORD
+<blank> : 1RRWTTOOI
+<blank> : Dell
+<blank> : Fireport
+<blank> : admin
+<blank> : nz0u4bbe
+Admin : <blank>
+Administrator : storageserver
+VNC : winterm
+admin : admin
+admin : password
+rapport : r@p8p0r+
+root : calvin
+root : wyse
+root : calvin
+
+# Demarc
+USERNAME : PASSWORD
+admin : my_DEMARC
+
+# Deutsche Telekom
+USERNAME : PASSWORD
+<blank> : 0
+admin : <blank>
+
+# Develcon
+USERNAME : PASSWORD
+<blank> : BRIDGE
+<blank> : password
+
+# Dictaphone
+USERNAME : PASSWORD
+NETOP : <blank>
+NETWORK : NETWORK
+PBX : PBX
+
+# Digicom
+USERNAME : PASSWORD
+admin : michelangelo
+user : password
+Admin : <blank>
+
+# Digicorp
+USERNAME : PASSWORD
+<blank> : BRIDGE
+<blank> : password
+
+# Digicraft Software
+USERNAME : PASSWORD
+Yak : asd123
+
+# Digital Equipment
+USERNAME : PASSWORD
+1 : manager
+1 : operator
+1 : syslib
+1.1 : SYSTEM
+2 : maintain
+2 : manager
+2 : operator
+2 : syslib
+30 : games
+5 : games
+7 : maintain
+<blank> : 1
+<blank> : ACCESS
+<blank> : SYSTEM
+<blank> : access
+<blank> : komprie
+<blank> : system
+ALLIN1 : ALLIN1
+ALLIN1MAIL : ALLIN1MAIL
+ALLINONE : ALLINONE
+BACKUP : BACKUP
+BATCH : BATCH
+DCL : DCL
+DECMAIL : DECMAIL
+DECNET : DECNET
+DECNET : NONPRIV
+DEFAULT : DEFAULT
+DEFAULT : USER
+DEMO : DEMO
+FIELD : DIGITAL
+FIELD : FIELD
+FIELD : SERVICE
+FIELD : TEST
+GUEST : GUEST
+HELP : HELP
+HELPDESK : HELPDESK
+HOST : HOST
+INFO : INFO
+INGRES : INGRES
+LINK : LINK
+MAILER : MAILER
+MBMANAGER : MBMANAGER
+MBWATCH : MBWATCH
+NETCON : NETCON
+NETMGR : NETMGR
+NETNONPRIV : NETNONPRIV
+NETPRIV : NETPRIV
+NETSERVER : NETSERVER
+NETWORK : NETWORK
+NEWINGRES : NEWINGRES
+NEWS : NEWS
+OPERVAX : OPERVAX
+PDP11 : PDP11
+PDP8 : PDP8
+POSTMASTER : POSTMASTER
+PRIV : PRIV
+REPORT : REPORT
+RJE : RJE
+STUDENT : STUDENT
+SYS : SYS
+SYSMAINT : DIGITAL
+SYSMAINT : SERVICE
+SYSMAINT : SYSMAINT
+SYSTEM : MANAGER
+SYSTEM : OPERATOR
+SYSTEM : SYSLIB
+SYSTEM : SYSTEM
+SYSTEST : UETP
+SYSTEST_CLIG : SYSTEST
+SYSTEST_CLIG : SYSTEST_CLIG
+TELEDEMO : TELEDEMO
+TEST : TEST
+UETP : UETP
+USER : PASSWORD
+USER : USER
+USERP : USERP
+VAX : VAX
+VMS : VMS
+accounting : accounting
+boss : boss
+demo : demo
+manager : manager
+software : software
+
+# Digium
+USERNAME : PASSWORD
+admin : password
+
+# Divar
+USERNAME : PASSWORD
+admin : <blank>
+viewer : <blank>
+
+# Dlink
+USERNAME : PASSWORD
+admin : <blank>
+admin : admin
+admin : public
+1234 : 1234
+admin : admin
+root : 12345
+root : root
+
+# Dotnetnuke
+USERNAME : PASSWORD
+admin : dnnadmin
+host : dnnhost
+
+# Draytek
+USERNAME : PASSWORD
+Draytek : 1234
+admin : <blank>
+admin : admin
+draytek : 1234
+admin : <blank>
+
+# Ducati Motor Holding
+USERNAME : PASSWORD
+<blank> : Last 4 digits of VIN
+
+# Duhaua
+USERNAME : PASSWORD
+admin : 7ujMko0admin
+root : 7ujMko0admin
+root : vizxv
+
+# Dupont
+USERNAME : PASSWORD
+root : par0t
+
+# Dvb
+USERNAME : PASSWORD
+dvstation : dvst10n
+root : pixmet2003
+
+# Dynalink
+USERNAME : PASSWORD
+admin : admin
+admin : private
+userNotUsed : userNotU
+
+# Dynatrace
+USERNAME : PASSWORD
+admin : admin
+
+# Dynix
+USERNAME : PASSWORD
+LIBRARY : <blank>
+SETUP : <blank>
+circ : <blank>
+
+# Dzs
+USERNAME : PASSWORD
+user : user
+
+# E-con
+USERNAME : PASSWORD
+admin : epicrouter
+
+# E-tech
+USERNAME : PASSWORD
+<blank> : admin
+admin : epicrouter
+admin : password
+
+# Easywinart
+USERNAME : PASSWORD
+sa : $easyWinArt4
+
+# Eaton
+USERNAME : PASSWORD
+admin : admin
+
+# Echelon
+USERNAME : PASSWORD
+ilon : ilon
+
+# Edimax
+USERNAME : PASSWORD
+admin : 123
+admin : 1234
+admin : <blank>
+admin : epicrouter
+admin : password
+admin : su@psir
+edimax : software01
+guest : 1234
+guest : <blank>
+
+# Efficient
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : admin
+login : admin
+login : password
+superuser : admin
+<blank> : 4getme2
+<blank> : hs7mwxkk
+login : admin
+login : admin
+
+# Ektron
+USERNAME : PASSWORD
+builtin : builtin
+sa : Ektron
+
+# Elasticsearch
+USERNAME : PASSWORD
+<blank> : <blank>
+elastic : changeme
+
+# Elron
+USERNAME : PASSWORD
+(hostname/ipaddress) : sysadmin
+
+# Elsa
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : cisco
+
+# Emachines
+USERNAME : PASSWORD
+emaq : 4133
+
+# Emc
+USERNAME : PASSWORD
+MCUser : MCUser1
+admin : <blank>
+admin : changeme
+backuponly : backuponly1
+backuprestore : backuprestore1
+dpn : changeme
+restoreonly : restoreonly1
+root : 8RttoTriz
+root : changeme
+viewuser : viewuser1
+
+# Emerson
+USERNAME : PASSWORD
+Admin : Emerson1
+sa : 42Emerson42Eme
+
+# Eminent
+USERNAME : PASSWORD
+admin : admin
+
+# Encad
+USERNAME : PASSWORD
+<blank> : <blank>
+
+# Engenius
+USERNAME : PASSWORD
+admin : admin
+
+# Enhydra
+USERNAME : PASSWORD
+admin : enhydra
+
+# Enox
+USERNAME : PASSWORD
+<blank> : xo11nE
+
+# Enpoint Protector
+USERNAME : PASSWORD
+root : epp2011
+
+# Enterasys
+USERNAME : PASSWORD
+<blank> : netadmin
+admin : <blank>
+admin : netadmin
+tiger : tiger123
+
+# Entrust
+USERNAME : PASSWORD
+admin : admin
+websecadm : changeme
+
+# Episd
+USERNAME : PASSWORD
+computer : repair
+
+# Episerver
+USERNAME : PASSWORD
+admin : store
+
+# Epox
+USERNAME : PASSWORD
+<blank> : central
+
+# Eq-3
+USERNAME : PASSWORD
+root : MuZhlo9n%8!G
+
+# Ericsson
+USERNAME : PASSWORD
+MD110 : help
+admin : default
+expert : expert
+netman : netman
+public : <blank>
+<blank> : <blank>
+<blank> : help
+
+# Esesix Computer
+USERNAME : PASSWORD
+root : jstwo
+
+# Everfocus
+USERNAME : PASSWORD
+admin : admin
+operator : operator
+supervisor : supervisor
+
+# Exabyte
+USERNAME : PASSWORD
+anonymous : Exabyte
+
+# Exacq
+USERNAME : PASSWORD
+admin : admin256
+user : user5710
+
+# Exinda Networks
+USERNAME : PASSWORD
+admin : exinda
+
+# Extended Systems
+USERNAME : PASSWORD
+admin : admin
+admin : extendnet
+
+# Extereme Networks
+USERNAME : PASSWORD
+admin : <blank>
+
+# Eyes Of Netowrk
+USERNAME : PASSWORD
+<blank> : EyesOfNetwork
+
+# Ez Systems
+USERNAME : PASSWORD
+admin : publish
+
+# Ezphotosales
+USERNAME : PASSWORD
+admin : admin
+
+# F5
+USERNAME : PASSWORD
+admin : admin
+root : default
+support : <blank>
+<blank> : <blank>
+
+# Fastresm Technologies
+USERNAME : PASSWORD
+root : <blank>
+
+# Fastwire
+USERNAME : PASSWORD
+fastwire : fw
+
+# Fatwire
+USERNAME : PASSWORD
+firstsite : firstsite
+fwadmin : xceladmin
+
+# Firebird
+USERNAME : PASSWORD
+SYSDBA : masterkey
+SYSDBA : masterkey
+
+# Flowpoint
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : password
+admin : admin
+
+# Fon
+USERNAME : PASSWORD
+admin : admin
+
+# Fortigate
+USERNAME : PASSWORD
+admin : <blank>
+
+# Fortinet
+USERNAME : PASSWORD
+<blank> : bcpb(serial number of the firewall)
+admin : <blank>
+maintainer : admin
+maintainer : bcpb[SERIAL NO.]
+maintainer : pbcpbn(add-serial-number)
+
+# Foscam
+USERNAME : PASSWORD
+admin : <blank>
+
+# Foundry Networks
+USERNAME : PASSWORD
+<blank> : <blank>
+admin : admin
+
+# Freetech
+USERNAME : PASSWORD
+<blank> : Posterie
+
+# Fritzbox
+USERNAME : PASSWORD
+admin : admin
+admin : fritzfonbox
+
+# Frontrange
+USERNAME : PASSWORD
+master : access
+
+# Ftp
+USERNAME : PASSWORD
+anonymous : <blank>
+ftp : ftp
+guest : guest
+
+# Fujitsu
+USERNAME : PASSWORD
+<blank> : connect
+manage : !manage
+
+# Funk
+USERNAME : PASSWORD
+admin : radius
+
+# Galacticomm
+USERNAME : PASSWORD
+Sysop : Sysop
+
+# Gandalf
+USERNAME : PASSWORD
+<blank> : console
+<blank> : gandalf
+<blank> : system
+<blank> : xmux
+
+# Garrettcom
+USERNAME : PASSWORD
+manager : manager
+manager : manager
+
+# Gateway
+USERNAME : PASSWORD
+admin : admin
+
+# Ge
+USERNAME : PASSWORD
+museadmin : Muse!Admin
+install : install
+
+# Geeklog
+USERNAME : PASSWORD
+username : password
+
+# General Instruments
+USERNAME : PASSWORD
+test : test
+
+# Geonetwork
+USERNAME : PASSWORD
+admin : gnos
+
+# Geovision
+USERNAME : PASSWORD
+admin : admin
+
+# Gericom
+USERNAME : PASSWORD
+Administrator : <blank>
+
+# Giga
+USERNAME : PASSWORD
+Administrator : admin
+
+# Gigabyte
+USERNAME : PASSWORD
+admin : admin
+
+# Gigafiber
+USERNAME : PASSWORD
+admin : jiocentrum
+
+# Glftpd
+USERNAME : PASSWORD
+glftpd : glftpd
+glftpd : glftpd
+
+# Globespan Virata
+USERNAME : PASSWORD
+DSL : DSL
+root : root
+
+# Google
+USERNAME : PASSWORD
+admin : urchin
+
+# Gossamer
+USERNAME : PASSWORD
+admin : admin
+author : author
+guest : guest
+
+# Grafana
+USERNAME : PASSWORD
+admin : admin
+
+# Grandstream
+USERNAME : PASSWORD
+<blank> : admin
+Administrator : admin
+End User : 123 (or blank)
+admin : 1234
+admin : admin
+End User : 123
+admin : admin
+
+# Greatspeed
+USERNAME : PASSWORD
+admin : broadband
+netadmin : nimdaten
+
+# Groupee
+USERNAME : PASSWORD
+Admin5 : 4tugboat
+
+# Guardone
+USERNAME : PASSWORD
+<blank> : guardone
+n.a : guardone
+
+# Guru
+USERNAME : PASSWORD
+admin : admin
+
+# Gvc
+USERNAME : PASSWORD
+Administrator : admin
+
+# H20 Project
+USERNAME : PASSWORD
+admin : admin
+
+# Haier
+USERNAME : PASSWORD
+ucenik23 : ucenik
+
+# Haivision
+USERNAME : PASSWORD
+admin : manager
+
+# Hayes
+USERNAME : PASSWORD
+system : isp
+
+# Hc-o5
+USERNAME : PASSWORD
+ : 1234
+
+# Heatmister
+USERNAME : PASSWORD
+admin : admin
+
+# Hemoco
+USERNAME : PASSWORD
+lansweeperuser : mysecretpassword0*
+
+# Hewlett Packard
+USERNAME : PASSWORD
+admin : admin
+<blank> : <blank>
+<blank> : hewlpack
+ADVMAIL : <blank>
+ADVMAIL : HP
+ADVMAIL : HPOFFICE DATA
+Admin : Admin
+Administrator : The last eight digits of the serial number
+Anonymous : <blank>
+FIELD : <blank>
+FIELD : HPONLY
+FIELD : HPP187 SYS
+FIELD : HPWORD PUB
+FIELD : LOTUS
+FIELD : MANAGER
+FIELD : MGR
+FIELD : SERVICE
+FIELD : SUPPORT
+HELLO : FIELD.SUPPORT
+HELLO : MANAGER.SYS
+HELLO : MGR.SYS
+HELLO : OP.OPERATOR
+HPSupport : badg3r5
+MAIL : HPOFFICE
+MAIL : MAIL
+MAIL : MPE
+MAIL : REMOTE
+MAIL : TELESUP
+MANAGER : COGNOS
+MANAGER : HPOFFICE
+MANAGER : ITF3000
+MANAGER : SECURITY
+MANAGER : SYS
+MANAGER : TCH
+MANAGER : TELESUP
+MGE : VESOFT
+MGR : CAROLIAN
+MGR : CCC
+MGR : CNAS
+MGR : COGNOS
+MGR : CONV
+MGR : HPDESK
+MGR : HPOFFICE
+MGR : HPONLY
+MGR : HPP187
+MGR : HPP189
+MGR : HPP196
+MGR : INTX3
+MGR : ITF3000
+MGR : NETBASE
+MGR : REGO
+MGR : RJE
+MGR : ROBELLE
+MGR : SECURITY
+MGR : SYS
+MGR : TELESUP
+MGR : VESOFT
+MGR : WORD
+MGR : XLSERVER
+OPERATOR : COGNOS
+OPERATOR : DISC
+OPERATOR : SUPPORT
+OPERATOR : SYS
+OPERATOR : SYSTEM
+Oper : Oper
+PCUSER : SYS
+RSBCMON : SYS
+SPOOLMAN : HPOFFICE
+WP : HPOFFICE
+admin : admin
+admin : hp.com
+admin : isee
+<blank> : <blank>
+<blank> : AUTORAID
+Administrator : admin
+Factory : 56789
+HELLO : OP.OPERATOR
+MGR : ITF3000
+MGR : NETBASE
+admin : !admin
+admin : <blank>
+admin : admin
+admin : isee
+root : password
+<blank> : <blank>
+<blank> : <blank>
+<blank> : <blank>
+Administrator : admin
+admin : opsware_admin
+
+# Highpoint
+USERNAME : PASSWORD
+RAID : hpt
+
+# Hikvision
+USERNAME : PASSWORD
+admin : 12345
+
+# Hipchat
+USERNAME : PASSWORD
+admin : hipchat
+
+# Honeynet
+USERNAME : PASSWORD
+roo : honey
+root : honey
+
+# Honeywell
+USERNAME : PASSWORD
+LocalComServer : LCS pwd 03
+TPSLocalServer : TLS pwd 03
+admin : 12345
+admin : 1234
+
+# Horizon
+USERNAME : PASSWORD
+<blank> : foolproof
+
+# Hosting Controller
+USERNAME : PASSWORD
+AdvWebadmin : advcomm500349
+
+# Huawei
+USERNAME : PASSWORD
+TMAR#HWMT8007079 : <blank>
+admin : Admin@huawei
+admin : admin
+admin : admin@huawei.com
+admin : superonline
+TMAR#HWMT8007079 : <blank>
+admin : admin
+Admin : admin
+admin : <blank>
+admin : admin
+digicel : digicel
+telecomadmin : admintelecom
+user : HuaweiUser
+user : user
+vodafone : vodafone
+
+# Hyperic
+USERNAME : PASSWORD
+hqadmin : hqadmin
+
+# I2b2
+USERNAME : PASSWORD
+I2b2demodata : i2b2demodata
+I2b2demodata2 : i2b2demodata2
+I2b2hive : i2b2hive
+I2b2metadata : i2b2metadata
+I2b2metadata2 : i2b2metadata2
+I2b2workdata : i2b2workdata
+I2b2workdata2 : i2b2workdata2
+
+# Iball
+USERNAME : PASSWORD
+admin : admin
+
+# Iblitzz
+USERNAME : PASSWORD
+admin : admin
+
+# Ibm
+USERNAME : PASSWORD
+$ALOC$ : <blank>
+$SRV : $SRV
+11111111 : 11111111
+22222222 : 22222222
+<blank> : <blank>
+<blank> : IBM
+<blank> : MBIU0
+<blank> : R1QTPS
+<blank> : admin
+<blank> : ascend
+<blank> : sertafu
+ADMIN : <blank>
+AP2SVP : <blank>
+APL2PP : <blank>
+AUTOLOG1 : <blank>
+Administrator : admin
+BATCH : <blank>
+BATCH1 : <blank>
+BATCH2 : <blank>
+CCC : <blank>
+CICSUSER : CISSUS
+CMSBATCH : <blank>
+CMSBATCH : CMSBATCH
+CMSUSER : <blank>
+CPNUC : <blank>
+CPRM : <blank>
+CSPUSER : <blank>
+CVIEW : <blank>
+DATAMOVE : <blank>
+DBDCCICS : DBDCCIC
+DEMO1 : <blank>
+DEMO2 : <blank>
+DEMO3 : <blank>
+DEMO4 : <blank>
+DIRECT : <blank>
+DIRMAINT : <blank>
+DISKCNT : <blank>
+EREP : <blank>
+ESSEX : <blank>
+FORSE : FORSE
+FSFADMIN : <blank>
+FSFTASK1 : <blank>
+FSFTASK2 : <blank>
+GCS : <blank>
+IBMUSER : SYS1
+IDMS : <blank>
+IDMSSE : <blank>
+IIPS : <blank>
+IPC : <blank>
+IPFSERV : <blank>
+ISPVM : <blank>
+IVPM1 : <blank>
+IVPM2 : <blank>
+MAINT : <blank>
+MAINT : MAINT
+MOESERV : <blank>
+NEVIEW : <blank>
+OLTSEP : <blank>
+OP1 : <blank>
+OPER : OPER
+OPERATIONS : OPERATIONS
+OPERATNS : <blank>
+OPERATNS : OPERATNS
+OPERATOR : <blank>
+Operator : Operator
+PDMREMI : <blank>
+PENG : <blank>
+POST : BASE
+PROCAL : <blank>
+PRODBM : <blank>
+PRODCICS : PRODCICS
+PROG : PROG
+PROMAIL : <blank>
+PSFMAINT : <blank>
+PVM : <blank>
+QSRV : 11111111
+QSRV : 22222222
+QSRV : QSRV
+RDM470 : <blank>
+ROUTER : <blank>
+RSCS : <blank>
+RSCSV2 : <blank>
+SAVSYS : <blank>
+SFCMI : <blank>
+SFCNTRL : <blank>
+SMART : <blank>
+SQLDBA : <blank>
+SQLUSER : <blank>
+SYSA : SYSA
+SYSADMIN : <blank>
+SYSCKP : <blank>
+SYSDUMP1 : <blank>
+SYSERR : <blank>
+SYSWRM : <blank>
+TDISK : <blank>
+TEMP : <blank>
+TSAFVM : <blank>
+USERID : PASSW0RD
+USERID : PASSWORD
+VASTEST : <blank>
+VCSRV : VCSRV
+VM3812 : <blank>
+VMARCH : <blank>
+VMASMON : <blank>
+VMASSYS : <blank>
+VMBACKUP : <blank>
+VMBSYSAD : <blank>
+VMMAP : <blank>
+VMTAPE : <blank>
+VMTLIBR : <blank>
+VMUTIL : <blank>
+VSEIPO : <blank>
+VSEMAINT : <blank>
+VSEMAN : <blank>
+VTAM : <blank>
+VTAM : VTAM
+VTAMUSER : <blank>
+admin : <blank>
+admin : admin
+admin : password
+admin : secure
+db2fenc1 : db2fenc1
+db2inst1 : db2inst1
+fg_sysadmin : password
+guest : <blank>
+guest : guest
+hscroot : abc123
+ibm : 2222
+ibm : password
+ibm : service
+qpgmr : qpgmr
+qsecofr : 11111111
+qsecofr : 22222222
+qsecofr : qsecofr
+qserv : qserv
+qsrv : qsrv
+qsrvbas : qsrvbas
+qsvr : ibmcel
+qsvr : qsvr
+qsysopr : qsysopr
+quser : quser
+root : <blank>
+root : passw0rd
+secofr : secofr
+sedacm : secacm
+storwatch : specialist
+superadmin : secret
+sysopr : sysopr
+user : USERP
+vt100 : public
+webadmin : webibm
+wpsadmin : wpsadmin
+USERID : PASSW0RD
+maxadmin : maxadmin
+maxreg : maxreg
+mxintadm : mxintadm
+admin : password
+admin : admin0001
+root : Passw0rd
+superuser : passw0rd
+admin : admin
+ucdpadmin : ucdpadmin
+wasadmin : wasadmin
+
+# Icatch
+USERNAME : PASSWORD
+admin : 123456
+root : icatch99
+
+# Idirect
+USERNAME : PASSWORD
+admin : P@55w0rd!
+root : iDirect
+
+# Ihs
+USERNAME : PASSWORD
+sa : $ei$micMicro
+
+# Inchon
+USERNAME : PASSWORD
+admin : admin
+
+# Inedo
+USERNAME : PASSWORD
+Admin : Admin
+
+# Infacta
+USERNAME : PASSWORD
+Administrator : <blank>
+
+# Infoblox
+USERNAME : PASSWORD
+admin : <blank>
+
+# Informix
+USERNAME : PASSWORD
+informix : informix
+
+# Infosmart
+USERNAME : PASSWORD
+admin : 0
+
+# Infrant
+USERNAME : PASSWORD
+admin : infrant1
+
+# Innovaphone
+USERNAME : PASSWORD
+admin : ip20
+admin : ip21
+admin : ip3000
+admin : ip305Beheer
+admin : ip400
+
+# Inova
+iclock : timely
+
+# Integral
+USERNAME : PASSWORD
+Administrator : letmein
+
+# Integrated Networks
+USERNAME : PASSWORD
+Administrator : 1234
+Administrator : 12345678
+Administrator : 19750407
+
+# Intel
+USERNAME : PASSWORD
+<blank> : Intel
+<blank> : isolation
+<blank> : shiva
+Guest : <blank>
+NICONEX : NICONEX
+intel : intel
+root : <blank>
+setup : setup
+admin : hello
+<blank> : <blank>
+admin : <blank>
+khan : kahn
+root : admin
+
+# Intellitouch
+USERNAME : PASSWORD
+administrator : 1234
+
+# Interbase
+USERNAME : PASSWORD
+SYSDBA : masterkey
+
+# Interfaceware
+USERNAME : PASSWORD
+admn : password
+
+# Intermec
+USERNAME : PASSWORD
+<blank> : intermec
+intermec : intermec
+
+# Internet Archive
+USERNAME : PASSWORD
+admin : letmein
+
+# Intershop
+USERNAME : PASSWORD
+operator : $chwarzepumpe
+
+# Intersystems
+USERNAME : PASSWORD
+system : sys
+
+# Intex
+USERNAME : PASSWORD
+<blank> : <blank>
+
+# Intracom
+USERNAME : PASSWORD
+admin : admin
+
+# Inventel
+USERNAME : PASSWORD
+admin : admin
+
+# Inventel Wanadoo
+USERNAME : PASSWORD
+Admin : Admin
+
+# Ion
+USERNAME : PASSWORD
+<blank> : admin
+Administrator : admin
+
+# Ipfire
+USERNAME : PASSWORD
+admin : <blank>
+admin : admin
+root : admin
+
+# Ipstar
+USERNAME : PASSWORD
+admin : operator
+
+# Ipswitch
+USERNAME : PASSWORD
+XXSESS_MGRYY : X#1833
+admin : admin
+guest : <blank>
+
+# Iqinvision
+USERNAME : PASSWORD
+root : system
+
+# Irc
+USERNAME : PASSWORD
+<blank> : FOOBAR
+
+# Irongate
+USERNAME : PASSWORD
+admin : NetSurvibox
+
+# Ironport
+USERNAME : PASSWORD
+admin : ironport
+
+# Iso Sistemi
+USERNAME : PASSWORD
+<blank> : <blank>
+
+# Iwill
+USERNAME : PASSWORD
+<blank> : iwill
+
+# Jaht
+USERNAME : PASSWORD
+admin : epicrouter
+
+# Jamf Software
+USERNAME : PASSWORD
+jamfsoftware : jamfsw03
+
+# Janitza
+USERNAME : PASSWORD
+Homepage Password : 0th
+admin : Janitza
+guest : Janitza
+user : Janitza
+
+# Jasperreports
+USERNAME : PASSWORD
+jasperadmin : bitnami
+jasperadmin : jasperadmin
+demo : demo
+jasperadmin : jasperadmin
+joeuser : joeuser
+superuser : superuser
+
+# Jboss
+USERNAME : PASSWORD
+admin : admin
+admin : admin
+
+# Jd Edwards
+USERNAME : PASSWORD
+JDE : JDE
+
+# Jde
+USERNAME : PASSWORD
+PRODDTA : PRODDTA
+
+# Jds
+USERNAME : PASSWORD
+hydrasna : <blank>
+hydrasna : <blank>
+
+# Jean-philippe
+USERNAME : PASSWORD
+admin : admin
+
+# Jeebles Technology
+USERNAME : PASSWORD
+<blank> : admin
+
+# Jenkins
+USERNAME : PASSWORD
+<blank> : <blank>
+
+# Jetform
+USERNAME : PASSWORD
+Jetform : <blank>
+
+# Jetway
+USERNAME : PASSWORD
+<blank> : spooml
+
+# Jio
+USERNAME : PASSWORD
+admin : Jiocentrum
+administrator : administrator
+
+# Jiofi
+USERNAME : PASSWORD
+administrator : administrator
+
+# Jiofiber
+USERNAME : PASSWORD
+admin : jiocentrum
+
+# Johnson Controls
+USERNAME : PASSWORD
+johnson : control
+
+# Joss Technology
+USERNAME : PASSWORD
+<blank> : 57gbzb
+<blank> : technolgi
+
+# Juniper
+USERNAME : PASSWORD
+admin : abc123
+admin : netscreen
+admin : peribit
+netscreen : netscreen
+redline : redline
+serial# : serial#
+super : juniper123
+admin : abc123
+admin : netscreen
+admin : peribit
+netscreen : netscreen
+redline : redline
+serial# : serial#
+admin : <<< %s(un=\'%s\') = %u.
+admin : abc123
+super : juniper123
+netscreen : <<< %s(un='%s') = %u
+
+# Justin Hagstrom
+USERNAME : PASSWORD
+admin : admin
+test : test
+
+# Jvc
+USERNAME : PASSWORD
+admin : jvc
+
+# Kalatel
+USERNAME : PASSWORD
+<blank> : 3477
+<blank> : 8111
+
+# Kali Linux
+USERNAME : PASSWORD
+kali : kali
+root : toor
+
+# Kanboard
+USERNAME : PASSWORD
+admin : admin
+
+# Kaptest
+USERNAME : PASSWORD
+admin : <blank>
+
+# Kasda
+USERNAME : PASSWORD
+admin : adslroot
+
+# Kentico
+USERNAME : PASSWORD
+administrator : <blank>
+
+# Kethinov
+USERNAME : PASSWORD
+root : password
+
+# Keyscan
+USERNAME : PASSWORD
+keyscan : KEYSCAN
+
+# Kodak
+USERNAME : PASSWORD
+PACSLinkIP : NetServer
+PLMIMService : NetServer
+RNIServiceManager : NetServer
+SA : PASSWORD
+Service : Service
+
+# Kodi
+USERNAME : PASSWORD
+kodi : kodi
+
+# Konica
+USERNAME : PASSWORD
+<blank> : 0
+<blank> : 1234
+<blank> : <blank>
+<blank> : MagiMFP
+<blank> : sysAdmin
+<blank> : sysadm
+admin : administrator
+<blank> : 0
+<blank> : 1234
+<blank> : <blank>
+<blank> : MagiMFP
+<blank> : sysAdmin
+<blank> : sysadm
+admin : administrator
+
+# Kronos
+USERNAME : PASSWORD
+SuperUser : kronites
+
+# Kti
+USERNAME : PASSWORD
+admin : 123
+admin : 123456
+superuser : 123456
+
+# Kyocera
+USERNAME : PASSWORD
+2800 : 2800
+<blank> : PASSWORD
+<blank> : admin00
+admin : <blank>
+admin : admin
+root : root
+
+# Lacie
+USERNAME : PASSWORD
+admin : admin
+
+# Lancom
+USERNAME : PASSWORD
+<blank> : <blank>
+
+# Lanier
+USERNAME : PASSWORD
+<blank> : sysadm
+admin : <blank>
+supervisor : <blank>
+
+# Lansa
+USERNAME : PASSWORD
+WEBADM : password
+admin : admin
+dev : dev
+
+# Lantronics
+USERNAME : PASSWORD
+<blank> : access
+<blank> : system
+
+# Lantronix
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : access
+<blank> : admin
+<blank> : lantronix
+<blank> : system
+login : access
+sysadmin : PASS
+
+# Lasa Aims
+USERNAME : PASSWORD
+ADMIN : AIMS
+FB : AIMS
+
+# Latis
+USERNAME : PASSWORD
+<blank> : <blank>
+
+# Laxo
+USERNAME : PASSWORD
+admin : admin
+
+# Ldap Account Manager
+USERNAME : PASSWORD
+lam : lam
+
+# Leading Edge
+USERNAME : PASSWORD
+<blank> : MASTER
+
+# Lenel
+USERNAME : PASSWORD
+admin : admin
+LENEL : MULTIMEDIA
+
+# Level1
+USERNAME : PASSWORD
+admin : admin
+
+# Leviton
+USERNAME : PASSWORD
+admin : leviton
+
+# Lg
+USERNAME : PASSWORD
+<blank> : jannie
+admin : admin
+admin : epicrouter
+vikram : singh
+
+# Lgic
+USERNAME : PASSWORD
+LR-ISDN : LR-ISDN
+
+# Liebert
+USERNAME : PASSWORD
+Liebert : Liebert
+
+# Lindsay Electronics
+USERNAME : PASSWORD
+ADMINISTRATOR : SENTINEL
+SENTINEL : SENTINEL
+
+# Linksys
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : admin
+<blank> : epicrouter
+Administrator : admin
+admin : <blank>
+admin : admin
+comcast : 1234
+root : orion99
+user : tivonpw
+admin : admin
+admin : password
+linksys : <blank>
+root : admin
+
+# Linux
+USERNAME : PASSWORD
+gonzo : <blank>
+root : uClinux
+satan : <blank>
+snake : <blank>
+
+# Liquidware
+USERNAME : PASSWORD
+ssadmin : sspassword
+
+# Livingston
+USERNAME : PASSWORD
+!root : <blank>
+
+# Livingstone
+USERNAME : PASSWORD
+root : <blank>
+
+# Lockdown
+USERNAME : PASSWORD
+setup : changeme!
+
+# Logilink
+USERNAME : PASSWORD
+admin : 1234
+
+# Logitech
+USERNAME : PASSWORD
+<blank> : 0
+ : 0 or 0000
+
+# Loglogic
+USERNAME : PASSWORD
+root : logapp
+toor : logapp
+
+# Longshine
+USERNAME : PASSWORD
+admin : 0
+
+# Lucent
+USERNAME : PASSWORD
+(any 3 characters) : cascade
+(any 3 chars) : cascade
+<blank> : admin
+<blank> : cascade
+Administrator : <blank>
+LUCENT01 : UI-PSWD-01
+LUCENT02 : UI-PSWD-02
+admin : AitbISP4eCiG
+admin : Ascend
+bciim : bciimpw
+bcim : bcimpw
+bcms : bcmspw
+bcnas : bcnaspw
+blue : bluepw
+browse : browsepw
+browse : looker
+craft : craft
+craft : craftpw
+cust : custpw
+enquiry : enquirypw
+field : support
+inads : inads
+inads : indspw
+init : initpw
+locate : locatepw
+maint : maintpw
+maint : rwmaint
+nms : nmspw
+pw : pwpw
+rcust : rcustpw
+readonly : lucenttech2
+readwrite : lucenttech1
+root : ascend
+super : super
+support : supportpw
+sysadm : admpw
+sysadm : sysadmpw
+sysadm : syspw
+tech : field
+
+# Luxon
+USERNAME : PASSWORD
+administrator : 19750407
+
+# M0n0wall
+USERNAME : PASSWORD
+admin : mono
+
+# M Technology
+USERNAME : PASSWORD
+<blank> : mMmM
+
+# Machspeed
+USERNAME : PASSWORD
+<blank> : sp99dd
+
+# Macromedia
+USERNAME : PASSWORD
+<blank> : admin
+
+# Macsense
+USERNAME : PASSWORD
+admin : admin
+
+# Magento
+USERNAME : PASSWORD
+admin : 123123
+
+# Magic-pro
+USERNAME : PASSWORD
+<blank> : prost
+
+# Main Street Softworks
+USERNAME : PASSWORD
+MCVEADMIN : password
+
+# Makito Decoder
+USERNAME : PASSWORD
+admin : %89%F0%01%8F%D0%01%80%F0%01%85%D0%01%83%F0%01%83%E0%01%84%F0%01
+
+# Mambo
+USERNAME : PASSWORD
+admin : admin
+
+# Manageengine
+USERNAME : PASSWORD
+admin : admin
+
+# Mandarin Library
+USERNAME : PASSWORD
+admin : boca raton
+
+# Manjaro
+USERNAME : PASSWORD
+manjaro : sudo access
+manjaro : user access
+
+# Mantis
+USERNAME : PASSWORD
+administrator : root
+
+# Marconi
+USERNAME : PASSWORD
+ami : <blank>
+
+# Maxdata
+USERNAME : PASSWORD
+<blank> : <blank>
+
+# Maygion Camera
+USERNAME : PASSWORD
+admin : admin
+
+# Mcafee
+USERNAME : PASSWORD
+admin : admin123
+scmadmin : scmchangeme
+webshield : webshieldchangeme
+
+# Mcdata
+USERNAME : PASSWORD
+Administrator : password
+McdataSE : redips
+
+# Mediaportal
+USERNAME : PASSWORD
+sa : M3d!aP0rtal
+
+# Mediatrix
+USERNAME : PASSWORD
+admin : 1234
+administrator : <blank>
+
+# Medion
+USERNAME : PASSWORD
+<blank> : medion
+
+# Medo Check
+USERNAME : PASSWORD
+mcUser : medocheck123
+
+# Megastar
+USERNAME : PASSWORD
+<blank> : star
+
+# Memotec
+USERNAME : PASSWORD
+memotec : supervisor
+
+# Mentec
+USERNAME : PASSWORD
+MICRO : RSX
+
+# Mercury
+USERNAME : PASSWORD
+Administrator : admin
+
+# Mercury Interactive
+USERNAME : PASSWORD
+admin : admin
+
+# Meridian
+USERNAME : PASSWORD
+service : smile
+
+# Metasploit
+USERNAME : PASSWORD
+msf : msf
+msfdev : msfdev
+
+# Metro
+USERNAME : PASSWORD
+client : client
+
+# Michiel
+USERNAME : PASSWORD
+admin : phplist
+
+# Micro Focus
+USERNAME : PASSWORD
+sa : SilkCentral12!34
+
+# Microcom
+USERNAME : PASSWORD
+admin : epicrouter
+admin : superuser
+user : password
+
+# Micron
+USERNAME : PASSWORD
+<blank> : sldkj754
+<blank> : xyzall
+
+# Micronet
+USERNAME : PASSWORD
+admin : admin
+admin : epicrouter
+mac : <blank>
+root : default
+
+# Micronics
+USERNAME : PASSWORD
+<blank> : dn_04rjc
+
+# Microplex
+USERNAME : PASSWORD
+root : root
+
+# Microrouter
+USERNAME : PASSWORD
+<blank> : letmein
+
+# Microsoft
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : admin
+<blank> : sa
+Administrator : <blank>
+Administrator : Administrator
+Guest : (none)
+Guest : <blank>
+Guest : Guest
+IS_$hostname : IS_$hostname
+LDAP_Anonymous : LdapPassword_1
+LessonUser1 : <blank>
+LessonUser2 : <blank>
+MSHOME : MSHOME
+User : User
+sa : <blank>
+
+# Mike Peters
+USERNAME : PASSWORD
+bsxuser : bsxpass
+
+# Mikrotik
+USERNAME : PASSWORD
+admin : <blank>
+admin : <blank>
+
+# Milan
+USERNAME : PASSWORD
+root : root
+
+# Minolta
+USERNAME : PASSWORD
+<blank> : sysadm
+admin : <blank>
+operator : <blank>
+
+# Mintel
+USERNAME : PASSWORD
+<blank> : SYSTEM
+
+# Mitel
+USERNAME : PASSWORD
+<blank> : <blank>
+installer : 1000
+system : mnet
+system : password
+
+# Mitel Networks
+USERNAME : PASSWORD
+1nstaller : 5X2000
+installer : sx2000
+maint1 : sx2000
+maint2 : sx2000
+s1stem : 5X2000
+system : sx2000
+
+# Mklencke
+USERNAME : PASSWORD
+root : blablabla
+
+# Mobotix
+USERNAME : PASSWORD
+admin : meinsm
+
+# Modern.ie
+USERNAME : PASSWORD
+IEUser : D@rj33l1ng
+
+# Mole
+USERNAME : PASSWORD
+admin : admin
+
+# Mongodb
+USERNAME : PASSWORD
+<blank> : <blank>
+
+# Motive
+USERNAME : PASSWORD
+admin : isee
+
+# Motorola
+USERNAME : PASSWORD
+<blank> : 0
+admin : motorola
+admin : password
+cablecom : router
+service : smile
+setup : <blank>
+technician : yZgO8Bvj
+<blank> : <blank>
+
+# Movistar
+USERNAME : PASSWORD
+1234 : 1234
+admin : admin
+
+# Mp3mystic
+USERNAME : PASSWORD
+admin : mp3mystic
+
+# Mro Software
+USERNAME : PASSWORD
+SYSADM : sysadm
+
+# Mrv
+USERNAME : PASSWORD
+admin : admin
+
+# Mssql
+USERNAME : PASSWORD
+ADONI : BPMS
+sa : <blank>
+sa : Password123
+sa : password
+sa : sa
+sa : sqlserver
+
+# Mtnl
+USERNAME : PASSWORD
+admin : admin
+
+# Mutare
+USERNAME : PASSWORD
+<blank> : admin
+
+# Muze
+USERNAME : PASSWORD
+admin : muze
+
+# Myiosoft
+USERNAME : PASSWORD
+demo : demo
+
+# Mysql
+USERNAME : PASSWORD
+admin@example.com : admin
+root : (none)
+root : <blank>
+superdba : admin
+root : root
+
+# Nai
+USERNAME : PASSWORD
+GlobalAdmin : GlobalAdmin
+admin : admin123
+
+# Nanoteq
+USERNAME : PASSWORD
+admin : NetSeq
+
+# Napco
+USERNAME : PASSWORD
+cic : Cic!23456789
+cic : cic
+cic : cic!23456789
+sa : Cic!23456789
+sa : cic
+sa : cic!23456789
+
+# Ncircle
+USERNAME : PASSWORD
+root : ciwuxe
+
+# Ncr
+USERNAME : PASSWORD
+ncrm : ncrm
+
+# Nec
+USERNAME : PASSWORD
+<blank> : <blank>
+admin : password
+
+# Netapp
+USERNAME : PASSWORD
+admin : NetCache
+admin : admin123
+
+# Netasq
+USERNAME : PASSWORD
+admin : admin
+
+# Netbackup
+USERNAME : PASSWORD
+admin : password
+
+# Netbotz
+USERNAME : PASSWORD
+netbotz : netbotz
+
+# Netcomm
+USERNAME : PASSWORD
+<blank> : admin
+admin : password
+user : password
+
+# Netcordia
+USERNAME : PASSWORD
+admin : admin
+
+# Netcore
+USERNAME : PASSWORD
+admin : admin
+guest : guest
+
+# Netgear
+USERNAME : PASSWORD
+(none) : 1234
+<blank> : 1234
+<blank> : <blank>
+<blank> : admin
+<blank> : password
+<blank> : private
+<blank> : zebra
+Admin : password
+Gearguy : Geardog
+admin : 1234
+admin : <blank>
+admin : admin
+admin : draadloos
+admin : infrant1
+admin : netgear1
+admin : password
+admin : setup
+comcast : 1234
+cusadmin : highspeed
+super : 5777364
+superman : 21241036
+
+# Netgenesis
+USERNAME : PASSWORD
+naadmin : naadmin
+
+# Netio
+USERNAME : PASSWORD
+admin : admin
+
+# Netopia
+USERNAME : PASSWORD
+<blank> : <blank>
+admin : <blank>
+admin : noway
+factory : (see note)
+netopia : netopia
+
+# Netport
+USERNAME : PASSWORD
+setup : setup
+
+# Netscape
+USERNAME : PASSWORD
+admin : admin
+
+# Netscreen
+USERNAME : PASSWORD
+<blank> : <blank>
+Administrator : <blank>
+admin : <blank>
+admin : netscreen
+netscreen : netscreen
+operator : <blank>
+
+# Netstar
+USERNAME : PASSWORD
+admin : password
+
+# Netsys
+USERNAME : PASSWORD
+admin : admin
+
+# Network Appliance
+USERNAME : PASSWORD
+admin : NetCache
+
+# Network Associates
+USERNAME : PASSWORD
+e250 : e250changeme
+e500 : e500changeme
+
+# Network Everywhere
+USERNAME : PASSWORD
+<blank> : admin
+
+# Networkice
+USERNAME : PASSWORD
+iceman : <blank>
+
+# Netxms
+USERNAME : PASSWORD
+admin : netxms
+
+# Nevisidm
+USERNAME : PASSWORD
+bootstrap : generated
+
+# Newsmedia
+USERNAME : PASSWORD
+root : admin
+
+# Nexsan
+USERNAME : PASSWORD
+ADMIN : PASSWORD
+
+# Next
+USERNAME : PASSWORD
+me : <blank>
+root : NeXT
+signa : signa
+
+# Nexus Repo
+USERNAME : PASSWORD
+admin : admin123
+
+# Ngsec
+USERNAME : PASSWORD
+admin : <blank>
+admin : asd
+
+# Ngsecure
+USERNAME : PASSWORD
+admin : admin
+
+# Nice Systems
+USERNAME : PASSWORD
+Administrator : nicecti
+Nice-admin : nicecti
+
+# Niksun
+USERNAME : PASSWORD
+vcr : NetVCR
+
+# Nimble
+USERNAME : PASSWORD
+<blank> : xdfk9874t3
+
+# Nokia
+USERNAME : PASSWORD
+<blank> : 9999
+<blank> : Telecom
+<blank> : nokai
+<blank> : nokia
+Security Code : 12345
+Telecom : Telecom
+admin : (none)
+client : client
+m1122 : m1122
+nop : 12345
+nop : 123454
+root : nokia
+root : rootme
+telecom : telecom
+
+# Nomadix
+USERNAME : PASSWORD
+admin : <blank>
+
+# Norstar
+USERNAME : PASSWORD
+**23646 : 23646
+**266344 : 266344
+
+# Nortel
+USERNAME : PASSWORD
+266344 : 266344
+<blank> : 0
+<blank> : 266344
+<blank> : <blank>
+<blank> : l1
+<blank> : l2
+<blank> : ro
+<blank> : rw
+<blank> : rwa
+<blank> : secure
+Manager : <blank>
+admin : 0
+admin : <blank>
+admin : admin
+admin : admin000
+admin : root
+admin : setup
+administrator : PlsChgMe!
+ccrusr : ccrusr
+conferencing : admin
+debug : gubed
+distrib : distrib0
+disttech : 4tas
+disttech : disttech
+disttech : etas
+l2 : l2
+l3 : l3
+login : 0
+login : 1111
+login : 8429
+maint : maint
+maint : ntacdmax
+mlusr : mlusr
+ro : ro
+root : 3ep5w2u
+rw : rw
+rwa : rwa
+service : smile
+spcl : 0
+supervisor : PlsChgMe!
+supervisor : visor
+sysadmin : nortel
+system : adminpwd
+tasman : tasmannet
+trmcnfg : trmcnfg
+user : <blank>
+user : user
+user : user0000
+admin : admin
+
+# Novell
+USERNAME : PASSWORD
+<blank> : cr0wmt 911
+<blank> : root
+<blank> : san fran 8
+ADMIN : <blank>
+ADMIN : ADMIN
+ADMIN : admin
+ARCHIVIST : <blank>
+ARCHIVIST : ARCHIVIST
+BACKUP : <blank>
+BACKUP : BACKUP
+CHEY_ARCHSVR : <blank>
+CHEY_ARCHSVR : CHEY_ARCHSVR
+FAX : <blank>
+FAX : FAX
+FAXUSER : <blank>
+FAXUSER : FAXUSER
+FAXWORKS : <blank>
+FAXWORKS : FAXWORKS
+GATEWAY : <blank>
+GATEWAY : GATEWAY
+GUEST : <blank>
+GUEST : GUEST
+GUEST : GUESTGUE
+GUEST : GUESTGUEST
+GUEST : TSEUG
+HPLASER : <blank>
+HPLASER : HPLASER
+LASER : <blank>
+LASER : LASER
+LASERWRITER : <blank>
+LASERWRITER : LASERWRITER
+MAIL : <blank>
+MAIL : MAIL
+POST : <blank>
+POST : POST
+PRINT : <blank>
+PRINT : PRINT
+PRINTER : <blank>
+PRINTER : PRINTER
+ROOT : <blank>
+ROOT : ROOT
+ROUTER : <blank>
+SABRE : <blank>
+SUPERVISOR : <blank>
+SUPERVISOR : HARRIS
+SUPERVISOR : NETFRAME
+SUPERVISOR : NF
+SUPERVISOR : NFI
+SUPERVISOR : SUPERVISOR
+SUPERVISOR : SYSTEM
+TEST : <blank>
+TEST : TEST
+USER_TEMPLATE : <blank>
+USER_TEMPLATE : USER_TEMPLATE
+WANGTEK : <blank>
+WANGTEK : WANGTEK
+WINDOWS_PASSTHRU : <blank>
+WINDOWS_PASSTHRU : WINDOWS_PASSTHRU
+WINSABRE : SABRE
+WINSABRE : WINSABRE
+admin : admin
+admin : novell
+sadmin : <blank>
+servlet : manager
+
+# Nrg
+<blank> : password
+USERNAME : PASSWORD
+
+# Nsi
+USERNAME : PASSWORD
+root : nsi
+
+# Nullsoft
+USERNAME : PASSWORD
+admin : changeme
+
+# Nurit
+USERNAME : PASSWORD
+$system : <blank>
+
+# Nuxeo
+USERNAME : PASSWORD
+Administrator : Administrator
+
+# Oce
+USERNAME : PASSWORD
+<blank> : 0 and the number of OCE printer
+
+# Odoo
+USERNAME : PASSWORD
+admin : admin
+demo : demo
+
+# Ods
+USERNAME : PASSWORD
+ods : ods
+
+# Offsensive Security
+USERNAME : PASSWORD
+kali : kali
+root : toor
+
+# Oki
+USERNAME : PASSWORD
+admin : <SEE COMMENT>
+admin : OkiLAN
+root : <SEE COMMENT>
+
+# Oleg
+USERNAME : PASSWORD
+username : password
+
+# Olicom
+USERNAME : PASSWORD
+<blank> : AaBbCcDd
+
+# Omnitronix
+USERNAME : PASSWORD
+<blank> : SMDR
+<blank> : SUPER
+
+# Omron
+USERNAME : PASSWORD
+<blank> : <blank>
+
+# Open-xchange
+USERNAME : PASSWORD
+mailadmin : secret
+
+# Open Networks
+USERNAME : PASSWORD
+root : 0P3N
+
+# Openconnect
+USERNAME : PASSWORD
+admin : OCS
+adminstat : OCS
+adminuser : OCS
+adminview : OCS
+helpdesk : OCS
+
+# Opengts
+USERNAME : PASSWORD
+gts : opengts
+
+# Openlink
+USERNAME : PASSWORD
+admin : admin
+
+# Openmarket
+USERNAME : PASSWORD
+Bobo : hello
+Coco : hello
+Flo : hello
+Joe : hello
+Moe : hello
+admin : demo
+user_analyst : demo
+user_approver : demo
+user_author : demo
+user_checker : demo
+user_designer : demo
+user_editor : demo
+user_expert : demo
+user_marketer : demo
+user_pricer : demo
+user_publisher : demo
+
+# Opennetadmin
+USERNAME : PASSWORD
+admin : admin
+
+# Openwave
+USERNAME : PASSWORD
+cac_admin : cacadmin
+sys : uplink
+
+# Optivision
+USERNAME : PASSWORD
+root : mpegvideo
+
+# Oracle
+USERNAME : PASSWORD
+<blank> : <blank>
+ADAMS : WOOD
+ADLDEMO : ADLDEMO
+ADMIN : JETSPEED
+ADMIN : WELCOME
+ADMINISTRATOR : ADMINISTRATOR
+ADMINISTRATOR : admin
+ANDY : SWORDFISH
+AP : AP
+APPLSYS : APPLSYS
+APPLSYS : FND
+APPLSYSPUB : FNDPUB
+APPS : APPS
+APPUSER : APPUSER
+AQ : AQ
+AQDEMO : AQDEMO
+AQJAVA : AQJAVA
+AQUSER : AQUSER
+AUDIOUSER : AUDIOUSER
+AURORA$JIS$UTILITY$ : <blank>
+AURORA$ORB$UNAUTHENTICATED : INVALID
+AURORA@ORB@UNAUTHENTICATED : INVALID
+BC4J : BC4J
+BLAKE : PAPER
+BRIO_ADMIN : BRIO_ADMIN
+CATALOG : CATALOG
+CDEMO82 : CDEMO82
+CDEMOCOR : CDEMOCOR
+CDEMORID : CDEMORID
+CDEMOUCB : CDEMOUCB
+CENTRA : CENTRA
+CIDS : CIDS
+CIS : CIS
+CISINFO : CISINFO
+CLARK : CLOTH
+COMPANY : COMPANY
+COMPIERE : COMPIERE
+CQSCHEMAUSER : PASSWORD
+CSMIG : CSMIG
+CTXDEMO : CTXDEMO
+CTXSYS : <blank>
+CTXSYS : CTXSYS
+DBI : MUMBLEFRATZ
+DBSNMP : DBSNMP
+DEMO : DEMO
+DEMO8 : DEMO8
+DEMO9 : DEMO9
+DES : DES
+DEV2000_DEMOS : DEV2000_DEMOS
+DIP : DIP
+DISCOVERER_ADMIN : DISCOVERER_ADMIN
+DSGATEWAY : DSGATEWAY
+DSSYS : DSSYS
+EJSADMIN : EJSADMIN
+EMP : EMP
+ESTOREUSER : ESTORE
+EVENT : EVENT
+EXFSYS : EXFSYS
+FINANCE : FINANCE
+FND : FND
+FROSTY : SNOWMAN
+GL : GL
+GPFD : GPFD
+GPLD : GPLD
+HCPARK : HCPARK
+HLW : HLW
+HR : HR
+IMAGEUSER : IMAGEUSER
+IMEDIA : IMEDIA
+JMUSER : JMUSER
+JONES : STEEL
+JWARD : AIROPLANE
+L2LDEMO : L2LDEMO
+LBACSYS : LBACSYS
+LIBRARIAN : SHELVES
+MASTER : PASSWORD
+MDDEMO : MDDEMO
+MDDEMO_CLERK : CLERK
+MDDEMO_MGR : MGR
+MDSYS : MDSYS
+MFG : MFG
+MGWUSER : MGWUSER
+MIGRATE : MIGRATE
+MILLER : MILLER
+MMO2 : MMO2
+MODTEST : YES
+MOREAU : MOREAU
+MTSSYS : MTSSYS
+MTS_USER : MTS_PASSWORD
+MTYSYS : MTYSYS
+MXAGENT : MXAGENT
+NAMES : NAMES
+OAS_PUBLIC : OAS_PUBLIC
+OCITEST : OCITEST
+ODM : ODM
+ODM_MTR : MTRPW
+ODS : ODS
+ODSCOMMON : ODSCOMMON
+OE : OE
+OEMADM : OEMADM
+OEMREP : OEMREP
+OLAPDBA : OLAPDBA
+OLAPSVR : INSTANCE
+OLAPSYS : MANAGER
+OMWB_EMULATION : ORACLE
+OO : OO
+OPENSPIRIT : OPENSPIRIT
+ORACACHE : (random password)
+ORAREGSYS : ORAREGSYS
+ORASSO : ORASSO
+ORDPLUGINS : ORDPLUGINS
+ORDSYS : ORDSYS
+OSE$HTTP$ADMIN : (random password)
+OSP22 : OSP22
+OUTLN : OUTLN
+OWA : OWA
+OWA_PUBLIC : OWA_PUBLIC
+OWNER : OWNER
+PANAMA : PANAMA
+PATROL : PATROL
+PERFSTAT : PERFSTAT
+PLEX : PLEX
+PLSQL : SUPERSECRET
+PM : PM
+PO : PO
+PO7 : PO7
+PO8 : PO8
+PORTAL30 : PORTAL30
+PORTAL30 : PORTAL31
+PORTAL30_DEMO : PORTAL30_DEMO
+PORTAL30_PUBLIC : PORTAL30_PUBLIC
+PORTAL30_SSO : PORTAL30_SSO
+PORTAL30_SSO_PS : PORTAL30_SSO_PS
+PORTAL30_SSO_PUBLIC : PORTAL30_SSO_PUBLIC
+POWERCARTUSER : POWERCARTUSER
+PRIMARY : PRIMARY
+PUBSUB : PUBSUB
+PUBSUB1 : PUBSUB1
+QDBA : QDBA
+QS : QS
+QS_ADM : QS_ADM
+QS_CB : QS_CB
+QS_CBADM : QS_CBADM
+QS_CS : QS_CS
+QS_ES : QS_ES
+QS_OS : QS_OS
+QS_WS : QS_WS
+RE : RE
+REPADMIN : REPADMIN
+REPORTS_USER : OEM_TEMP
+REP_MANAGER : DEMO
+REP_OWNER : DEMO
+REP_OWNER : REP_OWNER
+RMAIL : RMAIL
+RMAN : RMAN
+SAMPLE : SAMPLE
+SAP : SAPR3
+SCOTT : TIGER
+SDOS_ICSAP : SDOS_ICSAP
+SECDEMO : SECDEMO
+SERVICECONSUMER1 : SERVICECONSUMER1
+SH : SH
+SITEMINDER : SITEMINDER
+SLIDE : SLIDEPW
+STARTER : STARTER
+STRAT_USER : STRAT_PASSWD
+SWPRO : SWPRO
+SWUSER : SWUSER
+SYMPA : SYMPA
+SYS : CHANGE_ON_INSTALL
+SYS : D_SYSPW
+SYSADM : SYSADM
+SYSMAN : OEM_TEMP
+SYSMAN : oem_temp
+SYSTEM : D_SYSTPW
+SYSTEM : MANAGER
+TAHITI : TAHITI
+TDOS_ICSAP : TDOS_ICSAP
+TESTPILOT : TESTPILOT
+TRACESRV : TRACE
+TRACESVR : TRACE
+TRAVEL : TRAVEL
+TSDEV : TSDEV
+TSUSER : TSUSER
+TURBINE : TURBINE
+ULTIMATE : ULTIMATE
+USER : USER
+USER0 : USER0
+USER1 : USER1
+USER2 : USER2
+USER3 : USER3
+USER4 : USER4
+USER5 : USER5
+USER6 : USER6
+USER7 : USER7
+USER8 : USER8
+USER9 : USER9
+UTLBSTATU : UTLESTAT
+VIDEOUSER : VIDEO USER
+VIF_DEVELOPER : VIF_DEV_PWD
+VIRUSER : VIRUSER
+VRR1 : VRR1
+WEBCAL01 : WEBCAL01
+WEBDB : WEBDB
+WEBREAD : WEBREAD
+WKSYS : WKSYS
+WWW : WWW
+WWWUSER : WWWUSER
+XPRT : XPRT
+admin : admin
+admin : adminadmin
+admin : security
+admin : welcome
+bpel : bpel
+cn=orcladmin : welcome
+demo : demo
+ilom-admin : ilom-admin
+ilom-operator : ilom-operator
+internal : oracle
+joe : password
+mary : password
+nm2user : nm2user
+oracle : oracle
+scott : tiger or tigger
+siteadmin : siteadmin
+sys : change_on_install
+sys : sys
+system : manager
+system : password
+system : security
+system/manager : sys/change_on_install
+webdb : webdb
+webgb : webdb
+weblogic : weblogic
+wlcsystem : wlcsystem
+wlpisystem : wlpisystem
+admin : <blank>
+admin : admin
+
+# Orange
+USERNAME : PASSWORD
+admin : admin
+root : 1234
+
+# Osicom
+USERNAME : PASSWORD
+Manager : Admin
+Manager : Manager
+d.e.b.u.g : User
+debug : d.e.b.u.g
+echo : User
+echo : echo
+guest : User
+guest : guest
+sysadm : Admin
+sysadm : sysadm
+write : private
+
+# Osmc
+USERNAME : PASSWORD
+osmc : osmc
+
+# Otrs
+USERNAME : PASSWORD
+root@localhost : root
+
+# Overland
+USERNAME : PASSWORD
+Factory : 56789
+
+# Overland Storage
+USERNAME : PASSWORD
+root : Password
+
+# Ovislink
+USERNAME : PASSWORD
+root : root
+user : user
+
+# Pacific Micro Data
+USERNAME : PASSWORD
+pmd : <blank>
+
+# Packard Bell
+USERNAME : PASSWORD
+<blank> : bell9
+
+# Packeteer
+USERNAME : PASSWORD
+<blank> : touchpwd=
+
+# Panasonic
+USERNAME : PASSWORD
+<blank> : 1234
+<blank> : <blank>
+admin : 1234
+admin : 12345
+
+# Panatel
+USERNAME : PASSWORD
+admin : admin
+
+# Parallels
+USERNAME : PASSWORD
+admin : setup
+
+# Parrot
+USERNAME : PASSWORD
+<blank> : 0
+
+# Patton
+USERNAME : PASSWORD
+monitor : monitor
+superuser : superuser
+
+# Pbx
+USERNAME : PASSWORD
+tech : nician
+
+# Penta Office
+USERNAME : PASSWORD
+<blank> : pento
+
+# Pentagram
+USERNAME : PASSWORD
+admin : password
+
+# Pentasafe
+USERNAME : PASSWORD
+PSEAdmin : $secure$
+
+# Perle
+USERNAME : PASSWORD
+admin : superuser
+
+# Pfsense
+USERNAME : PASSWORD
+admin : pfsense
+
+# Philips
+USERNAME : PASSWORD
+admin : admin
+
+# Phoenix
+USERNAME : PASSWORD
+Administrator : admin
+
+# Phpreactor
+USERNAME : PASSWORD
+core : phpreactor
+
+# Pikatel
+USERNAME : PASSWORD
+DSL : DSL
+
+# Pirelli
+USERNAME : PASSWORD
+admin : admin
+admin : microbusiness
+admin : mu
+admin : smallbusiness
+user : password
+
+# Pivotal Software
+USERNAME : PASSWORD
+guest : guest
+
+# Plaintree
+USERNAME : PASSWORD
+<blank> : default.password
+
+# Planet
+USERNAME : PASSWORD
+<blank> : default
+admin : 1234
+admin : epicrouter
+
+# Planet Technology
+USERNAME : PASSWORD
+admin : ISPMODE
+admin : [^_^]
+
+# Planex
+USERNAME : PASSWORD
+admin : 0
+
+# Pokertracker
+USERNAME : PASSWORD
+postgres : dbpass
+postgres : svcPASS83
+
+# Pollsafe
+USERNAME : PASSWORD
+SMDR : SECONDARY
+
+# Polycom
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : ACCORD
+<blank> : admin
+<blank> : x6zynd56
+Polycom : 456
+Polycom : SpIp
+administrator : * * #
+Admin : 456
+User : 123
+
+# Postgresql
+USERNAME : PASSWORD
+postgres : <blank>
+
+# Powerchute
+USERNAME : PASSWORD
+pwrchute : pwrchute
+
+# Powerlogic
+USERNAME : PASSWORD
+Administrator : Gateway
+
+# Prestige
+USERNAME : PASSWORD
+admin : 1234
+
+# Prestigio
+USERNAME : PASSWORD
+<blank> : <blank>
+
+# Prime
+USERNAME : PASSWORD
+dos : dos
+fam : fam
+guest : guest
+guest1 : guest
+guest1 : guest1
+mail : mail
+maint : maint
+mfd : mfd
+netlink : netlink
+prime : prime
+prime : primeos
+primenet : primenet
+primenet : primeos
+primeos : prime
+primeos : primeos
+primos_cs : prime
+primos_cs : primos
+system : prime
+system : system
+tele : tele
+test : test
+
+# Primebase
+USERNAME : PASSWORD
+Administrator : <blank>
+
+# Prolink
+USERNAME : PASSWORD
+admin : password
+
+# Proliphix
+USERNAME : PASSWORD
+admin : admin
+
+# Promise
+USERNAME : PASSWORD
+admin : admin
+engmode : hawk201
+administrator : password
+
+# Prostar
+USERNAME : PASSWORD
+<blank> : 4321
+
+# Protocraft
+USERNAME : PASSWORD
+musi1921 : Musi%1921
+
+# Proxicast
+USERNAME : PASSWORD
+<blank> : 1234
+
+# Proxim
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : public
+
+# Prtg
+USERNAME : PASSWORD
+prtgadmin : prtgadmin
+
+# Psionteklogix
+USERNAME : PASSWORD
+admin : admin
+support : h179350
+
+# Pyramid Computer
+USERNAME : PASSWORD
+admin : admin
+admin : gnumpf
+
+# Q-tec
+USERNAME : PASSWORD
+Admin : <blank>
+
+# Qdi
+USERNAME : PASSWORD
+<blank> : QDI
+<blank> : lesarotl
+<blank> : password
+
+# Qlogic
+USERNAME : PASSWORD
+admin : password
+images : images
+
+# Qualiteam
+USERNAME : PASSWORD
+master : master
+
+# Quantex
+USERNAME : PASSWORD
+<blank> : teX1
+<blank> : xljlbj
+
+# Quantum
+USERNAME : PASSWORD
+<blank> : <blank>
+
+# Quest Software
+USERNAME : PASSWORD
+TOAD : TOAD
+
+# Questra Corporation
+USERNAME : PASSWORD
+guest : guest
+questra : questra
+
+# Quintum Technologies
+USERNAME : PASSWORD
+admin : admin
+
+# Radvision
+USERNAME : PASSWORD
+<blank> : MCUrv
+admin : <blank>
+
+# Radware
+USERNAME : PASSWORD
+lp : lp
+radware : radware
+
+# Raidzone
+USERNAME : PASSWORD
+<blank> : raidzone
+
+# Rainbow
+USERNAME : PASSWORD
+<blank> : PASSWORD
+<blank> : rainbow
+
+# Ramp Networks
+USERNAME : PASSWORD
+wradmin : trancell
+
+# Rapid 7
+USERNAME : PASSWORD
+msfadmin : msfadmin
+
+# Rapidstream
+USERNAME : PASSWORD
+rsadmin : <blank>
+
+# Raritan Inc
+USERNAME : PASSWORD
+admin : raritan
+epiq_api : raritan
+web_api : sl33p30F00dumass!
+
+# Raspberry Pi
+USERNAME : PASSWORD
+pi : raspberry
+
+# Raytalk
+USERNAME : PASSWORD
+root : root
+
+# Rca
+USERNAME : PASSWORD
+<blank> : admin
+
+# Red Hat
+USERNAME : PASSWORD
+<blank> : AMIAMI
+<blank> : AMIDECOD
+admin : admin
+piranha : piranha
+piranha : q
+piranha : piranha
+piranha : q
+<blank> : AMIAMI
+<blank> : AMIDECOD
+admin : admin
+piranha : piranha
+piranha : q
+
+# Redcreek Communications
+USERNAME : PASSWORD
+<blank> : 1234
+<blank> : private
+
+# Redis
+USERNAME : PASSWORD
+<blank> : <blank>
+
+# Remedy
+USERNAME : PASSWORD
+ARAdmin : AR#Admin#
+Demo : <blank>
+
+# Resumix
+USERNAME : PASSWORD
+root : resumix
+
+# Ricoh
+USERNAME : PASSWORD
+<blank> : password
+<blank> : sysadm
+admin : <blank>
+admin : no password
+admin : password
+sysadm : sysadm
+sysadmin : password
+supervisor : <blank>
+
+# Riverbed
+USERNAME : PASSWORD
+Admin : password
+
+# Rizen
+USERNAME : PASSWORD
+Admin : 123qwe
+
+# Rm
+USERNAME : PASSWORD
+<blank> : RM
+RMUser1 : password
+admin : rmnetlm
+admin2 : changeme
+adminstrator : changeme
+deskalt : password
+deskman : changeme
+desknorm : password
+deskres : password
+guest : <blank>
+replicator : replicator
+setup : changeme
+teacher : password
+temp1 : password
+topicalt : password
+topicnorm : password
+topicres : password
+
+# Rnn
+USERNAME : PASSWORD
+admin : demo
+
+# Roamabout
+USERNAME : PASSWORD
+admin : password
+
+# Rodopi
+USERNAME : PASSWORD
+Rodopi : Rodopi
+
+# Rsa
+USERNAME : PASSWORD
+admin : admin1234
+administrator : RSAAppliance
+master : themaster01
+
+# Ruggedcom
+USERNAME : PASSWORD
+Admin : admin
+
+# Saba
+USERNAME : PASSWORD
+admin : admin
+
+# Saf Tehnika
+USERNAME : PASSWORD
+administrator : d1scovery
+integrator : p1nacate
+monitor : monitor
+operator : col1ma
+
+# Safecom
+USERNAME : PASSWORD
+admin : epicrouter
+
+# Safenet
+USERNAME : PASSWORD
+sa : DBA!sa@EMSDB123
+
+# Sagem
+USERNAME : PASSWORD
+Menara : Menara
+admin : admin
+root : 1234
+
+# Samba
+USERNAME : PASSWORD
+Any : Any
+
+# Sambar Technologies
+USERNAME : PASSWORD
+admin : <blank>
+anonymous : <blank>
+billy-bob : <blank>
+ftp : <blank>
+guest : guest
+
+# Samsumg
+USERNAME : PASSWORD
+admin : sec00000
+
+# Samsung
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : s!a@m#n$p%c
+admin : password
+public : public
+
+# Samuel Abels
+USERNAME : PASSWORD
+user : password
+
+# Sap
+USERNAME : PASSWORD
+Administrator : manage
+DDIC : 19920706
+Developer : isdev
+EARLYWATCH : SUPPORT
+Replicator : iscopy
+SAP* : 6071992
+SAP* : 7061992
+SAP* : PASS
+SAPCPIC : ADMIN
+SAPCPIC : admin
+SAPR3 : SAP
+TMSADM : <blank>
+admin : axis2
+ctb_admin : sap123
+itsadmin : init
+xmi_demo : sap123
+Administrator : manage
+DDIC : 19920706
+Developer : isdev
+EARLYWATCH : SUPPORT
+Replicator : iscopy
+SAP* : 6071992
+SAP* : 7061992
+SAP* : PASS
+SAPCPIC : ADMIN
+SAPCPIC : admin
+SAPR3 : SAP
+TMSADM : <blank>
+admin : axis2
+ctb_admin : sap123
+itsadmin : init
+xmi_demo : sap123
+admin : Support
+admin : Support
+
+# Schlage Sms
+USERNAME : PASSWORD
+SMSAdmin : SECAdmin1
+sa : SECAdmin1
+
+# Schneider
+USERNAME : PASSWORD
+USER : USER
+sysdiag : factorycast@schneider
+
+# Schneider Electric
+USERNAME : PASSWORD
+<blank> : admin
+USER : USER
+ntpupdate : ntpupdate
+sysdiag : factorycast@schneider
+USER : USER
+sysdiag : factorycast@schneider
+USER : USER
+
+# Scientific Atlanta
+USERNAME : PASSWORD
+admin : w2402
+
+# Seagate
+USERNAME : PASSWORD
+admin : admin
+
+# Seagull Scientific
+USERNAME : PASSWORD
+ADMIN : admin
+USER : USER
+
+# Seclore
+USERNAME : PASSWORD
+root : changeonfirstlogin
+sa : changeonfirstlogin
+
+# Secure Computing
+USERNAME : PASSWORD
+admin : <blank>
+
+# Securicor
+USERNAME : PASSWORD
+manager : friend
+
+# Semaphore
+USERNAME : PASSWORD
+DESQUETOP : <blank>
+DS : <blank>
+DSA : <blank>
+PHANTOM : <blank>
+
+# Sempre
+USERNAME : PASSWORD
+admin : admin
+
+# Senao
+USERNAME : PASSWORD
+admin : <blank>
+
+# Sercom
+USERNAME : PASSWORD
+admin : admin
+
+# Server Technologies
+USERNAME : PASSWORD
+ADMN : admn
+GEN1 : gen1
+GEN2 : gen2
+
+# Seyeon
+USERNAME : PASSWORD
+root : root
+
+# Sharp
+USERNAME : PASSWORD
+<blank> : sysadm
+Administrator : admin
+admin : Sharp
+admin : admin
+
+# Shiva
+USERNAME : PASSWORD
+admin : hello
+guest : <blank>
+hello : hello
+root : <blank>
+
+# Shoretel
+USERNAME : PASSWORD
+Admin : admin1
+admin : changeme
+
+# Shuttle
+USERNAME : PASSWORD
+<blank> : Spacve
+
+# Siemens
+USERNAME : PASSWORD
+31994 : 31994
+<blank> : 0
+<blank> : 123456
+<blank> : <blank>
+<blank> : SKY_FOX
+<blank> : admin
+<blank> : gubed
+admin : 
+admin : <blank>
+admin : admin
+admin : hagpolm1
+admin : pwp
+basisk : basisk
+eng : engineer
+op : op
+op : operator
+poll : tech
+su : super
+superuser : admin
+sysadmin : sysadmin
+tech : field
+tech : tech
+18140815 : 18140815
+31994 : 31994
+<blank> : SKY_FOX
+<blank> : uboot
+WinCCAdmin : 2WSXcde
+WinCCConnect : 2WSXcder
+admin : <blank>
+admin : pwp
+eng : engineer
+op : op
+op : operator
+poll : poll
+poll : tech
+su : super
+sysadmin : sysadmin
+system : field
+system : system
+tech : tech
+admin : <blank>
+
+# Sierra Wireless
+USERNAME : PASSWORD
+user : 12345
+
+# Sigma
+USERNAME : PASSWORD
+admin : admin
+
+# Signamax
+USERNAME : PASSWORD
+admin : admin
+
+# Siips
+USERNAME : PASSWORD
+Administrator : ganteng
+
+# Silex Technology
+USERNAME : PASSWORD
+root : <blank>
+
+# Silicon Graphics
+USERNAME : PASSWORD
+4Dgifts : 4Dgifts
+4Dgifts : <blank>
+6.x : <blank>
+Ezsetup : <blank>
+OutOfBox : <blank>
+demos : <blank>
+field : field
+guest : <blank>
+lp : <blank>
+tour : tour
+tutor : <blank>
+tutor : tutor
+
+# Silvercrest
+USERNAME : PASSWORD
+admin : admin
+
+# Site Interactive
+USERNAME : PASSWORD
+admin : pass
+
+# Sitecom
+USERNAME : PASSWORD
+<blank> : damin
+<blank> : sitecom
+admin : admin
+admin : password
+
+# Sitecore Corporation
+USERNAME : PASSWORD
+Audrey : a
+Bill : b
+Denny : d
+Lonnie : l
+Minnie : m
+admin : b
+
+# Skf
+USERNAME : PASSWORD
+sa : skf_admin1
+
+# Sky
+USERNAME : PASSWORD
+admin : sky
+
+# Sma America
+USERNAME : PASSWORD
+<blank> : sma
+
+# Smc
+USERNAME : PASSWORD
+<blank> : 0
+<blank> : <blank>
+<blank> : smcadmin
+Admin : Barricade
+Administrator : smcadmin
+admin : <blank>
+admin : admin
+admin : barricade
+admin : smcadmin
+cusadmin : highspeed
+default : WLAN_AP
+mso : w0rkplac3rul3s
+smc : smcadmin
+
+# Snap Appliance
+USERNAME : PASSWORD
+admin : admin
+
+# Snapgear
+USERNAME : PASSWORD
+root : default
+root : admin
+
+# Snmp
+USERNAME : PASSWORD
+<blank> : 0
+<blank> : 0392a0
+<blank> : 1234
+<blank> : 2read
+<blank> : 4changes
+<blank> : <blank>
+<blank> : ANYCOM
+<blank> : Admin
+<blank> : C0de
+<blank> : CISCO
+<blank> : CR52401
+<blank> : IBM
+<blank> : ILMI
+<blank> : Intermec
+<blank> : NoGaH$@!
+<blank> : OrigEquipMfr
+<blank> : PRIVATE
+<blank> : PUBLIC
+<blank> : Private
+<blank> : Public
+<blank> : SECRET
+<blank> : SECURITY
+<blank> : SNMP
+<blank> : SNMP_trap
+<blank> : SUN
+<blank> : SWITCH
+<blank> : SYSTEM
+<blank> : Secret
+<blank> : Security
+<blank> : Switch
+<blank> : System
+<blank> : TEST
+<blank> : access
+<blank> : adm
+<blank> : admin
+<blank> : agent
+<blank> : agent_steal
+<blank> : all
+<blank> : apc
+<blank> : bintec
+<blank> : blue
+<blank> : c
+<blank> : cable
+<blank> : canon_admin
+<blank> : cc
+<blank> : cisco
+<blank> : community
+<blank> : core
+<blank> : debug
+<blank> : default
+<blank> : dilbert
+<blank> : enable
+<blank> : field
+<blank> : freekevin
+<blank> : fubar
+<blank> : guest
+<blank> : hello
+<blank> : hp_admin
+<blank> : ibm
+<blank> : ilmi
+<blank> : intermec
+<blank> : internal
+<blank> : l2
+<blank> : l3
+<blank> : manager
+<blank> : mngt
+<blank> : monitor
+<blank> : netman
+<blank> : network
+<blank> : openview
+<blank> : pass
+<blank> : password
+<blank> : pr1v4t3
+<blank> : private
+<blank> : proxy
+<blank> : publ1c
+<blank> : public
+<blank> : read
+<blank> : readwrite
+<blank> : red
+<blank> : regional
+<blank> : rmon
+<blank> : rmon_admin
+<blank> : ro
+<blank> : root
+<blank> : router
+<blank> : rw
+<blank> : rwa
+<blank> : s!a@m#n$p%c
+<blank> : san
+<blank> : sanfran
+<blank> : scotty
+<blank> : secret
+<blank> : security
+<blank> : seri
+<blank> : snmp
+<blank> : snmpd
+<blank> : snmptrap
+<blank> : solaris
+<blank> : sun
+<blank> : superuser
+<blank> : switch
+<blank> : system
+<blank> : tech
+<blank> : test
+<blank> : test2
+<blank> : tiv0li
+<blank> : tivoli
+<blank> : trap
+<blank> : world
+<blank> : write
+<blank> : xyzzy
+<blank> : yellow
+
+# Snom
+USERNAME : PASSWORD
+Administrator : 0
+admi : <blank>
+
+# Software Ag
+USERNAME : PASSWORD
+Administrator : manage
+
+# Softwarehouse
+USERNAME : PASSWORD
+manager : manager
+
+# Solarwinds
+USERNAME : PASSWORD
+LocalAdministrator : #l@$ak#.lk;0@P
+whd : whd
+
+# Solution 6
+USERNAME : PASSWORD
+aaa : often blank
+
+# Solwise
+USERNAME : PASSWORD
+root : same as webui pwd
+
+# Sonarqube
+USERNAME : PASSWORD
+admin : admin
+
+# Sonarsource
+USERNAME : PASSWORD
+admin : admin
+
+# Sonic-x
+USERNAME : PASSWORD
+root : admin
+
+# Sonicwall
+USERNAME : PASSWORD
+admin : password
+
+# Sonus
+USERNAME : PASSWORD
+admin : Sonus12345
+
+# Sony
+USERNAME : PASSWORD
+admin : admin
+<blank> : 0
+
+# Sophia
+USERNAME : PASSWORD
+admin : Protector
+root : root
+
+# Sorenson
+USERNAME : PASSWORD
+<blank> : admin
+
+# Sourcefire
+USERNAME : PASSWORD
+admin : password
+root : password
+
+# Sovereign Hill
+USERNAME : PASSWORD
+Admin : shs
+
+# Sparklan
+USERNAME : PASSWORD
+admin : admin
+
+# Speco Technologies
+USERNAME : PASSWORD
+admin : 1234
+
+# Spectra Logic
+USERNAME : PASSWORD
+administrator : <blank>
+operator : <blank>
+
+# Speedstream
+USERNAME : PASSWORD
+<blank> : admin
+<blank> : adminttd
+Administrator : admin
+admin : admin
+
+# Speedxess
+USERNAME : PASSWORD
+<blank> : speedxess
+
+# Sphairon
+USERNAME : PASSWORD
+admin : passwort
+
+# Spider Systems
+USERNAME : PASSWORD
+<blank> : hello
+
+# Spike
+USERNAME : PASSWORD
+enable : <blank>
+
+# Splendidcrm
+USERNAME : PASSWORD
+sa : splendidcrm2005
+
+# Splunk
+USERNAME : PASSWORD
+admin : changeme
+
+# Ssa
+USERNAME : PASSWORD
+SSA : SSA
+
+# Ssangyoung
+USERNAME : PASSWORD
+<blank> : 2501
+
+# Stan Ozier
+USERNAME : PASSWORD
+admin : <blank>
+
+# Stratitec
+USERNAME : PASSWORD
+root : ahetzip8
+
+# Sun
+USERNAME : PASSWORD
+admin : admin
+root : changeme
+root : t00lk1t
+ssp : ssp
+
+# Sun Microsystems
+USERNAME : PASSWORD
+root : changeme
+
+# Supercook
+USERNAME : PASSWORD
+admin : AlpheusDigital1010
+super : super
+
+# Supermicro
+USERNAME : PASSWORD
+<blank> : ksdjfg934t
+ADMIN : admin
+
+# Surecom
+USERNAME : PASSWORD
+admin : admin
+admin : surecom
+
+# Suse
+USERNAME : PASSWORD
+root : root
+
+# Sweex
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : admin
+<blank> : blank
+<blank> : mysweex
+admin : 1234
+admin : epicrouter
+rdc123 : rdc123
+sweex : mysweex
+
+# Swissvoice
+USERNAME : PASSWORD
+target : password
+
+# Syabas
+USERNAME : PASSWORD
+ftpuser : 1234
+nmt : 1234
+
+# Sybase
+USERNAME : PASSWORD
+12.x : <blank>
+DBA : SQL
+jagadmin : <blank>
+sa : <blank>
+sa : sasasa
+
+# Symantec
+USERNAME : PASSWORD
+(none) : admin
+<blank> : symantec
+admin : <blank>
+admin : symantec
+root : brightmail
+
+# Symbol
+USERNAME : PASSWORD
+<blank> : Symbol
+Symbol : Symbol
+admin : symbol
+admin : superuser
+
+# Symetricom
+USERNAME : PASSWORD
+guest : truetime
+operator : mercury
+
+# Synology
+USERNAME : PASSWORD
+admin : <blank>
+
+# Syskonnect
+USERNAME : PASSWORD
+default.password : <blank>
+
+# Sysmaster
+USERNAME : PASSWORD
+admin : 12345
+
+# System 32
+USERNAME : PASSWORD
+install : secret
+
+# T-com
+USERNAME : PASSWORD
+<blank> : 0
+<blank> : 123456
+Administrator : <blank>
+veda : 12871
+
+# Tandem
+USERNAME : PASSWORD
+super.super : <blank>
+super.super : master
+
+# Tasman
+USERNAME : PASSWORD
+Tasman : Tasmannet
+
+# Team Xodus
+USERNAME : PASSWORD
+xbox : xbox
+
+# Teamcity 9
+USERNAME : PASSWORD
+<blank> : <blank>
+
+# Tegile
+USERNAME : PASSWORD
+admin : tegile
+
+# Teklogix
+USERNAME : PASSWORD
+Administrator : <blank>
+
+# Telapliant
+USERNAME : PASSWORD
+admin : 1234
+
+# Telco Systems
+USERNAME : PASSWORD
+telco : telco
+
+# Teldat
+USERNAME : PASSWORD
+admin : 1234
+
+# Telebit
+USERNAME : PASSWORD
+setup : setup
+snmp : nopasswd
+
+# Telelec
+USERNAME : PASSWORD
+eagle : eagle
+
+# Teleopti Wfm
+USERNAME : PASSWORD
+admin@company.com : admin
+
+# Telestream Vantage
+USERNAME : PASSWORD
+sa : vantage12!
+
+# Teletronics
+USERNAME : PASSWORD
+admin : 1234
+
+# Telewell
+USERNAME : PASSWORD
+admin : admin
+admin : password
+
+# Telindus
+USERNAME : PASSWORD
+<blank> : <blank>
+admin : admin
+
+# Tellabs
+USERNAME : PASSWORD
+root : admin_1
+tellabs : tellabs#1
+
+# Teltronic
+USERNAME : PASSWORD
+admin : tetra
+
+# Telus
+USERNAME : PASSWORD
+(created) : telus00
+(created) : telus99
+
+# Terayon
+USERNAME : PASSWORD
+<blank> : <blank>
+admin : password
+
+# Texbox
+USERNAME : PASSWORD
+<blank> : 123
+
+# Textportal
+USERNAME : PASSWORD
+god1 : 12345
+god2 : 12345
+
+# Thecus Tech
+USERNAME : PASSWORD
+admin : admin
+
+# Thomson
+USERNAME : PASSWORD
+<blank> : admin
+admin : admin
+admin : password
+
+# Tiara Networks
+USERNAME : PASSWORD
+tiara : tiaranet
+<blank> : tiara
+
+# Tibco
+USERNAME : PASSWORD
+admin : admin
+admin : changeit
+
+# Tim Schaab
+USERNAME : PASSWORD
+theman : changeit
+
+# Timeforce
+USERNAME : PASSWORD
+sa : Dr8gedog
+sa : dr8gedog
+
+# Timetools
+USERNAME : PASSWORD
+admin : admin
+
+# Tiny
+USERNAME : PASSWORD
+<blank> : Tiny
+
+# Tmc
+USERNAME : PASSWORD
+<blank> : BIGO
+
+# To Be Sorted Soon
+USERNAME : PASSWORD
+admin : adslolitec
+admin : admin
+admin : admin
+root : openelec
+openhab : habopen
+openhabian : openhabian
+admin : (blank)
+admin : <blank>
+root : <blank>
+<blank> : system
+admin : pfsense
+<blank> : admin
+<blank> : admin
+root : <blank>
+admin : 1234
+guest : guest
+admin : admin
+admin : admin
+admin : password
+dcmadmin : passw0rd
+postgres : 123
+postgres : admin
+postgres : amber
+postgres : password
+postgres : postgres
+admin : admin
+<blank> : private
+<blank> : public
+admin : password
+pi : raspberry
+admin : admin
+880175445 : 11223344
+root : toor
+administrator : password/changeme or secret
+admin : 1111111
+admin : 4321
+root : admin
+USER : USER
+admin : rainbow
+admin : admin
+admin : 1234
+<blank> : <blank>
+admin : admin
+root : <blank>
+admin : public
+admin : 1234
+self : system
+nasadmin : nasadmin
+root : 7ujMko0admin
+root : ascend
+admin : admin
+stratacom : stratauser
+stuccoboy : 100198
+admin : admin
+root : <blank>
+operator : <blank>
+666666 : 666666
+888888 : 888888
+Administrator : admin
+admin : 1111
+admin : 1111111
+admin : 1234
+admin : 12345
+admin : 123456
+admin : 54321
+admin : 7ujMko0admin
+admin : <blank>
+admin : admin
+admin : admin1234
+admin : meinsm
+admin : pass
+admin : password
+admin : smcadmin
+admin1 : password
+administrator : 1234
+guest : 12345
+guest : guest
+root : 0
+root : 1111
+root : 1234
+root : 12345
+root : 123456
+root : 54321
+root : 666666
+root : 7ujMko0admin
+root : 7ujMko0vizxv
+root : 888888
+root : <blank>
+root : Zte521
+root : admin
+root : anko
+root : default
+root : dreambox
+root : hi3518
+root : ikwb
+root : juantech
+root : jvbzd
+root : klv123
+root : klv1234
+root : pass
+root : password
+root : realtek
+root : root
+root : system
+root : user
+root : vizxv
+root : xc3511
+root : xmhdipc
+root : zlxx.
+service : service
+supervisor : supervisor
+support : support
+tech : tech
+ubnt : ubnt
+user : user
+james : james
+admin : admin
+admin : password
+topadmin : topadmin
+superman : talent
+admin : admin
+root : ubnt
+ubnt : ubnt
+admin : admin
+admin : 11_ThisIsTheFirstPassword_11
+root : vertex25
+supervisor : supervisor
+<blank> : 1234
+<blank> : 123456
+<blank> : 1988
+<blank> : ADMIN
+<blank> : AVStumpfl
+<blank> : Admin#1
+<blank> : Administrator
+<blank> : Amx1234!
+<blank> : EltakoFVS
+<blank> : FELDTECH_VNC
+<blank> : Passwort
+<blank> : TOUCHLON
+<blank> : Vision2
+<blank> : Wyse
+<blank> : Wyse#123
+<blank> : admin
+<blank> : beijer
+<blank> : default
+<blank> : elux
+<blank> : eyevis
+<blank> : fidel123
+<blank> : hapero
+<blank> : instrument
+<blank> : m9ff.QW
+<blank> : maryland-dstar
+<blank> : muster
+<blank> : pass
+<blank> : pass1
+<blank> : pass2
+<blank> : passwd11
+<blank> : password
+<blank> : protech
+<blank> : qwasyx21
+<blank> : raspberry
+<blank> : ripnas
+<blank> : sigmatek
+<blank> : solarfocus
+<blank> : user
+<blank> : visam
+<blank> : vnc
+<blank> : vnc_pcc
+<blank> : yesco
+pepino : pepino
+system : weblogic
+Administrator : Administrator
+Administrator : FELDTECH
+Administrator : vagrant
+IEUser : Passw0rd!
+admin : 1234
+admin : 12345
+admin : 123456
+admin : <blank>
+admin : admin
+admin : password
+admin : trinity
+administrator : Wyse#123
+demo : m9ff.QW
+instrument : instrument
+john : Password123!
+maxadmin : maxadmin
+maxreg : maxreg
+mxintadm : mxintadm
+nmt : 1234
+openhabian : openhabian
+root : <blank>
+secure : SecurityMaster08
+sonos : sonos
+user : Wyse#123
+vagrant : vagrant
+wasadmin : wasadmin
+operator : <blank>
+admin : 1234
+admin : admin
+xd : xd
+<blank> : admin
+admin : 1111
+<blank> : 1234
+<blank> : 1851
+ADMIN : alphacom
+admin : alphaadmin
+admin : zoomadsl
+ZXDSL : ZXDSL
+admin : admin
+on : on
+root : W!n0&oO7.
+root : Zte521
+user : user
+
+# Topcom
+USERNAME : PASSWORD
+admin : admin
+
+# Toplayer
+USERNAME : PASSWORD
+siteadmin : toplayer
+
+# Toshiba
+USERNAME : PASSWORD
+(none) : toshy99
+<blank> : 24Banc81
+<blank> : <blank>
+<blank> : Toshiba
+<blank> : toshy99
+Admin : 123456
+admin : 123456
+super : superpass
+
+# Totolink
+USERNAME : PASSWORD
+onlime_r : 12345
+root : 12345
+
+# Tp-link
+USERNAME : PASSWORD
+admin : admin
+admin : admin
+
+# Trend Micro
+USERNAME : PASSWORD
+admin : admin
+admin : imsa7.0
+root : trendimsa1.0
+admin : admin
+admin : imss7.0
+
+# Trendnet
+USERNAME : PASSWORD
+admin : password
+
+# Trintech
+USERNAME : PASSWORD
+t3admin : Trintech
+
+# Tripp Lite
+USERNAME : PASSWORD
+root : TrippLite
+
+# Triumph-adler
+USERNAME : PASSWORD
+admin : 0
+
+# Troy
+USERNAME : PASSWORD
+admin : extendnet
+
+# Tsunami
+USERNAME : PASSWORD
+managers : managers
+
+# Tumbleweed
+USERNAME : PASSWORD
+Admin : SECRET123
+
+# Tvt System
+USERNAME : PASSWORD
+<blank> : enter
+craft : <blank>
+
+# Typo3 Association
+USERNAME : PASSWORD
+admin : password
+
+# U.s. Robotics
+USERNAME : PASSWORD
+<blank> : 12345
+<blank> : admin
+<blank> : amber
+Any : 12345
+admin : <blank>
+admin : admin
+root : 12345
+root : admin
+support : support
+
+# Ubiquiti
+USERNAME : PASSWORD
+ubnt : ubnt
+
+# Unex
+USERNAME : PASSWORD
+<blank> : password
+
+# Unidesk
+USERNAME : PASSWORD
+Administrator : Unidesk1
+
+# Unify
+USERNAME : PASSWORD
+<blank> : 123456
+
+# Union
+USERNAME : PASSWORD
+root : root
+
+# Unisys
+USERNAME : PASSWORD
+ADMINISTRATOR : ADMINISTRATOR
+HTTP : HTTP
+NAU : NAU
+
+# United Technologies
+USERNAME : PASSWORD
+admin : 1234
+
+# Unix
+USERNAME : PASSWORD
+<blank> : password
+adm : <blank>
+adm : adm
+admin : admin
+administrator : <blank>
+administrator : administrator
+anon : anon
+bbs : <blank>
+bbs : bbs
+bin : sys
+checkfs : checkfs
+checkfsys : checkfsys
+checksys : checksys
+daemon : <blank>
+daemon : daemon
+demo : <blank>
+demo : demo
+demos : <blank>
+demos : demos
+dni : <blank>
+dni : dni
+fal : <blank>
+fal : fal
+fax : <blank>
+fax : fax
+ftp : <blank>
+ftp : ftp
+games : <blank>
+games : games
+gopher : gopher
+gropher : <blank>
+guest : <blank>
+guest : guest
+guest : guestgue
+halt : <blank>
+halt : halt
+informix : informix
+install : install
+lp : <blank>
+lp : bin
+lp : lineprin
+lp : lp
+lpadm : lpadm
+lpadmin : lpadmin
+lynx : <blank>
+lynx : lynx
+mail : <blank>
+mail : mail
+man : <blank>
+man : man
+me : <blank>
+me : me
+mountfs : mountfs
+mountfsys : mountfsys
+mountsys : mountsys
+news : <blank>
+news : news
+nobody : <blank>
+nobody : nobody
+nuucp : <blank>
+operator : <blank>
+operator : operator
+oracle : <blank>
+postmaster : <blank>
+postmaster : postmast
+powerdown : powerdown
+rje : rje
+root : <blank>
+root : hp
+root : root
+service : smile
+setup : <blank>
+setup : setup
+shutdown : <blank>
+shutdown : shutdown
+sync : <blank>
+sync : sync
+sys : bin
+sys : sys
+sys : system
+sysadm : admin
+sysadm : sysadm
+sysadmin : sysadmin
+sysbin : sysbin
+system_admin : <blank>
+system_admin : system_admin
+trouble : trouble
+umountfs : umountfs
+umountfsys : umountfsys
+umountsys : umountsys
+unix : unix
+user : user
+uucp : uucp
+uucpadm : uucpadm
+web : <blank>
+web : web
+webmaster : <blank>
+webmaster : webmaster
+www : <blank>
+www : www
+
+# Us Robotics
+USERNAME : PASSWORD
+Any : 12345
+
+# Ut Lexar
+USERNAME : PASSWORD
+lexar : <blank>
+
+# Utc Fcwnx
+USERNAME : PASSWORD
+sa : SecurityMaster08
+
+# Utsstarcom
+USERNAME : PASSWORD
+dbase : dbase
+field : field
+guru : *3noguru
+snmp : snmp
+
+# Utstar
+USERNAME : PASSWORD
+admin : utstar
+
+# Vasco
+USERNAME : PASSWORD
+admin : <blank>
+
+# Vbrick Systems
+USERNAME : PASSWORD
+admin : admin
+
+# Veramark
+USERNAME : PASSWORD
+admin : password
+
+# Verifone
+USERNAME : PASSWORD
+<blank> : 166816
+
+# Verilink
+USERNAME : PASSWORD
+<blank> : <blank>
+
+# Veritas
+USERNAME : PASSWORD
+admin : password
+
+# Verity
+USERNAME : PASSWORD
+admin : admin
+
+# Verizon
+USERNAME : PASSWORD
+admin : password
+
+# Vextrec Technology
+USERNAME : PASSWORD
+<blank> : Vextrex
+
+# Video Insight
+USERNAME : PASSWORD
+sa : V4in$ight
+
+# Vienuke
+USERNAME : PASSWORD
+admin : admin
+
+# Vina Technologies
+USERNAME : PASSWORD
+<blank> : <blank>
+
+# Virtual Programming
+USERNAME : PASSWORD
+admin : admin
+vpasp : vpasp
+
+# Visa Vap
+USERNAME : PASSWORD
+root : QNX
+
+# Visual Networks
+USERNAME : PASSWORD
+admin : visual
+
+# Vobis
+USERNAME : PASSWORD
+<blank> : merlin
+
+# Voice Genie Technologies
+USERNAME : PASSWORD
+pw : pw
+
+# Voiceobjects
+USERNAME : PASSWORD
+voadmin : manager
+
+# Vonage
+USERNAME : PASSWORD
+user : user
+
+# Vpasp
+USERNAME : PASSWORD
+admin : admin
+vpasp : vpasp
+
+# Vxworks
+USERNAME : PASSWORD
+admin : admin
+guest : guest
+
+# Waav
+USERNAME : PASSWORD
+admin : waav
+
+# Wanadoo
+USERNAME : PASSWORD
+admin : admin
+
+# Wanco
+USERNAME : PASSWORD
+<blank> : ABCD
+<blank> : Guest
+<blank> : NTCIP
+<blank> : Public
+
+# Wang
+USERNAME : PASSWORD
+CSG : SESAME
+
+# Watchguard
+USERNAME : PASSWORD
+<blank> : wg
+admin : admin
+admin : readwrite
+status : readonly
+<blank> : wg
+admin : <blank>
+user : pass
+
+# Web Wiz
+USERNAME : PASSWORD
+Administrator : letmein
+
+# Webin
+USERNAME : PASSWORD
+admin : hp.com
+
+# Weblogic
+USERNAME : PASSWORD
+EXAMPLES : EXAMPLES
+PUBLIC : PUBLIC
+WEBLOGIC : WEBLOGIC
+monitor : password
+operator : password
+operator : weblogic
+system : Passw0rd
+system : manager
+system : password
+system : welcome(1)
+weblogic : weblogic
+weblogic : weblogic1
+weblogic : welcome(1)
+
+# Webramp
+USERNAME : PASSWORD
+wradmin : trancell
+
+# Websphere
+USERNAME : PASSWORD
+system : manager
+
+# Webtrends
+USERNAME : PASSWORD
+Admin : (none)
+
+# Weidmüller
+USERNAME : PASSWORD
+admin : detmond
+
+# Welchallyn Cardio Perfect
+USERNAME : PASSWORD
+sa : Cardio.Perfect
+
+# Westell
+USERNAME : PASSWORD
+CSG : SESAME
+admin : <blank>
+admin : password
+admin : password1
+admin : sysAdmin
+
+# Wim Bervoets
+USERNAME : PASSWORD
+<blank> : Compleri
+
+# Wireless, Inc.
+USERNAME : PASSWORD
+root : rootpass
+
+# Wlan 3d
+USERNAME : PASSWORD
+Administrator : admin
+
+# Wonderware Historian
+USERNAME : PASSWORD
+aaAdmin : pwAdmin
+aaPower : pwPower
+aaUser : pwUser
+aadbo : pwddbo
+wwAdmin : wwAdmin
+wwPower : wwPower
+wwUser : wwUser
+wwdbo : wwdbo
+
+# World Client
+USERNAME : PASSWORD
+WebAdmin : Admin
+
+# Wwwboard
+USERNAME : PASSWORD
+WebAdmin : WebBoard
+
+# Wyse
+USERNAME : PASSWORD
+<blank> : Fireport
+<blank> : password
+VNC : winterm
+rapport : r@p8p0r+
+root : <blank>
+root : wyse
+
+# X-micro
+USERNAME : PASSWORD
+1502 : 1502
+super : super
+
+# Xampp
+USERNAME : PASSWORD
+newuser : wampp
+
+# Xavi
+USERNAME : PASSWORD
+<blank> : <blank>
+admin : admin
+
+# Xerox
+USERNAME : PASSWORD
+11111 : x-admin
+<blank> : 0
+<blank> : 11111
+Administrator : Fiery.1
+NSA : nsa
+admin : 1111
+admin : 2222
+admin : 22222
+admin : <blank>
+admin : admin
+admin : x-admin
+savelogs : crash
+admin : 1111
+11111 : <blank>
+
+# Xinit Systems
+USERNAME : PASSWORD
+openfiler : password
+
+# Xylan
+USERNAME : PASSWORD
+admin : switch
+diag : switch
+
+# Xyplex
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : access
+<blank> : system
+setpriv : system
+
+# Yakumo
+USERNAME : PASSWORD
+admin : admin
+
+# Yealink
+USERNAME : PASSWORD
+admin : admin
+
+# Yokogawa
+USERNAME : PASSWORD
+<blank> : 727
+admin : !admin
+
+# Yuxin
+USERNAME : PASSWORD
+User : 1234
+User : 19750407
+
+# Zabbix
+USERNAME : PASSWORD
+Admin : zabbix
+
+# Zcom
+USERNAME : PASSWORD
+root : admin
+
+# Zcomax
+USERNAME : PASSWORD
+admin : password
+
+# Zebra
+USERNAME : PASSWORD
+admin : 1234
+
+# Zenith
+USERNAME : PASSWORD
+<blank> : 3098z
+<blank> : Zenith
+
+# Zeos
+USERNAME : PASSWORD
+<blank> : zeosx
+
+# Zeus
+USERNAME : PASSWORD
+admin : <blank>
+
+# Zoom
+USERNAME : PASSWORD
+admin : zoomadsl
+
+# Zte
+USERNAME : PASSWORD
+ADSL : expert03
+admin : Telkomdso123
+user : user
+
+# Zywall
+USERNAME : PASSWORD
+<blank> : admin
+

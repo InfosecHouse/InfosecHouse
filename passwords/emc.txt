@@ -1,0 +1,11 @@
+USERNAME : PASSWORD
+MCUser : MCUser1
+admin : <blank>
+admin : changeme
+backuponly : backuponly1
+backuprestore : backuprestore1
+dpn : changeme
+restoreonly : restoreonly1
+root : 8RttoTriz
+root : changeme
+viewuser : viewuser1

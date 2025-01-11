@@ -1,0 +1,7 @@
+USERNAME : PASSWORD
+jasperadmin : bitnami
+jasperadmin : jasperadmin
+demo : demo
+jasperadmin : jasperadmin
+joeuser : joeuser
+superuser : superuser

@@ -1,0 +1,4 @@
+USERNAME : PASSWORD
+comcast : <blank>
+cusadmin : CantTouchThis
+cusadmin : highspeed

@@ -1,0 +1,8 @@
+USERNAME : PASSWORD
+MD110 : help
+admin : default
+expert : expert
+netman : netman
+public : <blank>
+<blank> : <blank>
+<blank> : help

@@ -1,0 +1,5 @@
+USERNAME : PASSWORD
+<blank> : console
+<blank> : gandalf
+<blank> : system
+<blank> : xmux

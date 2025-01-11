@@ -1,0 +1,8 @@
+USERNAME : PASSWORD
+admin : <blank>
+admin : admin
+admin : public
+1234 : 1234
+admin : admin
+root : 12345
+root : root

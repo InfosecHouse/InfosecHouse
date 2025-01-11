@@ -1,0 +1,5 @@
+USERNAME : PASSWORD
+(none) : (none)
+(none) : Admin
+<blank> : <blank>
+acer : acer

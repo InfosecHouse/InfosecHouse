@@ -1,0 +1,3 @@
+USERNAME : PASSWORD
+Admin : admin1
+admin : changeme

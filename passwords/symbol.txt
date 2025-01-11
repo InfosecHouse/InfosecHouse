@@ -1,0 +1,5 @@
+USERNAME : PASSWORD
+<blank> : Symbol
+Symbol : Symbol
+admin : symbol
+admin : superuser

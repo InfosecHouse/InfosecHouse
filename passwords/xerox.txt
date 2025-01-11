@@ -1,0 +1,15 @@
+USERNAME : PASSWORD
+11111 : x-admin
+<blank> : 0
+<blank> : 11111
+Administrator : Fiery.1
+NSA : nsa
+admin : 1111
+admin : 2222
+admin : 22222
+admin : <blank>
+admin : admin
+admin : x-admin
+savelogs : crash
+admin : 1111
+11111 : <blank>

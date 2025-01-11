@@ -1,0 +1,14 @@
+USERNAME : PASSWORD
+<blank> : Intel
+<blank> : isolation
+<blank> : shiva
+Guest : <blank>
+NICONEX : NICONEX
+intel : intel
+root : <blank>
+setup : setup
+admin : hello
+<blank> : <blank>
+admin : <blank>
+khan : kahn
+root : admin

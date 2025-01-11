@@ -1,0 +1,5 @@
+USERNAME : PASSWORD
+admin : admin
+admin : epicrouter
+mac : <blank>
+root : default

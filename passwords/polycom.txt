@@ -1,0 +1,10 @@
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : ACCORD
+<blank> : admin
+<blank> : x6zynd56
+Polycom : 456
+Polycom : SpIp
+administrator : * * #
+Admin : 456
+User : 123

@@ -1,0 +1,2 @@
+USERNAME : PASSWORD
+bsxuser : bsxpass

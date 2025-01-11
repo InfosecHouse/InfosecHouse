@@ -1,0 +1,6 @@
+USERNAME : PASSWORD
+admin : epicrouter
+(none) : leaves
+(none) : snake
+<blank> : leaves
+<blank> : snake

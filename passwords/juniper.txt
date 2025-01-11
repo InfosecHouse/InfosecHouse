@@ -1,0 +1,18 @@
+USERNAME : PASSWORD
+admin : abc123
+admin : netscreen
+admin : peribit
+netscreen : netscreen
+redline : redline
+serial# : serial#
+super : juniper123
+admin : abc123
+admin : netscreen
+admin : peribit
+netscreen : netscreen
+redline : redline
+serial# : serial#
+admin : <<< %s(un=\'%s\') = %u.
+admin : abc123
+super : juniper123
+netscreen : <<< %s(un='%s') = %u

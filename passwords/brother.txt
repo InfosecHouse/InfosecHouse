@@ -1,0 +1,7 @@
+USERNAME : PASSWORD
+<blank> : access
+admin : access
+admin : access
+<blank> : 0
+<blank> : 12345678
+admin : access

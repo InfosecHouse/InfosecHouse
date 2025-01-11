@@ -1,0 +1,7 @@
+USERNAME : PASSWORD
+1nstaller : 5X2000
+installer : sx2000
+maint1 : sx2000
+maint2 : sx2000
+s1stem : 5X2000
+system : sx2000

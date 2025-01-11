@@ -1,0 +1,3 @@
+USERNAME : PASSWORD
+<blank> : <blank>
+admin : password

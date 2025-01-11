@@ -1,0 +1,14 @@
+USERNAME : PASSWORD
+EXAMPLES : EXAMPLES
+PUBLIC : PUBLIC
+WEBLOGIC : WEBLOGIC
+monitor : password
+operator : password
+operator : weblogic
+system : Passw0rd
+system : manager
+system : password
+system : welcome(1)
+weblogic : weblogic
+weblogic : weblogic1
+weblogic : welcome(1)
