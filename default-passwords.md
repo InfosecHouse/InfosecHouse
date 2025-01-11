@@ -8,7 +8,7 @@ description: The default password library.
 
 Due to high loading times attempting to render this page default passwords are now in a single downloadable format.
 
-If you'd like to only download indiviual files please visit repo passwords folder.
+If you'd like to only download indiviual files please visit [repo passwords folder](https://github.com/InfosecHouse/InfosecHouse/tree/main/passwords).
 
 [!file All Default Username + Passwords](/passwords/all_default_combos.txt)
 [!file All Default Usernames](/passwords/all_default_usernames.txt)
