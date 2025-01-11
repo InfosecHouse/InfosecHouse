@@ -13,7 +13,7 @@ There are several ways to show your support for Infosec House financially. The s
 
 ### Donations
 
-Contact us. Sponsors @ our domain for more information on how to donate.
+Contact sponsorship @ our domain for more information on how to donate.
 
 ### Sponsorship
 
