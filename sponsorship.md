@@ -17,7 +17,7 @@ Contact sponsorship @ our domain for more information on how to donate.
 
 ### Sponsorship
 
-There are 5 different levels of sponsorship currently. Contact sponsors @ our domain for prices not listed.
+There are 5 different levels of sponsorship currently. Contact sponsorship @ our domain for prices not listed.
 
 Sponsor Level  | Price | Description
 :---:   | :---: | :---:
