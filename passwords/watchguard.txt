@@ -1,0 +1,8 @@
+USERNAME : PASSWORD
+<blank> : wg
+admin : admin
+admin : readwrite
+status : readonly
+<blank> : wg
+admin : <blank>
+user : pass

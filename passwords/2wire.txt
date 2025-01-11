@@ -1,0 +1,3 @@
+USERNAME : PASSWORD
+http : (none)
+admin : admin

@@ -1,0 +1,12 @@
+stray : serial number of the Call-UPS
+stray : serial number of the Share-UPS
+(any) : TENmanUFactOryPOWER
+<blank> : TENmanUFactOryPOWER
+<blank> : backdoor
+<blank> : serial number of the Call-UPS
+<blank> : serial number of the Share-UPS
+POWERCHUTE : APC
+apc : apc
+device : apc
+device : device
+readonly : apc

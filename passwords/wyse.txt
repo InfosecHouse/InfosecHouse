@@ -1,0 +1,7 @@
+USERNAME : PASSWORD
+<blank> : Fireport
+<blank> : password
+VNC : winterm
+rapport : r@p8p0r+
+root : <blank>
+root : wyse

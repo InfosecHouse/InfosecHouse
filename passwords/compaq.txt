@@ -1,0 +1,11 @@
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : Compaq
+PFCUser : 240653C9467E45
+administrator : administrator
+anonymous : <blank>
+operator : operator
+root : manager
+root : rootme
+user : public
+user : user

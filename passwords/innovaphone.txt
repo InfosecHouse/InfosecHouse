@@ -1,0 +1,6 @@
+USERNAME : PASSWORD
+admin : ip20
+admin : ip21
+admin : ip3000
+admin : ip305Beheer
+admin : ip400

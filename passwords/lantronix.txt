@@ -1,0 +1,8 @@
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : access
+<blank> : admin
+<blank> : lantronix
+<blank> : system
+login : access
+sysadmin : PASS

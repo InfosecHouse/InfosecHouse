@@ -1,0 +1,8 @@
+USERNAME : PASSWORD
+<blank> : admin
+USER : USER
+ntpupdate : ntpupdate
+sysdiag : factorycast@schneider
+USER : USER
+sysdiag : factorycast@schneider
+USER : USER

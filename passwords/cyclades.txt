@@ -1,0 +1,4 @@
+USERNAME : PASSWORD
+root : <blank>
+root : tslinux
+super : surt

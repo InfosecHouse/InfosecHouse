@@ -1,0 +1,16 @@
+USERNAME : PASSWORD
+TMAR#HWMT8007079 : <blank>
+admin : Admin@huawei
+admin : admin
+admin : admin@huawei.com
+admin : superonline
+TMAR#HWMT8007079 : <blank>
+admin : admin
+Admin : admin
+admin : <blank>
+admin : admin
+digicel : digicel
+telecomadmin : admintelecom
+user : HuaweiUser
+user : user
+vodafone : vodafone

@@ -1,0 +1,13 @@
+(none) : (none)
+(none) : 1988
+<blank> : 1988
+<blank> : <blank>
+<blank> : admin
+Admin : 1988
+Administrator : vision2
+NetLinx : password
+admin : 1988
+admin : admin
+administrator : password
+guest : guest
+root : mozart

@@ -1,0 +1,3 @@
+USERNAME : PASSWORD
+root : admin_1
+tellabs : tellabs#1

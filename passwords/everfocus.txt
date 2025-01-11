@@ -1,0 +1,4 @@
+USERNAME : PASSWORD
+admin : admin
+operator : operator
+supervisor : supervisor

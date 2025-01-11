@@ -1,0 +1,8 @@
+USERNAME : PASSWORD
+admin : brocade1
+admin : password
+factory : Fact4EMC
+root : Serv4EMC
+root : fibranne
+root : fivranne
+user : password

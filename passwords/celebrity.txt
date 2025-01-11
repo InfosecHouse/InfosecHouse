@@ -1,0 +1,3 @@
+USERNAME : PASSWORD
+mediator : mediator
+root : Mua'dib

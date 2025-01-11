@@ -1,0 +1,4 @@
+USERNAME : PASSWORD
+<blank> : 0
+7654321 : 7654321
+root : camera

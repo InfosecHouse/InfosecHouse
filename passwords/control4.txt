@@ -1,0 +1,3 @@
+USERNAME : PASSWORD
+<blank> : ducati900ss
+root : t0talc0ntr0l4!

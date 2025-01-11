@@ -1,0 +1,15 @@
+USERNAME : PASSWORD
+<blank> : 9999
+<blank> : Telecom
+<blank> : nokai
+<blank> : nokia
+Security Code : 12345
+Telecom : Telecom
+admin : (none)
+client : client
+m1122 : m1122
+nop : 12345
+nop : 123454
+root : nokia
+root : rootme
+telecom : telecom

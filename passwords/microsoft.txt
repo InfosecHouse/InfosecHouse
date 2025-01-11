@@ -1,0 +1,16 @@
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : admin
+<blank> : sa
+Administrator : <blank>
+Administrator : Administrator
+Guest : (none)
+Guest : <blank>
+Guest : Guest
+IS_$hostname : IS_$hostname
+LDAP_Anonymous : LdapPassword_1
+LessonUser1 : <blank>
+LessonUser2 : <blank>
+MSHOME : MSHOME
+User : User
+sa : <blank>
