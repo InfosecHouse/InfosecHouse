@@ -1,0 +1,10 @@
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : admin
+login : admin
+login : password
+superuser : admin
+<blank> : 4getme2
+<blank> : hs7mwxkk
+login : admin
+login : admin

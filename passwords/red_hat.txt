@@ -1,0 +1,13 @@
+USERNAME : PASSWORD
+<blank> : AMIAMI
+<blank> : AMIDECOD
+admin : admin
+piranha : piranha
+piranha : q
+piranha : piranha
+piranha : q
+<blank> : AMIAMI
+<blank> : AMIDECOD
+admin : admin
+piranha : piranha
+piranha : q

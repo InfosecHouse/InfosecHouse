@@ -1,0 +1,767 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <script defer data-domain="infosec.house" src="https://plausible.io/js/script.js"></script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.8.1.800733332551">
+
+    <!-- See retype.com -->
+    <meta name="generator" content="Retype 3.8.1">
+
+    <!-- Primary Meta Tags -->
+    <title>Operation Security</title>
+    <meta name="title" content="Operation Security">
+    <meta name="description" content="Seek out technologies and methods of remaining anonymous in the day and age of mass surveillance.">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://infosec.house/opsec/">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://infosec.house/opsec/">
+    <meta property="og:title" content="Operation Security">
+    <meta property="og:description" content="Seek out technologies and methods of remaining anonymous in the day and age of mass surveillance.">
+    <meta property="og:image" content="https://infosec.house/assets/headers/header-logo.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://infosec.house/opsec/">
+    <meta property="twitter:title" content="Operation Security">
+    <meta property="twitter:description" content="Seek out technologies and methods of remaining anonymous in the day and age of mass surveillance.">
+    <meta property="twitter:image" content="https://infosec.house/assets/headers/header-logo.png">
+
+    <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
+
+    <link href="../resources/css/retype.css?v=3.8.1.800733332551" rel="stylesheet">
+
+    <script data-cfasync="false" src="../resources/js/config.js?v=3.8.1.800733332551" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/retype.js?v=3.8.1" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.8.1.800733332551" data-turbo-eval="false" defer></script>
+</head>
+<body>
+    <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
+        <div class="absolute bottom-0 left-0 bg-gray-100 dark:bg-dark-800" style="top: 5rem; right: 50%"></div>
+    
+        <header id="docs-site-header" class="sticky top-0 z-30 flex w-full h-16 bg-white border-b border-gray-200 md:h-20 dark:bg-dark-850 dark:border-dark-650">
+            <div class="container relative flex items-center justify-between pr-6 grow md:justify-start">
+                <!-- Mobile menu button skeleton -->
+                <button v-cloak class="skeleton docs-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-none rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
+                <div v-cloak id="docs-sidebar-toggle"></div>
+        
+                <!-- Logo -->
+                <div class="flex items-center justify-between h-full py-2 md:w-75">
+                    <div class="flex items-center px-2 md:px-6">
+                        <a id="docs-site-logo" href="../" class="flex items-center leading-snug text-2xl">
+                            <span class="grow-0 shrink-0 overflow-hidden">
+                                <img class="max-h-10 dark:hidden md:inline-block" src="../assets/logo.png">
+                                <img class="max-h-10 hidden dark:inline-block" src="../assets/logodark.png">
+                            </span>
+                        </a>
+                    </div>
+        
+                    <span class="hidden h-8 border-r md:inline-block dark:border-dark-650"></span>
+                </div>
+        
+                <div class="flex justify-between md:grow">
+                    <!-- Top Nav -->
+                    <nav class="hidden md:flex">
+                        <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="mb-px mr-1" width="18" height="18" viewBox="0 0 24 24" role="presentation">
+                                        <g fill="currentColor">
+                                            <path d="M11.03 2.59a1.501 1.501 0 0 1 1.94 0l7.5 6.363a1.5 1.5 0 0 1 .53 1.144V19.5a1.5 1.5 0 0 1-1.5 1.5h-5.75a.75.75 0 0 1-.75-.75V14h-2v6.25a.75.75 0 0 1-.75.75H4.5A1.5 1.5 0 0 1 3 19.5v-9.403c0-.44.194-.859.53-1.144ZM12 3.734l-7.5 6.363V19.5h5v-6.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v6.25h5v-9.403Z"/>
+                                        </g>
+                                    </svg>
+                                    <span>Home</span>
+                                </a>
+                            </li>
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../about/">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="mb-px mr-1" width="18" height="18" viewBox="0 0 24 24" role="presentation">
+                                        <g fill="currentColor">
+                                            <path d="M13 7.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Zm-3 3.75a.75.75 0 0 1 .75-.75h1.5a.75.75 0 0 1 .75.75v4.25h.75a.75.75 0 0 1 0 1.5h-3a.75.75 0 0 1 0-1.5h.75V12h-.75a.75.75 0 0 1-.75-.75Z"/><path d="M12 1c6.075 0 11 4.925 11 11s-4.925 11-11 11S1 18.075 1 12 5.925 1 12 1ZM2.5 12a9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5A9.5 9.5 0 0 0 12 2.5 9.5 9.5 0 0 0 2.5 12Z"/>
+                                        </g>
+                                    </svg>
+                                    <span>About</span>
+                                </a>
+                            </li>
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../blog/">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="mb-px mr-1" width="18" height="18" viewBox="0 0 24 24" role="presentation">
+                                        <g fill="currentColor">
+                                            <path d="M0 3.75A.75.75 0 0 1 .75 3h7.497c1.566 0 2.945.8 3.751 2.014A4.495 4.495 0 0 1 15.75 3h7.5a.75.75 0 0 1 .75.75v15.063a.752.752 0 0 1-.755.75l-7.682-.052a3 3 0 0 0-2.142.878l-.89.891a.75.75 0 0 1-1.061 0l-.902-.901a2.996 2.996 0 0 0-2.121-.879H.75a.75.75 0 0 1-.75-.75Zm12.75 15.232a4.503 4.503 0 0 1 2.823-.971l6.927.047V4.5h-6.75a3 3 0 0 0-3 3ZM11.247 7.497a3 3 0 0 0-3-2.997H1.5V18h6.947c1.018 0 2.006.346 2.803.98Z"/>
+                                        </g>
+                                    </svg>
+                                    <span>Blog</span>
+                                </a>
+                            </li>
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../changelog/">Changelog</a>
+                            </li>
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../sponsorship/">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="mb-px mr-1" width="18" height="18" viewBox="0 0 24 24" role="presentation">
+                                        <g fill="currentColor">
+                                            <path d="m12 20.703.343.667a.748.748 0 0 1-.686 0l-.003-.002-.007-.003-.025-.013a31.138 31.138 0 0 1-5.233-3.576C3.8 15.573 1 12.332 1 8.514v-.001C1 5.053 3.829 2.5 6.736 2.5 9.03 2.5 10.881 3.726 12 5.605 13.12 3.726 14.97 2.5 17.264 2.5 20.17 2.5 23 5.052 23 8.514c0 3.818-2.801 7.06-5.389 9.262a31.148 31.148 0 0 1-5.233 3.576l-.025.013-.007.003-.002.001ZM6.736 4C4.657 4 2.5 5.88 2.5 8.514c0 3.107 2.324 5.96 4.861 8.12a29.655 29.655 0 0 0 4.566 3.175l.073.041.073-.04c.271-.153.661-.38 1.13-.674.94-.588 2.19-1.441 3.436-2.502 2.537-2.16 4.861-5.013 4.861-8.12C21.5 5.88 19.343 4 17.264 4c-2.106 0-3.801 1.389-4.553 3.643a.751.751 0 0 1-1.422 0C10.537 5.389 8.841 4 6.736 4Z"/>
+                                        </g>
+                                    </svg>
+                                    <span>Support Us</span>
+                                </a>
+                            </li>
+        
+                        </ul>
+                    </nav>
+        
+                    <!-- Header Right Skeleton -->
+                    <div v-cloak class="flex justify-end grow skeleton">
+        
+                        <!-- Search input mock -->
+                        <div class="relative hidden w-40 lg:block lg:max-w-sm lg:ml-auto">
+                            <div class="absolute flex items-center justify-center h-full pl-3 dark:text-dark-300">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="icon-base" width="16" height="16" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 1px;"><g fill="currentColor" ><path d="M21.71 20.29l-3.68-3.68A8.963 8.963 0 0020 11c0-4.96-4.04-9-9-9s-9 4.04-9 9 4.04 9 9 9c2.12 0 4.07-.74 5.61-1.97l3.68 3.68c.2.19.45.29.71.29s.51-.1.71-.29c.39-.39.39-1.03 0-1.42zM4 11c0-3.86 3.14-7 7-7s7 3.14 7 7c0 1.92-.78 3.66-2.04 4.93-.01.01-.02.01-.02.01-.01.01-.01.01-.01.02A6.98 6.98 0 0111 18c-3.86 0-7-3.14-7-7z" ></path></g></svg>
+                            </div>
+                            <input class="w-full h-10 placeholder-gray-400 transition-colors duration-200 ease-in bg-gray-200 border border-transparent rounded md:text-sm hover:bg-white hover:border-gray-300 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-dark-600 dark:border-dark-600 dark:placeholder-dark-400" style="padding: 0.625rem 0.75rem 0.625rem 2rem" type="text" placeholder="Search">
+                        </div>
+        
+                        <!-- Mobile search button -->
+                        <div class="flex items-center justify-center w-10 h-10 lg:hidden">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="shrink-0 icon-base" width="20" height="20" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor" ><path d="M21.71 20.29l-3.68-3.68A8.963 8.963 0 0020 11c0-4.96-4.04-9-9-9s-9 4.04-9 9 4.04 9 9 9c2.12 0 4.07-.74 5.61-1.97l3.68 3.68c.2.19.45.29.71.29s.51-.1.71-.29c.39-.39.39-1.03 0-1.42zM4 11c0-3.86 3.14-7 7-7s7 3.14 7 7c0 1.92-.78 3.66-2.04 4.93-.01.01-.02.01-.02.01-.01.01-.01.01-.01.02A6.98 6.98 0 0111 18c-3.86 0-7-3.14-7-7z" ></path></g></svg>
+                        </div>
+        
+                        <!-- Dark mode switch placeholder -->
+                        <div class="w-10 h-10 lg:ml-2"></div>
+        
+                        <!-- History button -->
+                        <div class="flex items-center justify-center w-10 h-10" style="margin-right: -0.625rem;">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="shrink-0 icon-base" width="22" height="22" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor" ><g ><path d="M12.01 6.01c-.55 0-1 .45-1 1V12a1 1 0 00.4.8l3 2.22a.985.985 0 001.39-.2.996.996 0 00-.21-1.4l-2.6-1.92V7.01c.02-.55-.43-1-.98-1z"></path><path d="M12.01 1.91c-5.33 0-9.69 4.16-10.05 9.4l-.29-.26a.997.997 0 10-1.34 1.48l1.97 1.79c.19.17.43.26.67.26s.48-.09.67-.26l1.97-1.79a.997.997 0 10-1.34-1.48l-.31.28c.34-4.14 3.82-7.41 8.05-7.41 4.46 0 8.08 3.63 8.08 8.09s-3.63 8.08-8.08 8.08c-2.18 0-4.22-.85-5.75-2.4a.996.996 0 10-1.42 1.4 10.02 10.02 0 007.17 2.99c5.56 0 10.08-4.52 10.08-10.08.01-5.56-4.52-10.09-10.08-10.09z"></path></g></g></svg>
+                        </div>
+                    </div>
+        
+                    <div v-cloak class="flex justify-end grow">
+                        <div id="docs-mobile-search-button"></div>
+                        <doc-search-desktop></doc-search-desktop>
+        
+                        <doc-theme-switch class="lg:ml-2"></doc-theme-switch>
+                        <doc-history></doc-history>
+                    </div>
+                </div>
+            </div>
+        </header>
+    
+        <div class="container relative flex bg-white">
+            <!-- Sidebar Skeleton -->
+            <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-white border-gray-200 sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton dark:bg-dark-800 dark:border-dark-650">
+            
+                <div class="flex items-center h-16 px-6">
+                    <input class="w-full h-8 px-3 py-2 transition-colors duration-200 ease-linear bg-white border border-gray-200 rounded shadow-none text-sm focus:outline-none focus:border-gray-600 dark:bg-dark-600 dark:border-dark-600" type="text" placeholder="Filter">
+                </div>
+            
+                <div class="pl-6 mt-1 mb-4">
+                    <div class="w-32 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-48 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-40 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-32 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-48 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                    <div class="w-40 h-3 mb-4 bg-gray-200 rounded-full loading dark:bg-dark-600"></div>
+                </div>
+            
+                <div class="shrink-0 mt-auto bg-transparent dark:border-dark-650">
+                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-400 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                        <span class="text-xs whitespace-nowrap">Powered by</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                    </a>
+                </div>
+            </div>
+            
+            <!-- Sidebar component -->
+            <doc-sidebar v-cloak>
+                <template #sidebar-footer>
+                    <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-dark-650">
+            
+                        <div class="py-3 px-6 md:hidden border-b dark:border-dark-650">
+                            <nav>
+                                <ul class="flex flex-wrap justify-center items-center">
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px mr-1" width="18" height="18" viewBox="0 0 24 24" role="presentation">
+                                                <g fill="currentColor">
+                                                    <path d="M11.03 2.59a1.501 1.501 0 0 1 1.94 0l7.5 6.363a1.5 1.5 0 0 1 .53 1.144V19.5a1.5 1.5 0 0 1-1.5 1.5h-5.75a.75.75 0 0 1-.75-.75V14h-2v6.25a.75.75 0 0 1-.75.75H4.5A1.5 1.5 0 0 1 3 19.5v-9.403c0-.44.194-.859.53-1.144ZM12 3.734l-7.5 6.363V19.5h5v-6.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v6.25h5v-9.403Z"/>
+                                                </g>
+                                            </svg>
+                                            <span>Home</span>
+                                        </a>
+                                    </li>
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../about/">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px mr-1" width="18" height="18" viewBox="0 0 24 24" role="presentation">
+                                                <g fill="currentColor">
+                                                    <path d="M13 7.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Zm-3 3.75a.75.75 0 0 1 .75-.75h1.5a.75.75 0 0 1 .75.75v4.25h.75a.75.75 0 0 1 0 1.5h-3a.75.75 0 0 1 0-1.5h.75V12h-.75a.75.75 0 0 1-.75-.75Z"/><path d="M12 1c6.075 0 11 4.925 11 11s-4.925 11-11 11S1 18.075 1 12 5.925 1 12 1ZM2.5 12a9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5A9.5 9.5 0 0 0 12 2.5 9.5 9.5 0 0 0 2.5 12Z"/>
+                                                </g>
+                                            </svg>
+                                            <span>About</span>
+                                        </a>
+                                    </li>
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../blog/">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px mr-1" width="18" height="18" viewBox="0 0 24 24" role="presentation">
+                                                <g fill="currentColor">
+                                                    <path d="M0 3.75A.75.75 0 0 1 .75 3h7.497c1.566 0 2.945.8 3.751 2.014A4.495 4.495 0 0 1 15.75 3h7.5a.75.75 0 0 1 .75.75v15.063a.752.752 0 0 1-.755.75l-7.682-.052a3 3 0 0 0-2.142.878l-.89.891a.75.75 0 0 1-1.061 0l-.902-.901a2.996 2.996 0 0 0-2.121-.879H.75a.75.75 0 0 1-.75-.75Zm12.75 15.232a4.503 4.503 0 0 1 2.823-.971l6.927.047V4.5h-6.75a3 3 0 0 0-3 3ZM11.247 7.497a3 3 0 0 0-3-2.997H1.5V18h6.947c1.018 0 2.006.346 2.803.98Z"/>
+                                                </g>
+                                            </svg>
+                                            <span>Blog</span>
+                                        </a>
+                                    </li>
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../changelog/">Changelog</a>
+                                    </li>
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200" href="../sponsorship/">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px mr-1" width="18" height="18" viewBox="0 0 24 24" role="presentation">
+                                                <g fill="currentColor">
+                                                    <path d="m12 20.703.343.667a.748.748 0 0 1-.686 0l-.003-.002-.007-.003-.025-.013a31.138 31.138 0 0 1-5.233-3.576C3.8 15.573 1 12.332 1 8.514v-.001C1 5.053 3.829 2.5 6.736 2.5 9.03 2.5 10.881 3.726 12 5.605 13.12 3.726 14.97 2.5 17.264 2.5 20.17 2.5 23 5.052 23 8.514c0 3.818-2.801 7.06-5.389 9.262a31.148 31.148 0 0 1-5.233 3.576l-.025.013-.007.003-.002.001ZM6.736 4C4.657 4 2.5 5.88 2.5 8.514c0 3.107 2.324 5.96 4.861 8.12a29.655 29.655 0 0 0 4.566 3.175l.073.041.073-.04c.271-.153.661-.38 1.13-.674.94-.588 2.19-1.441 3.436-2.502 2.537-2.16 4.861-5.013 4.861-8.12C21.5 5.88 19.343 4 17.264 4c-2.106 0-3.801 1.389-4.553 3.643a.751.751 0 0 1-1.422 0C10.537 5.389 8.841 4 6.736 4Z"/>
+                                                </g>
+                                            </svg>
+                                            <span>Support Us</span>
+                                        </a>
+                                    </li>
+            
+                                </ul>
+                            </nav>
+                        </div>
+            
+                        <a class="flex items-center justify-center flex-nowrap h-16 text-gray-400 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                            <span class="text-xs whitespace-nowrap">Powered by</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                        </a>
+                    </div>
+                </template>
+            </doc-sidebar>
+    
+            <div class="grow min-w-0 dark:bg-dark-850">
+                <!-- Render "toolbar" template here on api pages --><!-- Render page content -->
+                <div class="flex">
+                    <div class="min-w-0 p-4 grow md:px-16">
+                        <main class="relative pb-12 lg:pt-2">
+                            <div class="docs-markdown" id="docs-content">
+                                <!-- Rendered if sidebar right is enabled -->
+                                <div id="docs-sidebar-right-toggle"></div>
+                                <!-- Page content  -->
+<doc-anchor-target id="operation-security" class="break-words">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#operation-security">#</doc-anchor-trigger>
+        <span>Operation Security</span>
+    </h1>
+</doc-anchor-target>
+<p><figure class="content-center">
+    <img src="../assets/headers/header-logo.png" alt="">
+    <figcaption class="caption"></figcaption>
+</figure>
+</p>
+<p><figure class="content-center">
+    <img src="https://img.shields.io/badge/Tools%20%26%20Resources%20Available-100-757575?style=for-the-badge" alt="">
+    <figcaption class="caption"></figcaption>
+</figure>
+</p>
+<doc-anchor-target id="anonymity">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#anonymity">#</doc-anchor-trigger>
+        <span>Anonymity</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="browsing">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#browsing">#</doc-anchor-trigger>
+        <span>Browsing</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://geti2p.net/en/">I2P</a> - An anonymous network layer that allows for censorship resistant, peer to peer communication.</li>
+<li><a href="https://ipfs.tech/">ipfs</a> - IPFS is the Inter-Planetary FileSystem. IPFS aims to surpass HTTP in order to build a better web for all of us.</li>
+<li><a href="https://coveryourtracks.eff.org/">Pantoclick</a> - See how trackers view your browser.</li>
+<li><a href="https://www.torproject.org/">TOR</a> - Free and open-source software for enabling anonymous communication.</li>
+<li><a href="https://webkay.robinlinus.com/">WEBKAY</a> - A web app to show what every browser knows about you.</li>
+</ul>
+<doc-anchor-target id="cryptocurrency">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#cryptocurrency">#</doc-anchor-trigger>
+        <span>Cryptocurrency</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://www.getmonero.org/">Monero</a> - Secure, private, untraceable.</li>
+<li><a href="https://z.cash/">ZCash</a> - Proxies without limits. Take your business to a higher level.</li>
+</ul>
+<doc-anchor-target id="cryptocurrency-wallets">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#cryptocurrency-wallets">#</doc-anchor-trigger>
+        <span>Cryptocurrency Wallets</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://www.exodus.com/">Bitlox</a> - Bitcoin mobile hardware wallet bluetooth low energy high security.</li>
+<li><a href="https://www.exodus.com/">Exodus</a> - Laptop and Desktop crypto wallet.</li>
+<li><a href="https://samouraiwallet.com/">Samourai</a> - A bitcoin wallet for the streets.</li>
+<li><a href="https://www.wasabiwallet.io/">Wasabi</a> - Bitcoin privacy wallet with built-in CoinJoin.</li>
+</ul>
+<doc-anchor-target id="domain-registrars">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#domain-registrars">#</doc-anchor-trigger>
+        <span>Domain Registrars</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://njal.la/">Njalla</a> [<a href="http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion/">TOR</a>] - A privacy-aware domain service.</li>
+</ul>
+<doc-anchor-target id="proxies">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#proxies">#</doc-anchor-trigger>
+        <span>Proxies</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://smartproxy.com/">Smarter Proxy</a> - Proxies without limits. Take your business to a higher level.</li>
+</ul>
+<doc-anchor-target id="vpn">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#vpn">#</doc-anchor-trigger>
+        <span>VPN</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://docs.google.com/spreadsheets/d/1V1MFJJqwAtn9O_WgynUMXRbXLhsY2SAViADYsLZy63U/edit#gid=0">Comparision Sheet</a> - VPN comparision sheet.</li>
+<li><a href="https://mullvad.net/en/">Mullvad VPN</a> - Service that helps keep your online activity, identity, and location private.</li>
+<li><a href="https://protonvpn.com/">ProtonVPN</a> - High-speed Swiss VPN that safeguards your privacy.</li>
+</ul>
+<doc-anchor-target id="whistleblowing">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#whistleblowing">#</doc-anchor-trigger>
+        <span>Whistleblowing</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://www.globaleaks.org/">Global Leaks</a> - Free and open source whistleblowing software, under the AGPL License.</li>
+<li><a href="https://securedrop.org/">SecureDrop</a> - Share and accept documents securely.</li>
+</ul>
+<hr>
+<doc-anchor-target id="anti-forensic">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#anti-forensic">#</doc-anchor-trigger>
+        <span>Anti-Forensic</span>
+    </h2>
+</doc-anchor-target>
+<p>Destroy your data. Don&#x27;t leave a trace.</p>
+<doc-anchor-target id="filesystem-manipulation">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#filesystem-manipulation">#</doc-anchor-trigger>
+        <span>Filesystem Manipulation</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://sourceforge.net/projects/dban/">Darik&#x27;s Book &amp; Nuke</a> - A self-contained boot image that securely wipes the hard disks of most computers.</li>
+<li><a href="https://github.com/jschicht/SetMace">SetMace</a> - Manipulate timestamps on NTFS. <img src="https://img.shields.io/github/last-commit/jschicht/SetMace?style=flat" alt="last-commit" /></li>
+<li><a href="https://github.com/berke/wipe">Wipe</a> - A Unix tool for secure deletion. <img src="https://img.shields.io/github/last-commit/berke/wipe?style=flat" alt="last-commit" /></li>
+<li><a href="https://github.com/Drewsif/wipedicks">WipeDicks</a> - Wipe files and drives securely with randoms ASCII dicks. <img src="https://img.shields.io/github/last-commit/Drewsif/wipedicks?style=flat" alt="last-commit" /></li>
+<li><a href="https://github.com/r3nt0n/wiper">Wiper</a> - Toolkit to perform secure destruction of sensitive virtual data, temporary files and swap memories. <img src="https://img.shields.io/github/last-commit/r3nt0n/wiper?style=flat" alt="last-commit" /></li>
+</ul>
+<doc-anchor-target id="system-operation">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#system-operation">#</doc-anchor-trigger>
+        <span>System Operation</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://github.com/NateBrune/silk-guardian">Silk Guardian</a> - Anti-forensic kill-switch that waits for a change on your usb ports and then wipes your ram, deletes precious files, and turns off your computer. <img src="https://img.shields.io/github/last-commit/NateBrune/silk-guardian?style=flat" alt="last-commit" /></li>
+<li><a href="https://github.com/hephaest0s/usbkill">USBKill</a> - An anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer. <img src="https://img.shields.io/github/last-commit/hephaest0s/usbkill?style=flat" alt="last-commit" /></li>
+<li><a href="https://github.com/thereisnotime/xxUSBSentinel">xxUSBSentinel</a> - Windows anti-forensics USB monitoring tool. <img src="https://img.shields.io/github/last-commit/thereisnotime/xxUSBSentinel?style=flat" alt="last-commit" /></li>
+</ul>
+<hr>
+<doc-anchor-target id="burners">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#burners">#</doc-anchor-trigger>
+        <span>Burners</span>
+    </h2>
+</doc-anchor-target>
+<p>Everything for your temporary needs.</p>
+<doc-anchor-target id="e-mail">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#e-mail">#</doc-anchor-trigger>
+        <span>E-Mail</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://www.deadfake.com/Default.aspx">DeadFake</a> - Let&#x27;s you send free fake emails.</li>
+<li><a href="https://emailfake.com/">E-Mail Fake</a> - Burner e-mail server. No IP logging.</li>
+<li><a href="https://mail-fake.com/">Fake E-Mail Generatort</a> - The Fake Mail Generator is an absolutely free disposable email system.</li>
+<li><a href="https://www.fakemail.net/">FakeMail</a> - Temp Mail Address Protects Your Privacy.</li>
+<li><a href="https://tempmailgen.com/">Temp Mail Gen</a> - A disposable, throwaway, temporary,one-click email. No IP logging.</li>
+<li><a href="https://mailsweat.shop/">Mail Sweatshop</a> - Disposable e-mail provider. No IP logging.</li>
+</ul>
+<doc-anchor-target id="financial">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#financial">#</doc-anchor-trigger>
+        <span>Financial</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://privacy.com/">Privacy</a> - Make a unique debit card number for every single purchase online with just 1 click.</li>
+</ul>
+<doc-anchor-target id="phone-numbers">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#phone-numbers">#</doc-anchor-trigger>
+        <span>Phone Numbers</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://www.burnerapp.com/">BurnerApp</a> - phone number app for calling, texting and picture messaging.</li>
+<li><a href="https://hushed.com/">Hushed</a> - Temporary &amp; Second Phone Numbers for Talk &amp; Texting.</li>
+</ul>
+<hr>
+<doc-anchor-target id="communication">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#communication">#</doc-anchor-trigger>
+        <span>Communication</span>
+    </h2>
+</doc-anchor-target>
+<p>Protect your SMS messages, voice calls, and e-mails. Big brother is always watching.</p>
+<doc-anchor-target id="e-mail-services">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#e-mail-services">#</doc-anchor-trigger>
+        <span>E-Mail Services</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li>Noxe [<a href="http://noxe622edajixluakfmma5dolaakdtmhfgtz7ninulfnecsbwoybogyd.onion/">TOR</a> - E-Mail provider.</li>
+<li>SecMail <a href="tor">TOR</a>(<a href="http://secmail63sex4dfw6h2nsrbmfz2z6alwxe4e3adtkpd4pcvkhht4jdad.onion/">http://secmail63sex4dfw6h2nsrbmfz2z6alwxe4e3adtkpd4pcvkhht4jdad.onion/</a>) - Secure mail service in TOR.</li>
+<li><a href="https://premiumvendor.net/">Premium Vendor</a> - E-Mail provider utilized by vendors all around the world.</li>
+<li><a href="https://protonmail.com/">Protonmail</a> - Secure E-Mail based in Switzerland.</li>
+<li><a href="https://safe-mail.net">SAFe-mail</a> - Bulletproof e-mail service.</li>
+<li>TorBox <a href="tor">TOR</a>(<a href="http://torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion/index-en.php">http://torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion/index-en.php</a>) - Hidden mail service.</li>
+</ul>
+<doc-anchor-target id="messaging-services">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#messaging-services">#</doc-anchor-trigger>
+        <span>Messaging Services</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://briarproject.org/">Briar</a> - Secure messaging, anywhere.</li>
+<li><a href="https://element.io/">Element</a> - A messenger that gives you the privacy you expect from a conversation in your own home, but with everyone across the globe. Runs on the matrix network.</li>
+<li><a href="https://ricochet.im/">Ricochet</a> - Ricochet is a different approach to instant messaging that doesn’t trust anyone in protecting your privacy.</li>
+<li><a href="https://telegram.org/">Telegram</a> - A new era of messaging. <img src="https://img.shields.io/github/last-commit/telegramdesktop/tdesktop?style=flat" alt="last-commit" /></li>
+<li><a href="https://github.com/TokTok/c-toxcore">Tox</a> - A new era of messaging. <img src="https://img.shields.io/github/last-commit/TokTok/c-toxcore?style=flat" alt="last-commit" /></li>
+</ul>
+<doc-anchor-target id="sms">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#sms">#</doc-anchor-trigger>
+        <span>SMS</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://www.signal.org/">Signal</a> - Speak Freely. <img src="https://img.shields.io/github/last-commit/signalapp/Signal-Desktop?style=flat" alt="last-commit" /></li>
+</ul>
+<doc-anchor-target id="xmpp-services">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#xmpp-services">#</doc-anchor-trigger>
+        <span>XMPP Services</span>
+    </h3>
+</doc-anchor-target>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-300"></div>
+    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-blue-300" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
+                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                    <path fill="none" d="M0 0h24v24H0z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+            <h5>Info</h5>
+<p>Want to check compliance status of an XMPP server? Check out <a href="https://compliance.conversations.im/">https://compliance.conversations.im/</a>.</p>
+        </div>
+    </div>
+</div>
+<ul>
+<li><a href="https://404.city/">404 City</a> - Cipher-punk community in federation XMPP. Our goal is to protect the privacy of personal life.</li>
+<li><a href="https://creep.im">Creep</a> <a href="tor">TOR</a>(<a href="http://creep7nissfumwyx.onion">http://creep7nissfumwyx.onion</a>) - Free XMPP/Jabber server in France. IP&#x27;s not logged. XSF standards.</li>
+<li><a href="https://darknet.im">Darknet.IM</a> - Free XMPP service for secure unmonitored communications.</li>
+<li><a href="https://jabberx.net/">JabberX</a> - Free Private XMPP Chat Service. Designed in Sweeded and Hosted in Germany.</li>
+</ul>
+<hr>
+<doc-anchor-target id="password--access-management">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#password--access-management">#</doc-anchor-trigger>
+        <span>Password &amp; Access Management</span>
+    </h2>
+</doc-anchor-target>
+<p>This ain&#x27;t your mommas notebook. Secure your passwords, secrets, and notes.</p>
+<doc-anchor-target id="consumer-passwordsecret-managers">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#consumer-passwordsecret-managers">#</doc-anchor-trigger>
+        <span>Consumer Password/Secret Managers</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://1password.com">1Password</a> - Password Manager for Families, Businesses, Teams .</li>
+<li><a href="">Bitwarden</a> - Easiest and safest way for teams and individuals to store and share sensitive data from any device.</li>
+<li><a href="https://www.dashlane.com/">Dashlane</a> - Password Manager App for Home, Mobile, Business.</li>
+<li><a href="https://www.gopass.pw/">GoPass</a> - The slightly more awesome standard unix password manager for teams.</li>
+<li><a href="https://keepass.info/">Keepass</a> - A free open source password manager.</li>
+<li><a href="https://www.keepassx.org/">KeepassX</a> - An application for people with extremly high demands on secure personal data management.</li>
+<li><a href="https://keepassxc.org/">KeepassXC</a> - Cross-Platform Password Manager.</li>
+<li><a href="https://www.lastpass.com/">LastPass</a> - Keeps your information private, secure, and hidden.</li>
+<li><a href="https://www.stickypassword.com/">Sticky Password</a> - Log in securely. Autofill forms in a second. Use your passwords wherever you go. Be safe.</li>
+<li><a href="https://www.post-it.com/3M/en_US/post-it/">Post-It</a> - Safest place to write your passwords. Just a joke. Please don&#x27;t do this.</li>
+</ul>
+<doc-anchor-target id="enterprise-passwordsecret-managers">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#enterprise-passwordsecret-managers">#</doc-anchor-trigger>
+        <span>Enterprise Password/Secret Managers</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://www.cyberark.com/">CyberArk</a> - Keep your business and its most valuable assets secure.</li>
+<li><a href="https://www.hashicorp.com/products/vault">Hashicorp Vault</a> - Secure, store and tightly control access to tokens, passwords, certificates, and more.</li>
+<li><a href="https://www.beyondtrust.com/password-safe">Password Safe (BeyondTrust)</a> - Discover, manage, audit, and monitor privileged accounts of all types.</li>
+<li><a href="https://thycotic.com/products/secret-server/">Thycotic</a> - Protect your privileged accounts with our enterprise-grade Privileged Access Management.</li>
+</ul>
+<doc-anchor-target id="mfa-hardware">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#mfa-hardware">#</doc-anchor-trigger>
+        <span>MFA Hardware</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://www.hypersecu.com/products">Hyper</a> - Strong Authentication Products.</li>
+<li><a href="https://onlykey.io/">OnlyKey</a> - A hardware password manager, two-factor security key, and file encryption token in one.</li>
+<li><a href="https://solokeys.com/">SoloKeys</a> - Secure Login. Open Source. Easy.</li>
+<li><a href="https://thetis.io/">Thetis</a> - Security key.</li>
+<li><a href="https://store.google.com/us/product/titan_security_key?hl=en-US">Titan</a> - Google MFA security key.</li>
+<li><a href="https://www.yubico.com/products/">YubiKey</a> - Security key, enabling strong two-factor, multi-factor and passwordless authentication.</li>
+</ul>
+<doc-anchor-target id="mfa-mobile-apps">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#mfa-mobile-apps">#</doc-anchor-trigger>
+        <span>MFA Mobile Apps</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://2fas.com/">2FAS</a> - Protect your online accounts and services.</li>
+<li><a href="https://github.com/beemdevelopment/Aegis">Aegis Authenticator</a> - A free, secure, and open source 2FA app for android. <img src="https://img.shields.io/github/last-commit/beemdevelopment/Aegis?style=flat" alt="last-commit" /></li>
+<li><a href="https://github.com/andOTP/andOTP">andOTP</a> - A Two-Factor authentication app for Android 5.1+. <img src="https://img.shields.io/github/last-commit/andOTP/andOTP?style=flat" alt="last-commit" /></li>
+<li><a href="https://authy.com/">Authy</a> - Enable 2FA for your favorite sites.</li>
+<li><a href="https://duo.com/">Duo</a> - Protect your workforce with simple, powerful access security.</li>
+<li><a href="https://freeotp.github.io/">FreeOPT</a> - A two-factor authentication application for systems utilizing one-time password protocols.</li>
+<li><a href="https://github.com/google/google-authenticator">Google Authenticator</a> - Multi-Factor authenticator for iOS and Android. Open-Source Version. <img src="https://img.shields.io/github/last-commit/google/google-authenticator?style=flat" alt="last-commit" /></li>
+<li><a href="https://www.microsoft.com/en-us/account/authenticator">Microsoft Authenticator</a> - Access your account easily, and securely.</li>
+<li>Okta Verify [<a href="https://apps.apple.com/us/app/okta-verify/id490179405">iOS</a>] [<a href="https://play.google.com/store/apps/details?id=com.okta.android.auth&amp;hl=en_US&amp;gl=US">Android</a>] - Lightweight app that allows you to securely access your apps via 2-step verification.</li>
+<li><a href="https://www.binaryboot.com/totp-authenticator">TOTP Authenticator</a> - Making 2-factor authentication simple and secure.</li>
+</ul>
+<doc-anchor-target id="mfa-systems">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#mfa-systems">#</doc-anchor-trigger>
+        <span>MFA Systems</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://github.com/aerobase/omnibus-aerobase-server">Aerobase Server</a> - Simple secure and seamless authentication. <img src="https://img.shields.io/github/last-commit/aerobase/omnibus-aerobase-server?style=flat" alt="last-commit" /></li>
+<li><a href="https://github.com/LinOTP/LinOTP">LinOTP</a> - Open source solution for two factor authentication. <img src="https://img.shields.io/github/last-commit/LinOTP/LinOTP?style=flat" alt="last-commit" /></li>
+<li><a href="https://github.com/beemdevelopment/Aegis">PrivacyIDEA</a> - A free, secure, and open source 2FA app for android. <img src="https://img.shields.io/github/last-commit/beemdevelopment/Aegis?style=flat" alt="last-commit" /></li>
+</ul>
+<hr>
+<doc-anchor-target id="operating-systems">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#operating-systems">#</doc-anchor-trigger>
+        <span>Operating Systems</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="linux">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#linux">#</doc-anchor-trigger>
+        <span>Linux</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://github.com/aforensics/HiddenVM">Hidden VM</a> - Use any desktop OS without leaving a trace. <img src="https://img.shields.io/github/last-commit/aforensics/HiddenVM?style=flat" alt="last-commit" /></li>
+</ul>
+<doc-anchor-target id="macintosh">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#macintosh">#</doc-anchor-trigger>
+        <span>Macintosh</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://github.com/aforensics/HiddenVM">Hidden VM</a> - Use any desktop OS without leaving a trace. <img src="https://img.shields.io/github/last-commit/aforensics/HiddenVM?style=flat" alt="last-commit" /></li>
+</ul>
+<doc-anchor-target id="windows">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#windows">#</doc-anchor-trigger>
+        <span>Windows</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://www.getblackbird.net/download/">Blackbird</a> - Windows privacy, security, and performance.</li>
+<li><a href="https://www.softpedia.com/get/Tweak/System-Tweak/Windows-10-Tracking-Disable-Tool.shtml">DisableWinTracking</a> - Disable tracking services and telemetry in Windows 10 and block tracking servers to protect your privacy.</li>
+<li><a href="https://pxc-coding.com/donotspy10/">DoNotSpy10</a> - Empowers you to protect your privacy on Windows 10.</li>
+<li><a href="https://github.com/aforensics/HiddenVM">Hidden VM</a> - Use any desktop OS without leaving a trace. <img src="https://img.shields.io/github/last-commit/aforensics/HiddenVM?style=flat" alt="last-commit" /></li>
+<li><a href="https://www.oo-software.com/en/shutup10">O&amp;O Shut Up</a> - Free antispy tool for Windows 10.</li>
+<li><a href="https://www.securilla.com/privacy-repairer">Privacy Repairer</a> - tool to repair your privacy in Windows 10.</li>
+<li><a href="https://wpd.app/">WPD</a> - The real privacy dashboard for Windows.</li>
+<li><a href="https://github.com/thereisnotime/xxUSBSentinel">xxUSBSentinel</a> - Windows anti-forensics USB monitoring tool. <img src="https://img.shields.io/github/last-commit/thereisnotime/xxUSBSentinel?style=flat" alt="last-commit" /></li>
+</ul>
+<hr>
+<doc-anchor-target id="search-engines">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#search-engines">#</doc-anchor-trigger>
+        <span>Search Engines</span>
+    </h2>
+</doc-anchor-target>
+<p>Discover alternative search engines that respect your privacy.</p>
+<doc-anchor-target id="browser-based">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#browser-based">#</doc-anchor-trigger>
+        <span>Browser Based</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li><a href="https://duckduckgo.com">DuckDuckGo</a> - The Internet privacy company that empowers you to seamlessly take control of your personal information online, without any tradeoffs.</li>
+<li><a href="https://gibiru.com/">Gibiru</a> - Uncensored private search.</li>
+<li><a href="https://metager.org/">MetaGer</a> - Privacy protected search &amp; find.</li>
+<li><a href="https://www.mojeek.com/">Mojeek</a> - A growing independent search engine which does not track you.</li>
+<li><a href="https://peekier.com/">Peekier</a> - The most privacy-oriented search engine.</li>
+<li><a href="https://private.sh/">Private.sh</a> - The search engine that cryptographically protects your privacy.</li>
+<li><a href="https://www.qwant.com/">Qwant</a> - Qwant is a search engine that respects your privacy and ensures neutrality and impartiality.</li>
+<li><a href="https://github.com/searx/searx">SearX</a> - Privacy-respecting metasearch engine. <img src="https://img.shields.io/github/last-commit/searx/searx?style=flat" alt="last-commit" /></li>
+<li><a href="https://www.startpage.com/">Startpage</a> - Search and browse the internet without being tracked or targeted.</li>
+<li><a href="https://swisscows.com/">Swisscows</a> - The data-safe search engine.</li>
+</ul>
+
+                                
+                                <!-- Required only on API pages -->
+                                <doc-toolbar-member-filter-no-results></doc-toolbar-member-filter-no-results>
+                            </div>
+                            <footer class="clear-both">
+                                <div class="flex flex-wrap items-center justify-between mt-14">
+                                    <a class="my-2.5 inline-flex items-center text-sm whitespace-nowrap text-blue-500 dark:text-blue-400 hover:text-blue-700 hover:underline" href="https://github.com/InfosecHouse/InfosecHouse/blob/main/opsec.md" target="_blank" rel="noopener">
+                                        <svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M20 12c-.55 0-1 .45-1 1v7c0 .55-.45 1-1 1H4c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h7c.55 0 1-.45 1-1s-.45-1-1-1H4C2.35 3 1 4.35 1 6v14c0 1.65 1.35 3 3 3h14c1.65 0 3-1.35 3-3v-7c0-.55-.45-1-1-1z" /><path d="M22.21 1.79c-1.18-1.18-3.24-1.18-4.41 0l-9.5 9.5c-.13.13-.22.29-.26.46l-1 4c-.08.34.01.7.26.95.18.2.44.3.7.3.08 0 .16-.01.24-.03l4-1c.18-.04.34-.13.46-.26l9.5-9.5c1.22-1.22 1.22-3.2.01-4.42zm-1.42 3l-9.3 9.3-2.11.53.53-2.11 9.3-9.3c.42-.42 1.16-.42 1.59 0 .43.43.43 1.15-.01 1.58z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                                        <span>Edit this page</span>
+                                    </a>
+                                </div>
+                            
+                                <nav class="flex mt-14">
+                                    <div class="w-1/2">
+                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../operating-systems/">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                                            <span>
+                                                <span class="block text-xs font-normal text-gray-400 dark:text-dark-400">Previous</span>
+                                                <span class="block mt-1">Operating Systems</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                            
+                                    <div class="w-1/2">
+                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../osint/">
+                                            <span>
+                                                <span class="block text-xs font-normal text-right text-gray-400 dark:text-dark-400">Next</span>
+                                                <span class="block mt-1">OSINT</span>
+                                            </span>
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                                        </a>
+                                    </div>
+                                </nav>
+                            </footer>
+                        </main>
+                
+                        <div class="border-t dark:border-dark-650 pt-6 mb-8">
+                            <footer class="flex flex-wrap items-center justify-between">
+                                <div>
+                                    <ul class="flex flex-wrap items-center text-sm">
+                                        <li>
+                                            <a class="inline-flex items-center mr-4 py-2 text-sm whitespace-nowrap transition-colors duration-200 ease-linear text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200 md:mb-0" href="https://github.com/infosechouse/" target="_blank">
+                                                <svg xmlns="http://www.w3.org/2000/svg" class="mb-px mr-1" width="18" height="18" viewBox="0 0 24 24" role="presentation">
+                                                    <g fill="currentColor">
+                                                        <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-4.466 19.59c-.405.078-.534-.171-.534-.384v-2.195c0-.747-.262-1.233-.55-1.481 1.782-.198 3.654-.875 3.654-3.947 0-.874-.312-1.588-.823-2.147.082-.202.356-1.016-.079-2.117 0 0-.671-.215-2.198.82-.64-.18-1.324-.267-2.004-.271-.68.003-1.364.091-2.003.269-1.528-1.035-2.2-.82-2.2-.82-.434 1.102-.16 1.915-.077 2.118-.512.56-.824 1.273-.824 2.147 0 3.064 1.867 3.751 3.645 3.954-.229.2-.436.552-.508 1.07-.457.204-1.614.557-2.328-.666 0 0-.423-.768-1.227-.825 0 0-.78-.01-.055.487 0 0 .525.246.889 1.17 0 0 .463 1.428 2.688.944v1.489c0 .211-.129.459-.528.385-3.18-1.057-5.472-4.056-5.472-7.59 0-4.419 3.582-8 8-8s8 3.581 8 8c0 3.533-2.289 6.531-5.466 7.59z"/>
+                                                    </g>
+                                                </svg>
+                                                <span>Github</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="inline-flex items-center mr-4 py-2 text-sm whitespace-nowrap transition-colors duration-200 ease-linear text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200 md:mb-0" href="https://twitter.com/infosechouse/" target="_blank">
+                                                <svg xmlns="http://www.w3.org/2000/svg" class="mb-px mr-1" width="18" height="18" viewBox="0 0 24 24" role="presentation">
+                                                    <g fill="currentColor">
+                                                        <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-.139 9.237c.209 4.617-3.234 9.765-9.33 9.765-1.854 0-3.579-.543-5.032-1.475 1.742.205 3.48-.278 4.86-1.359-1.437-.027-2.649-.976-3.066-2.28.515.098 1.021.069 1.482-.056-1.579-.317-2.668-1.739-2.633-3.26.442.246.949.394 1.486.411-1.461-.977-1.875-2.907-1.016-4.383 1.619 1.986 4.038 3.293 6.766 3.43-.479-2.053 1.08-4.03 3.199-4.03.943 0 1.797.398 2.395 1.037.748-.147 1.451-.42 2.086-.796-.246.767-.766 1.41-1.443 1.816.664-.08 1.297-.256 1.885-.517-.439.656-.996 1.234-1.639 1.697z"/>
+                                                    </g>
+                                                </svg>
+                                                <span>Twitter</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="inline-flex items-center mr-4 py-2 text-sm whitespace-nowrap transition-colors duration-200 ease-linear text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200 md:mb-0" href="https://t.me/infosechouse" target="_blank">
+                                                <svg xmlns="http://www.w3.org/2000/svg" class="mb-px mr-1" width="18" height="18" viewBox="0 0 24 24" role="presentation">
+                                                    <g fill="currentColor">
+                                                        <path id="telegram-3" d="M19,24l-14,0c-2.761,0 -5,-2.239 -5,-5l0,-14c0,-2.761 2.239,-5 5,-5l14,0c2.762,0 5,2.239 5,5l0,14c0,2.761 -2.238,5 -5,5Zm-2.744,-5.148c0.215,0.153 0.491,0.191 0.738,0.097c0.246,-0.093 0.428,-0.304 0.483,-0.56c0.579,-2.722 1.985,-9.614 2.512,-12.09c0.039,-0.187 -0.027,-0.381 -0.173,-0.506c-0.147,-0.124 -0.351,-0.16 -0.532,-0.093c-2.795,1.034 -11.404,4.264 -14.923,5.567c-0.223,0.082 -0.368,0.297 -0.361,0.533c0.008,0.235 0.167,0.44 0.395,0.509c1.578,0.471 3.65,1.128 3.65,1.128c0,0 0.967,2.924 1.472,4.41c0.063,0.187 0.21,0.334 0.402,0.384c0.193,0.05 0.397,-0.002 0.541,-0.138c0.811,-0.765 2.064,-1.948 2.064,-1.948c0,0 2.381,1.746 3.732,2.707Zm-7.34,-5.784l1.119,3.692l0.249,-2.338c0,0 4.324,-3.9 6.79,-6.124c0.072,-0.065 0.082,-0.174 0.022,-0.251c-0.06,-0.077 -0.169,-0.095 -0.251,-0.043c-2.857,1.825 -7.929,5.064 -7.929,5.064Z"/>
+                                                    </g>
+                                                </svg>
+                                                <span>Telegram</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="inline-flex items-center mr-4 py-2 text-sm whitespace-nowrap transition-colors duration-200 ease-linear text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200 md:mb-0" href="https://instagram.com/infosechouse" target="_blank">
+                                                <svg xmlns="http://www.w3.org/2000/svg" class="mb-px mr-1" width="18" height="18" viewBox="0 0 24 24" role="presentation">
+                                                    <g fill="currentColor">
+                                                        <path d="M15.233 5.488c-.843-.038-1.097-.046-3.233-.046s-2.389.008-3.232.046c-2.17.099-3.181 1.127-3.279 3.279-.039.844-.048 1.097-.048 3.233s.009 2.389.047 3.233c.099 2.148 1.106 3.18 3.279 3.279.843.038 1.097.047 3.233.047 2.137 0 2.39-.008 3.233-.046 2.17-.099 3.18-1.129 3.279-3.279.038-.844.046-1.097.046-3.233s-.008-2.389-.046-3.232c-.099-2.153-1.111-3.182-3.279-3.281zm-3.233 10.62c-2.269 0-4.108-1.839-4.108-4.108 0-2.269 1.84-4.108 4.108-4.108s4.108 1.839 4.108 4.108c0 2.269-1.839 4.108-4.108 4.108zm4.271-7.418c-.53 0-.96-.43-.96-.96s.43-.96.96-.96.96.43.96.96-.43.96-.96.96zm-1.604 3.31c0 1.473-1.194 2.667-2.667 2.667s-2.667-1.194-2.667-2.667c0-1.473 1.194-2.667 2.667-2.667s2.667 1.194 2.667 2.667zm4.333-12h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm.952 15.298c-.132 2.909-1.751 4.521-4.653 4.654-.854.039-1.126.048-3.299.048s-2.444-.009-3.298-.048c-2.908-.133-4.52-1.748-4.654-4.654-.039-.853-.048-1.125-.048-3.298 0-2.172.009-2.445.048-3.298.134-2.908 1.748-4.521 4.654-4.653.854-.04 1.125-.049 3.298-.049s2.445.009 3.299.048c2.908.133 4.523 1.751 4.653 4.653.039.854.048 1.127.048 3.299 0 2.173-.009 2.445-.048 3.298z"/>
+                                                    </g>
+                                                </svg>
+                                                <span>Instagram</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="inline-flex items-center mr-4 py-2 text-sm whitespace-nowrap transition-colors duration-200 ease-linear text-blue-500 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200 md:mb-0" href="https://www.youtube.com/@infosechouse" target="_blank">
+                                                <svg xmlns="http://www.w3.org/2000/svg" class="mb-px mr-1" width="18" height="18" viewBox="0 0 24 24" role="presentation">
+                                                    <g fill="currentColor">
+                                                        <path d="M10 9.333l5.333 2.662-5.333 2.672v-5.334zm14-4.333v14c0 2.761-2.238 5-5 5h-14c-2.761 0-5-2.239-5-5v-14c0-2.761 2.239-5 5-5h14c2.762 0 5 2.239 5 5zm-4 7c-.02-4.123-.323-5.7-2.923-5.877-2.403-.164-7.754-.163-10.153 0-2.598.177-2.904 1.747-2.924 5.877.02 4.123.323 5.7 2.923 5.877 2.399.163 7.75.164 10.153 0 2.598-.177 2.904-1.747 2.924-5.877z"/>
+                                                    </g>
+                                                </svg>
+                                                <span>YouTube</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="docs-copyright py-2 text-gray-500 dark:text-dark-350 text-sm leading-relaxed"><p>© Copyright 2021-2025. All rights reserved.</p></div>
+                            </footer>
+                        </div>
+                    </div>
+                
+                    <!-- Rendered if sidebar right is enabled -->
+                    <!-- Sidebar right skeleton-->
+                    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-white border-gray-200 lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:transform-none sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton dark:bg-dark-850 dark:border-dark-650">
+                        <div class="pl-5">
+                            <div class="w-32 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
+                            <div class="w-48 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
+                            <div class="w-40 h-3 mb-4 bg-gray-200 dark:bg-dark-600 rounded-full loading"></div>
+                        </div>
+                    </div>
+                
+                    <!-- User should be able to hide sidebar right -->
+                    <doc-sidebar-right v-cloak></doc-sidebar-right>
+                </div>
+
+            </div>
+        </div>
+    
+        <doc-search-mobile></doc-search-mobile>
+        <doc-back-to-top></doc-back-to-top>
+    </div>
+
+
+    <div id="docs-overlay-target"></div>
+
+    <script data-cfasync="false">window.__DOCS__ = { "title": "Operation Security", level: 1, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+USERNAME : PASSWORD
+<blank> : 1RRWTTOOI
+<blank> : Dell
+<blank> : Fireport
+<blank> : admin
+<blank> : nz0u4bbe
+Admin : <blank>
+Administrator : storageserver
+VNC : winterm
+admin : admin
+admin : password
+rapport : r@p8p0r+
+root : calvin
+root : wyse
+root : calvin

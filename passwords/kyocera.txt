@@ -1,0 +1,7 @@
+USERNAME : PASSWORD
+2800 : 2800
+<blank> : PASSWORD
+<blank> : admin00
+admin : <blank>
+admin : admin
+root : root

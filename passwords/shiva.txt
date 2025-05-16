@@ -1,0 +1,5 @@
+USERNAME : PASSWORD
+admin : hello
+guest : <blank>
+hello : hello
+root : <blank>

@@ -1,0 +1,65 @@
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : Cisco
+<blank> : Cisco router
+<blank> : ILMI
+<blank> : _Cisco
+<blank> : c
+<blank> : cable-docsis
+<blank> : cc
+<blank> : changeit
+<blank> : cisco
+<blank> : letmein
+<blank> : public/private/secret
+<blank> : riverhead
+Administrator : admin
+Administrator : changeme
+CISCO15 : otbu+1
+Cisco : Cisco
+EAdmin : <blank>
+ESubscriber : <blank>
+End User : 7936
+UAMIS_ : <blank>
+UNITY_ : <blank>
+UOMNI_ : <blank>
+UVPIM_ : <blank>
+admin : <blank>
+admin : admin
+admin : changeme
+admin : cisco
+admin : default
+admin : diamond
+admin : tsunami
+bbsd-client : <blank>
+bbsd-client : changeme2
+bubba : (unknown)
+cisco : <blank>
+cisco : cisco
+cmaker : cmaker
+enable : <blank>
+enable : cisco
+guest : <blank>
+hsa : hsadb
+netrangr : attack
+pnadmin : pnadmin
+praisenetwork : perfectpraise
+private ReadWrite access : secret
+public ReadOnly access : secret
+ripeop : <blank>
+root : Cisco
+root : attack
+root : blender
+root : password
+root : secur4u
+sa : <blank>
+technician : 2 + last 4 of Audio
+uwmadmin : password
+wlse : wlsedb
+wlseuser : wlsepassword
+cisco : cisco
+pix : cisco
+Cisco : Cisco
+cisco : admin
+<blank> : riverhead
+cisco : cisco
+admin : system

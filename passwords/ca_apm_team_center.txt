@@ -1,0 +1,3 @@
+USERNAME : PASSWORD
+Admin : <blank>
+Guest : Guest

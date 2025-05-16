@@ -1,0 +1,9 @@
+USERNAME : PASSWORD
+<blank> : <blank>
+<blank> : admin
+<blank> : blank
+<blank> : mysweex
+admin : 1234
+admin : epicrouter
+rdc123 : rdc123
+sweex : mysweex

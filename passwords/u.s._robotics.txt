@@ -1,0 +1,10 @@
+USERNAME : PASSWORD
+<blank> : 12345
+<blank> : admin
+<blank> : amber
+Any : 12345
+admin : <blank>
+admin : admin
+root : 12345
+root : admin
+support : support

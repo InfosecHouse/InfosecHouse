@@ -1,0 +1,9 @@
+USERNAME : PASSWORD
+ADONIS : BPMS
+dasusr1 : dasusr1
+db2admin : db2admin
+db2fenc1 : db2fenc1
+db2inst1 : db2inst1
+db2inst1 : db2pass
+db2inst1 : db2password
+db2inst1 : db2pw

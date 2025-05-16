@@ -1,0 +1,4 @@
+USERNAME : PASSWORD
+admin : 123
+admin : 123456
+superuser : 123456

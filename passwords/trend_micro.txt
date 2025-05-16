@@ -1,0 +1,6 @@
+USERNAME : PASSWORD
+admin : admin
+admin : imsa7.0
+root : trendimsa1.0
+admin : admin
+admin : imss7.0

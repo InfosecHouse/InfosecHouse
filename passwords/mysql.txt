@@ -1,0 +1,6 @@
+USERNAME : PASSWORD
+admin@example.com : admin
+root : (none)
+root : <blank>
+superdba : admin
+root : root

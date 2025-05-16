@@ -1,0 +1,4 @@
+USERNAME : PASSWORD
+<blank> : admin
+admin : admin
+admin : password

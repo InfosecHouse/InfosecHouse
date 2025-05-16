@@ -1,0 +1,9 @@
+USERNAME : PASSWORD
+<blank> : password
+<blank> : sysadm
+admin : <blank>
+admin : no password
+admin : password
+sysadm : sysadm
+sysadmin : password
+supervisor : <blank>

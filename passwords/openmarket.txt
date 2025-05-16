@@ -1,0 +1,17 @@
+USERNAME : PASSWORD
+Bobo : hello
+Coco : hello
+Flo : hello
+Joe : hello
+Moe : hello
+admin : demo
+user_analyst : demo
+user_approver : demo
+user_author : demo
+user_checker : demo
+user_designer : demo
+user_editor : demo
+user_expert : demo
+user_marketer : demo
+user_pricer : demo
+user_publisher : demo

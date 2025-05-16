@@ -1,0 +1,25 @@
+USERNAME : PASSWORD
+(none) : (none)
+(none) : 1234
+(none) : admin
+(none) : year2000
+<blank> : <blank>
+<blank> : admin
+<blank> : private
+<blank> : public
+Admin : <blank>
+Alphanetworks : wrgg15_di524
+D-Link : D-Link
+admin : (none)
+admin : 1234
+admin : <blank>
+admin : admin
+admin : dareadsl
+admin : gvt12345
+admin : password
+admin : public
+admin : year2000
+dont need one : admin
+root : admin
+user : (none)
+user : <blank>

@@ -1,0 +1,5 @@
+USERNAME : PASSWORD
+<blank> : 0
+<blank> : 123456
+Administrator : <blank>
+veda : 12871
