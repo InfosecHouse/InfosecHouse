@@ -7,23 +7,17 @@ on:
 
 jobs:
   publish:
-    name: Publish to retype branch
-
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-dotnet@v1
-        with:
-          dotnet-version: 7.0.x
-
       - uses: retypeapp/action-build@latest
-        with:
-          license: ${{ secrets.RETYPE_SECRET }}
+        env:
+        RETYPE_KEY: ${{ secrets.RETYPE_KEY }}
+        RETYPE_PASSWORD: ${{ secrets.RETYPE_PASSWORD }}
 
       - uses: retypeapp/action-github-pages@latest
         with:
