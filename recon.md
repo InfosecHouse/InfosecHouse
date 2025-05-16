@@ -62,6 +62,7 @@ description: Understand your target. Perform in-depth research and discover new 
 * [Discover](https://github.com/leebaird/discover) - Custom bash scripts to automate various pentesting tasks including recon. ![last-commit](https://img.shields.io/github/last-commit/leebaird/discover?style=flat)
 * [findomain](https://github.com/Findomain/Findomain) - The complete solution for domain recognition. ![last-commit](https://img.shields.io/github/last-commit/Findomain/Findomain?style=flat)
 * [findsubdomains.com (spyse)](https://spyse.com/tools/subdomain-finder) - subdomain finder in order to make your reconnaissance process faster and effortless.
+* [httpx](https://github.com/projectdiscovery/httpx) - A fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. ![last-commit](https://img.shields.io/github/last-commit/projectdiscovery/httpx?style=flat)
 * [IPScout](https://github.com/jonhadfield/ipscout) - Host information and threat aggregator for network administrators and security analysts. ![last-commit](https://img.shields.io/github/last-commit/jonhadfield/ipscout?style=flat)
 * [Knock](https://github.com/guelfoweb/knock) - Knock Subdomain Scan. ![last-commit](https://img.shields.io/github/last-commit/guelfoweb/knock?style=flat)
 * [OneForAll](https://github.com/shmilylty/OneForAll) - A powerful subdomain integration tool. ![last-commit](https://img.shields.io/github/last-commit/shmilylty/OneForAll?style=flat)
