@@ -10,7 +10,7 @@ meta:
 <p>
 <center>
 <img src="https://img.shields.io/github/last-commit/InfosecHouse/InfosecHouse?style=for-the-badge"><br>
-<img src="https://img.shields.io/badge/Tools%20%26%20Resources%20Available-1,076-757575?style=for-the-badge"><br><br>
+<img src="https://img.shields.io/badge/Tools%20%26%20Resources%20Available-1,077-757575?style=for-the-badge"><br><br>
 
 Enhance your cyber security operations with a comprehensive range of tools and resources for both offensive and defensive strategies.
 
