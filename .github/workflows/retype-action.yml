@@ -1,4 +1,4 @@
-name: ReType Publish
+name: ReType Github Pages Deployment
 on:
   workflow_dispatch:
   push:
