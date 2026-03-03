@@ -7,6 +7,16 @@ description: Infosec House changelog. See what latest changes have been made!
 
 # Changelog
 
+### March 2, 2026
+
++++ New :icon-shield-check:
+- A.I. section
+- OSINT Page Sponsor
++++ :icon-file-added: Additions
+- Site color scheme 
+- Simple page logo banner
++++
+
 ### December 5, 2024
 
 +++ :icon-file-added: Additions

@@ -7,6 +7,7 @@ description: Open-Source Intel. Get all the information needed for your target.
 
 ![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-81-757575?style=for-the-badge)
 
+<a href="https://ai.cylect.io/?ref=infosec.house"><img src="/assets/sponsors/cylect-banner.png"></a>
 
 ### Business
 
@@ -36,7 +37,7 @@ description: Open-Source Intel. Get all the information needed for your target.
 
 ### Frameworks/Platforms
 
-* [Cylect](https://cylect.io/) - The ultimate AI OSINT Tool.
+[!badge corners="pill" variant="contrast" text="SPONSOR"] [Cylect](https://cylect.io/) - The ultimate AI OSINT Tool.
 * [iKy](https://github.com/kennbroorg/iKy) - OSINT Project. ![last-commit](https://img.shields.io/github/last-commit/kennbroorg/iKy?style=flat)
 * [IntelOwl](https://github.com/intelowlproject/IntelOwl) - OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale. ![last-commit](https://img.shields.io/github/last-commit/intelowlproject/IntelOwl?style=flat)
 * [Maltego](https://www.maltego.com/) - Increase the speed and precision of investigations. 

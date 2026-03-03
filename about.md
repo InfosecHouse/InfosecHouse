@@ -14,10 +14,9 @@ Infosec House is made possible because of the hard work of other amazing open-so
 
 | Project | Role |
 | :--- | :--- |
-| [CloudFlare Pages](https://pages.cloudflare.com/) | Website Hosting |
+| [CloudFlare Pages](https://pages.cloudflare.com/) | Static Hosting |
 | [GitHub](https://github.com/) | Codebase/Source Code Hosting |
-| [OBS Studio](https://obsproject.com/) | Software for Livestreams & Content Creation |
-| [Plausible](https://plausible.io/) | Analytics |
+| [OBS Studio](https://obsproject.com/) | Livestreams & Content Creation |
 | [ReType](https://retype.com) | Documentation Template |
 | [IconMonstr](https://iconmonstr.com/) | Social Media Icons |
 

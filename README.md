@@ -5,12 +5,12 @@ meta:
   title: "Infosec House"
 ---
 
-![](/assets/headers/infosechouse-header.png)
+![](/assets/headers/header-logo.png)
 
 <p>
 <center>
 <img src="https://img.shields.io/github/last-commit/InfosecHouse/InfosecHouse?style=for-the-badge"><br>
-<img src="https://img.shields.io/badge/Tools%20%26%20Resources%20Available-1,087-757575?style=for-the-badge"><br><br>
+<img src="https://img.shields.io/badge/Tools%20%26%20Resources%20Available-1,107-757575?style=for-the-badge"><br><br>
 
 Enhance your cyber security operations with a comprehensive range of tools and resources for both offensive and defensive strategies.
 
@@ -24,6 +24,7 @@ Need to report a broken/incorrect link? Feel free to submit an [Issue](https://g
 
 ---
 
+* [AI](ai.md) - Tools and resources for attacking and protecting artificial intelligence systems.
 * [API](api.md) - Tools and resources for pentesting against API endpoints.
 * [Asset Management](assets-management.md) - Keep track of your inventory. You can't protect what you don't see.
 

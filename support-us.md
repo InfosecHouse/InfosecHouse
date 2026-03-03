@@ -1,5 +1,5 @@
 ---
-label: Sponsorship
+label: Support Us
 layout: page
 icon: heart-fill
 description: Support Infosec House by donations, sponsorship, or partnership.
@@ -17,15 +17,18 @@ Contact sponsorship @ our domain for more information on how to donate.
 
 ### Sponsorship
 
-There are 5 different levels of sponsorship currently. Contact sponsorship @ our domain for prices not listed.
+With over 100,000+ monthly requests and a growing audience of 7,000+ unique visitors, our platform offers the perfect stage for your cybersecurity tool or business.
 
-Sponsor Level  | Price | Description
-:---:   | :---: | :---:
-Bronze | $20/mo  | (Open-Source Tools Only) Highlight your tool on our website under a category.
-Silver | $30/mo | (Open-Source Tools Only) Place your tool at the top of the category and highlight as a featured tool/resource
-Gold | Contact for Pricing | Tool/Business logo banner at the top of 1 category page
-Diamond | Contact for Pricing | Logo placed on the front page of our website/github repo
-Enterprise | Contact for Pricing | Contact for more information
+Ready to scale? Contact us sponsorship@infosec.house for our current rate card!
+
+
+
+Sponsor Level  | Description
+:---:   | :---:
+Bronze | Sponsor badge next to your tool.
+Silver | Banner at the top of a page category, and sponsor badge next to your tool.
+Gold | Small logo placed on the front page supporters section, banner on top & bottom of one categor page
+Diamond | Logo on front page, the top or bottom of everypage
 
 ### Partnership
 
