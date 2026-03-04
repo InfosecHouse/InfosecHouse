@@ -1,6 +1,6 @@
 ---
 title: AI
-description: Tools and resources for pentesting against API endpoints.
+description: Tools and resources for pentesting and securing artificial intelligence systems.
 ---
 
 ![](/assets/headers/header-logo.png)

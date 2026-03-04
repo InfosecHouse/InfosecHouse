@@ -1,14 +1,14 @@
 ---
 layout: page
 meta:
-  title: "Infosec House | About"
+  title: About
 ---
 
 Bug reports for broken/incorrect links are best started as an [Issue](https://github.com/infosechouse/infosechouse/issues).
 
 Would you like to contribute to Infosec House? Feel free to submit a [Pull Request](https://github.com/InfosecHouse/InfosecHouse/pulls).
 
-## Credits :clap:
+## Credits
 
 Infosec House is made possible because of the hard work of other amazing open-source and commercial projects.
 
