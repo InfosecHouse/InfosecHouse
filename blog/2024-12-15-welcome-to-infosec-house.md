@@ -1,6 +1,9 @@
 ---
 label: Welcome to Infosec House
 layout: blog
+author: Admin
+category: [announcements]
+tags: [release, update]
 ---
 
 # Welcome to Infosec House

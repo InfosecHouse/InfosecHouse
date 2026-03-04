@@ -52,6 +52,11 @@ edit:
   repo: "https://github.com/InfosecHouse/InfosecHouse"
   branch: "main"
   label: "Edit this page"
+blog:
+  pageSize: 5
+  maxResults: 100
+  title: Blog
+  base: blog
 poweredByRetype: false
 start:
   pro: true
