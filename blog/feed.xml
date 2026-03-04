@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Company Blog</title>
+    <link>https://infosec.house/blog/</link>
+    <description>Welcome to the Infosec House Blog</description>
+    <copyright>© Copyright 2021-2026. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 15 Dec 2024 00:00:00 GMT</lastBuildDate>
+    <generator>https://retype.com</generator>
+    <atom:link rel="self" type="application/rss+xml" href="https://infosec.house/blog/feed.xml" />
+    <item>
+      <title>Welcome to Infosec House</title>
+      <guid isPermaLink="true">https://infosec.house/blog/2024-12-15-welcome-to-infosec-house/</guid>
+      <description>Hey there, welcome to our fresh new website! We've given it a makeover with updated links and a revamped layout. If you had any pages bookmarked, we</description>
+      <author>Admin</author>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate>
+      <category domain="https://infosec.house/categories/announcements/">announcements</category>
+    </item>
+  </channel>
+</rss>
