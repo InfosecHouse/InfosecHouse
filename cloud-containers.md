@@ -9,6 +9,7 @@ description: Discover tools and resources dedicated to hacking cloud platforms.
 ### AWS
 
 * [Cloudsplaining](https://github.com/salesforce/cloudsplaining) - Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report. ![last-commit](https://img.shields.io/github/last-commit/salesforce/cloudsplaining?style=flat)
+* [Cynative](https://github.com/cynative/cynative) - Build your own security agents, read-only deep research across live infrastructure. Supports: AWS, GCP, Azure, Kubernetes, GitHub and GitLab ![last-commit](https://img.shields.io/github/last-commit/cynative/cynative?style=flat)
 * [Greyhat Warfare](https://buckets.grayhatwarfare.com/) - Search scanned archived AWS buckets.
 * [pacu](https://github.com/RhinoSecurityLabs/pacu) - The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. ![last-commit](https://img.shields.io/github/last-commit/RhinoSecurityLabs/pacu?style=flat)
 * [Prowler](https://github.com/toniblyx/prowler) - Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. ![last-commit](https://img.shields.io/github/last-commit/toniblyx/prowler?style=flat)
