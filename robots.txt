@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://infosec.house/sitemap.xml.gz
+Sitemap: https://infosec.house/sitemap.xml
