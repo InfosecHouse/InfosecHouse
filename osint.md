@@ -1,6 +1,6 @@
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-81-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-76-757575?style=for-the-badge)
 
 <a href="https://ai.cylect.io/?ref=infosec.house"><img src="/assets/sponsors/cylect-banner.png"></a>
 
@@ -56,7 +56,6 @@
 * [Corporation Wiki](https://www.corporationwiki.com/) - Data Broker Service | [Opt-Out](https://www.corporationwiki.com/profiles/public) 
 * [DOB Search](https://www.dobsearch.com/) - Data Broker Service | [Opt-Out](https://www.dobsearch.com/people-finder/pf_manage_help.php) 
 * [Family Tree Now](https://www.familytreenow.com/) - Data Broker Service | [Opt-Out](https://www.familytreenow.com/privacy?removal=true) 
-* [ID True](https://www.idtrue.com/) - Data Broker Service | [Opt-Out](https://www.idtrue.com/optout/) 
 * [Instant Checkmate](https://www.instantcheckmate.com/) - Data Broker Service | [Opt-Out](https://www.instantcheckmate.com/opt-out/) 
 * [Instant People Finder (Intelius)](https://instantpeoplefinder.com/) - Data Broker Service | [Opt-Out](https://www.intelius.com/opt-out/submit/) 
 * [Intelius](https://www.intelius.com/) - Data Broker Service | [Opt-Out](https://www.intelius.com/opt-out/submit/) 
@@ -64,7 +63,6 @@
 * [My Life](https://www.mylife.com/) - Data Broker Service | [CCPA](https://www.mylife.com/privacy-policy#caliResidentsNotice) 
 * [Nuwber](https://nuwber.com/) - Data Broker Service | [Opt-Out](https://nuwber.com/removal/Opt-Out) 
 * [Open Gov US](https://opengovus.com/) - Data Broker Service | N/A 
-* [PeekYou](https://www.peekyou.com/) - Data Broker Service | [Opt-Out](https://www.peekyou.com/about/contact/ccpa_optout/do_not_sell/) 
 * [People Finder (Intelius)](https://www.peoplefinder.com/) - Data Broker Service |[Opt-Out](https://www.intelius.com/optout) 
 * [People Finders](https://www.peoplefinders.com/) - Data Broker Service | [Opt-Out](https://www.peoplefinders.com/opt-out) 
 * [People Search Now](https://www.peoplesearchnow.com/) - Data Broker Service | [Opt-Out](https://www.peoplesearchnow.com/opt-out) 
@@ -72,10 +70,8 @@
 * [PimEyes](https://www.pimeyes.com/) - Data Broker Service | [Opt-Out](https://www.peekyou.com/about/contact/ccpa_optout/do_not_sell/) 
 * [Pipl](https://pipl.com/) - Data Broker Service | [Opt-Out](https://pipl.com/personal-information-removal-request) 
 * [Private Eye](https://www.privateeye.com/) - Data Broker Service | [Opt-Out](https://www.privateeye.com/static/view/optout/) 
-* [Public Info Directory](https://publicrecords.directory/) - Data Broker Service | [Opt-Out](https://publicrecords.directory/contact.php) 
 * [Public Records (Intelius)](https://publicrecords.com/) - Data Broker Service | [Opt-Out](https://www.intelius.com/opt-out/submit/) 
 * [Radaris](https://radaris.com/) - Data Broker Service | E-Mail to opt-out 
-* [Radio Reference](https://www.radioreference.com/apps/ham/)
 * [Spokeo](https://spokeo.com/) - Data Broker Service | [Opt-Out](https://www.spokeo.com/optout) 
 * [That's Them](https://thatsthem.com/) - Data Broker Service | [Opt-Out](https://thatsthem.com/optout) 
 * [True People Search](https://www.truepeoplesearch.com) - Data Broker Service | [Opt-Out](https://www.truepeoplesearch.com/removal) 
@@ -103,7 +99,6 @@
 
 ### Social Media
 
-* [GeoSocial Footprint](https://geosocialfootprint.com/) - Provides twitter users with an opportunity to view their geosocial footprint. 
 * [One Million Tweet Map](https://onemilliontweetmap.com/) - Displays last 24h geolocalized tweets delivered. Real Time. 
 * [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on an Instagram account of any users by their nickname ![last-commit](https://img.shields.io/github/last-commit/Datalux/Osintgram?style=flat)
 * [Sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username. ![last-commit](https://img.shields.io/github/last-commit/sherlock-project/sherlock?style=flat)

@@ -1,6 +1,6 @@
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-18-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-17-757575?style=for-the-badge)
 
 ## Phishing
 
@@ -18,7 +18,6 @@
 * [GoPhish](https://getgophish.com/) - Phishing toolkit designed for businesses and penetration testers. 
 * [Judas](https://github.com/JonCooperWorks/judas) - A pluggable phishing proxy. ![last-commit](https://img.shields.io/github/last-commit/JonCooperWorks/judas?style=flat)
 * [King Phisher](https://github.com/rsmusllp/king-phisher) - A tool for testing and promoting user awareness by simulating real world phishing attacks. ![last-commit](https://img.shields.io/github/last-commit/rsmusllp/king-phisher?style=flat)
-* [Lucy](https://lucysecurity.com/download/) - Allows companies to take on the role of an attacker to discover and eliminate existing weaknesses. 
 * [Modlishka](https://github.com/drk1wi/Modlishka) - Flexible and powerful reverse proxy with real-time two-factor authentication. ![last-commit](https://img.shields.io/github/last-commit/rk1wi/Modlishka?style=flat)
 * [Phishing Frenzy](https://github.com/pentestgeek/phishing-frenzy) - Ruby on Rails Phishing Framework. ![last-commit](https://img.shields.io/github/last-commit/pentestgeek/phishing-frenzy?style=flat)
 * [Shell Phish](https://github.com/suljot/shellphish) - A Phishing tool to replicate various. ![last-commit](https://img.shields.io/github/last-commit/suljot/shellphish?style=flat)

@@ -1,6 +1,6 @@
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-28-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-27-757575?style=for-the-badge)
 
 * [Antisyphon InfoSec Training](https://www.antisyphontraining.com/course-catalog/) - Antisyphon courses are tailored to beginners and seasoned professionals alike. 
 * [AQ Answers](https://answersq.com/) - Daily updates on free courses, workshops, internships, and jobs. 
@@ -28,5 +28,4 @@
 * [pwn.guide](https://pwn.guide/) - A cybersecurity education website, with bout 100 tutorials. Offers a free, unlimited VM & 50% tutorials on the free plan.
 * [SANS](https://www.sans.org/cyber-security-courses/?&focus-area=penetration-testing-ethical-hacking&training-format=) - SANS Institute is the most trusted resource for cybersecurity training, certifications and research. 
 * [TCM Security](https://academy.tcm-sec.com/) - A veteran-owned cybersecurity company focused on providing top of the line penetration testing, security training, and compliance services. 
-* [TestOut](https://w3.testout.com/courses/ethical-hacker-pro) - TestOut Ethical Hacker Pro teaches students to be aware of network attack strategies and common countermeasures. 
 * [Udemy](https://www.udemy.com/courses/search/?q=penetration+testing&src=sac&kw=pen) - An online learning and teaching marketplace with over 155,000 courses.

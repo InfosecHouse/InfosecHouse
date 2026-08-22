@@ -1,6 +1,6 @@
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-73-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-71-757575?style=for-the-badge)
 
 ### Azure
 
@@ -53,7 +53,6 @@
 * [ctfr](https://github.com/UnaPibaGeek/ctfr) - Abusing Certificate Transparency logs for getting HTTPS websites subdomains. ![last-commit](https://img.shields.io/github/last-commit/UnaPibaGeek/ctfr?style=flat)
 * [Discover](https://github.com/leebaird/discover) - Custom bash scripts to automate various pentesting tasks including recon. ![last-commit](https://img.shields.io/github/last-commit/leebaird/discover?style=flat)
 * [findomain](https://github.com/Findomain/Findomain) - The complete solution for domain recognition. ![last-commit](https://img.shields.io/github/last-commit/Findomain/Findomain?style=flat)
-* [findsubdomains.com (spyse)](https://spyse.com/tools/subdomain-finder) - subdomain finder in order to make your reconnaissance process faster and effortless.
 * [httpx](https://github.com/projectdiscovery/httpx) - A fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. ![last-commit](https://img.shields.io/github/last-commit/projectdiscovery/httpx?style=flat)
 * [IPScout](https://github.com/jonhadfield/ipscout) - Host information and threat aggregator for network administrators and security analysts. ![last-commit](https://img.shields.io/github/last-commit/jonhadfield/ipscout?style=flat)
 * [Knock](https://github.com/guelfoweb/knock) - Knock Subdomain Scan. ![last-commit](https://img.shields.io/github/last-commit/guelfoweb/knock?style=flat)
@@ -84,7 +83,6 @@
 * [Censys](https://censys.io/) - Highly-indexed Internet-wide scan data at scale. 
 * [Google Dataset](https://datasetsearch.research.google.com/) - Indexed datasets. 
 * [Mamont](https://www.mmnt.ru/int/) - Open FTP Indexer. 
-* [Napalm](https://www.searchftps.net/) - Open FTP Indexer. 
 * [OCCRP Aleph](https://data.occrp.org/) - Global archive of research material. 
 * [OnionScan](https://github.com/s-rah/onionscan) - TOR scanner. ![last-commit](https://img.shields.io/github/last-commit/s-rah/onionscan?style=flat)
 * [Shodan](https://shodan.io) - The security search engine. Search everything IoT. 

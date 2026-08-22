@@ -1,10 +1,9 @@
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-18-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-17-757575?style=for-the-badge)
 
 ### Continous
 
-* [Crackmes](https://crackm.es) - A place where you can download crackmes to improve your reverse engineering skills. 
 * [Cryptohack](https://cryptohack.org/) - A fun free platform for learning modern cryptography. 
 * [CTF Challenge](https://ctflearn.com/) - Collection of 12 vulnerable web applications, each one has its own realistic infrastructure built over several subdomains containing vulnerabilities. 
 * [CTFLearn](https://ctflearn.com/) - Learn cybersecurity the most beginner-friendly way to get into hacking. 

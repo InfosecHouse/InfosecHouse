@@ -1,6 +1,6 @@
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-104-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-99-757575?style=for-the-badge)
 
 ## Anonymity
 
@@ -21,7 +21,6 @@
 
 * [Bitlox](https://www.exodus.com/) - Bitcoin mobile hardware wallet bluetooth low energy high security. 
 * [Exodus](https://www.exodus.com/) - Laptop and Desktop crypto wallet. 
-* [Samourai](https://samouraiwallet.com/) - A bitcoin wallet for the streets. 
 * [Wasabi](https://www.wasabiwallet.io/) - Bitcoin privacy wallet with built-in CoinJoin. 
 
 ### Domain Registrars
@@ -71,12 +70,10 @@ Everything for your temporary needs.
 
 ### E-Mail
 
-* [DeadFake](https://www.deadfake.com/Default.aspx) - Let's you send free fake emails. 
 * [E-Mail Fake](https://emailfake.com/) - Burner e-mail server. No IP logging. 
 * [Fake E-Mail Generatort](https://mail-fake.com/) - The Fake Mail Generator is an absolutely free disposable email system. 
 * [FakeMail](https://www.fakemail.net/) - Temp Mail Address Protects Your Privacy. 
 * [Temp Mail Gen](https://tempmailgen.com/) - A disposable, throwaway, temporary,one-click email. No IP logging.
-* [Mail Sweatshop](https://mailsweat.shop/) - Disposable e-mail provider. No IP logging.
 
 ### Financial
 
@@ -97,7 +94,6 @@ Protect your SMS messages, voice calls, and e-mails. Big brother is always watch
 
 * Noxe [[TOR](http://noxe622edajixluakfmma5dolaakdtmhfgtz7ninulfnecsbwoybogyd.onion/) - E-Mail provider. 
 * SecMail [TOR](tor)(http://secmail63sex4dfw6h2nsrbmfz2z6alwxe4e3adtkpd4pcvkhht4jdad.onion/) - Secure mail service in TOR. 
-* [Premium Vendor](https://premiumvendor.net/) - E-Mail provider utilized by vendors all around the world. 
 * [Protonmail](https://protonmail.com/) - Secure E-Mail based in Switzerland. 
 * [SAFe-mail](https://safe-mail.net) - Bulletproof e-mail service. 
 * TorBox [TOR](tor)(http://torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion/index-en.php) - Hidden mail service. 
@@ -215,7 +211,6 @@ Discover alternative search engines that respect your privacy.
 * [MetaGer](https://metager.org/) - Privacy protected search & find.
 * [Mojeek](https://www.mojeek.com/) - A growing independent search engine which does not track you.
 * [Peekier](https://peekier.com/) - The most privacy-oriented search engine.
-* [Private.sh](https://private.sh/) - The search engine that cryptographically protects your privacy.
 * [Qwant](https://www.qwant.com/) - Qwant is a search engine that respects your privacy and ensures neutrality and impartiality. 
 * [SearX](https://github.com/searx/searx) - Privacy-respecting metasearch engine. ![last-commit](https://img.shields.io/github/last-commit/searx/searx?style=flat)
 * [Startpage](https://www.startpage.com/) - Search and browse the internet without being tracked or targeted.

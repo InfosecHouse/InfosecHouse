@@ -1,6 +1,6 @@
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-83-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-82-757575?style=for-the-badge)
 
 ### Bluetooth
 
@@ -101,7 +101,6 @@
 * [r00kie-kr00kie](https://github.com/hexway/r00kie-kr00kie) - This is a PoC exploit for the CVE-2019-15126 kr00k vulnerability. ![last-commit](https://img.shields.io/github/last-commit/akabe1/kr00ker?style=flat)
 * [SniffAir](https://github.com/Tylous/SniffAir) - Wireless security framework which provides the ability to easily parse passively collected wireless data as well as launch sophisticated wireless attacks. ![last-commit](https://img.shields.io/github/last-commit/Tylous/SniffAir?style=flat)
 * [tonic](https://www.metageek.com/tonic/) - Provides a reliable process for troubleshooting Wi-Fi devices (endpoints) on-site. 
-* [Wifi Analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer&gl=US) - Turns your android phone into a Wi-Fi analyzer! Shows the Wi-Fi channels around you. 
 * [Wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework ![last-commit](https://img.shields.io/github/last-commit/wifiphisher/wifiphisher?style=flat)
 * [Wifite2](https://github.com/derv82/wifite2) - Rewrite of the popular wireless network auditor, wifite. ![last-commit](https://img.shields.io/github/last-commit/derv82/wifite2?style=flat)
 * [WiGLE](https://www.wigle.net/) - All the networks. Found by Everyone. Wi-fi wardrving database. 

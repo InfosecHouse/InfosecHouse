@@ -1,6 +1,6 @@
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-34-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-32-757575?style=for-the-badge)
 
 ### Anti-Virus
 
@@ -32,11 +32,9 @@
 * [Cynet](https://www.cynet.com/platform/) - Cynet Converges XDR, Response Automation and 24/7 MDR Services. 
 * [ESET](https://www.eset.com/int/business/solutions/endpoint-detection-and-response/) - A sophisticated tool for identification of anomalous behavior and breaches, risk assessment, incident response, investigations and remediation. 
 * [FireEye](https://www.fireeye.com/products/endpoint-security.html) - Endpoint Security protects your organization with intelligence led protection, detection and response. 
-* [FTK Enterprise](https://www.exterro.com/ftk-enterprise) - Gain deep visibility into endpoint data to investigate a breach or employee wrongdoing. 
 * [Intercept-X](https://www.sophos.com/en-us/products/endpoint-antivirus) - Sophos - Intercept X Advanced with XDR allows you to ask any question about what has happened in the past, and what is happening now on your endpoints. 
 * [MVision](https://www.mcafee.com/enterprise/en-us/solutions/mvision-endpoint-security.html) - McAfee - Future-proof your defenses with intelligent endpoint security and integrated XDR. 
 * [N-Able](https://www.n-able.com/products/endpoint-detection-and-response) - Provide real-time, automated protection against evolving threats at each endpoint. 
-* [SanerNow](https://www.secpod.com/endpoint-detection-and-response-tool) - Prevent potential cybersecurity breaches by rapidly detecting and responding to threats. 
 * [SentinelOne](https://www.sentinelone.com/) - Cybersecurity that prevents threats at faster speed, greater scale, and higher accuracy than humanly possible. We are XDR. 
 * [Symantec Endpoint Security Enterprise](https://www.broadcom.com/products/cyber-security/endpoint/end-user/enterprise) - Advanced threat prevention for traditional and mobile endpoints. 
 * [WatchGuard](https://www.watchguard.com/wgrd-products/endpoint-security) - Security solutions deliver the technologies required to stop advanced cyberattacks on endpoints including next-gen antivirus. 

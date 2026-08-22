@@ -1,6 +1,6 @@
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-31-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-28-757575?style=for-the-badge)
 
 ### Corporate Blogs 
 
@@ -25,11 +25,8 @@
 * [ihazomgsecurityskills](https://ihazomgsecurityskillz.blogspot.com/) - Mix of research. 
 * [Mad Irish](https://www.madirish.net/) - Mix of research. 
 * [Memset](https://memset.wordpress.com/) - Mix of research. 
-* [MG.LOL](https://mg.lol/blog/) - Hardware security research. 
-* [Myne-us](https://www.myne-us.com/) - Hardware security research. 
 * [Pentest Blog](https://pentest.blog/) - Mix of research. Vulnerability research team of PRODAFT SARL. 
 * [Primal Cerebral](https://primalcerebral.com/blog.php) - Mix of research. Vulnerability research team of PRODAFT SARL. 
-* [Ross Mark](https://rossmarks.uk/blog/) - Security Consultant. Pentester. Exploit Dev. 
 * [Reusable Security](https://reusablesec.blogspot.com/) - Password Cracking, Crypto, and General Security Research. 
 * [Security Reliks](https://securityreliks.wordpress.com/) - Mix of research. 
 * [Security Sift](https://9emin1.github.io/pages/) - CTF Write-ups/Windows Research. 

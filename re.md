@@ -1,6 +1,6 @@
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-22-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-21-757575?style=for-the-badge)
 
 ## Binary Analysis
 
@@ -10,7 +10,6 @@
 ## Debugger
 
 * [edb-debugger](https://github.com/eteran/edb-debugger) - edb is a cross-platform AArch32/x86/x86-64 debugger. ![last-commit](https://img.shields.io/github/last-commit/eteran/edb-debugger?style=flat)
-* [Immunity](https://immunityinc.com/products/debugger/index.html) - Powerful way to write exploits and analyze malware. 
 * [OllyDbg](https://www.ollydbg.de/) - 32-bit assembler level analysing debugger for Microsoft Windows. 
 * [pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy. ![last-commit](https://img.shields.io/github/last-commit/pwndbg/pwndbg?style=flat)
 * [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows. ![last-commit](https://img.shields.io/github/last-commit/x64dbg/x64dbg?style=flat)

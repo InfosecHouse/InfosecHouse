@@ -1,14 +1,12 @@
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-123-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-115-757575?style=for-the-badge)
 
 ## Defensive Security
 
 ### Source Code Obfuscation
 
 * [DexGuard](https://www.guardsquare.com/dexguard) - The full spectrum of protection for Android apps.
-* [ProGuard](https://android-doc.github.io/tools/help/proguard.html) - Shrinks, optimizes, and obfuscates your code by removing unused code and renaming classes.
-
 ---
 
 ## Jailbreaking & Rooting
@@ -18,17 +16,14 @@
 * [Chimera](https://chimera.coolstar.org/) - iOS 12 jailbreak to not only feature a CoreTrust bypass so that binaries don't need to be resigned, but to also support A12 devices, including iPhone Xs, iPhone Xr, and the newest iPads. 
 * [Double H3lix](https://doubleh3lix.tihmstar.net/) - Jailbreak for 64-bit 10.x devices. 
 * [Etason](https://etasonjb.tihmstar.net/) - Jailbreak for all devices running iOS 8.4.1 32 bit. 
-* [Evasi0n](https://www.iphonehacks.com/download-evasi0n) - Jailbreak iPhone, iPad or iPod touch on iOS 7.0 – iOS 7.0.6. 
 * [H3lix](https://h3lix.tihmstar.net/) - Jailbreak for 32-bit 10.x devices. 
 * [Home Depot](https://wall.supplies/) - Jailbreak for iOS 9.x devices. 
 * [IPSW](https://ipsw.me/) - Download current and previous versions of Apple's iOS, iPadOS, watchOS, tvOS and audioOS firmware and receive notifications when new firmwares are released. 
 * [Magisk](https://github.com/topjohnwu/Magisk) - Magisk is a suite of open source software for customizing Android, supporting devices higher than Android 5.0.
 * [Palra1n](https://github.com/palera1n/palera1n) - Jailbreak for arm64 devices on iOS 15.0+ . ![last-commit](https://img.shields.io/github/last-commit/palera1n/palera1n?style=flat)
-* [Pangu Jailbreak](https://en.9.pangu.io/) - Jailbreak for iOS 9.0 - 9.1. 
 * [Phoenix](https://phoenixpwn.com/) - Semi-untethered jailbreak for 9.3.5-9.3.6. All 32-bit devices supported. 
 * [p0sixspwn](https://ih8sn0w.com/p0sixspwn.html) - iOS Jailbreak for 6.1.X. 
 * [redsn0w](https://ipsw.me/iPhoneDev) - Jailbreak for iOS 3-5. 
-* [TaiG](https://www.taig.com/) - Jailbreak for iOS 8.X. 
 * [unc0ver](https://unc0ver.dev/) - A jail​break tool. 
 
 ---
@@ -117,7 +112,6 @@
 * [DumpDecrypted](https://github.com/stefanesser/dumpdecrypted) - Dumps decrypted mach-o files from encrypted iPhone applications from memory to disk. ![last-commit](https://img.shields.io/github/last-commit/stefanesser/dumpdecrypted?style=flat)
 * [EggShell](https://github.com/neoneggplant/EggShell) - iOS/macOS/Linux Remote Administration Tool. ![last-commit](https://img.shields.io/github/last-commit/neoneggplant/EggShell?style=flat)
 * [KTool](https://github.com/KritantaDev/ktool) - Cross-platform MachO/ObjC Static binary analysis tool & library. class-dump + otool + lipo + more. ![last-commit](https://img.shields.io/github/last-commit/KritantaDev/ktool?style=flat)
-* [lipo](https://opensource.apple.com/source/cctools/cctools-921/misc/lipo.c.auto.html) - Used to thin out un-used code. 
 * [MITMProxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers. ![last-commit](https://img.shields.io/github/last-commit/mitmproxy/mitmproxy?style=flat)
 * [MobileAssistant](https://portswigger.net/burp/documentation/desktop/tools/mobile-assistant/installing) - A tool to facilitate testing of iOS apps with Burp Suite. 
 * [Needle](https://github.com/FSecureLABS/needle) - The iOS Security Testing Framework. ![last-commit](https://img.shields.io/github/last-commit/FSecureLABS/needle?style=flat)
@@ -146,7 +140,6 @@
 * [APKTool](https://ibotpeaches.github.io/Apktool/) - Seamlessly integrates the best open-source tools right inside VS Code. 
 * [Argus-SAF](https://github.com/arguslab/Argus-SAF) - Static analysis framework. ![last-commit](https://img.shields.io/github/last-commit/arguslab/Argus-SAF?style=flat)
 * [Checkstyle](https://github.com/checkstyle/checkstyle) - A tool for checking Java source code for adherence to a Code Standard or set of validation rules. ![last-commit](https://img.shields.io/github/last-commit/checkstyle/checkstyle?style=flat)
-* [DeGuard](https://apk-deguard.com/) - Statistical Deobfuscation for Android. 
 * [Deoptfuscator](https://github.com/Gyoonus/deoptfuscator) - Reverse the control-flow obfuscation performed by DexGuard on open-source Android applications. ![last-commit](https://img.shields.io/github/last-commit/Gyoonus/deoptfuscator?style=flat)
 * [Droid-Hunter](https://github.com/hahwul/droid-hunter) - Android application vulnerability analysis and Android pentest tool. ![last-commit](https://img.shields.io/github/last-commit/hahwul/droid-hunter?style=flat)
 * [Error Prone](https://github.com/google/error-prone) - Error Prone is a static analysis tool for Java that catches common programming mistakes at compile-time. ![last-commit](https://img.shields.io/github/last-commit/google/error-prone?style=flat)
@@ -174,9 +167,6 @@
 
 ### Virtualization
 
-* [Android Tamer](https://androidtamer.com/) - Live Platform for Android Security professionals. 
 * [AppUse](https://appsec-labs.com/appuse/) - Mobile app security testing, Android and iOS applications. Custom-made tools and scripts created by AppSec Labs. 
 
 ### Whitepapers
-
-* [Android Rooting:Methods, Detection, and Evastion](https://lersse-dl.ece.ubc.ca/record/310/files/p3.pdf) - Written by San-Tsai Sun, Andrea Cuadros, and Konstantin Beznosov. 
