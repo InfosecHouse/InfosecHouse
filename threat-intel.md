@@ -1,6 +1,6 @@
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-43-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-42-757575?style=for-the-badge)
 
 ### APT Research
 
@@ -11,7 +11,7 @@
 * [ARTIF](https://github.com/CRED-CLUB/ARTIF) - An advanced real time threat intelligence framework to identify threats and malicious web traffic on the basis of IP reputation and historical data. ![last-commit](https://img.shields.io/github/last-commit/CRED-CLUB/ARTIF?style=flat)
 * [MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform). ![last-commit](https://img.shields.io/github/last-commit/MISP/MISP?style=flat)
 * [ThreatIngestor](https://github.com/InQuest/ThreatIngestor) - A flexible, configuration-driven, extensible framework for consuming threat intelligence. ![last-commit](https://img.shields.io/github/last-commit/InQuest/ThreatIngestor?style=flat)
-* [ZeroBOX]( https://box.zero.camp/) - A collaborative threat sintel dashboard 
+* [ZeroBOX](https://box.zero.camp/) - A collaborative threat sintel dashboard 
 
 ### Pastes
 

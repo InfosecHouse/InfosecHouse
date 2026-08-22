@@ -12,7 +12,7 @@
 ### Personal Blogs
 
 * [0xSP](https://0xsp.com/) - Red Team Cheat Sheets. 
-* [Archangel Amael](http://archangelamael.blogspot.com/) - Mix of research. 
+* [Archangel Amael](https://archangelamael.blogspot.com/) - Mix of research. 
 * [Attack and Defense](https://blog.carnal0wnage.com/) - Mix of research. 
 * [Brendon](https://tiszka.com/) - Computer security and C programming 
 * [carnal0wnage](https://blog.carnal0wnage.com/) - CVE research. 
@@ -22,19 +22,19 @@
 * [Digi Ninja](https://digi.ninja/blog.php) - Mix of research. 
 * [GnuCitizen](https://www.gnucitizen.org/) - Mix of research. 
 * [Great Scott Gadgets](https://greatscottgadgets.com/) - Hardware Security 
-* [ihazomgsecurityskills](http://ihazomgsecurityskillz.blogspot.com/) - Mix of research. 
+* [ihazomgsecurityskills](https://ihazomgsecurityskillz.blogspot.com/) - Mix of research. 
 * [Mad Irish](https://www.madirish.net/) - Mix of research. 
 * [Memset](https://memset.wordpress.com/) - Mix of research. 
 * [MG.LOL](https://mg.lol/blog/) - Hardware security research. 
-* [Myne-us](http://www.myne-us.com/) - Hardware security research. 
+* [Myne-us](https://www.myne-us.com/) - Hardware security research. 
 * [Pentest Blog](https://pentest.blog/) - Mix of research. Vulnerability research team of PRODAFT SARL. 
 * [Primal Cerebral](https://primalcerebral.com/blog.php) - Mix of research. Vulnerability research team of PRODAFT SARL. 
 * [Ross Mark](https://rossmarks.uk/blog/) - Security Consultant. Pentester. Exploit Dev. 
 * [Reusable Security](https://reusablesec.blogspot.com/) - Password Cracking, Crypto, and General Security Research. 
 * [Security Reliks](https://securityreliks.wordpress.com/) - Mix of research. 
 * [Security Sift](https://9emin1.github.io/pages/) - CTF Write-ups/Windows Research. 
-* [Sirdarckcat](http://sirdarckcat.blogspot.com/) - Web App and Mix of research. 
+* [Sirdarckcat](https://sirdarckcat.blogspot.com/) - Web App and Mix of research. 
 * [Spy Logic](https://www.spylogic.net/) - Mix of research. 
 * [Strolling Infosec](https://9emin1.github.io/pages/) - Mix of research. 
-* [Weapons of Mass Analysis](http://wepma.blogspot.com/) - Mix of research. 
+* [Weapons of Mass Analysis](https://wepma.blogspot.com/) - Mix of research. 
 * [Wirewatcher](https://wirewatcher.wordpress.com/) - Mix of research.

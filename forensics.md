@@ -13,7 +13,7 @@
 ### Disk Images
 
 * [AFFLIBv3](https://github.com/sshock/AFFLIBv3) - AFF is an open and extensible file format to store disk images and associated metadata. ![last-commit](https://img.shields.io/github/last-commit/sshock/AFFLIBv3?style=flat)
-* [Autopsy](http://www.sleuthkit.org/autopsy/) - A digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools.
+* [Autopsy](https://www.sleuthkit.org/autopsy/) - A digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools.
 * [DMG2IMG](https://github.com/Lekensteyn/dmg2img) - DMG2IMG is a tool which allows converting Apple compressed dmg archives to standard (hfsplus) image disk files. ![last-commit](https://img.shields.io/github/last-commit/Lekensteyn/dmg2img?style=flat)
 
 ### Images/Documents

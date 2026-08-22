@@ -1,6 +1,6 @@
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-4-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-3-757575?style=for-the-badge)
 
 ### Adversary
 

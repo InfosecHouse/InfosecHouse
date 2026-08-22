@@ -93,7 +93,7 @@
 * [Telephone Directories](https://Telephonedirectories.us) - Phone number directoy lookup. |[Opt-Out](https://www.telephonedirectories.us/Edit_Records) 
 * [Caller Smart](https://Callersmart.com) - Phone number directoy lookup. | [Opt-Out](https://www.callersmart.com/opt-out)
 * [All Area Codes](https://Allareacodes.com/) - Phone number directoy lookup. | [Opt-Out](https://www.allareacodes.com/remove_name.htm) 
-* [People by Name](https://Peoplebyname.com/) - Phone number directoy lookup. | [Opt-Out](http://www.peoplebyname.com/remove.php)
+* [People by Name](https://Peoplebyname.com/) - Phone number directoy lookup. | [Opt-Out](https://www.peoplebyname.com/remove.php)
 * [PhoneInfoga](https://Peoplebyname.com/) - Advanced information gathering & OSINT framework for phone numbers. 
 
 ### Physical Address
@@ -103,7 +103,7 @@
 
 ### Social Media
 
-* [GeoSocial Footprint](http://geosocialfootprint.com/) - Provides twitter users with an opportunity to view their geosocial footprint. 
+* [GeoSocial Footprint](https://geosocialfootprint.com/) - Provides twitter users with an opportunity to view their geosocial footprint. 
 * [One Million Tweet Map](https://onemilliontweetmap.com/) - Displays last 24h geolocalized tweets delivered. Real Time. 
 * [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on an Instagram account of any users by their nickname ![last-commit](https://img.shields.io/github/last-commit/Datalux/Osintgram?style=flat)
 * [Sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username. ![last-commit](https://img.shields.io/github/last-commit/sherlock-project/sherlock?style=flat)

@@ -1,5 +1,7 @@
 ![](/assets/headers/header-logo.png)
 
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-26-757575?style=for-the-badge)
+
 ### AWS
 
 * [Cloudsplaining](https://github.com/salesforce/cloudsplaining) - Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report. ![last-commit](https://img.shields.io/github/last-commit/salesforce/cloudsplaining?style=flat)

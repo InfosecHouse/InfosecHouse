@@ -1,6 +1,6 @@
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-24-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-20-757575?style=for-the-badge)
 
 ### Evasion, Poisoning, Extraction
 
@@ -19,7 +19,7 @@
 * [PromptBreach](https://github.com/microsoft/promptbench) - The Python Risk Identification Tool for generative AI. ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/promptbench?style=flat)
 * [PyRIT](https://github.com/Azure/PyRIT) - The Python Risk Identification Tool for generative AI. ![GitHub last commit](https://img.shields.io/github/last-commit/Azure/PyRIT?style=flat)
 * [Promptmap2](https://github.com/utkusen/promptmap) - A security scanner for custom LLM applications ![GitHub last commit](https://img.shields.io/github/last-commit/utkusen/promptmap?style=flat)
-* [Purple Llama](hhttps://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security. ![GitHub last commit](https://img.shields.io/github/last-commit/meta-llama/PurpleLlama?style=flat)
+* [Purple Llama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security. ![GitHub last commit](https://img.shields.io/github/last-commit/meta-llama/PurpleLlama?style=flat)
 
 ### Model Extraction & Inference Attacks
 

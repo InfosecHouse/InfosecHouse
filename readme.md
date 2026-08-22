@@ -3,7 +3,7 @@
 <p>
 <center>
 <img src="https://img.shields.io/github/last-commit/InfosecHouse/InfosecHouse?style=for-the-badge"><br>
-<img src="https://img.shields.io/badge/Tools%20%26%20Resources%20Available-1,107-757575?style=for-the-badge"><br><br>
+<img src="https://img.shields.io/badge/Tools%20%26%20Resources%20Available-1,159-757575?style=for-the-badge"><br><br>
 
 Enhance your cyber security operations with a comprehensive range of tools and resources for both offensive and defensive strategies.
 
@@ -113,4 +113,4 @@ Need to report a broken/incorrect link? Feel free to submit an [Issue](https://g
 
 * [Web Application](web-app.md) - Break that web application.
 * [Windows](windows.md) - Microsoft Windows pentesting tools and resources.
-* [Wireless](windows.md) - Wireless pentesting tools and resources.
+* [Wireless](wireless.md) - Wireless pentesting tools and resources.

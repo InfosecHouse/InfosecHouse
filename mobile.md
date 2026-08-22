@@ -7,28 +7,28 @@
 ### Source Code Obfuscation
 
 * [DexGuard](https://www.guardsquare.com/dexguard) - The full spectrum of protection for Android apps.
-* [ProGuard](http://android-doc.github.io/tools/help/proguard.html) - Shrinks, optimizes, and obfuscates your code by removing unused code and renaming classes.
+* [ProGuard](https://android-doc.github.io/tools/help/proguard.html) - Shrinks, optimizes, and obfuscates your code by removing unused code and renaming classes.
 
 ---
 
 ## Jailbreaking & Rooting
 
-* [canijailbreak](http://canijailbreak.com/) - A website which tells you whether you can jailbreak your iOS device. 
+* [canijailbreak](https://canijailbreak.com/) - A website which tells you whether you can jailbreak your iOS device. 
 * [Checkra1n](https://checkra.in/) - Jailbreak for iPhone 5s through iPhone X, iOS 12.0 and up. 
 * [Chimera](https://chimera.coolstar.org/) - iOS 12 jailbreak to not only feature a CoreTrust bypass so that binaries don't need to be resigned, but to also support A12 devices, including iPhone Xs, iPhone Xr, and the newest iPads. 
 * [Double H3lix](https://doubleh3lix.tihmstar.net/) - Jailbreak for 64-bit 10.x devices. 
 * [Etason](https://etasonjb.tihmstar.net/) - Jailbreak for all devices running iOS 8.4.1 32 bit. 
 * [Evasi0n](https://www.iphonehacks.com/download-evasi0n) - Jailbreak iPhone, iPad or iPod touch on iOS 7.0 – iOS 7.0.6. 
 * [H3lix](https://h3lix.tihmstar.net/) - Jailbreak for 32-bit 10.x devices. 
-* [Home Depot](http://wall.supplies/) - Jailbreak for iOS 9.x devices. 
+* [Home Depot](https://wall.supplies/) - Jailbreak for iOS 9.x devices. 
 * [IPSW](https://ipsw.me/) - Download current and previous versions of Apple's iOS, iPadOS, watchOS, tvOS and audioOS firmware and receive notifications when new firmwares are released. 
 * [Magisk](https://github.com/topjohnwu/Magisk) - Magisk is a suite of open source software for customizing Android, supporting devices higher than Android 5.0.
 * [Palra1n](https://github.com/palera1n/palera1n) - Jailbreak for arm64 devices on iOS 15.0+ . ![last-commit](https://img.shields.io/github/last-commit/palera1n/palera1n?style=flat)
-* [Pangu Jailbreak](http://en.9.pangu.io/) - Jailbreak for iOS 9.0 - 9.1. 
+* [Pangu Jailbreak](https://en.9.pangu.io/) - Jailbreak for iOS 9.0 - 9.1. 
 * [Phoenix](https://phoenixpwn.com/) - Semi-untethered jailbreak for 9.3.5-9.3.6. All 32-bit devices supported. 
 * [p0sixspwn](https://ih8sn0w.com/p0sixspwn.html) - iOS Jailbreak for 6.1.X. 
 * [redsn0w](https://ipsw.me/iPhoneDev) - Jailbreak for iOS 3-5. 
-* [TaiG](http://www.taig.com/) - Jailbreak for iOS 8.X. 
+* [TaiG](https://www.taig.com/) - Jailbreak for iOS 8.X. 
 * [unc0ver](https://unc0ver.dev/) - A jail​break tool. 
 
 ---
@@ -69,7 +69,7 @@
 
 ### Flashing/Sideloading
 
-* [Cydia Impactor](http://www.cydiaimpactor.com/) - Use this tool to install IPA files on iOS and APK files on Android. 
+* [Cydia Impactor](https://www.cydiaimpactor.com/) - Use this tool to install IPA files on iOS and APK files on Android. 
 * [Odin](https://odindownload.com/) - Used to flash a custom recovery firmware image to a Samsung Android device. 
 
 ### Guides & References
@@ -79,7 +79,7 @@
 
 ### Labs/Practice
 
-* [DIVA](http://www.decompileandroid.com/) - DIVA \(Damn insecure and vulnerable App\) is an Android App intentionally designed to be insecure. 
+* [DIVA](https://www.decompileandroid.com/) - DIVA \(Damn insecure and vulnerable App\) is an Android App intentionally designed to be insecure. 
 * [DVHMA](https://github.com/logicalhacking/DVHMA) - Damn Vulnerable Hybrid Mobile App \(DVHMA\) is an hybrid mobile app \(for Android\) that intentionally contains vulnerabilities. ![last-commit](https://img.shields.io/github/last-commit/logicalhacking/DVHMA?style=flat)
 * [Injured Android](https://github.com/B3nac/InjuredAndroid) - A vulnerable Android application that shows simple examples of vulnerabilities in a ctf style. ![last-commit](https://img.shields.io/github/last-commit/B3nac/InjuredAndroid?style=flat)
 * [InsecureBank v2](https://github.com/dineshshetty/Android-InsecureBankv2) - Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities. ![last-commit](https://img.shields.io/github/last-commit/dineshshetty/Android-InsecureBankv2?style=flat)
@@ -91,7 +91,7 @@
 
 ### Online Services
 
-* [Android APK Decompiler](http://www.decompileandroid.com/) - Online android decompiler 
+* [Android APK Decompiler](https://www.decompileandroid.com/) - Online android decompiler 
 * [Ostorlab](https://oversecured.com/) - Online static taint analysis, 3rd party fingerprinting, and vulnerability analysis. 
 * [Oversecured](https://oversecured.com/) - Android mobile app analyzer vulnerability scanner, designed for DevOps process integration. 
 * [Quixxi](https://quixxisecurity.com/) - An intelligent and integrated end-to-end mobile app security solution. 
@@ -113,7 +113,7 @@
 
 * [BinaryCookieReader](https://github.com/as0ler/BinaryCookieReader) - A tool to read the binarycookie format of Cookies on iOS applications. ![last-commit](https://img.shields.io/github/last-commit/as0ler/BinaryCookieReader?style=flat)
 * [ClassDumpiOS](https://github.com/DreamDevLost/classdumpios) - iOS port from nygard/class-dump. ![last-commit](https://img.shields.io/github/last-commit/DreamDevLost/classdumpios?style=flat)
-* [Cycript](http://www.cycript.org/) - Explore and modify running applications on either iOS or Mac OS X using a hybrid of Objective-C++ and JavaScript. ![last-commit](https://img.shields.io/github/last-commit/as0ler/BinaryCookieReader?style=flat)
+* [Cycript](https://www.cycript.org/) - Explore and modify running applications on either iOS or Mac OS X using a hybrid of Objective-C++ and JavaScript. ![last-commit](https://img.shields.io/github/last-commit/as0ler/BinaryCookieReader?style=flat)
 * [DumpDecrypted](https://github.com/stefanesser/dumpdecrypted) - Dumps decrypted mach-o files from encrypted iPhone applications from memory to disk. ![last-commit](https://img.shields.io/github/last-commit/stefanesser/dumpdecrypted?style=flat)
 * [EggShell](https://github.com/neoneggplant/EggShell) - iOS/macOS/Linux Remote Administration Tool. ![last-commit](https://img.shields.io/github/last-commit/neoneggplant/EggShell?style=flat)
 * [KTool](https://github.com/KritantaDev/ktool) - Cross-platform MachO/ObjC Static binary analysis tool & library. class-dump + otool + lipo + more. ![last-commit](https://img.shields.io/github/last-commit/KritantaDev/ktool?style=flat)
@@ -146,11 +146,11 @@
 * [APKTool](https://ibotpeaches.github.io/Apktool/) - Seamlessly integrates the best open-source tools right inside VS Code. 
 * [Argus-SAF](https://github.com/arguslab/Argus-SAF) - Static analysis framework. ![last-commit](https://img.shields.io/github/last-commit/arguslab/Argus-SAF?style=flat)
 * [Checkstyle](https://github.com/checkstyle/checkstyle) - A tool for checking Java source code for adherence to a Code Standard or set of validation rules. ![last-commit](https://img.shields.io/github/last-commit/checkstyle/checkstyle?style=flat)
-* [DeGuard](http://apk-deguard.com/) - Statistical Deobfuscation for Android. 
+* [DeGuard](https://apk-deguard.com/) - Statistical Deobfuscation for Android. 
 * [Deoptfuscator](https://github.com/Gyoonus/deoptfuscator) - Reverse the control-flow obfuscation performed by DexGuard on open-source Android applications. ![last-commit](https://img.shields.io/github/last-commit/Gyoonus/deoptfuscator?style=flat)
 * [Droid-Hunter](https://github.com/hahwul/droid-hunter) - Android application vulnerability analysis and Android pentest tool. ![last-commit](https://img.shields.io/github/last-commit/hahwul/droid-hunter?style=flat)
 * [Error Prone](https://github.com/google/error-prone) - Error Prone is a static analysis tool for Java that catches common programming mistakes at compile-time. ![last-commit](https://img.shields.io/github/last-commit/google/error-prone?style=flat)
-* [FindBugs](http://findbugs.sourceforge.net/downloads.html) - Uses static analysis to inspect Java bytecode for occurrences of bug patterns. 
+* [FindBugs](https://findbugs.sourceforge.net/downloads.html) - Uses static analysis to inspect Java bytecode for occurrences of bug patterns. 
 * [Find Security Bugs](https://github.com/find-sec-bugs/find-sec-bugs) - Find Security Bugs is the SpotBugs plugin for security audits of Java web applications. ![last-commit](https://img.shields.io/github/last-commit/find-sec-bugs/find-sec-bugs?style=flat)
 * [FlowDroid](https://github.com/secure-software-engineering/FlowDroid) - Statically computes data flows in Android apps and Java programs. ![last-commit](https://img.shields.io/github/last-commit/secure-software-engineering/FlowDroid?style=flat)
 * [Gradle](https://github.com/novoda/gradle-static-analysis-plugin) - Supports many popular static analysis \(Checkstyle, PMD, FindBugs, etc\) via a set of built-in plugins. ![last-commit](https://img.shields.io/github/last-commit/novoda/gradle-static-analysis-plugin?style=flat)
@@ -179,4 +179,4 @@
 
 ### Whitepapers
 
-* [Android Rooting:Methods, Detection, and Evastion](http://lersse-dl.ece.ubc.ca/record/310/files/p3.pdf) - Written by San-Tsai Sun, Andrea Cuadros, and Konstantin Beznosov. 
+* [Android Rooting:Methods, Detection, and Evastion](https://lersse-dl.ece.ubc.ca/record/310/files/p3.pdf) - Written by San-Tsai Sun, Andrea Cuadros, and Konstantin Beznosov. 
