@@ -49,6 +49,7 @@
 * [Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery. ![last-commit](https://img.shields.io/github/last-commit/OWASP/Amass?style=flat)
 * [Assetfinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains potentially related to a given domain. ![last-commit](https://img.shields.io/github/last-commit/tomnomnom/assetfinder?style=flat)
 * [Chaos-Client](https://github.com/projectdiscovery/chaos-client) - Go client to communicate with Chaos DNS API. ![last-commit](https://img.shields.io/github/last-commit/projectdiscovery/chaos-client?style=flat)
+* [crt.name](https://crt.name/) - Search the subdomain index. 
 * [crt.sh](https://crt.sh/) - Certificate search on domains. 
 * [ctfr](https://github.com/UnaPibaGeek/ctfr) - Abusing Certificate Transparency logs for getting HTTPS websites subdomains. ![last-commit](https://img.shields.io/github/last-commit/UnaPibaGeek/ctfr?style=flat)
 * [Discover](https://github.com/leebaird/discover) - Custom bash scripts to automate various pentesting tasks including recon. ![last-commit](https://img.shields.io/github/last-commit/leebaird/discover?style=flat)
