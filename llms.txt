@@ -4,54 +4,54 @@
 
 - [Home](https://infosec.house/readme.md): Home
 - [About](https://infosec.house/about.md): Bug reports for broken/incorrect links are best started as an Issue.
-- [AI](https://infosec.house/ai.md): Tools and resources for pentesting and securing artificial intelligence systems.
-- [API](https://infosec.house/api.md): Tools and resources for pentesting against API endpoints.
+- [AI](https://infosec.house/ai.md): Break the machines that think. Tools for attacking and defending AI systems.
+- [API](https://infosec.house/api.md): Poke every endpoint. Tools for pentesting APIs.
 - [Assets Management](https://infosec.house/assets-management.md): Keep track of your inventory. You can't protect what you don't see.
-- [Blogs & Zines](https://infosec.house/blogs.md): Reading material for offensive security researchers.
-- [Bug Bounty](https://infosec.house/bug-bounty.md): Test out your skills against other hackers. Get paid for finding vulnerabilities.
-- [C2](https://infosec.house/c2.md): Command and control systems.
+- [Blogs & Zines](https://infosec.house/blogs.md): Read up before you break in. Blogs and zines from offensive security researchers.
+- [Bug Bounty](https://infosec.house/bug-bounty.md): Hack for cash. Test your skills and get paid for finding vulnerabilities.
+- [C2](https://infosec.house/c2.md): Command your implants. C2 tools and frameworks.
 - [Changelog](https://infosec.house/changelog.md): Infosec House changelog. See what latest changes have been made!
-- [Cheat Sheets](https://infosec.house/cheat-sheets.md): Cheat sheets for Offensive & Defensive Security.
-- [Cloud & Containers](https://infosec.house/cloud-containers.md): Discover tools and resources dedicated to hacking cloud platforms.
-- [Collaboration](https://infosec.house/collab.md): Discover tools used for red team collaboration.
+- [Cheat Sheets](https://infosec.house/cheat-sheets.md): Quick-reference cheat sheets for offensive and defensive security work.
+- [Cloud & Containers](https://infosec.house/cloud-containers.md): Storm the cloud. Tools for hacking cloud platforms and containers.
+- [Collaboration](https://infosec.house/collab.md): Hack together. Tools for red team collaboration.
 - [Cracking](https://infosec.house/cracking.md): Everything you need to crack all the hashes.
 - [Cryptography](https://infosec.house/cryptography.md): How great is your cryptography?
-- [CTF](https://infosec.house/ctf.md): Offensive Security Capture the Flag Events.
+- [CTF](https://infosec.house/ctf.md): Flex your skills. Offensive security capture-the-flag events.
 - [Data Exfiltration](https://infosec.house/data-exfiltration.md): Exfiltrate the data, and test your DLP.
-- [Default Passwords](https://infosec.house/default-passwords.md): The default password library.
-- [E-Mail](https://infosec.house/e-mail.md): E-Mail pentesting tools and resources.
-- [Editors & Viewers](https://infosec.house/editor-viewer.md): Tools for editing/viewing files.
-- [Education](https://infosec.house/education.md): Training and courses to master your craft.
+- [Default Passwords](https://infosec.house/default-passwords.md): Still using admin/admin? 1,000+ default passwords to check first.
+- [E-Mail](https://infosec.house/e-mail.md): Phish, spoof, and pop inboxes. E-mail pentesting tools and resources.
+- [Editors & Viewers](https://infosec.house/editor-viewer.md): Editors and viewers for digging into files of every format.
+- [Education](https://infosec.house/education.md): Level up. Training and courses to master your craft.
 - [Emulation](https://infosec.house/emulation.md): Emulate the adversary.
-- [Endpoint Protection](https://infosec.house/endpoint-protection.md): Protect your endpoints.
+- [Endpoint Protection](https://infosec.house/endpoint-protection.md): Lock down every endpoint before someone else does.
 - [Evasion](https://infosec.house/evasion.md): Evade getting caught.
 - [Exploits](https://infosec.house/exploits.md): Gather all your exploits needed to pop that box.
-- [Firewalls](https://infosec.house/firewalls.md): Tools & Resources For Attacking and Defending Firewalls.
+- [Firewalls](https://infosec.house/firewalls.md): Attack the castle doors.
 - [Forensics](https://infosec.house/forensics.md): Uncover the dirty little secrets of a recovered HDD, Image, malware, and more.
-- [Hardware](https://infosec.house/hardware.md): Grab some of the most used hardware within the penetration testing industry.
-- [Honeypots](https://infosec.house/honeypot.md): Deploy honeypots to catch the ops moves.
-- [IDS/IPS](https://infosec.house/ids-ips.md): Intrusion Detection and Prevention Systems.
-- [Incident Response](https://infosec.house/ir.md): Incident response tools, and resources when alarms pop off.
-- [Linux](https://infosec.house/linux.md): Tools and resources for popping those linux boxes.
-- [Malware](https://infosec.house/malware.md): All the malware you can wish for to reverse engineer.
-- [Mobile](https://infosec.house/mobile.md): Tools & Resources for Defending and Attacking Mobile Applications.
-- [Music](https://infosec.house/music.md): Kick back relax and enjoy some entertainment.
-- [Network](https://infosec.house/network.md): Tools & Resources For Sniffing The Network and Modifying The Packets.
-- [Operating Systems](https://infosec.house/operating-systems.md): Operating system's solely focused for defensive security teams.
-- [Operation Security](https://infosec.house/opsec.md): Seek out technologies and methods of remaining anonymous in the day and age of mass surveillance.
+- [Hardware](https://infosec.house/hardware.md): Gear up. The hardware every pentester keeps in their bag.
+- [Honeypots](https://infosec.house/honeypot.md): Deploy honeypots to catch attackers in the act.
+- [IDS/IPS](https://infosec.house/ids-ips.md): Detect and block intrusions before they do damage.
+- [Incident Response](https://infosec.house/ir.md): Incident response tools and resources for when alarms pop off.
+- [Linux](https://infosec.house/linux.md): Tools and resources for popping those Linux boxes.
+- [Malware](https://infosec.house/malware.md): All the malware you could wish for, ready to reverse engineer.
+- [Mobile](https://infosec.house/mobile.md): Root it, jailbreak it, break it. Tools for attacking and defending mobile applications.
+- [Music](https://infosec.house/music.md): Kick back, relax, and enjoy some entertainment.
+- [Network](https://infosec.house/network.md): Sniff the network. Modify the packets.
+- [Operating Systems](https://infosec.house/operating-systems.md): Operating systems for whatever task at hand.
+- [Operation Security](https://infosec.house/opsec.md): Seek out technologies and methods of remaining anonymous in this day and age of mass surveillance.
 - [OSINT](https://infosec.house/osint.md): Open-Source Intel. Get all the information needed for your target.
-- [Privilege Escalation](https://infosec.house/privilege-escalation.md): Reverse engineering tools both offensive and defensive operations can utilize.
+- [Privilege Escalation](https://infosec.house/privilege-escalation.md): Go from limited access to full control. Escalate your privileges on Linux, macOS, and Windows.
 - [Reconnaissance](https://infosec.house/recon.md): Understand your target. Perform in-depth research and discover new attack surfaces.
-- [Reverse Engineering](https://infosec.house/re.md): Reverse engineering tools both offensive and defensive operations can utilize.
-- [Shells](https://infosec.house/shells.md): Generating pre-built webshells to customizing your own.
-- [Social Engineering](https://infosec.house/social-engineering.md): Manipulation techniques that exploits human error to gain private information, access, or valuables.
+- [Reverse Engineering](https://infosec.house/re.md): Reverse engineering tools that both offensive and defensive operations can utilize.
+- [Shells](https://infosec.house/shells.md): From pre-built webshells to fully custom ones.
+- [Social Engineering](https://infosec.house/social-engineering.md): Manipulation techniques that exploit human error to gain private information, access, or valuables.
 - [Support Us](https://infosec.house/support-us.md): Support Infosec House by donations, sponsorship, or partnership.
 - [Threat Intel](https://infosec.house/threat-intel.md): Discover where the threats begin.
-- [Videos](https://infosec.house/videos.md): Talks, live-streams, and presentations.
-- [Vulnerability Scanners](https://infosec.house/vuln-scanners.md): Discover vulnerabilities fast, and automate some of the heavy loads.
+- [Videos](https://infosec.house/videos.md): Talks, livestreams, and presentations to sharpen your skills.
+- [Vulnerability Scanners](https://infosec.house/vuln-scanners.md): Discover vulnerabilities fast, and automate the heavy lifting.
 - [Web Applications](https://infosec.house/web-app.md): Break that web application.
-- [Windows](https://infosec.house/windows.md): Microsoft Windows pentesting tools and resources.
-- [Wireless](https://infosec.house/wireless.md): Discover tools and resources for exploiting Wi-Fi, bluetooth, RFID, and more.
+- [Windows](https://infosec.house/windows.md): Tools and resources for popping those Windows boxes.
+- [Wireless](https://infosec.house/wireless.md): Go wireless. Tools for exploiting Wi-Fi, Bluetooth, RFID, and more.
 
 ## Company Blog
 

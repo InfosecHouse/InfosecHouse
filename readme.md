@@ -17,37 +17,37 @@ Need to report a broken/incorrect link? Feel free to submit an [Issue](https://g
 
 ---
 
-* [AI](ai.md) - Tools and resources for attacking and protecting artificial intelligence systems.
-* [API](api.md) - Tools and resources for pentesting against API endpoints.
+* [AI](ai.md) - Break the machines that think. Tools for attacking and defending AI systems.
+* [API](api.md) - Poke every endpoint. Tools for pentesting APIs.
 * [Asset Management](assets-management.md) - Keep track of your inventory. You can't protect what you don't see.
 
 ---
 
-* [Blogs](blogs.md) - Reading material for offensive security researchers.
-* [Bug Bounty](bug-bounty.md) - Test out your skills against other hackers. Get paid for finding vulnerabilities.
+* [Blogs](blogs.md) - Read up before you break in. Blogs and zines from offensive security researchers.
+* [Bug Bounty](bug-bounty.md) - Hack for cash. Test your skills and get paid for finding vulnerabilities.
 
 ---
 
-* [C2](C2.md) - Command and Control tools and frameworks.
-* [Cheat Sheets](cheat-sheets.md) - Offensive security cheat sheets.
-* [Cloud & Containers](cloud-containers.md) - Discover tools and resources dedicated to hacking cloud platforms.
-* [Collaboration](collab.md) - Discover tools and frameworks for red team collaboration.
+* [C2](C2.md) - Command your implants. C2 tools and frameworks.
+* [Cheat Sheets](cheat-sheets.md) - Quick-reference cheat sheets for offensive and defensive security work.
+* [Cloud & Containers](cloud-containers.md) - Storm the cloud. Tools for hacking cloud platforms and containers.
+* [Collaboration](collab.md) - Hack together. Tools for red team collaboration.
 * [Cracking](cracking.md) - Everything you need to crack all the hashes.
 * [Cryptography](cryptography.md) - How great is your cryptography?
-* [CTF Offensive](ctf.md) - Compete your hacking skills against others.
+* [CTF Offensive](ctf.md) - Flex your skills. Offensive security capture-the-flag events.
 
 ---
 
 * [Data Exfiltration](data-exfiltration.md) - Exfiltrate the data, and test your DLP.
-* [Default Passwords](default-passwords.md) - 1,000+ default passwords.
+* [Default Passwords](default-passwords.md) - Still using admin/admin? 1,000+ default passwords to check first.
 
 ---
 
-* [E-Mail](e-mail.md) - E-Mail pentesting tools and resources.
-* [Editors & Viewers](editor-viewer.md) - Tools for editing/viewing files.
-* [Education](education.md) - Training and courses to master your craft.
+* [E-Mail](e-mail.md) - Phish, spoof, and pop inboxes. E-mail pentesting tools and resources.
+* [Editors & Viewers](editor-viewer.md) - Editors and viewers for digging into files of every format.
+* [Education](education.md) - Level up. Training and courses to master your craft.
 * [Emulation](emulation.md) - Emulate the adversary.
-* [Endpoint Protection](endpoint-protection.md) - Protect your endpoints.
+* [Endpoint Protection](endpoint-protection.md) - Lock down every endpoint before someone else does.
 * [Evasion](evasion.md) - Evade getting caught.
 * [Exploits](exploits.md) - Gather all your exploits needed to pop that box.
 
@@ -58,13 +58,13 @@ Need to report a broken/incorrect link? Feel free to submit an [Issue](https://g
 
 ---
 
-* [Hardware](hardware.md) - Grab some of the most used hardware within the penetration testing industry.
-* [Honeypots](honeypot.md) - Catch them with their hands/attacks sticky.
+* [Hardware](hardware.md) - Gear up. The hardware every pentester keeps in their bag.
+* [Honeypots](honeypot.md) - Deploy honeypots to catch attackers in the act.
 
 ---
 
-* [IDS/IPS](ids-ips.md) - Intrusion Detection and Prevention Systems.
-* [Incident Response](ir.md) - Incident response tools, and resources when alarms pop off.
+* [IDS/IPS](ids-ips.md) - Detect and block intrusions before they do damage.
+* [Incident Response](ir.md) - Incident response tools and resources for when alarms pop off.
 
 ---
 
@@ -72,9 +72,9 @@ Need to report a broken/incorrect link? Feel free to submit an [Issue](https://g
 
 ---
 
-* [Malware](malware.md) - All the malware you can wish for to reverse engineer.
-* [Mobile](mobile.md) - Tools and resources for pentesting on mobile applications.
-* [Music](music.md) - Kick back relax and enjoy some entertainment.
+* [Malware](malware.md) - All the malware you could wish for, ready to reverse engineer.
+* [Mobile](mobile.md) - Root it, jailbreak it, break it. Tools for attacking and defending mobile applications.
+* [Music](music.md) - Kick back, relax, and enjoy some entertainment.
 
 ---
 
@@ -83,21 +83,21 @@ Need to report a broken/incorrect link? Feel free to submit an [Issue](https://g
 ---
 
 * [Operating Systems](operating-systems.md) - Operating systems for whatever task at hand.
-* [Operation Security](opsec.md) - Seek out technologies and methods of remaining anonymous in the day and age of mass surveillance.
+* [Operation Security](opsec.md) - Seek out technologies and methods of remaining anonymous in this day and age of mass surveillance.
 * [OSINT](osint.md) - Open-Source Intel. Get all the information needed for your target.
 
 ---
 
-* [Privilege Escalation](privilege-escalation.md) - Understand your target. Perform in-depth research and discover new attack surfaces.
+* [Privilege Escalation](privilege-escalation.md) - Go from limited access to full control. Escalate your privileges on Linux, macOS, and Windows.
 
 ---
 
-* [Reverse Engineering](re.md) - Reverse engineering tools both offensive and defensive operations can utilize.
+* [Reverse Engineering](re.md) - Reverse engineering tools that both offensive and defensive operations can utilize.
 * [Reconnaissance](recon.md) - Understand your target. Perform in-depth research and discover new attack surfaces.
 
 ---
 
-* [Shells](shells.md) - Generating pre-built webshells to customizing your own.
+* [Shells](shells.md) - From pre-built webshells to fully custom ones.
 * [Social Engineering](social-engineering.md) - Manipulation techniques that exploit human error to gain private information, access, or valuables.
 
 ---
@@ -106,11 +106,11 @@ Need to report a broken/incorrect link? Feel free to submit an [Issue](https://g
 
 ---
 
-* [Video](videos.md) - Talks, livestreams, and presentations.
-* [Vulnerability Scanners](vuln-scanners.md) - Discover vulnerabilities fast, and automate some of the heavy loads.
+* [Video](videos.md) - Talks, livestreams, and presentations to sharpen your skills.
+* [Vulnerability Scanners](vuln-scanners.md) - Discover vulnerabilities fast, and automate the heavy lifting.
 
 ---
 
 * [Web Application](web-app.md) - Break that web application.
-* [Windows](windows.md) - Microsoft Windows pentesting tools and resources.
-* [Wireless](wireless.md) - Wireless pentesting tools and resources.
+* [Windows](windows.md) - Tools and resources for popping those Windows boxes.
+* [Wireless](wireless.md) - Go wireless. Tools for exploiting Wi-Fi, Bluetooth, RFID, and more.

@@ -1,5 +1,13 @@
 # Changelog
 
+### August 21, 2026
+
++++ :icon-file-removed: Removals
+- Removal of 42 dead links 
++++ :icon-file-added: Additions
+- New OSINt people search tool
++++
+
 ### March 2, 2026
 
 +++ New :icon-shield-check:
