@@ -13,6 +13,7 @@ description: Discover vulnerabilities fast, and automate the heavy lifting.
 * [Alibaba Cloud Security Scanner](https://www.alibabacloud.com/product/avds) - CSS utilizes data, white hat pentesting, and ML to provide an all-in-one security solution for domains and other online assets. 
 * [Amazon Inspector](https://aws.amazon.com/inspector/pricing/) - Automated security assessment service to help improve the security and compliance of applications deployed on AWS. 
 * [AT&T Managed Vulnerability Program](https://cybersecurity.att.com/products/managed-vulnerability-program) - Vulnerability management services that fit your business. 
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform that discovers, exploits, and proves vulnerabilities across web, API, Active Directory, and Kubernetes; an LLM orchestrates specialist agents and offensive tools over MCP, runs on a local model and self-hosts. ![last-commit](https://img.shields.io/github/last-commit/ASCIT31/Dark-Moon?style=flat)
 * [Burp Suite](https://portswigger.net/burp/vulnerability-scanner) - PortSwigger's world-leading research to help its users find a wide range of vulnerabilities in web applications, automatically. 
 * [ManageEngine](https://www.manageengine.com/vulnerability-management/) - Gain 360 degree visibility into your security exposure. 
 * [Nessus](https://www.tenable.com/products/nessus) - Proprietary vulnerability scanner developed by Tenable, Inc. 
