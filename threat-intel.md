@@ -5,7 +5,7 @@ description: Discover where the threats begin.
 
 ![](/assets/headers/header-logo.png)
 
-![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-41-757575?style=for-the-badge)
+![](https://img.shields.io/badge/Tools%20%26%20Resources%20Available-42-757575?style=for-the-badge)
 
 ### APT Research
 
@@ -14,6 +14,7 @@ description: Discover where the threats begin.
 ### Frameworks/Platforms
 
 * [ARTIF](https://github.com/CRED-CLUB/ARTIF) - An advanced real time threat intelligence framework to identify threats and malicious web traffic on the basis of IP reputation and historical data. ![last-commit](https://img.shields.io/github/last-commit/CRED-CLUB/ARTIF?style=flat)
+* [ICHI - Internet Cyber Health Index](https://ichi.global) - Free daily barometer of internet cyber health aggregating 20+ named public sources (CISA KEV, Shodan, Censys, CVE/NVD, US-CERT advisories, abuse.ch, and others) into a source-transparent composite index. Each data point is traceable to its originating source.
 * [MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform). ![last-commit](https://img.shields.io/github/last-commit/MISP/MISP?style=flat)
 * [ThreatIngestor](https://github.com/InQuest/ThreatIngestor) - A flexible, configuration-driven, extensible framework for consuming threat intelligence. ![last-commit](https://img.shields.io/github/last-commit/InQuest/ThreatIngestor?style=flat)
 
