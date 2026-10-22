@@ -1,0 +1,523 @@
+{
+  "slug": "wireless",
+  "title": "Wireless",
+  "description": "Go wireless. Tools for exploiting Wi-Fi, Bluetooth, RFID, and more.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "Bluetooth",
+          "tools": [
+            {
+              "name": "BLE Scanner 4.0",
+              "url": "https://apps.apple.com/us/app/ble-scanner-4-0/id1221763603",
+              "description": "Scanner Utility for Bluetooth Low Energy, iBeacon and Eddystone devices.",
+              "links": [
+                {
+                  "label": "iOS",
+                  "url": "https://apps.apple.com/us/app/ble-scanner-4-0/id1221763603"
+                },
+                {
+                  "label": "Android",
+                  "url": "https://play.google.com/store/apps/details?id=com.macdom.ble.blescanner&gl=US"
+                }
+              ]
+            },
+            {
+              "name": "BLE-Beacon-Scanner",
+              "url": "https://github.com/bowdentheo/BLE-Beacon-Scanner",
+              "description": "Scan for BLE Beacons (iBeacon and Eddystone).",
+              "repo": "bowdentheo/BLE-Beacon-Scanner"
+            },
+            {
+              "name": "BLESuite",
+              "url": "https://github.com/nccgroup/BLESuite",
+              "description": "Python package that provides an easier way to test Bluetooth Low Energy (BLE) device.",
+              "repo": "nccgroup/BLESuite"
+            },
+            {
+              "name": "Bluefruit LE Sniffer",
+              "url": "https://www.adafruit.com/product/2269",
+              "description": "Passively capture data exchanges between two BLE devices, pushing the data into Wireshark, where you can visualize things on a packet level."
+            },
+            {
+              "name": "Bluelog",
+              "url": "https://github.com/MS3FGX/Bluelog",
+              "description": "Linux bluetooth scanner.",
+              "repo": "MS3FGX/Bluelog"
+            },
+            {
+              "name": "BlueScanner",
+              "url": "https://bluescanner.en.uptodown.com/windows",
+              "description": "Windows tool to locate bluetooth devices and get to know its features."
+            },
+            {
+              "name": "BSS",
+              "url": "https://github.com/joswr1ght/bss",
+              "description": "Bluetooth Stack Smasher.",
+              "repo": "joswr1ght/bss"
+            },
+            {
+              "name": "BTcrack",
+              "url": "https://github.com/thierryzoller/BTcrack",
+              "description": "Bluetooth PIN and Link-key cracker.",
+              "repo": "thierryzoller/BTcrack"
+            },
+            {
+              "name": "BtleJuice",
+              "url": "https://github.com/DigitalSecurity/btlejuice",
+              "description": "BtleJuice Bluetooth Smart (LE) Man-in-the-Middle framework.",
+              "repo": "DigitalSecurity/btlejuice"
+            },
+            {
+              "name": "Btmon",
+              "url": "https://github.com/matti644/btmon",
+              "description": "Arduino bluetooth monitoring tool.",
+              "repo": "matti644/btmon"
+            },
+            {
+              "name": "Btscanner",
+              "url": "https://salsa.debian.org/pkg-security-team/btscanner",
+              "description": "Scans for new devices and retrieves any information requested.",
+              "repo": "matti644/btmon"
+            },
+            {
+              "name": "Crackle",
+              "url": "https://github.com/mikeryan/crackle",
+              "description": "Crack and decrypt BLE encryption.",
+              "repo": "mikeryan/crackle"
+            },
+            {
+              "name": "Ellisys Bluetooth Explorer",
+              "url": "https://www.ellisys.com/products/bex400/",
+              "description": "All-In-One Wideband BR/EDR and Low Energy sniffer with concurrent capture of Wi-Fi 2x2 802.11 a/b/g/n, 2.4 GHz spectrum, HCI (USB, UART, SPI), WCI-2, logic signals, generic I2C/UART/SPI/SWD, and Audio I2S."
+            },
+            {
+              "name": "hcitool",
+              "url": "https://github.com/MillerTechnologyPeru/hcitool",
+              "description": "Bluetooth host controller CLI tool for sending HCI commands on MacOS and Linux.",
+              "repo": "MillerTechnologyPeru/hcitool"
+            },
+            {
+              "name": "Sweyntooth",
+              "url": "https://github.com/Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks",
+              "description": "Captures a family of 18 vulnerabilities across different Bluetooth Low Energy (BLE) software development kits (SDKs) of six major system-on-a-chip (SoC) vendors.",
+              "repo": "Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks"
+            }
+          ]
+        },
+        {
+          "title": "Cellular",
+          "tools": [
+            {
+              "name": "Crocodile Hunter",
+              "url": "https://github.com/EFForg/crocodilehunter",
+              "description": "A tool to hunt fake eNodeBs, also known commonly as hailstorm, stingray, cell site simulators, or IMSI catchers.",
+              "repo": "EFForg/crocodilehunter"
+            },
+            {
+              "name": "Kalibrate",
+              "url": "https://github.com/steve-m/kalibrate-rtl",
+              "description": "Scan for GSM base stations in a given frequency band and can use those GSM base stations to calculate the local oscillator frequency offset.",
+              "repo": "steve-m/kalibrate-rtl"
+            }
+          ]
+        },
+        {
+          "title": "DECT",
+          "tools": [
+            {
+              "name": "gr-dect2",
+              "url": "https://github.com/pavelyazev/gr-dect2",
+              "description": "Real-time DECT voice channel decoding by Gnuradio. It allows to listen to a voice when encryption isn't applied.",
+              "repo": "pavelyazev/gr-dect2"
+            },
+            {
+              "name": "re-DECTed",
+              "url": "https://github.com/znuh/re-DECTed",
+              "description": "Tools for playing with DECT.",
+              "repo": "znuh/re-DECTed"
+            }
+          ]
+        },
+        {
+          "title": "Hardware",
+          "tools": [
+            {
+              "name": "HackRF One",
+              "url": "https://greatscottgadgets.com/hackrf/one/",
+              "description": "HackRF One is a Software Defined Radio capable of transmission or reception of radio signals from 1 MHz to 6 GHz."
+            },
+            {
+              "name": "MultiBlue Dongle",
+              "url": "https://www.amazon.com/MultiBlue-Dongle-Bluetooth-Keyboard-BT300KMS/dp/B00CRY5K16",
+              "description": "Can be connected to another computer via a USB port and control the victims computer via bluetooth."
+            },
+            {
+              "name": "Pluggable BT Dongle",
+              "url": "https://plugable.com/products/usb-bt4le/",
+              "description": "Survey on nearby bluetooth devices enumerate the services and even send simple data packet to them."
+            },
+            {
+              "name": "Ubertooth One",
+              "url": "https://greatscottgadgets.com/ubertoothone/",
+              "description": "Ubertooth One is an open source 2.4 GHz wireless development platform suitable for Bluetooth experimentation."
+            },
+            {
+              "name": "Wi-fi Pineapple",
+              "url": "https://shop.hak5.org/products/wifi-pineapple",
+              "description": "Automate WiFi auditing with all new campaigns and get actionable results from vulnerability assessment reports."
+            }
+          ]
+        },
+        {
+          "title": "NFC",
+          "tools": [
+            {
+              "name": "ACR122U USB NFC Reader",
+              "url": "https://www.acs.com.hk/en/products/3/acr122u-usb-nfc-reader/",
+              "description": "Contactless smart card reader/writer developed based on 13.56 MHz Contactless (RFID) Technology."
+            },
+            {
+              "name": "Keysy",
+              "url": "https://tinylabs.io/keysy",
+              "description": "Backup up to four RFID access credentials into a small keyfob form factor."
+            },
+            {
+              "name": "libnfc",
+              "url": "https://github.com/nfc-tools/libnfc",
+              "description": "Platform independent Near Field Communication (NFC) library.",
+              "repo": "nfc-tools/libnfc"
+            },
+            {
+              "name": "MFCUK",
+              "url": "https://github.com/nfc-tools/mfcuk",
+              "description": "MiFare Classic Universal toolKit.",
+              "repo": "nfc-tools/mfcuk"
+            },
+            {
+              "name": "MFOC",
+              "url": "https://github.com/nfc-tools/mfoc",
+              "description": "Mifare Classic Offline Cracker.",
+              "repo": "nfc-tools/mfoc"
+            },
+            {
+              "name": "NFCGate",
+              "url": "https://github.com/nfcgate/nfcgate",
+              "description": "Android application meant to capture, analyze, or modify NFC traffic.",
+              "repo": "nfcgate/nfcgate"
+            },
+            {
+              "name": "NFC Smart Card Info",
+              "url": "https://apkpure.com/nfc-smart-card-info/com.inoapp.cardinfo",
+              "description": "Android App. Shows Java Card applet installed on a contact-less Smart Card and tag info."
+            },
+            {
+              "name": "NFC Tag Cloner",
+              "url": "https://apkpure.com/nfc-tag-cloner/com.skjolberg.nfc.clone2",
+              "description": "Android App. Clone NFC tags to another tag or to your phone."
+            },
+            {
+              "name": "NFC TagInfo",
+              "url": "https://apkpure.com/nfc-taginfo-by-nxp/com.nxp.taginfolite",
+              "description": "Android App. The “Swiss Army knife” for NFC! Value checker, content viewer and analysis tool."
+            },
+            {
+              "name": "pcscd",
+              "url": "https://linux.die.net/man/8/pcscd",
+              "description": "PC/SC Smart Card Daemon. A resource manager that coordinates communications with smart card readers and smart cards and cryptographic tokens that are connected to the system."
+            }
+          ]
+        },
+        {
+          "title": "RFID",
+          "tools": [
+            {
+              "name": "ICopyX",
+              "url": "https://icopyx.com/",
+              "description": "Hardware to rapidly and easily clone RFID tags like an expert."
+            },
+            {
+              "name": "Proxmark",
+              "url": "https://proxmark.com",
+              "description": "RFID swiss-army tool, allowing for both high and low level interactions with the vast majority of RFID tags and systems world-wide."
+            },
+            {
+              "name": "RFIDOt",
+              "url": "https://github.com/AdamLaurie/RFIDIOt",
+              "description": "Python RFID / NFC library & tools.",
+              "repo": "AdamLaurie/RFIDIOt"
+            },
+            {
+              "name": "Wiegotcha",
+              "url": "https://github.com/lixmk/Wiegotcha",
+              "description": "Long Range RFID Thief.",
+              "repo": "lixmk/Wiegotcha"
+            }
+          ]
+        },
+        {
+          "title": "SDR",
+          "tools": [
+            {
+              "name": "Airspy",
+              "url": "https://v3.airspy.us/",
+              "description": "State of the art SDR hardware for HF and VHF."
+            },
+            {
+              "name": "bladeRF Micro 20.0",
+              "url": "https://www.nuand.com/bladerf-2-0-micro/",
+              "description": "Next-generation 2x2 MIMO, 47MHz to 6GHz frequency range, off-the-shelf USB 3.0 Software Defined Radio (SDR)."
+            },
+            {
+              "name": "gqrx",
+              "url": "https://github.com/gqrx-sdr/gqrx",
+              "description": "Software defined radio receiver powered by GNU Radio and Qt.",
+              "repo": "gqrx-sdr/gqrx"
+            },
+            {
+              "name": "gr-fosphor",
+              "url": "https://github.com/osmocom/gr-fosphor",
+              "description": "GNURadio block for spectrum visualization using GPU.",
+              "repo": "osmocom/gr-fosphor"
+            },
+            {
+              "name": "inspectrum",
+              "url": "https://github.com/miek/inspectrum",
+              "description": "Analysing captured signals, primarily from software-defined radio receivers.",
+              "repo": "miek/inspectrum"
+            },
+            {
+              "name": "LimeSDR",
+              "url": "https://limemicro.com/products/boards/limesdr/",
+              "description": "A low cost, open source, apps-enabled (more on that later) software defined radio (SDR) platform that can be used to support just about any type of wireless communication standard."
+            },
+            {
+              "name": "Multimon-NG",
+              "url": "https://github.com/EliasOenal/multimon-ng",
+              "description": "Successor of multimon. Decodes various digital transmission modes.",
+              "repo": "EliasOenal/multimon-ng"
+            },
+            {
+              "name": "rtl_fm",
+              "url": "https://github.com/K0NYC/rtl-fm",
+              "description": "Set of scripts that acts as a wrapper for rtl_fm and a few helper scripts for making listening to radio signals with SDR easy.",
+              "repo": "K0NYC/rtl-fm"
+            },
+            {
+              "name": "USRP B210",
+              "url": "https://www.ettus.com/all-products/ub210-kit/",
+              "description": "A fully integrated, single-board, Universal Software Radio Peripheral (USRP™) platform with continuous frequency coverage from 70 MHz – 6 GHz."
+            }
+          ]
+        },
+        {
+          "title": "Wi-Fi",
+          "tools": [
+            {
+              "name": "AirCheck G3 Pro",
+              "url": "https://www.netally.com/products/aircheckg3/",
+              "description": "Hardware-enabled site survey solution for Wi-Fi 6/6E networks."
+            },
+            {
+              "name": "Aircrack-NG",
+              "url": "https://github.com/aircrack-ng/aircrack-ng",
+              "description": "A complete suite of tools assess WiFi network security.",
+              "repo": "aircrack-ng/aircrack-ng"
+            },
+            {
+              "name": "Airpwn",
+              "url": "https://github.com/ICSec/airpwn-ng",
+              "description": "Packet injection for wifi; simplified.",
+              "repo": "ICSec/airpwn-ng"
+            },
+            {
+              "name": "Airstrike",
+              "url": "https://github.com/redcode-labs/AirStrike",
+              "description": "Automatically grab and crack WPA-2 handshakes with distributed client-server architecture.",
+              "repo": "redcode-labs/AirStrike"
+            },
+            {
+              "name": "Alfa Card",
+              "url": "https://www.amazon.com/s?k=Alfa-AWUS036NHA",
+              "description": "The Atheros chipset supports all 6 WiFi modes. Best success rate of various injection attacks using this Wi-Fi adaptor."
+            },
+            {
+              "name": "AWSY",
+              "url": "https://github.com/BaiqingL/AWSY",
+              "description": "Are.We.Secure.Yet Framework aims to test the wifi security of a location, attempting to locate individual devices.",
+              "repo": "BaiqingL/AWSY"
+            },
+            {
+              "name": "Beacongraph",
+              "url": "https://github.com/daddycocoaman/BeaconGraph",
+              "description": "Graph visualization of wireless client and access point relationships.",
+              "repo": "daddycocoaman/BeaconGraph"
+            },
+            {
+              "name": "Chanalyzer",
+              "url": "https://www.metageek.com/wi-spy/",
+              "description": "A powerful dual-band spectrum analyzer that measures Wi-Fi and non-Wi-Fi activity in both the 2.4 GHz and 5 GHz bands."
+            },
+            {
+              "name": "coWPAtty",
+              "url": "https://github.com/joswr1ght/cowpatty",
+              "description": "WPA2-PSK Cracking.",
+              "repo": "joswr1ght/cowpatty"
+            },
+            {
+              "name": "cpscam",
+              "url": "https://github.com/codewatchorg/cpscam",
+              "description": "Bypass captive portals by impersonating inactive users.",
+              "repo": "codewatchorg/cpscam"
+            },
+            {
+              "name": "dBmonster",
+              "url": "https://github.com/90N45-d3v/dBmonster",
+              "description": "Track WiFi Devices With Their Recieved Signal Strength.",
+              "repo": "90N45-d3v/dBmonster"
+            },
+            {
+              "name": "Ekahau HeatMapper",
+              "url": "https://www.ekahau.com/solutions/wi-fi-heatmaps/",
+              "description": "Perform wireless network analysis, optimization, and simulation with high-definition visual Wi-Fi heatmaps that take the guesswork out of network coverage and performance."
+            },
+            {
+              "name": "FruityWiFi",
+              "url": "https://github.com/xtr4nge/FruityWifi",
+              "description": "FruityWiFi is a wireless network auditing tool.",
+              "repo": "xtr4nge/FruityWifi"
+            },
+            {
+              "name": "Giskismet",
+              "url": "https://github.com/xtr4nge/giskismet",
+              "description": "Wireless recon visualization tool.",
+              "repo": "xtr4nge/giskismet"
+            },
+            {
+              "name": "iSniff-GPS",
+              "url": "https://github.com/hubert3/iSniff-GPS",
+              "description": "Passive sniffing tool for capturing and visualising WiFi location data disclosed by iOS devices.",
+              "repo": "hubert3/iSniff-GPS"
+            },
+            {
+              "name": "inSSIDer",
+              "url": "https://github.com/metageek-llc/inSSIDer-2",
+              "description": "Helps to remove that frustration by showing you exactly how your network is configured, how neighboring Wi-Fi networks are impacting yours, and gives suggestions for fast, secure Wi-Fi.",
+              "repo": "metageek-llc/inSSIDer-2"
+            },
+            {
+              "name": "Kismapping",
+              "url": "https://github.com/inguardians/kismapping",
+              "description": "A WiFi heatmapping tool which consumes Kismet output and produces a heatmap.",
+              "repo": "inguardians/kismapping"
+            },
+            {
+              "name": "Kismet",
+              "url": "https://github.com/kismetwireless/kismet",
+              "description": "A sniffer, WIDS, and wardriving tool for Wi-Fi, Bluetooth, Zigbee, RF, and more.",
+              "repo": "kismetwireless/kismet"
+            },
+            {
+              "name": "KRACK",
+              "url": "https://github.com/vanhoefm/krackattacks-scripts",
+              "description": "Scripts to test if clients or access points (APs) are affected by the KRACK attack against WPA2.",
+              "repo": "vanhoefm/krackattacks-scripts"
+            },
+            {
+              "name": "Kr00k",
+              "url": "https://github.com/akabe1/kr00ker",
+              "description": "Allows to decrypt some WPA2 CCMP data in vulnerable devices (Access Point or Clients).",
+              "repo": "akabe1/kr00ker"
+            },
+            {
+              "name": "MDK4",
+              "url": "https://github.com/aircrack-ng/mdk4",
+              "description": "MDK is a proof-of-concept tool to exploit common IEEE 802.11 protocol weaknesses.",
+              "repo": "aircrack-ng/mdk4"
+            },
+            {
+              "name": "Netsh",
+              "url": "https://learn.microsoft.com/en-us/windows-server/networking/technologies/netsh/netsh-contexts",
+              "description": "CLI utility that allows you to display or modify the network configuration of a computer that is currently running."
+            },
+            {
+              "name": "PixieWPS",
+              "url": "https://github.com/wiire-a/pixiewps",
+              "description": "An offline Wi-Fi Protected Setup brute-force utility.",
+              "repo": "wiire-a/pixiewps"
+            },
+            {
+              "name": "Reaver",
+              "url": "https://github.com/t6x/reaver-wps-fork-t6x",
+              "description": "Brute force attack against  Wi-Fi Protected Setups (WPS).",
+              "repo": "t6x/reaver-wps-fork-t6x"
+            },
+            {
+              "name": "r00kie-kr00kie",
+              "url": "https://github.com/hexway/r00kie-kr00kie",
+              "description": "This is a PoC exploit for the CVE-2019-15126 kr00k vulnerability.",
+              "repo": "hexway/r00kie-kr00kie"
+            },
+            {
+              "name": "SniffAir",
+              "url": "https://github.com/Tylous/SniffAir",
+              "description": "Wireless security framework which provides the ability to easily parse passively collected wireless data as well as launch sophisticated wireless attacks.",
+              "repo": "Tylous/SniffAir"
+            },
+            {
+              "name": "tonic",
+              "url": "https://www.metageek.com/tonic/",
+              "description": "Provides a reliable process for troubleshooting Wi-Fi devices (endpoints) on-site."
+            },
+            {
+              "name": "Wifiphisher",
+              "url": "https://github.com/wifiphisher/wifiphisher",
+              "description": "The Rogue Access Point Framework.",
+              "repo": "wifiphisher/wifiphisher"
+            },
+            {
+              "name": "Wifite2",
+              "url": "https://github.com/derv82/wifite2",
+              "description": "Rewrite of the popular wireless network auditor, wifite.",
+              "repo": "derv82/wifite2"
+            },
+            {
+              "name": "WiGLE",
+              "url": "https://www.wigle.net/",
+              "description": "All the networks. Found by Everyone. Wi-fi wardrving database."
+            },
+            {
+              "name": "WirelessKeyView",
+              "url": "https://www.nirsoft.net/utils/wireless_key.html#DownloadLinks",
+              "description": "Recovers all wireless network security keys/passwords (WEP/WPA) stored in your computer."
+            }
+          ]
+        },
+        {
+          "title": "Zigbee",
+          "tools": [
+            {
+              "name": "Killerbee",
+              "url": "https://github.com/joswr1ght/killerbee",
+              "description": "IEEE 802.15.4/ZigBee Security Research Toolkit.",
+              "repo": "joswr1ght/killerbee"
+            }
+          ]
+        },
+        {
+          "title": "Z-Wave",
+          "tools": [
+            {
+              "name": "Killerzee",
+              "url": "https://github.com/joswr1ght/killerzee",
+              "description": "Tools for Attacking and Evaluating Z-Wave Networks.",
+              "repo": "joswr1ght/killerzee"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

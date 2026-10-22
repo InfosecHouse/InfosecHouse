@@ -1,0 +1,209 @@
+{
+  "slug": "firewalls",
+  "title": "Firewalls",
+  "description": "Attack the castle doors.",
+  "sections": [
+    {
+      "title": "Defensive Security",
+      "groups": [
+        {
+          "title": "Firewall Hardware",
+          "tools": [
+            {
+              "name": "Netgate",
+              "url": "https://shop.netgate.com/",
+              "description": "Open-source company that provides high-performance and affordable appliance and software-based firewall, VPN, and routing solutions."
+            },
+            {
+              "name": "UniFi",
+              "url": "https://www.ui.com/",
+              "description": "Full-Stack Networking. Home to Enterprise grade equipment."
+            },
+            {
+              "name": "Untangle",
+              "url": "https://www.untangle.com/untangle-ng-firewall/appliances/",
+              "description": "Network Security Framework provides cloud-managed security and connectivity."
+            }
+          ]
+        },
+        {
+          "title": "Firewall Software",
+          "tools": [
+            {
+              "name": "ClearOS",
+              "url": "https://clearos.com/",
+              "description": "Designed for use in small and medium enterprises as a network gateway."
+            },
+            {
+              "name": "Endian",
+              "url": "https://sourceforge.net/projects/efw/",
+              "description": "A turn-key linux security distribution that makes your system a full featured security appliance."
+            },
+            {
+              "name": "ipfire",
+              "url": "https://github.com/ipfire/ipfire-2.x",
+              "description": "The Open Source Firewall.",
+              "repo": "ipfire/ipfire-2.x"
+            },
+            {
+              "name": "OPNsense",
+              "url": "https://github.com/opnsense/core",
+              "description": "Main repository for OPNsense core. See [https://opnsense.org/](https://opnsense.org/) for more details and prebuilt images.",
+              "repo": "opnsense/core"
+            },
+            {
+              "name": "pfSense",
+              "url": "https://github.com/pfsense/pfsense",
+              "description": "Main repository for pfSense. Based on FreeBSD using the pf firewall.",
+              "repo": "pfsense/pfsense"
+            },
+            {
+              "name": "Shorewall",
+              "url": "https://shorewall.org/",
+              "description": "Shorewall is a gateway/firewall configuration tool for GNU/Linux."
+            },
+            {
+              "name": "Sophos XG",
+              "url": "https://www.sophos.com/en-us/products/free-tools/sophos-xg-firewall-home-edition.aspx",
+              "description": "Features full protection for your home network, including anti-malware, web security and URL filtering, application control, IPS, traffic shaping, VPN, reporting and monitoring, and much more."
+            },
+            {
+              "name": "VyOS",
+              "url": "https://github.com/vyos/vyos-build",
+              "description": "Open source router and firewall platform.",
+              "repo": "vyos/vyos-build"
+            }
+          ]
+        },
+        {
+          "title": "Web Application Firewalls (WAF)",
+          "tools": [
+            {
+              "name": "Lua Resty WAF",
+              "url": "https://github.com/p0pr0ck5/lua-resty-waf",
+              "description": "High-performance WAF built on the OpenResty stack.",
+              "repo": "p0pr0ck5/lua-resty-waf"
+            },
+            {
+              "name": "ModSecurity",
+              "url": "https://github.com/SpiderLabs/ModSecurity",
+              "description": "Open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx.",
+              "repo": "SpiderLabs/ModSecurity"
+            },
+            {
+              "name": "Naxsi",
+              "url": "https://github.com/nbs-system/naxsi",
+              "description": "Open-source, high performance, low rules maintenance WAF for NGINX.",
+              "repo": "nbs-system/naxsi"
+            },
+            {
+              "name": "Predator",
+              "url": "https://github.com/s0md3v/Predator",
+              "description": "Anti-Automation System.",
+              "repo": "s0md3v/Predator"
+            },
+            {
+              "name": "Shadow Daemon",
+              "url": "https://github.com/zecure/shadowd",
+              "description": "The Shadow Daemon web application firewall server.",
+              "repo": "zecure/shadowd"
+            },
+            {
+              "name": "Vulture",
+              "url": "https://www.vultureproject.org/",
+              "description": "An open-source WAF."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Offensive Security",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "Awesome WAF - Known Bypasses",
+              "url": "https://github.com/0xInfection/Awesome-WAF#known-bypasses",
+              "description": "Known WAF bypasses.",
+              "repo": "0xInfection/Awesome-WAF"
+            },
+            {
+              "name": "Abuse SSL Bypass",
+              "url": "https://github.com/LandGrey/abuse-ssl-bypass-waf",
+              "description": "Bypassing WAF by abusing SSL/TLS Ciphers.",
+              "repo": "LandGrey/abuse-ssl-bypass-waf"
+            },
+            {
+              "name": "FTW",
+              "url": "https://github.com/coreruleset/ftw",
+              "description": "Framework for Testing WAFs (FTW!).",
+              "repo": "coreruleset/ftw"
+            },
+            {
+              "name": "gotestwaf",
+              "url": "https://github.com/wallarm/gotestwaf",
+              "description": "Test different WAF for detection logic and bypasses.",
+              "repo": "wallarm/gotestwaf"
+            },
+            {
+              "name": "hakoriginfinder",
+              "url": "https://github.com/hakluke/hakoriginfinder",
+              "description": "Tool for discovering the origin host behind a reverse proxy.",
+              "repo": "hakluke/hakoriginfinder"
+            },
+            {
+              "name": "IdentYwaf",
+              "url": "https://github.com/stamparm/identywaf",
+              "description": "Blind WAF identification tool.",
+              "repo": "stamparm/identywaf"
+            },
+            {
+              "name": "Lightbulb Framework",
+              "url": "https://github.com/lightbulb-framework/lightbulb-framework",
+              "description": "Tools for auditing WAFS.",
+              "repo": "lightbulb-framework/lightbulb-framework"
+            },
+            {
+              "name": "WAF Bench",
+              "url": "https://github.com/microsoft/wafbench",
+              "description": "Tool to measure the performance of WAF.",
+              "repo": "microsoft/wafbench"
+            },
+            {
+              "name": "WAF Bypass",
+              "url": "https://github.com/vincentcox/bypass-firewalls-by-DNS-history",
+              "description": "This script will search for DNS A history records and check if the server replies for that domain.",
+              "repo": "vincentcox/bypass-firewalls-by-DNS-history"
+            },
+            {
+              "name": "WAF Ninja",
+              "url": "https://github.com/khalilbijjou/wafninja",
+              "description": "Tool which contains two functions to attack Web Application Firewalls.",
+              "repo": "khalilbijjou/wafninja"
+            },
+            {
+              "name": "WAF Tester",
+              "url": "https://github.com/Raz0r/waftester",
+              "description": "WAF Testing Tool.",
+              "repo": "Raz0r/waftester"
+            },
+            {
+              "name": "wafw00f",
+              "url": "https://github.com/EnableSecurity/wafw00f",
+              "description": "Allows one to identify and fingerprint WAF products protecting a website.",
+              "repo": "EnableSecurity/wafw00f"
+            },
+            {
+              "name": "WhatWaf",
+              "url": "https://github.com/Ekultek/WhatWaf",
+              "description": "Detect and bypass web application firewalls and protection systems.",
+              "repo": "Ekultek/WhatWaf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

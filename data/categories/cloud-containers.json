@@ -1,0 +1,184 @@
+{
+  "slug": "cloud-containers",
+  "title": "Cloud & Containers",
+  "description": "Storm the cloud. Tools for hacking cloud platforms and containers.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "AWS",
+          "tools": [
+            {
+              "name": "Cloudsplaining",
+              "url": "https://github.com/salesforce/cloudsplaining",
+              "description": "Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.",
+              "repo": "salesforce/cloudsplaining"
+            },
+            {
+              "name": "Greyhat Warfare",
+              "url": "https://buckets.grayhatwarfare.com/",
+              "description": "Search scanned archived AWS buckets.",
+              "also": [
+                "Azure"
+              ]
+            },
+            {
+              "name": "pacu",
+              "url": "https://github.com/RhinoSecurityLabs/pacu",
+              "description": "The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.",
+              "repo": "RhinoSecurityLabs/pacu"
+            },
+            {
+              "name": "Prowler",
+              "url": "https://github.com/toniblyx/prowler",
+              "description": "Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness.",
+              "repo": "toniblyx/prowler"
+            },
+            {
+              "name": "ScoutSuite",
+              "url": "https://github.com/nccgroup/ScoutSuite",
+              "description": "Multi-Cloud Security Auditing Tool.",
+              "repo": "nccgroup/ScoutSuite",
+              "also": [
+                "Azure"
+              ]
+            },
+            {
+              "name": "WeirdAAL",
+              "url": "https://github.com/carnal0wnage/weirdAAL",
+              "description": "WeirdAAL (AWS Attack Library).",
+              "repo": "carnal0wnage/weirdAAL"
+            }
+          ]
+        },
+        {
+          "title": "Azure",
+          "tools": [
+            {
+              "name": "Azurcar",
+              "url": "https://github.com/nccgroup/azucar",
+              "description": "Security auditing tool for Azure environments.",
+              "repo": "nccgroup/azucar"
+            }
+          ]
+        },
+        {
+          "title": "Buckets",
+          "tools": [
+            {
+              "name": "OpenBuckets",
+              "url": "https://openbuckets.io/",
+              "description": "Search public or misconfigured AWS, Azure, Digital Ocean, GCP, IBM, Linode, and Alibaba buckets."
+            }
+          ]
+        },
+        {
+          "title": "Containers",
+          "tools": [
+            {
+              "name": "Checkov",
+              "url": "https://github.com/bridgecrewio/checkov",
+              "description": "Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages.",
+              "repo": "bridgecrewio/checkov"
+            },
+            {
+              "name": "Clair",
+              "url": "https://github.com/quay/clair",
+              "description": "Vulnerability Static Analysis for Containers.",
+              "repo": "quay/clair"
+            },
+            {
+              "name": "Dacker Daemon Attack Surface",
+              "url": "https://docs.docker.com/engine/security/#docker-daemon-attack-surface",
+              "description": "There are four major areas to consider when reviewing Docker security."
+            },
+            {
+              "name": "Dockle",
+              "url": "https://github.com/goodwithtech/dockle",
+              "description": "Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to star.",
+              "repo": "goodwithtech/dockle"
+            },
+            {
+              "name": "Grype",
+              "url": "https://github.com/anchore/grype",
+              "description": "A vulnerability scanner for container images and filesystems.",
+              "repo": "anchore/grype"
+            },
+            {
+              "name": "IceKube",
+              "url": "https://github.com/WithSecureLabs/IceKube",
+              "description": "A tool to help find attack paths within a Kubernetes cluster from a low privileged point, to a preferred location, typically cluster-admin.",
+              "repo": "WithSecureLabs/IceKube"
+            },
+            {
+              "name": "Scancode Toolkit",
+              "url": "https://github.com/aboutcode-org/scancode-toolkit",
+              "description": "ScanCode detects licenses, copyrights, and dependencies to discover and inventory open source and third-party packages used in your code.",
+              "repo": "aboutcode-org/scancode-toolkit"
+            },
+            {
+              "name": "Syft",
+              "url": "https://github.com/anchore/syft",
+              "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems.",
+              "repo": "anchore/syft"
+            },
+            {
+              "name": "Trivy",
+              "url": "https://github.com/aquasecurity/trivy",
+              "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more.",
+              "repo": "aquasecurity/trivy"
+            }
+          ]
+        },
+        {
+          "title": "Git",
+          "tools": [
+            {
+              "name": "gitleaks",
+              "url": "https://github.com/zricethezav/gitleaks",
+              "description": "Scan git repos (or files) for secrets using regex and entropy.",
+              "repo": "zricethezav/gitleaks"
+            },
+            {
+              "name": "gitrob",
+              "url": "https://github.com/michenriksen/gitrob",
+              "description": "Reconnaissance tool for GitHub organizations.",
+              "repo": "michenriksen/gitrob"
+            },
+            {
+              "name": "GitRoller",
+              "url": "https://github.com/mansoorr123/GitRoller",
+              "description": "GitRoller: A Git Recon Tools.",
+              "repo": "mansoorr123/GitRoller"
+            },
+            {
+              "name": "go-gitaudit",
+              "url": "https://github.com/r-pai/go-gitaudit",
+              "description": "Git audit is a go package which can be used to audit git repository to find issues.",
+              "repo": "r-pai/go-gitaudit"
+            },
+            {
+              "name": "shhgit",
+              "url": "https://github.com/eth0izzle/shhgit",
+              "description": "Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories.",
+              "repo": "eth0izzle/shhgit"
+            },
+            {
+              "name": "truffleHog",
+              "url": "https://github.com/trufflesecurity/truffleHog",
+              "description": "Searches through git repositories for high entropy strings and secrets, digging deep into commit history.",
+              "repo": "trufflesecurity/truffleHog"
+            },
+            {
+              "name": "Yar",
+              "url": "https://github.com/nielsing/yar",
+              "description": "Yar is a tool for plunderin' organizations, users and/or repositories.",
+              "repo": "nielsing/yar"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

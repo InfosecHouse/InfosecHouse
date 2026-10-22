@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-ClearOne : RAV
-clearone : converge

@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-<blank> : <blank>
-elastic : changeme

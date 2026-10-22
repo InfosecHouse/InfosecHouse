@@ -1,0 +1,67 @@
+{
+  "slug": "evasion",
+  "title": "Evasion",
+  "description": "Evade getting caught.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "Anti-Virus",
+          "tools": [
+            {
+              "name": "Shellter",
+              "url": "https://www.shellterproject.com/",
+              "description": "AV Evasion Software."
+            },
+            {
+              "name": "Veil",
+              "url": "https://github.com/Veil-Framework/Veil",
+              "description": "A tool designed to generate metasploit payloads that bypass common anti-virus solutions.",
+              "repo": "Veil-Framework/Veil"
+            }
+          ]
+        },
+        {
+          "title": "ELF",
+          "tools": [
+            {
+              "name": "ELFcrypt",
+              "url": "https://github.com/droberson/ELFcrypt",
+              "description": "Simple ELF crypter. Uses RC4 encryption.",
+              "repo": "droberson/ELFcrypt"
+            }
+          ]
+        },
+        {
+          "title": "Obfuscation",
+          "tools": [
+            {
+              "name": "IPObfuscator",
+              "url": "https://github.com/OsandaMalith/IPObfuscator",
+              "description": "A simple tool to convert the IP to a DWORD IP.",
+              "repo": "OsandaMalith/IPObfuscator"
+            }
+          ]
+        },
+        {
+          "title": "Memory",
+          "tools": [
+            {
+              "name": "NimShellcodeFluctuation",
+              "url": "https://github.com/S3cur3Th1sSh1t/NimShellcodeFluctuation",
+              "description": "ShellcodeFluctuation PoC ported to Nim.",
+              "repo": "S3cur3Th1sSh1t/NimShellcodeFluctuation"
+            },
+            {
+              "name": "ShellcodeFluctuation",
+              "url": "https://github.com/mgeeky/ShellcodeFluctuation",
+              "description": "A simple tool to convert the IP to a DWORD IP.",
+              "repo": "mgeeky/ShellcodeFluctuation"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "slug": "threat-intel",
+  "title": "Threat Intel",
+  "description": "Discover where the threats begin.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "APT Research",
+          "tools": [
+            {
+              "name": "Cybercrime Campaign Collections",
+              "url": "https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections",
+              "description": "APT & CyberCriminal Campaign Collection.",
+              "repo": "CyberMonitor/APT_CyberCriminal_Campagin_Collections"
+            }
+          ]
+        },
+        {
+          "title": "Frameworks/Platforms",
+          "tools": [
+            {
+              "name": "ARTIF",
+              "url": "https://github.com/CRED-CLUB/ARTIF",
+              "description": "An advanced real time threat intelligence framework to identify threats and malicious web traffic on the basis of IP reputation and historical data.",
+              "repo": "CRED-CLUB/ARTIF"
+            },
+            {
+              "name": "MISP",
+              "url": "https://github.com/MISP/MISP",
+              "description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform).",
+              "repo": "MISP/MISP"
+            },
+            {
+              "name": "ThreatIngestor",
+              "url": "https://github.com/InQuest/ThreatIngestor",
+              "description": "A flexible, configuration-driven, extensible framework for consuming threat intelligence.",
+              "repo": "InQuest/ThreatIngestor"
+            }
+          ]
+        },
+        {
+          "title": "Pastes",
+          "tools": [
+            {
+              "name": "Ghostbin",
+              "url": "https://ghostbin.com/",
+              "description": "Ghostbin is a website where you can store and share text online."
+            },
+            {
+              "name": "Pastebin",
+              "url": "https://pastebin.com/",
+              "description": "Pastebin is a website where you can store text online for a set period of time."
+            }
+          ]
+        },
+        {
+          "title": "Ransomware Group Feeds",
+          "tools": [
+            {
+              "name": "Arvin Club",
+              "url": "http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion/",
+              "description": "Arvin ransomware team homepage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Avaddon",
+              "url": "http://avaddongun7rngel.onion",
+              "description": "Avaddon ransomware team homepage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Babuk Locker",
+              "url": "http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/",
+              "description": "Babuk Locker ransomware team homepage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "CL0P",
+              "url": "http://ekbgzchl6x2ias37.onion/",
+              "description": "CL0P ransomware team homepage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "CONTI",
+              "url": "https://continews.icu/",
+              "description": "CONTI ransomware team homepage.",
+              "links": [
+                {
+                  "label": "TOR",
+                  "url": "http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion"
+                }
+              ],
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Cuba",
+              "url": "http://cuba4mp6ximo2zlo.onion/",
+              "description": "Cuba ransomware team homepage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "DarkSide",
+              "url": "http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion/",
+              "description": "Darkside ransomware team homepage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "DoppelPaymer",
+              "url": "http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/",
+              "description": "DoppelPaymer ransomware team hompage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Everest",
+              "url": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/",
+              "description": "Everest ransomware team homepage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Lorenz",
+              "url": "http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion/",
+              "description": "Lorenz ransomware team hompage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "LV",
+              "url": "http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion/",
+              "description": "LV ransomware team homepage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Mount Locker",
+              "url": "http://mountnewsokhwilx.onion",
+              "description": "Mount Locker ransomware team homepage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "N3tw0rm",
+              "url": "http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/",
+              "description": "N3tw0rm ransomware team homepage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Nefilim (Corporate Leaks)",
+              "url": "http://edteebo2w2bvwewbjb5wgwxksuwqutbg3lk34ln7jpf3obhy4cvkbuqd.onion/",
+              "description": "Nefilm/Corporate Leaks ransomware team hompage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Pay2Key",
+              "url": "http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/",
+              "description": "Pay2Key ransomware team homepage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "PYSA",
+              "url": "http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/",
+              "description": "PYSA ransomware team homepage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Ragnar Locker",
+              "url": "http://p6o7m73ujalhgkiv.onion/",
+              "description": "Ragnar Locker ransomware team homepage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Ragnarok",
+              "url": "http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion/",
+              "description": "Ragnarok ransomware team homepage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "RansomEXX",
+              "url": "http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/",
+              "description": "RansomEXX ransomware team homepage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Ranzy Locker",
+              "url": "http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/",
+              "description": "Ranzy Locker ransomware team hompage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Sodinokibi (REvil)",
+              "url": "http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion",
+              "description": "REvil ransomware team hompage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Sunscrypt",
+              "url": "http://nbzzb6sa6xuura2z.onion/",
+              "description": "Sunscrypt ransomware team homepage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "SynAck",
+              "url": "http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion/index.html",
+              "description": "SynAck ransomeware team hompage.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Xing Team",
+              "url": "http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/",
+              "description": "Xing ransomware team hompage.",
+              "tags": [
+                "tor"
+              ]
+            }
+          ]
+        }
+      ],
+      "notices": [
+        {
+          "type": "warning",
+          "text": "Certain resources mentioned in the following section necessitate the use of TOR for access. It is imperative to bear in mind that participating in unlawful activities is explicitly forbidden, and adhering to the pertinent local and state regulations rests solely upon your individual responsibility."
+        }
+      ]
+    },
+    {
+      "title": "TOR",
+      "groups": [
+        {
+          "title": "Directory Listings",
+          "tools": [
+            {
+              "name": "Dark Dir",
+              "url": "http://l7vh56hxm3t4tzy75nxzducszppgi45fyx2wy6chujxb2rhy7o5r62ad.onion",
+              "description": "TOR Link Directory.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Hidden Links",
+              "url": "http://wclekwrf2aclunlmuikf2bopusjfv66jlhwtgbiycy5nw524r6ngioid.onion/",
+              "description": "TOR Link Directory.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Onion Link Directory",
+              "url": "http://torlinkszegvxqb6.onion/",
+              "description": "TOR Link Directory.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Onion Scanner",
+              "url": "http://4r4zaei5qa7qq5ha.onion/",
+              "description": "Onion Scanner is a unique deepweb shops crawler which gathers reviews for customers convenience.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Paul's Onion Links",
+              "url": "http://paullzqj3ntil7vyar3gxeks7bz5haiteeehz5vdk5fadvtto7q7liid.onion/",
+              "description": "TOR Link Directory.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Shops Dir",
+              "url": "http://vxmua4uvg7vp5ssnvx5gexrr2nxso3wwvjwagdub67vcombj4kf4i4qd.onion/",
+              "description": "ShopsDir is a growing catalogue of all DeepWeb/DarkNet shops, stores and markets.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Tornode",
+              "url": "http://e6wzjohnxejirqa2sgridvymv2jxhrqdfuyxvoxp3xpqh7kr4kbwpwad.onion/",
+              "description": "TOR Link Directory.",
+              "tags": [
+                "tor"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Inspection",
+          "tools": [
+            {
+              "name": "Onioff",
+              "url": "https://github.com/k4m4/onioff",
+              "description": "An onion url inspector for inspecting deep web links.",
+              "repo": "k4m4/onioff"
+            }
+          ]
+        },
+        {
+          "title": "Search Engines",
+          "tools": [
+            {
+              "name": "Ahmia",
+              "url": "https://ahmia.fi/",
+              "description": "Ahmia's mission is to create the premier search engine for services residing on the Tor anonymity network."
+            },
+            {
+              "name": "Hoodle",
+              "url": "http://nr2dvqdot7yw6b5poyjb7tzot7fjrrweb2fhugvytbbio7ijkrvicuid.onion",
+              "description": "A DeepWeb search engine with clear interface and accurate link database.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Sentor",
+              "url": "http://e27slbec2ykiyo26gfuovaehuzsydffbit5nlxid53kigw3pvz6uosqd.onion/index.php",
+              "description": "TOR Search Engine.",
+              "tags": [
+                "tor"
+              ]
+            }
+          ]
+        }
+      ],
+      "notices": [
+        {
+          "type": "warning",
+          "text": "Some resources in the below section require TOR to access them. Remember, engaging in illegal activities is strictly prohibited, and compliance with local state laws is your sole responsibility."
+        },
+        {
+          "type": "warning",
+          "text": "Some resources in the below section require TOR to access them. Remember, engaging in illegal activities is strictly prohibited, and compliance with local state laws is your sole responsibility."
+        }
+      ]
+    }
+  ]
+}

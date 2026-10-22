@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-<blank> : MCUrv
-admin : <blank>

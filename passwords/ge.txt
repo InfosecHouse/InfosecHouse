@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-museadmin : Muse!Admin
-install : install

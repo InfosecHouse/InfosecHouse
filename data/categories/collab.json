@@ -1,0 +1,35 @@
+{
+  "slug": "collab",
+  "title": "Collaboration",
+  "description": "Hack together. Tools for red team collaboration.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "Tracking Framework",
+          "tools": [
+            {
+              "name": "Dradis",
+              "url": "https://github.com/dradis/dradis-ce",
+              "description": "Collaboration and Reporting for InfoSec Teams Made Simple.",
+              "repo": "dradis/dradis-ce"
+            },
+            {
+              "name": "Mythic",
+              "url": "https://github.com/its-a-feature/Mythic",
+              "description": "A collaborative, multi-platform, red teaming framework.",
+              "repo": "its-a-feature/Mythic"
+            },
+            {
+              "name": "tmate",
+              "url": "https://github.com/tmate-io/tmate",
+              "description": "Instant Terminal Sharing. tmate is a fork of tmux. tmate and tmux can coexist on the same system.",
+              "repo": "tmate-io/tmate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

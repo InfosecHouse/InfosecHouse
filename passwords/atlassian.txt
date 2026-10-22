@@ -1,5 +1,0 @@
-USERNAME : PASSWORD
-Crowd : password
-Demo : password
-Username : password
-crowd-openid-server : password

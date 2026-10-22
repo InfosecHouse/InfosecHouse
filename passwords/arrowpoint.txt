@@ -1,4 +1,0 @@
-USERNAME : PASSWORD
-(blank) : (none)
-<blank> : <blank>
-admin : system

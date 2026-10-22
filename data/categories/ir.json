@@ -1,0 +1,171 @@
+{
+  "slug": "ir",
+  "title": "Incident Response",
+  "description": "Incident response tools and resources for when alarms pop off.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "Active Directory",
+          "tools": [
+            {
+              "name": "LogonTracer",
+              "url": "https://github.com/JPCERTCC/LogonTracer",
+              "description": "Investigate malicious Windows logon by visualizing and analyzing Windows event log.",
+              "repo": "JPCERTCC/LogonTracer"
+            }
+          ]
+        },
+        {
+          "title": "Data Loss Prevention (DLP)",
+          "tools": [
+            {
+              "name": "LOTS Project",
+              "url": "https://lots-project.com/#",
+              "description": "Attackers are using popular legitimate domains when conducting phishing, C&C, exfiltration and downloading tools to evade detection. This project provides domains to monitor."
+            }
+          ]
+        },
+        {
+          "title": "Management Platform",
+          "tools": [
+            {
+              "name": "DFIRTrack",
+              "url": "https://github.com/dfirtrack/dfirtrack",
+              "description": "The Incident Response Tracking Application.",
+              "repo": "dfirtrack/dfirtrack"
+            },
+            {
+              "name": "FIR",
+              "url": "https://github.com/certsocietegenerale/FIR",
+              "description": "Fast Incident Response allows for easy creation, tracking, and reporting of cybersecurity incidents.",
+              "repo": "certsocietegenerale/FIR"
+            },
+            {
+              "name": "The Hive",
+              "url": "https://github.com/TheHive-Project/TheHive",
+              "description": "A Scalable, Open Source and Free Security Incident Response Platform.",
+              "repo": "TheHive-Project/TheHive"
+            },
+            {
+              "name": "Wazuh",
+              "url": "https://github.com/wazuh/wazuh",
+              "description": "Capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.",
+              "repo": "wazuh/wazuh"
+            }
+          ]
+        },
+        {
+          "title": "Reporting",
+          "tools": [
+            {
+              "name": "Cortex",
+              "url": "https://github.com/TheHive-Project/Cortex",
+              "description": "Powerful Observable Analysis and Active Response Engine.",
+              "repo": "TheHive-Project/Cortex"
+            },
+            {
+              "name": "ETWMonitor",
+              "url": "https://github.com/Processus-Thief/ETWMonitor",
+              "description": "Windows notifier tool that detects suspicious connections by monitoring ETW event logs.",
+              "repo": "Processus-Thief/ETWMonitor"
+            },
+            {
+              "name": "Log-MD",
+              "url": "https://www.imfsecurity.com/why-log-md"
+            },
+            {
+              "name": "Response",
+              "url": "https://github.com/monzo/response",
+              "description": "Real-time incident response and reporting tool.",
+              "repo": "monzo/response"
+            },
+            {
+              "name": "Velociraptor",
+              "url": "https://github.com/Velocidex/velociraptor",
+              "description": "A tool for collecting host based state information using Velocidex Query Language (VQL) queries.",
+              "repo": "Velocidex/velociraptor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Indicators of Compromise",
+      "groups": [
+        {
+          "title": "Frameworks",
+          "tools": [
+            {
+              "name": "IoCextract",
+              "url": "https://github.com/InQuest/iocextract",
+              "description": "Defanged Indicator of Compromise (IOC) Extractor.",
+              "repo": "InQuest/iocextract"
+            }
+          ]
+        },
+        {
+          "title": "Lists",
+          "tools": [
+            {
+              "name": "Log4Shell",
+              "url": "https://github.com/curated-intel/Log4Shell-IOCs",
+              "description": "Simple IOC and YARA scanner.",
+              "repo": "curated-intel/Log4Shell-IOCs"
+            }
+          ]
+        },
+        {
+          "title": "Scanners",
+          "tools": [
+            {
+              "name": "Fenrir",
+              "url": "https://github.com/Neo23x0/Fenrir",
+              "description": "Simple Bash IOC Scanner.",
+              "repo": "Neo23x0/Fenrir"
+            },
+            {
+              "name": "IoC Radar",
+              "url": "https://socradar.io/labs/ioc-radar/",
+              "description": "The IOC Radar service provides you with IoCs about threat actors, malware and attackers."
+            },
+            {
+              "name": "Loki",
+              "url": "https://github.com/Neo23x0/Loki",
+              "description": "Simple IOC and YARA scanner.",
+              "repo": "Neo23x0/Loki"
+            },
+            {
+              "name": "PersistenceSniper",
+              "url": "https://github.com/last-byte/PersistenceSniper/",
+              "description": "Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines.",
+              "repo": "last-byte/PersistenceSniper"
+            },
+            {
+              "name": "Redline",
+              "url": "https://www.fireeye.com/services/freeware/redline.html",
+              "description": "FireEye's free endpoint security tool, provides host investigative capabilities."
+            },
+            {
+              "name": "Thor Lite",
+              "url": "https://www.nextron-systems.com/thor-lite/",
+              "description": "Free IOC and YARA Scanner."
+            }
+          ]
+        },
+        {
+          "title": "YARA",
+          "tools": [
+            {
+              "name": "yarGen",
+              "url": "https://github.com/Neo23x0/yarGen",
+              "description": "yarGen is a generator for YARA rules.",
+              "repo": "Neo23x0/yarGen"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

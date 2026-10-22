@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-SYSDBA : masterkey
-SYSDBA : masterkey

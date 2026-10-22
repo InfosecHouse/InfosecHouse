@@ -1,0 +1,1676 @@
+{
+ "0dayCTF/reverse-shell-generator": {
+  "pushed": "2026-04-27"
+ },
+ "0xInfection/Awesome-WAF": {
+  "pushed": "2026-08-26"
+ },
+ "0xInfection/TIDoS-Framework": {
+  "pushed": "2021-02-12"
+ },
+ "0xRTH/IISRecon": {
+  "pushed": "2024-02-18"
+ },
+ "0xthirteen/SharpRDP": {
+  "pushed": "2026-08-03"
+ },
+ "1N3/PowerExfil": {
+  "pushed": "2020-02-21"
+ },
+ "1N3/Sn1per": {
+  "pushed": "2026-07-04"
+ },
+ "1ndianl33t/Bug-Bounty-Roadmaps": {
+  "pushed": "2020-08-18"
+ },
+ "90N45-d3v/dBmonster": {
+  "pushed": "2023-03-18"
+ },
+ "APKLab/APKLab": {
+  "pushed": "2026-07-16"
+ },
+ "AdamLaurie/RFIDIOt": {
+  "pushed": "2026-10-14"
+ },
+ "AlessandroZ/LaZagne": {
+  "pushed": "2025-09-18"
+ },
+ "AndroidHooker/hooker": {
+  "pushed": "2016-08-09"
+ },
+ "Arno0x/DNSExfiltrator": {
+  "pushed": "2018-04-05"
+ },
+ "Azure/PyRIT": {
+  "pushed": "2026-03-25"
+ },
+ "Azure/counterfit": {
+  "pushed": "2025-07-18"
+ },
+ "B3nac/Android-Reports-and-Resources": {
+  "pushed": "2025-09-10"
+ },
+ "B3nac/InjuredAndroid": {
+  "pushed": "2021-06-25"
+ },
+ "BaiqingL/AWSY": {
+  "pushed": "2020-09-11"
+ },
+ "BishopFox/bfdecrypt": {
+  "pushed": "2018-02-07"
+ },
+ "BishopFox/sliver": {
+  "pushed": "2026-10-14"
+ },
+ "BloodHoundAD/BloodHound": {
+  "pushed": "2026-03-02"
+ },
+ "Bo0oM/fuzz.txt": {
+  "pushed": "2026-07-28"
+ },
+ "C-Sto/recursebuster": {
+  "pushed": "2019-10-15"
+ },
+ "CRED-CLUB/ARTIF": {
+  "pushed": "2022-06-10"
+ },
+ "CalebFenton/simplify": {
+  "pushed": "2021-05-23"
+ },
+ "Cisco-Talos/clamav": {
+  "pushed": "2026-08-27"
+ },
+ "CyberMonitor/APT_CyberCriminal_Campagin_Collections": {
+  "pushed": "2024-07-25"
+ },
+ "D35m0nd142/LFISuite": {
+  "pushed": "2018-04-08"
+ },
+ "DShield-ISC/IPv6DNSExfil": {
+  "pushed": "2016-07-26"
+ },
+ "DarkCoderSc/PowerRemoteDesktop": {
+  "pushed": "2024-08-01"
+ },
+ "DarthTon/Blackbone": {
+  "pushed": "2023-07-17"
+ },
+ "Datalux/Osintgram": {
+  "pushed": "2026-10-15"
+ },
+ "DigitalSecurity/btlejuice": {
+  "pushed": "2018-10-03"
+ },
+ "DinoTools/dionaea": {
+  "pushed": "2021-02-08"
+ },
+ "DreamDevLost/classdumpios": {
+  "pushed": "2021-04-18"
+ },
+ "Drewsif/wipedicks": {
+  "pushed": "2019-11-25"
+ },
+ "EFForg/crocodilehunter": {
+  "pushed": "2023-02-06"
+ },
+ "EasyJailbreak/EasyJailbreak": {
+  "pushed": "2026-09-01"
+ },
+ "Ekultek/WhatWaf": {
+  "pushed": "2023-12-10"
+ },
+ "ElevenPaths/FOCA": {
+  "pushed": "2021-08-27"
+ },
+ "EliasOenal/multimon-ng": {
+  "pushed": "2026-10-11"
+ },
+ "EnableSecurity/wafw00f": {
+  "pushed": "2026-04-19"
+ },
+ "EricZimmerman/AmcacheParser": {
+  "pushed": "2026-10-16"
+ },
+ "EricZimmerman/AppCompatCacheParser": {
+  "pushed": "2026-10-16"
+ },
+ "EricZimmerman/ExtensionBlocks": {
+  "pushed": "2026-10-15"
+ },
+ "EricZimmerman/JLECmd": {
+  "pushed": "2026-10-15"
+ },
+ "EricZimmerman/KapeFiles": {
+  "pushed": "2026-10-12"
+ },
+ "EricZimmerman/LECmd": {
+  "pushed": "2026-10-15"
+ },
+ "EricZimmerman/Lnk": {
+  "pushed": "2026-10-16"
+ },
+ "EricZimmerman/MFT": {
+  "pushed": "2026-10-16"
+ },
+ "EricZimmerman/MFTECmd": {
+  "pushed": "2026-10-16"
+ },
+ "EricZimmerman/OleCf": {
+  "pushed": "2026-10-16"
+ },
+ "EricZimmerman/PECmd": {
+  "pushed": "2026-10-16"
+ },
+ "EricZimmerman/Prefetch": {
+  "pushed": "2026-10-16"
+ },
+ "EricZimmerman/RBCmd": {
+  "pushed": "2026-10-16"
+ },
+ "EricZimmerman/Registry": {
+  "pushed": "2026-10-16"
+ },
+ "EricZimmerman/RegistryExplorerBookmarks": {
+  "pushed": "2024-12-19"
+ },
+ "EricZimmerman/SDB": {
+  "pushed": "2026-10-16"
+ },
+ "EricZimmerman/SQLECmd": {
+  "pushed": "2026-10-15"
+ },
+ "EricZimmerman/Srum": {
+  "pushed": "2026-05-01"
+ },
+ "EricZimmerman/Sum": {
+  "pushed": "2026-04-26"
+ },
+ "EricZimmerman/TLEFilePlugins": {
+  "pushed": "2026-06-05"
+ },
+ "EricZimmerman/USBDevices": {
+  "pushed": "2021-11-15"
+ },
+ "EricZimmerman/VSCMount": {
+  "pushed": "2026-04-28"
+ },
+ "EricZimmerman/WinSearchDBAnalyzer": {
+  "pushed": "2021-03-09"
+ },
+ "EricZimmerman/WxTCmd": {
+  "pushed": "2026-10-16"
+ },
+ "EricZimmerman/bstrings": {
+  "pushed": "2026-10-16"
+ },
+ "EricZimmerman/evtx": {
+  "pushed": "2026-10-16"
+ },
+ "EricZimmerman/iisGeolocate": {
+  "pushed": "2026-05-10"
+ },
+ "Esc4iCEscEsc/skanuvaty": {
+  "pushed": "2022-03-18"
+ },
+ "Ettercap/ettercap": {
+  "pushed": "2026-09-20"
+ },
+ "FSecureLABS/C3": {
+  "pushed": "2026-01-16"
+ },
+ "FSecureLABS/drozer": {
+  "pushed": "2026-04-08"
+ },
+ "FSecureLABS/needle": {
+  "pushed": "2020-10-25"
+ },
+ "Findomain/Findomain": {
+  "pushed": "2026-09-07"
+ },
+ "FuzzySecurity/PowerShell-Suite": {
+  "pushed": "2021-11-19"
+ },
+ "GTFOBins/GTFOBins.github.io": {
+  "pushed": "2026-05-27"
+ },
+ "GerbenJavado/LinkFinder": {
+  "pushed": "2024-04-13"
+ },
+ "GhostPack/Certify": {
+  "pushed": "2026-09-30"
+ },
+ "GhostPack/Rubeus": {
+  "pushed": "2025-11-14"
+ },
+ "Gyoonus/deoptfuscator": {
+  "pushed": "2022-06-16"
+ },
+ "ICSec/airpwn-ng": {
+  "pushed": "2026-03-28"
+ },
+ "InQuest/ThreatIngestor": {
+  "pushed": "2026-05-26"
+ },
+ "InQuest/iocextract": {
+  "pushed": "2024-08-28"
+ },
+ "InQuest/malware-samples": {
+  "pushed": "2024-01-30"
+ },
+ "JPCERTCC/LogonTracer": {
+  "pushed": "2026-08-02"
+ },
+ "JailbreakBench/jailbreakbench": {
+  "pushed": "2025-03-31"
+ },
+ "Jamling/jarsigner": {
+  "pushed": "2018-02-11"
+ },
+ "JesusFreke/smali": {
+  "pushed": "2022-03-08"
+ },
+ "JohnCoates/flexdecrypt": {
+  "pushed": "2020-07-01"
+ },
+ "JonCooperWorks/judas": {
+  "pushed": "2021-04-20"
+ },
+ "K0NYC/rtl-fm": {
+  "pushed": "2023-10-23"
+ },
+ "KJCracks/Clutch": {
+  "pushed": "2024-11-15"
+ },
+ "KajanM/DirBuster": {
+  "pushed": "2018-04-10"
+ },
+ "Karlheinzniebuhr/torshammer": {
+  "pushed": "2022-03-12"
+ },
+ "Kevin-Robertson/Inveigh": {
+  "pushed": "2025-11-19"
+ },
+ "Kong/insomnia": {
+  "pushed": "2026-10-16"
+ },
+ "KritantaDev/ktool": {
+  "pushed": "2026-03-07"
+ },
+ "LOLBAS-Project/LOLBAS": {
+  "pushed": "2026-09-26"
+ },
+ "LandGrey/abuse-ssl-bypass-waf": {
+  "pushed": "2021-07-27"
+ },
+ "Lekensteyn/dmg2img": {
+  "pushed": "2020-12-27"
+ },
+ "LinOTP/LinOTP": {
+  "pushed": "2026-10-13"
+ },
+ "LongSoft/UEFITool": {
+  "pushed": "2026-07-29"
+ },
+ "LordNoteworthy/al-khaser": {
+  "pushed": "2026-07-01"
+ },
+ "LycorisGuard/Windows-Rootkits": {
+  "pushed": "2020-11-21"
+ },
+ "MISP/MISP": {
+  "pushed": "2026-10-10"
+ },
+ "MS3FGX/Bluelog": {
+  "pushed": "2017-07-20"
+ },
+ "MadExploits/Gecko": {
+  "pushed": "2025-08-08"
+ },
+ "MalwareSamples/Malware-Feed": {
+  "pushed": "2021-04-16"
+ },
+ "Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks": {
+  "pushed": "2021-11-23"
+ },
+ "MillerTechnologyPeru/hcitool": {
+  "pushed": "2022-05-28"
+ },
+ "MobSF/Mobile-Security-Framework-MobSF": {
+  "pushed": "2026-10-13"
+ },
+ "MustLive/DAVOSET": {
+  "pushed": "2018-12-19"
+ },
+ "MythicAgents/thanatos": {
+  "pushed": "2026-10-11"
+ },
+ "NHAS/reverse_ssh": {
+  "pushed": "2026-09-07"
+ },
+ "NVIDIA-NeMo/Guardrails": {
+  "pushed": "2026-10-15"
+ },
+ "NVIDIA/garak": {
+  "pushed": "2026-10-16"
+ },
+ "NateBrune/silk-guardian": {
+  "pushed": "2026-10-07"
+ },
+ "NationalSecurityAgency/ghidra": {
+  "pushed": "2026-10-16"
+ },
+ "Ne0nd0g/merlin": {
+  "pushed": "2026-10-15"
+ },
+ "Nefcore/CRLFsuite": {
+  "pushed": "2023-10-17"
+ },
+ "Nekmo/dirhunt": {
+  "pushed": "2023-08-14"
+ },
+ "Neo23x0/Fenrir": {
+  "pushed": "2022-02-12"
+ },
+ "Neo23x0/Loki": {
+  "pushed": "2026-01-09"
+ },
+ "Neo23x0/yarGen": {
+  "pushed": "2026-01-10"
+ },
+ "NewEraCracker/LOIC": {
+  "pushed": "2022-05-03"
+ },
+ "NyaMisty/fouldecrypt": {
+  "pushed": "2023-11-10"
+ },
+ "OCSInventory-NG/OCSInventory-ocsreports": {
+  "pushed": "2026-08-25"
+ },
+ "OISF/suricata": {
+  "pushed": "2026-10-08"
+ },
+ "OJ/gobuster": {
+  "pushed": "2026-01-13"
+ },
+ "OWASP/Amass": {
+  "pushed": "2026-04-07"
+ },
+ "OWASP/CheatSheetSeries": {
+  "pushed": "2026-10-16"
+ },
+ "OWASP/crAPI": {
+  "pushed": "2026-09-09"
+ },
+ "OWASP/owasp-mstg": {
+  "pushed": "2026-09-30"
+ },
+ "OpenCTI-Platform/opencti": {
+  "pushed": "2026-10-17"
+ },
+ "OsandaMalith/IPObfuscator": {
+  "pushed": "2022-07-29"
+ },
+ "OsandaMalith/LFiFreak": {
+  "pushed": "2026-07-11"
+ },
+ "Plazmaz/LNKUp": {
+  "pushed": "2017-08-21"
+ },
+ "Processus-Thief/ETWMonitor": {
+  "pushed": "2022-12-08"
+ },
+ "Ptkatz/OrcaC2": {
+  "pushed": "2022-12-30"
+ },
+ "Puliczek/awesome-list-of-secrets-in-environment-variables": {
+  "pushed": "2022-07-14"
+ },
+ "Raikia/CredNinja": {
+  "pushed": "2019-07-02"
+ },
+ "Raikia/FiercePhish": {
+  "pushed": "2024-01-09"
+ },
+ "Raz0r/waftester": {
+  "pushed": "2014-05-16"
+ },
+ "ReFirmLabs/binwalk": {
+  "pushed": "2026-08-11"
+ },
+ "RevengeComing/DemonHunter": {
+  "pushed": "2018-04-29"
+ },
+ "RhinoSecurityLabs/pacu": {
+  "pushed": "2026-03-24"
+ },
+ "RoganDawes/P4wnP1_aloa": {
+  "pushed": "2023-10-26"
+ },
+ "RustScan/RustScan": {
+  "pushed": "2026-10-05"
+ },
+ "S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet": {
+  "pushed": "2026-05-27"
+ },
+ "S3cur3Th1sSh1t/NimShellcodeFluctuation": {
+  "pushed": "2022-10-14"
+ },
+ "S3cur3Th1sSh1t/WinPwn": {
+  "pushed": "2025-08-28"
+ },
+ "SecWiki/android-kernel-exploits": {
+  "pushed": "2018-03-12"
+ },
+ "SecWiki/linux-kernel-exploits": {
+  "pushed": "2020-03-30"
+ },
+ "SecWiki/macos-kernel-exploits": {
+  "pushed": "2018-01-07"
+ },
+ "SecWiki/windows-kernel-exploits": {
+  "pushed": "2021-06-11"
+ },
+ "SecureAuthCorp/impacket": {
+  "pushed": "2026-10-15"
+ },
+ "Security-Onion-Solutions/securityonion": {
+  "pushed": "2026-09-11"
+ },
+ "SeldonIO/alibi-detect": {
+  "pushed": "2025-12-11"
+ },
+ "Sh1Yo/x8": {
+  "pushed": "2024-09-08"
+ },
+ "ShutdownRepo/Exegol": {
+  "pushed": "2026-09-27"
+ },
+ "ShutdownRepo/The-Hacker-Recipes": {
+  "pushed": "2026-10-03"
+ },
+ "ShutdownRepo/shellerator": {
+  "pushed": "2026-06-16"
+ },
+ "SpiderLabs/ModSecurity": {
+  "pushed": "2026-10-15"
+ },
+ "StamusNetworks/SELKS": {
+  "pushed": "2025-09-13"
+ },
+ "THUYimingLi/BackdoorBox": {
+  "pushed": "2025-09-27"
+ },
+ "Telefonica/ibombshell": {
+  "pushed": "2021-05-28"
+ },
+ "TheHive-Project/Cortex": {
+  "pushed": "2026-10-13"
+ },
+ "TheHive-Project/TheHive": {
+  "pushed": "2025-07-25"
+ },
+ "TheRook/subbrute": {
+  "pushed": "2017-02-12"
+ },
+ "TokTok/c-toxcore": {
+  "pushed": "2026-10-16"
+ },
+ "Trusted-AI/adversarial-robustness-toolbox": {
+  "pushed": "2026-10-08"
+ },
+ "TryCatchHCF/Cloakify": {
+  "pushed": "2020-05-27"
+ },
+ "TryCatchHCF/DumpsterFire": {
+  "pushed": "2020-05-27"
+ },
+ "Tylous/SniffAir": {
+  "pushed": "2020-10-14"
+ },
+ "UnaPibaGeek/ctfr": {
+  "pushed": "2020-05-19"
+ },
+ "UndeadSec/SocialFish": {
+  "pushed": "2026-05-19"
+ },
+ "Veil-Framework/Veil": {
+  "pushed": "2022-10-14"
+ },
+ "Velocidex/velociraptor": {
+  "pushed": "2026-10-16"
+ },
+ "WaTF-Team/WaTF-Bank": {
+  "pushed": "2021-11-24"
+ },
+ "WithSecureLabs/IceKube": {
+  "pushed": "2026-05-29"
+ },
+ "Xquik-dev/x-twitter-scraper": {
+  "pushed": "2026-10-15"
+ },
+ "ZSShen/ProbeDroid": {
+  "pushed": "2018-12-16"
+ },
+ "aboul3la/Sublist3r": {
+  "pushed": "2020-07-29"
+ },
+ "aboutcode-org/scancode-toolkit": {
+  "pushed": "2026-10-16"
+ },
+ "abrignoni/DFIR-SQL-Query-Repo": {
+  "pushed": "2021-04-17"
+ },
+ "ac-pm/Inspeckage": {
+  "pushed": "2018-08-24"
+ },
+ "aerobase/omnibus-aerobase-server": {
+  "missing": true
+ },
+ "aforensics/HiddenVM": {
+  "pushed": "2024-07-18"
+ },
+ "ain-soph/trojanzoo": {
+  "pushed": "2025-08-25"
+ },
+ "aircrack-ng/aircrack-ng": {
+  "pushed": "2026-10-09"
+ },
+ "aircrack-ng/mdk4": {
+  "pushed": "2026-05-29"
+ },
+ "akabe1/kr00ker": {
+  "pushed": "2020-08-19"
+ },
+ "allegro/ralph": {
+  "pushed": "2026-10-09"
+ },
+ "anchore/grype": {
+  "pushed": "2026-10-16"
+ },
+ "anchore/syft": {
+  "pushed": "2026-10-16"
+ },
+ "andOTP/andOTP": {
+  "pushed": "2022-06-14"
+ },
+ "androguard/androguard": {
+  "pushed": "2026-10-12"
+ },
+ "angr/angr": {
+  "pushed": "2026-10-14"
+ },
+ "ankh2054/windows-pentest": {
+  "pushed": "2018-01-10"
+ },
+ "anshumanpattnaik/http-request-smuggling": {
+  "pushed": "2022-02-14"
+ },
+ "antojoseph/droid-ff": {
+  "pushed": "2026-09-29"
+ },
+ "antonioCoco/SharPyShell": {
+  "pushed": "2023-11-26"
+ },
+ "appsecco/VyAPI": {
+  "pushed": "2020-02-21"
+ },
+ "aquasecurity/trivy": {
+  "pushed": "2026-10-16"
+ },
+ "arguslab/Argus-SAF": {
+  "pushed": "2021-11-10"
+ },
+ "as0ler/BinaryCookieReader": {
+  "pushed": "2024-09-28"
+ },
+ "as0ler/r2flutch": {
+  "pushed": "2026-04-16"
+ },
+ "assetnote/kiterunner": {
+  "pushed": "2021-05-10"
+ },
+ "atomicobject/objection": {
+  "pushed": "2015-11-24"
+ },
+ "azet/thc-tls-dos": {
+  "pushed": "2015-05-27"
+ },
+ "badkeys/badkeys": {
+  "pushed": "2026-10-03"
+ },
+ "beefproject/beef": {
+  "pushed": "2026-10-16"
+ },
+ "beemdevelopment/Aegis": {
+  "pushed": "2026-09-06"
+ },
+ "berke/wipe": {
+  "pushed": "2022-12-23"
+ },
+ "bethgelab/foolbox": {
+  "pushed": "2024-03-04"
+ },
+ "bettercap/bettercap": {
+  "pushed": "2026-08-13"
+ },
+ "blark/aiodnsbrute": {
+  "pushed": "2019-06-04"
+ },
+ "blechschmidt/massdns": {
+  "pushed": "2026-09-27"
+ },
+ "boku7/Loki": {
+  "pushed": "2026-03-27"
+ },
+ "bowdentheo/BLE-Beacon-Scanner": {
+  "pushed": "2024-04-11"
+ },
+ "brevityinmotion/goodfaith": {
+  "pushed": "2022-08-17"
+ },
+ "bridgecrewio/checkov": {
+  "pushed": "2026-10-13"
+ },
+ "buffer/thug": {
+  "pushed": "2026-10-03"
+ },
+ "byt3bl33d3r/CrackMapExec": {
+  "pushed": "2023-12-06"
+ },
+ "byt3bl33d3r/SILENTTRINITY": {
+  "pushed": "2023-12-06"
+ },
+ "c6fc/npk": {
+  "pushed": "2026-07-13"
+ },
+ "capstone-engine/capstone": {
+  "pushed": "2026-10-13"
+ },
+ "carnal0wnage/weirdAAL": {
+  "pushed": "2020-09-09"
+ },
+ "certsocietegenerale/FIR": {
+  "pushed": "2026-09-13"
+ },
+ "checkstyle/checkstyle": {
+  "pushed": "2026-10-16"
+ },
+ "chenjj/espoofer": {
+  "pushed": "2022-05-13"
+ },
+ "chris-short/sptoolkit": {
+  "pushed": "2018-05-18"
+ },
+ "cobbr/Covenant": {
+  "pushed": "2021-04-22"
+ },
+ "codewatchorg/cpscam": {
+  "pushed": "2015-01-21"
+ },
+ "codingo/fastsub": {
+  "pushed": "2022-04-25"
+ },
+ "commixproject/commix": {
+  "pushed": "2026-10-16"
+ },
+ "compiler-explorer/compiler-explorer": {
+  "pushed": "2026-10-16"
+ },
+ "coreruleset/ftw": {
+  "pushed": "2022-03-29"
+ },
+ "cowrie/cowrie": {
+  "pushed": "2026-10-15"
+ },
+ "crowdsecurity/crowdsec": {
+  "pushed": "2026-10-16"
+ },
+ "curated-intel/Log4Shell-IOCs": {
+  "pushed": "2022-03-04"
+ },
+ "daddycocoaman/BeaconGraph": {
+  "pushed": "2026-10-02"
+ },
+ "dafthack/MailSniper": {
+  "pushed": "2026-09-21"
+ },
+ "danielmiessler/SecLists": {
+  "pushed": "2026-10-16"
+ },
+ "davidprowe/BadBlood": {
+  "pushed": "2023-06-07"
+ },
+ "deadbits/vigil-llm": {
+  "pushed": "2024-01-31"
+ },
+ "decaf-project/DECAF": {
+  "pushed": "2021-02-18"
+ },
+ "den4uk/andriller": {
+  "pushed": "2022-06-27"
+ },
+ "derv82/wifite2": {
+  "pushed": "2026-08-05"
+ },
+ "devanshbatham/ParamSpider": {
+  "pushed": "2026-03-07"
+ },
+ "dfirtrack/dfirtrack": {
+  "pushed": "2026-01-13"
+ },
+ "dineshshetty/Android-InsecureBankv2": {
+  "pushed": "2019-11-21"
+ },
+ "dolevf/Damn-Vulnerable-GraphQL-Application": {
+  "pushed": "2025-05-24"
+ },
+ "dradis/dradis-ce": {
+  "pushed": "2026-10-15"
+ },
+ "drk1wi/Modlishka": {
+  "pushed": "2026-08-14"
+ },
+ "droberson/ELFcrypt": {
+  "pushed": "2020-09-10"
+ },
+ "dsopas/MindAPI": {
+  "pushed": "2026-05-27"
+ },
+ "dwisiswant0/apkleaks": {
+  "pushed": "2025-08-20"
+ },
+ "dwmetz/QuickPcap": {
+  "pushed": "2022-10-26"
+ },
+ "eauxfolles/content-discovery": {
+  "pushed": "2020-08-11"
+ },
+ "ecstatic-nobel/OSweep": {
+  "pushed": "2019-06-24"
+ },
+ "edoardottt/scilla": {
+  "pushed": "2026-10-02"
+ },
+ "epi052/feroxbuster": {
+  "pushed": "2026-10-15"
+ },
+ "epinna/tplmap": {
+  "pushed": "2022-02-06"
+ },
+ "epinna/weevely3": {
+  "pushed": "2025-10-01"
+ },
+ "erev0s/VAmPI": {
+  "pushed": "2026-04-07"
+ },
+ "eteran/edb-debugger": {
+  "pushed": "2026-10-07"
+ },
+ "eth0izzle/shhgit": {
+  "pushed": "2025-02-28"
+ },
+ "evilcos/xssor2": {
+  "pushed": "2020-08-19"
+ },
+ "evilsocket/dnssearch": {
+  "pushed": "2017-07-21"
+ },
+ "evilsocket/sg1": {
+  "pushed": "2017-12-24"
+ },
+ "evilsocket/xray": {
+  "pushed": "2024-07-10"
+ },
+ "evyatarmeged/Raccoon": {
+  "pushed": "2025-06-10"
+ },
+ "f0wl/MalwareLab_VM-Setup": {
+  "pushed": "2022-02-20"
+ },
+ "facebook/infer": {
+  "pushed": "2026-10-16"
+ },
+ "ffuf/ffuf": {
+  "pushed": "2026-09-26"
+ },
+ "find-sec-bugs/find-sec-bugs": {
+  "pushed": "2026-03-26"
+ },
+ "firefart/websitewatcher": {
+  "pushed": "2026-10-16"
+ },
+ "fleetcaptain/Turbolist3r": {
+  "pushed": "2025-11-16"
+ },
+ "flipkart-incubator/Astra": {
+  "pushed": "2024-05-21"
+ },
+ "flozz/p0wny-shell": {
+  "pushed": "2025-08-11"
+ },
+ "frida/frida": {
+  "pushed": "2026-10-16"
+ },
+ "gabriel-sztejnworcel/pipe-intercept": {
+  "pushed": "2025-09-18"
+ },
+ "garrettfoster13/aced": {
+  "pushed": "2025-08-28"
+ },
+ "garrettfoster13/sccmhunter": {
+  "pushed": "2026-10-03"
+ },
+ "gentilkiwi/mimikatz": {
+  "pushed": "2026-04-17"
+ },
+ "gh2o/rvi_capture": {
+  "pushed": "2022-11-02"
+ },
+ "gkbrk/slowloris": {
+  "pushed": "2023-04-30"
+ },
+ "glennzw/exphil": {
+  "pushed": "2015-09-11"
+ },
+ "glpi-project/glpi": {
+  "pushed": "2026-10-16"
+ },
+ "goodwithtech/dockle": {
+  "pushed": "2026-07-02"
+ },
+ "google/error-prone": {
+  "pushed": "2026-10-15"
+ },
+ "google/google-authenticator": {
+  "pushed": "2020-09-28"
+ },
+ "gqrx-sdr/gqrx": {
+  "pushed": "2026-08-06"
+ },
+ "guardrails-ai/guardrails": {
+  "pushed": "2026-08-26"
+ },
+ "guelfoweb/knock": {
+  "pushed": "2026-02-19"
+ },
+ "hahwul/droid-hunter": {
+  "pushed": "2018-11-06"
+ },
+ "hakluke/hakoriginfinder": {
+  "pushed": "2026-08-05"
+ },
+ "hakluke/hakrawler": {
+  "pushed": "2026-08-05"
+ },
+ "hashcat/hashcat": {
+  "pushed": "2026-10-16"
+ },
+ "hephaest0s/usbkill": {
+  "pushed": "2016-07-30"
+ },
+ "hexway/r00kie-kr00kie": {
+  "pushed": "2020-03-16"
+ },
+ "hideckies/aut0rec0n": {
+  "missing": true
+ },
+ "hideckies/fuzzagotchi": {
+  "missing": true
+ },
+ "hncszyq/ShadowAttack": {
+  "pushed": "2025-09-16"
+ },
+ "honeytrap/honeytrap": {
+  "pushed": "2021-12-20"
+ },
+ "hoppscotch/hoppscotch": {
+  "pushed": "2026-09-30"
+ },
+ "horsicq/Detect-It-Easy": {
+  "pushed": "2026-10-15"
+ },
+ "hubert3/iSniff-GPS": {
+  "pushed": "2016-12-28"
+ },
+ "huntergregal/mimipenguin": {
+  "pushed": "2025-09-05"
+ },
+ "iSECPartners/ios-ssl-kill-switch": {
+  "pushed": "2014-09-15"
+ },
+ "idanr1986/cuckoo-droid": {
+  "pushed": "2017-07-25"
+ },
+ "imperva/automatic-api-attack-tool": {
+  "pushed": "2019-12-30"
+ },
+ "infosec-au/altdns": {
+  "pushed": "2025-01-09"
+ },
+ "infosecn1nja/AD-Attack-Defense": {
+  "pushed": "2025-07-29"
+ },
+ "inguardians/kismapping": {
+  "pushed": "2020-06-03"
+ },
+ "intelowlproject/IntelOwl": {
+  "pushed": "2026-09-02"
+ },
+ "intuit/karate": {
+  "pushed": "2026-10-16"
+ },
+ "ipfire/ipfire-2.x": {
+  "missing": true
+ },
+ "itm4n/PPLdump": {
+  "pushed": "2022-07-24"
+ },
+ "its-a-feature/Mythic": {
+  "pushed": "2026-10-11"
+ },
+ "ivan-sincek/php-reverse-shell": {
+  "pushed": "2026-02-27"
+ },
+ "j3ssie/Osmedeus": {
+  "pushed": "2026-10-04"
+ },
+ "j3ssie/cdnstrip": {
+  "pushed": "2025-05-06"
+ },
+ "j3ssie/metabigor": {
+  "pushed": "2026-08-08"
+ },
+ "jaiswalakshansh/Vuldroid": {
+  "pushed": "2021-09-18"
+ },
+ "johnnykv/mnemosyne": {
+  "pushed": "2014-05-02"
+ },
+ "jonhadfield/ipscout": {
+  "pushed": "2026-10-10"
+ },
+ "joswr1ght/bss": {
+  "pushed": "2019-04-04"
+ },
+ "joswr1ght/cowpatty": {
+  "pushed": "2018-11-30"
+ },
+ "joswr1ght/killerbee": {
+  "pushed": "2022-07-22"
+ },
+ "joswr1ght/killerzee": {
+  "pushed": "2015-11-10"
+ },
+ "joswr1ght/nm2lp": {
+  "pushed": "2019-07-20"
+ },
+ "joswr1ght/plistsubtractor": {
+  "pushed": "2015-12-27"
+ },
+ "jpr5/ngrep": {
+  "pushed": "2026-02-08"
+ },
+ "jschicht/SetMace": {
+  "pushed": "2014-11-10"
+ },
+ "jseidl/GoldenEye": {
+  "pushed": "2021-01-20"
+ },
+ "k4m4/onioff": {
+  "pushed": "2019-03-16"
+ },
+ "kaikramer/keystore-explorer": {
+  "pushed": "2026-10-10"
+ },
+ "kbandla/dpkt": {
+  "pushed": "2024-05-05"
+ },
+ "kennbroorg/iKy": {
+  "pushed": "2026-07-20"
+ },
+ "kgretzky/evilginx2": {
+  "pushed": "2026-06-10"
+ },
+ "khalilbijjou/wafninja": {
+  "pushed": "2026-08-11"
+ },
+ "kismetwireless/kismet": {
+  "pushed": "2026-10-16"
+ },
+ "kkamagui/bitleaker": {
+  "pushed": "2019-12-02"
+ },
+ "koaj/ffw-content-discovery": {
+  "pushed": "2022-06-14"
+ },
+ "konloch/bytecode-viewer": {
+  "pushed": "2026-07-17"
+ },
+ "kpcyrd/boxxy-rs": {
+  "pushed": "2025-01-23"
+ },
+ "last-byte/PersistenceSniper": {
+  "pushed": "2024-12-11"
+ },
+ "leebaird/discover": {
+  "pushed": "2026-10-16"
+ },
+ "leesoh/np": {
+  "pushed": "2023-08-11"
+ },
+ "libnet/nemesis": {
+  "pushed": "2023-09-29"
+ },
+ "lightbulb-framework/lightbulb-framework": {
+  "pushed": "2020-11-24"
+ },
+ "linkedin/qark": {
+  "pushed": "2019-04-05"
+ },
+ "lixmk/Wiegotcha": {
+  "pushed": "2021-10-25"
+ },
+ "lockfale/osint-framework": {
+  "pushed": "2026-10-10"
+ },
+ "logicalhacking/DVHMA": {
+  "pushed": "2018-08-20"
+ },
+ "m0bilesecurity/RMS-Runtime-Mobile-Security": {
+  "pushed": "2026-07-01"
+ },
+ "maaaaz/androwarn": {
+  "pushed": "2019-05-30"
+ },
+ "madeye/proxydroid": {
+  "pushed": "2026-05-12"
+ },
+ "mandiant/commando-vm": {
+  "pushed": "2025-10-16"
+ },
+ "mansoorr123/GitRoller": {
+  "pushed": "2020-10-06"
+ },
+ "marcoramilli/PhishingKitTracker": {
+  "missing": true
+ },
+ "matamorphosis/Scrummage": {
+  "pushed": "2025-01-02"
+ },
+ "matti644/btmon": {
+  "pushed": "2019-12-12"
+ },
+ "mattnotmax/cyberchef-recipes": {
+  "pushed": "2022-11-06"
+ },
+ "maurosoria/dirsearch": {
+  "pushed": "2026-10-16"
+ },
+ "megadose/holehe": {
+  "pushed": "2024-09-10"
+ },
+ "megadose/toutatis": {
+  "pushed": "2024-12-05"
+ },
+ "meta-llama/PurpleLlama": {
+  "pushed": "2026-10-12"
+ },
+ "mgeeky/ShellcodeFluctuation": {
+  "pushed": "2022-06-17"
+ },
+ "mgeeky/Stracciatella": {
+  "pushed": "2022-06-17"
+ },
+ "michenriksen/gitrob": {
+  "pushed": "2018-07-05"
+ },
+ "microsoft/promptbench": {
+  "pushed": "2024-09-12"
+ },
+ "microsoft/wafbench": {
+  "pushed": "2025-12-10"
+ },
+ "miek/inspectrum": {
+  "pushed": "2025-12-01"
+ },
+ "mikeryan/crackle": {
+  "pushed": "2020-12-12"
+ },
+ "mingyuan-xia/PATDroid": {
+  "pushed": "2017-05-25"
+ },
+ "mitmproxy/mitmproxy": {
+  "pushed": "2026-10-13"
+ },
+ "mitre/caldera": {
+  "pushed": "2026-08-27"
+ },
+ "monolithworks/trueseeing": {
+  "pushed": "2024-02-16"
+ },
+ "monzo/response": {
+  "pushed": "2021-06-08"
+ },
+ "mpast/mobileAudit": {
+  "pushed": "2026-10-08"
+ },
+ "mschwager/fierce": {
+  "pushed": "2024-08-28"
+ },
+ "mubix/pykek": {
+  "pushed": "2014-12-05"
+ },
+ "musana/mx-takeover": {
+  "pushed": "2023-07-17"
+ },
+ "mushorg/snare": {
+  "pushed": "2024-06-10"
+ },
+ "mushorg/tanner": {
+  "pushed": "2024-06-10"
+ },
+ "mzet-/linux-exploit-suggester": {
+  "pushed": "2026-03-20"
+ },
+ "mzfr/liffy": {
+  "pushed": "2026-05-12"
+ },
+ "n1nj4sec/pupy": {
+  "pushed": "2024-02-06"
+ },
+ "nabla-c0d3/ssl-kill-switch2": {
+  "pushed": "2021-03-28"
+ },
+ "nayuki/Macshift": {
+  "pushed": "2022-11-03"
+ },
+ "nbs-system/naxsi": {
+  "pushed": "2023-11-08"
+ },
+ "nccgroup/BLESuite": {
+  "pushed": "2019-05-04"
+ },
+ "nccgroup/SCOMDecrypt": {
+  "pushed": "2022-10-06"
+ },
+ "nccgroup/ScoutSuite": {
+  "pushed": "2024-05-10"
+ },
+ "nccgroup/azucar": {
+  "pushed": "2022-11-04"
+ },
+ "nccgroup/dirble": {
+  "pushed": "2025-03-30"
+ },
+ "nccgroup/house": {
+  "pushed": "2020-12-27"
+ },
+ "nccgroup/redsnarf": {
+  "pushed": "2017-08-22"
+ },
+ "ndejong/phishing-tracker": {
+  "pushed": "2020-10-06"
+ },
+ "ne0z/DamnVulnerableMicroServices": {
+  "pushed": "2020-11-15"
+ },
+ "neoneggplant/EggShell": {
+  "pushed": "2018-09-24"
+ },
+ "nettitude/PoshC2": {
+  "pushed": "2025-06-21"
+ },
+ "nfc-tools/libnfc": {
+  "pushed": "2025-03-05"
+ },
+ "nfc-tools/mfcuk": {
+  "pushed": "2018-07-14"
+ },
+ "nfc-tools/mfoc": {
+  "pushed": "2023-11-15"
+ },
+ "nfcgate/nfcgate": {
+  "pushed": "2026-07-20"
+ },
+ "nidem/kerberoast": {
+  "pushed": "2022-12-31"
+ },
+ "nielsing/yar": {
+  "pushed": "2020-05-19"
+ },
+ "nil0x42/phpsploit": {
+  "pushed": "2024-03-29"
+ },
+ "nmap/nmap": {
+  "pushed": "2026-10-15"
+ },
+ "noveogroup/android-check": {
+  "pushed": "2017-09-29"
+ },
+ "novoda/gradle-static-analysis-plugin": {
+  "pushed": "2022-02-11"
+ },
+ "obsidianforensics/hindsight": {
+  "pushed": "2026-10-01"
+ },
+ "ofalk/libdnet": {
+  "pushed": "2026-09-18"
+ },
+ "openwall/john": {
+  "pushed": "2026-10-11"
+ },
+ "opnsense/core": {
+  "pushed": "2026-10-16"
+ },
+ "oryon-osint/querytool": {
+  "pushed": "2026-08-14"
+ },
+ "osmocom/gr-fosphor": {
+  "pushed": "2024-03-23"
+ },
+ "oversecured/ovaa": {
+  "pushed": "2026-09-29"
+ },
+ "p0pr0ck5/lua-resty-waf": {
+  "pushed": "2021-10-06"
+ },
+ "palera1n/palera1n": {
+  "pushed": "2026-07-27"
+ },
+ "pavelyazev/gr-dect2": {
+  "pushed": "2025-03-16"
+ },
+ "peass-ng/PEASS-ng": {
+  "pushed": "2026-10-17"
+ },
+ "pentestgeek/phishing-frenzy": {
+  "pushed": "2023-11-07"
+ },
+ "pfsense/pfsense": {
+  "pushed": "2026-03-31"
+ },
+ "pmd/pmd": {
+  "pushed": "2026-10-15"
+ },
+ "praetorian-inc/pentestly": {
+  "pushed": "2016-02-22"
+ },
+ "privacytrustlab/ml_privacy_meter": {
+  "pushed": "2025-04-26"
+ },
+ "projectdiscovery/chaos-client": {
+  "pushed": "2024-04-22"
+ },
+ "projectdiscovery/dnsx": {
+  "pushed": "2026-10-12"
+ },
+ "projectdiscovery/httpx": {
+  "pushed": "2026-10-10"
+ },
+ "projectdiscovery/naabu": {
+  "pushed": "2026-10-13"
+ },
+ "projectdiscovery/nuclei": {
+  "pushed": "2026-10-14"
+ },
+ "projectdiscovery/subfinder": {
+  "pushed": "2026-10-08"
+ },
+ "protectai/llm-guard": {
+  "pushed": "2026-07-08"
+ },
+ "pwndbg/pwndbg": {
+  "pushed": "2026-10-12"
+ },
+ "pwnlandia/mhn": {
+  "pushed": "2023-12-13"
+ },
+ "qeeqbox/social-analyzer": {
+  "pushed": "2026-01-12"
+ },
+ "quark-engine/quark-engine": {
+  "pushed": "2026-10-08"
+ },
+ "quay/clair": {
+  "pushed": "2026-09-29"
+ },
+ "r-pai/go-gitaudit": {
+  "pushed": "2020-02-03"
+ },
+ "r3nt0n/wiper": {
+  "pushed": "2023-01-16"
+ },
+ "rabbitstack/fibratus": {
+  "pushed": "2026-09-28"
+ },
+ "radareorg/radare2": {
+  "pushed": "2026-10-16"
+ },
+ "redcode-labs/AirStrike": {
+  "pushed": "2021-12-22"
+ },
+ "redcode-labs/Coldfire": {
+  "pushed": "2024-12-13"
+ },
+ "redcode-labs/GoSH": {
+  "pushed": "2022-01-03"
+ },
+ "redcode-labs/GodSpeed": {
+  "pushed": "2021-08-27"
+ },
+ "redcode-labs/Neurax": {
+  "pushed": "2023-11-23"
+ },
+ "redcode-labs/RedNix": {
+  "pushed": "2026-10-16"
+ },
+ "redcode-labs/UnChain": {
+  "pushed": "2025-01-01"
+ },
+ "redcode-labs/YAS": {
+  "pushed": "2021-06-12"
+ },
+ "redcode-labs/easyWSL": {
+  "pushed": "2024-11-17"
+ },
+ "redhuntlabs/httploot": {
+  "pushed": "2025-01-22"
+ },
+ "resyncgg/armada": {
+  "pushed": "2024-03-02"
+ },
+ "rizinorg/cutter": {
+  "pushed": "2026-09-11"
+ },
+ "robertdavidgraham/masscan": {
+  "pushed": "2026-10-05"
+ },
+ "roottusk/vapi": {
+  "pushed": "2025-01-10"
+ },
+ "ropnop/xxetimes": {
+  "pushed": "2017-05-31"
+ },
+ "rsmusllp/king-phisher": {
+  "pushed": "2026-04-30"
+ },
+ "s-rah/onionscan": {
+  "pushed": "2017-02-25"
+ },
+ "s0md3v/Arjun": {
+  "pushed": "2025-02-20"
+ },
+ "s0md3v/Bolt": {
+  "pushed": "2022-02-07"
+ },
+ "s0md3v/Corsy": {
+  "pushed": "2021-11-20"
+ },
+ "s0md3v/Diggy": {
+  "pushed": "2019-11-13"
+ },
+ "s0md3v/JShell": {
+  "pushed": "2019-05-05"
+ },
+ "s0md3v/Orbit": {
+  "pushed": "2019-07-26"
+ },
+ "s0md3v/Photon": {
+  "pushed": "2026-09-04"
+ },
+ "s0md3v/Predator": {
+  "pushed": "2021-03-18"
+ },
+ "s0md3v/ReconDog": {
+  "pushed": "2019-05-05"
+ },
+ "s0md3v/Silver": {
+  "pushed": "2026-04-26"
+ },
+ "s0md3v/Striker": {
+  "pushed": "2019-07-10"
+ },
+ "s0md3v/XSStrike": {
+  "pushed": "2025-04-26"
+ },
+ "s0md3v/hardcodes": {
+  "pushed": "2020-09-05"
+ },
+ "s4vitar/rpcenum": {
+  "pushed": "2020-06-02"
+ },
+ "sahilchaddha/rudyjs": {
+  "pushed": "2018-05-19"
+ },
+ "salesforce/cloudsplaining": {
+  "pushed": "2026-10-13"
+ },
+ "savio-code/ghost-phisher": {
+  "pushed": "2017-09-07"
+ },
+ "searx/searx": {
+  "pushed": "2026-05-14"
+ },
+ "secdev/scapy": {
+  "pushed": "2026-10-11"
+ },
+ "secretflow/secretflow": {
+  "pushed": "2025-11-13"
+ },
+ "secure-software-engineering/FlowDroid": {
+  "pushed": "2026-09-28"
+ },
+ "sensepost/DET": {
+  "pushed": "2017-11-03"
+ },
+ "sensepost/ruler": {
+  "pushed": "2024-06-10"
+ },
+ "sharkdp/hexyl": {
+  "pushed": "2026-04-30"
+ },
+ "sherlock-project/sherlock": {
+  "pushed": "2026-09-26"
+ },
+ "shieldfy/API-Security-Checklist": {
+  "pushed": "2026-07-21"
+ },
+ "shmilylty/OneForAll": {
+  "pushed": "2026-05-11"
+ },
+ "signalapp/Signal-Desktop": {
+  "pushed": "2026-10-15"
+ },
+ "signedsecurity/sigurlfind3r": {
+  "pushed": "2025-11-17"
+ },
+ "sjbell/phishalytics": {
+  "pushed": "2021-06-25"
+ },
+ "skylot/jadx": {
+  "pushed": "2026-10-14"
+ },
+ "sleuthkit/sleuthkit": {
+  "pushed": "2026-10-14"
+ },
+ "snipe/snipe-it": {
+  "pushed": "2026-10-17"
+ },
+ "snoopysecurity/dvws-node": {
+  "pushed": "2026-09-07"
+ },
+ "snort3/snort3": {
+  "pushed": "2026-04-23"
+ },
+ "soot-oss/soot": {
+  "pushed": "2026-10-12"
+ },
+ "sophos-ai/SOREL-20M": {
+  "pushed": "2021-04-07"
+ },
+ "sqlmapproject/sqlmap": {
+  "pushed": "2026-10-16"
+ },
+ "sshock/AFFLIBv3": {
+  "pushed": "2026-05-15"
+ },
+ "stamparm/identywaf": {
+  "pushed": "2026-09-10"
+ },
+ "stefanesser/dumpdecrypted": {
+  "pushed": "2014-02-13"
+ },
+ "steve-m/kalibrate-rtl": {
+  "pushed": "2022-02-01"
+ },
+ "t6x/reaver-wps-fork-t6x": {
+  "pushed": "2025-10-31"
+ },
+ "tarcisio-marinho/GonnaCry": {
+  "pushed": "2025-01-24"
+ },
+ "tatanus/SPF": {
+  "pushed": "2019-08-08"
+ },
+ "teamdfir/sift": {
+  "pushed": "2024-02-14"
+ },
+ "telegramdesktop/tdesktop": {
+  "pushed": "2026-10-15"
+ },
+ "the-tcpdump-group/tcpdump": {
+  "pushed": "2026-10-14"
+ },
+ "thereisnotime/xxUSBSentinel": {
+  "pushed": "2026-06-02"
+ },
+ "thewhiteh4t/FinalRecon": {
+  "pushed": "2026-06-01"
+ },
+ "thierryzoller/BTcrack": {
+  "pushed": "2019-05-24"
+ },
+ "tihanyin/Simple-Reverse-Shell": {
+  "pushed": "2021-12-19"
+ },
+ "tls-attacker/TLS-Scanner": {
+  "pushed": "2026-09-28"
+ },
+ "tmate-io/tmate": {
+  "pushed": "2026-10-06"
+ },
+ "tomac/yersinia": {
+  "pushed": "2022-11-19"
+ },
+ "tomnomnom/assetfinder": {
+  "pushed": "2020-04-15"
+ },
+ "toniblyx/prowler": {
+  "pushed": "2026-10-16"
+ },
+ "topjohnwu/Magisk": {
+  "pushed": "2026-10-16"
+ },
+ "travisgoodspeed/goodfet": {
+  "pushed": "2025-03-03"
+ },
+ "trickest/dsieve": {
+  "pushed": "2023-09-25"
+ },
+ "trufflesecurity/truffleHog": {
+  "pushed": "2026-10-16"
+ },
+ "trustedsec/social-engineer-toolkit": {
+  "pushed": "2026-06-04"
+ },
+ "trustedsec/trevorc2": {
+  "pushed": "2022-01-31"
+ },
+ "typetools/sparta": {
+  "pushed": "2018-11-29"
+ },
+ "usdAG/slipit": {
+  "pushed": "2022-08-29"
+ },
+ "utiso/dorkbot": {
+  "pushed": "2026-09-14"
+ },
+ "utkusen/promptmap": {
+  "pushed": "2025-12-01"
+ },
+ "vaibhavpandeyvpz/apkstudio": {
+  "pushed": "2026-01-05"
+ },
+ "vanhauser-thc/thc-hydra": {
+  "pushed": "2026-07-30"
+ },
+ "vanhoefm/krackattacks-scripts": {
+  "pushed": "2024-12-25"
+ },
+ "vincentcox/StaCoAn": {
+  "pushed": "2021-02-26"
+ },
+ "vincentcox/bypass-firewalls-by-DNS-history": {
+  "pushed": "2020-09-29"
+ },
+ "vpn/SMSSpoof": {
+  "pushed": "2021-11-17"
+ },
+ "vxunderground/MalwareSourceCode": {
+  "pushed": "2026-05-30"
+ },
+ "vyos/vyos-build": {
+  "pushed": "2026-10-13"
+ },
+ "wallarm/gotestwaf": {
+  "pushed": "2026-09-25"
+ },
+ "wazuh/wazuh": {
+  "pushed": "2026-10-16"
+ },
+ "webbreacher/whatsmyname": {
+  "pushed": "2026-10-15"
+ },
+ "wifiphisher/wifiphisher": {
+  "pushed": "2026-05-22"
+ },
+ "wiire-a/pixiewps": {
+  "pushed": "2026-04-17"
+ },
+ "winterknife/PINKPANTHER": {
+  "pushed": "2023-01-04"
+ },
+ "wireghoul/dotdotpwn": {
+  "pushed": "2022-09-28"
+ },
+ "wpscanteam/wpscan": {
+  "pushed": "2026-09-28"
+ },
+ "x64dbg/x64dbg": {
+  "pushed": "2026-10-09"
+ },
+ "xchwarze/Cain": {
+  "pushed": "2026-10-01"
+ },
+ "xnl-h4ck3r/xnLinkFinder": {
+  "pushed": "2026-03-08"
+ },
+ "xtr4nge/FruityWifi": {
+  "pushed": "2021-12-18"
+ },
+ "xtr4nge/giskismet": {
+  "pushed": "2016-08-26"
+ },
+ "yampelo/beagle": {
+  "pushed": "2019-12-03"
+ },
+ "ytisf/PyExfil": {
+  "pushed": "2026-06-23"
+ },
+ "ytisf/theZoo": {
+  "pushed": "2026-09-14"
+ },
+ "zabbix/zabbix": {
+  "pushed": "2026-10-16"
+ }
+}

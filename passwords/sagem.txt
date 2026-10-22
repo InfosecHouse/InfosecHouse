@@ -1,4 +1,0 @@
-USERNAME : PASSWORD
-Menara : Menara
-admin : admin
-root : 1234

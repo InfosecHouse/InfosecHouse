@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-anonymous : any
-anonymous : any@

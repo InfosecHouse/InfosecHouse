@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-ARAdmin : AR#Admin#
-Demo : <blank>

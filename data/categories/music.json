@@ -1,0 +1,97 @@
+{
+  "slug": "music",
+  "title": "Music",
+  "description": "Kick back, relax, and enjoy some entertainment.",
+  "sections": [
+    {
+      "title": "Nerdcore/Hackercore Music",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "Beefy",
+              "url": "https://www.youtube.com/c/Beefy/videos"
+            },
+            {
+              "name": "Dual Core",
+              "url": "https://www.youtube.com/user/dualcoremusic"
+            },
+            {
+              "name": "FreqyXin",
+              "url": "https://soundcloud.com/freqyxin"
+            },
+            {
+              "name": "HGC",
+              "url": "https://soundcloud.com/888hgc"
+            },
+            {
+              "name": "intEighty",
+              "url": "https://www.youtube.com/@inteighty3577"
+            },
+            {
+              "name": "Lex the Lexicon Artist",
+              "url": "https://www.youtube.com/c/TheLexiconArtist"
+            },
+            {
+              "name": "MC Frontalot",
+              "url": "https://www.youtube.com/c/MCFrontalotOFFICIAL"
+            },
+            {
+              "name": "MC Lars",
+              "url": "https://www.youtube.com/c/horrisrecords"
+            },
+            {
+              "name": "Mega Ran",
+              "url": "https://www.youtube.com/c/megaran"
+            },
+            {
+              "name": "Mikal Khill",
+              "url": "https://mikalkhill.bandcamp.com"
+            },
+            {
+              "name": "Scheffer the Dark Lord",
+              "url": "https://schafferthedarklord.bandcamp.com"
+            },
+            {
+              "name": "Sulfur",
+              "url": "https://www.youtube.com/@sulfurmusic",
+              "links": [
+                {
+                  "label": "YouTube",
+                  "url": "https://www.youtube.com/@sulfurmusic"
+                },
+                {
+                  "label": "BandCamp",
+                  "url": "https://sulfur.bandcamp.com/"
+                }
+              ]
+            },
+            {
+              "name": "Though Criminals",
+              "url": "https://www.youtube.com/@thinkcriminally"
+            },
+            {
+              "name": "YTCracker",
+              "url": "https://soundcloud.com/ytcracker",
+              "links": [
+                {
+                  "label": "SoundCloud",
+                  "url": "https://soundcloud.com/ytcracker"
+                },
+                {
+                  "label": "YouTube",
+                  "url": "https://www.youtube.com/@realytcracker"
+                }
+              ]
+            },
+            {
+              "name": "Yung Innanet",
+              "url": "https://soundcloud.com/queed-inc"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

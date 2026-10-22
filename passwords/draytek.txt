@@ -1,6 +1,0 @@
-USERNAME : PASSWORD
-Draytek : 1234
-admin : <blank>
-admin : admin
-draytek : 1234
-admin : <blank>

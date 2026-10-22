@@ -1,15 +1,82 @@
-# General
+# ---- Infosec House build artifacts ----
+dist/
+
+# ---- Secrets / credentials / tokens (never commit these) ----
+.env
+.env.*
+!.env.example
+*.local
+secrets.*
+.secrets/
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+id_rsa
+id_ed25519
+.netrc
+.npmrc
+.pypirc
+credentials.json
+token.json
+*.token
+auth.json
+.github_token
+gh-token*
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+*.egg-info/
+.coverage
+htmlcov/
+
+# ---- Node / tooling (if ever used) ----
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnp.*
+.cache/
+
+# ---- Logs & temp ----
+*.log
+tmp/
+temp/
+*.tmp
+*.bak
+
+# ---- Editors / IDEs ----
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+.project
+.settings/
+*.swp
+*.swo
+*.swn
+.*.sw?
+*~
+
+# ---- macOS ----
 .DS_Store
 .AppleDouble
 .LSOverride
-
-# Icon must end with two \r
 Icon
-
-# Thumbnails
 ._*
-
-# Files that might appear in the root of a volume
 .DocumentRevisions-V100
 .fseventsd
 .Spotlight-V100
@@ -17,46 +84,33 @@ Icon
 .Trashes
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
-
-# Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
 Network Trash Folder
 Temporary Items
 .apdisk
 
-# Windows thumbnail cache files
+# ---- Windows ----
 Thumbs.db
 Thumbs.db:encryptable
 ehthumbs.db
 ehthumbs_vista.db
-
-# Dump file
 *.stackdump
-
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
+[Dd]esktop.ini
 $RECYCLE.BIN/
-
-# Windows Installer files
 *.cab
 *.msi
 *.msix
 *.msm
 *.msp
-
-# Windows shortcuts
 *.lnk
 
-# VSCodium/VSCode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-*.code-workspace
+# ---- Linux ----
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
 
-# Local History for Visual Studio Code
-.history/
+# ---- Claude Code / local agent config ----
+.claude/settings.local.json
+.claude/*.local.json

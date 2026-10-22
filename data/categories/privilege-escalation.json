@@ -1,0 +1,51 @@
+{
+  "slug": "privilege-escalation",
+  "title": "Privilege Escalation",
+  "description": "Go from limited access to full control. Escalate your privileges on Linux, macOS, and Windows.",
+  "sections": [
+    {
+      "title": "Linux",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "LinPEAS",
+              "url": "https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS",
+              "description": "A script that searches for possible paths to escalate privileges on Linux/Unix* hosts.",
+              "repo": "peass-ng/PEASS-ng",
+              "also": [
+                "MacOS"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "MacOS",
+      "groups": [
+        {
+          "title": "",
+          "tools": []
+        }
+      ]
+    },
+    {
+      "title": "Windows",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "PinkPanther",
+              "url": "https://github.com/winterknife/PINKPANTHER",
+              "description": "Windows x64 handcrafted token stealing kernel-mode shellcode.",
+              "repo": "winterknife/PINKPANTHER"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

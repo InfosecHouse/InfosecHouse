@@ -1,0 +1,205 @@
+{
+  "slug": "re",
+  "title": "Reverse Engineering",
+  "description": "Reverse engineering tools that both offensive and defensive operations can utilize.",
+  "sections": [
+    {
+      "title": "Binary Analysis",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "Angr",
+              "url": "https://github.com/angr/angr",
+              "description": "A powerful and user-friendly binary analysis platform.",
+              "repo": "angr/angr"
+            },
+            {
+              "name": "Detect It Easy - DiE",
+              "url": "https://github.com/horsicq/Detect-It-Easy",
+              "description": "Program for determining types of files for Windows, Linux and MacOS.",
+              "repo": "horsicq/Detect-It-Easy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Debugger",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "edb-debugger",
+              "url": "https://github.com/eteran/edb-debugger",
+              "description": "edb is a cross-platform AArch32/x86/x86-64 debugger.",
+              "repo": "eteran/edb-debugger"
+            },
+            {
+              "name": "OllyDbg",
+              "url": "https://www.ollydbg.de/",
+              "description": "32-bit assembler level analysing debugger for Microsoft Windows."
+            },
+            {
+              "name": "pwndbg",
+              "url": "https://github.com/pwndbg/pwndbg",
+              "description": "Exploit Development and Reverse Engineering with GDB Made Easy.",
+              "repo": "pwndbg/pwndbg"
+            },
+            {
+              "name": "x64dbg",
+              "url": "https://github.com/x64dbg/x64dbg",
+              "description": "An open-source x64/x32 debugger for windows.",
+              "repo": "x64dbg/x64dbg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Frameworks",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "Capstone",
+              "url": "https://github.com/capstone-engine/capstone",
+              "description": "Free book containing layouts of connectors, single board computers, dev boards, memory cards, microcontroller chips, and more.",
+              "repo": "capstone-engine/capstone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hardware",
+      "groups": [
+        {
+          "title": "",
+          "tools": []
+        }
+      ]
+    },
+    {
+      "title": "Mobile",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "Androguard",
+              "url": "https://github.com/androguard/androguard",
+              "description": "Reverse engineering, Malware and goodware analysis of Android applications.",
+              "repo": "androguard/androguard"
+            },
+            {
+              "name": "Koodous",
+              "url": "https://koodous.com/",
+              "description": "A collaborative platform that combines the power of online analysis tools with social interactions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sandbox",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "Boxxy",
+              "url": "https://github.com/kpcyrd/boxxy-rs",
+              "description": "Linkable sandbox explorer.",
+              "repo": "kpcyrd/boxxy-rs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tools",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "Binwalk",
+              "url": "https://github.com/ReFirmLabs/binwalk",
+              "description": "Tool for analyzing, reverse engineering, and extracting firmware images.",
+              "repo": "ReFirmLabs/binwalk"
+            },
+            {
+              "name": "Cutter",
+              "url": "https://github.com/rizinorg/cutter",
+              "description": "Free and Open Source Reverse Engineering Platform.",
+              "repo": "rizinorg/cutter"
+            },
+            {
+              "name": "Compiler Explorer",
+              "url": "https://github.com/compiler-explorer/compiler-explorer",
+              "description": "Run compilers interactively from your web browser and interact with the assembly.",
+              "repo": "compiler-explorer/compiler-explorer"
+            },
+            {
+              "name": "Ghidra",
+              "url": "https://github.com/NationalSecurityAgency/ghidra",
+              "description": "Ghidra is a software reverse engineering (SRE) framework.",
+              "repo": "NationalSecurityAgency/ghidra"
+            },
+            {
+              "name": "Hopper",
+              "url": "https://www.hopperapp.com/",
+              "description": "RE tool for Mac and Linux, that lets you disassemble, decompile and debug your 32bits and 64bits executables."
+            },
+            {
+              "name": "IDA Pro",
+              "url": "https://hex-rays.com/",
+              "description": "State of the art binary code analysis."
+            },
+            {
+              "name": "radare2",
+              "url": "https://github.com/radareorg/radare2",
+              "description": "UNIX-like reverse engineering framework and command-line toolset.",
+              "repo": "radareorg/radare2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "UEFI",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "UEFITool",
+              "url": "https://github.com/LongSoft/UEFITool",
+              "description": "UEFI firmware image viewer and editor.",
+              "repo": "LongSoft/UEFITool"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Videos",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "Ghidra Class - HackadayU",
+              "url": "https://www.youtube.com/watch?v=d4Pgi5XML8E",
+              "description": "This is Class 1 in Reverse Engineering with Ghidra taught by Matthew Alt."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

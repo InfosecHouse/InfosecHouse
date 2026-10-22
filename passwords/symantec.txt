@@ -1,6 +1,0 @@
-USERNAME : PASSWORD
-(none) : admin
-<blank> : symantec
-admin : <blank>
-admin : symantec
-root : brightmail

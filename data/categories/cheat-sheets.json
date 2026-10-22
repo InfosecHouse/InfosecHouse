@@ -1,0 +1,97 @@
+{
+  "slug": "cheat-sheets",
+  "title": "Cheat Sheets",
+  "description": "Quick-reference cheat sheets for offensive and defensive security work.",
+  "sections": [
+    {
+      "title": "API",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "API Security Checklist",
+              "url": "https://github.com/shieldfy/API-Security-Checklist",
+              "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API.",
+              "repo": "shieldfy/API-Security-Checklist"
+            },
+            {
+              "name": "GraphQL OWASP",
+              "url": "https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html",
+              "description": "OWASP GraphQL cheat sheet."
+            },
+            {
+              "name": "Microservices OWASP",
+              "url": "https://cheatsheetseries.owasp.org/cheatsheets/Microservices_security.html",
+              "description": "Microservices Security."
+            },
+            {
+              "name": "OWASP API Top 10",
+              "url": "https://apisecurity.io/encyclopedia/content/owasp-api-security-top-10-cheat-sheet-a4.pdf",
+              "description": "OWASP API security Top 10."
+            },
+            {
+              "name": "REST Security OWASP",
+              "url": "https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html",
+              "description": "OWASP REST security cheat sheet."
+            },
+            {
+              "name": "REST Assessment OWASP",
+              "url": "https://cheatsheetseries.owasp.org/cheatsheets/REST_Assessment_Cheat_Sheet.html",
+              "description": "OWASP REST assessment cheat sheet."
+            },
+            {
+              "name": "Web API Pentesting",
+              "url": "https://book.hacktricks.xyz/pentesting/pentesting-web/web-api-pentesting",
+              "description": "Web API pentesting GitBook."
+            }
+          ]
+        },
+        {
+          "title": "Defensive Security",
+          "tools": [
+            {
+              "name": "AD Killchain Attack & Defense",
+              "url": "https://github.com/infosecn1nja/AD-Attack-Defense",
+              "description": "Attack and defend active directory using modern post exploitation adversary tradecraft activity.",
+              "repo": "infosecn1nja/AD-Attack-Defense"
+            }
+          ]
+        },
+        {
+          "title": "Offensive Security",
+          "tools": [
+            {
+              "name": "Active Directory",
+              "url": "https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet",
+              "description": "A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.",
+              "repo": "S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet"
+            },
+            {
+              "name": "Binary Exploitation",
+              "url": "https://ir0nstone.gitbook.io/notes/",
+              "description": "Notes on binary exploitation."
+            },
+            {
+              "name": "OWASP Cheat Sheet Series",
+              "url": "https://github.com/OWASP/CheatSheetSeries",
+              "description": "Collection of high value information on specific application security topics.",
+              "repo": "OWASP/CheatSheetSeries"
+            },
+            {
+              "name": "Red Teaming Experiments",
+              "url": "https://www.ired.team/",
+              "description": "Various red teaming cheatsheets."
+            },
+            {
+              "name": "The Hacker Recipes",
+              "url": "https://github.com/ShutdownRepo/The-Hacker-Recipes",
+              "description": "Project is aimed at providing technical guides on various hacking topics.",
+              "repo": "ShutdownRepo/The-Hacker-Recipes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

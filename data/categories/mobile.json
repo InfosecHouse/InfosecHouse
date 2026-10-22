@@ -1,0 +1,703 @@
+{
+  "slug": "mobile",
+  "title": "Mobile",
+  "description": "Root it, jailbreak it, break it. Tools for attacking and defending mobile applications.",
+  "sections": [
+    {
+      "title": "Defensive Security",
+      "groups": [
+        {
+          "title": "Source Code Obfuscation",
+          "tools": [
+            {
+              "name": "DexGuard",
+              "url": "https://www.guardsquare.com/dexguard",
+              "description": "The full spectrum of protection for Android apps."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Jailbreaking & Rooting",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "canijailbreak",
+              "url": "https://canijailbreak.com/",
+              "description": "A website which tells you whether you can jailbreak your iOS device."
+            },
+            {
+              "name": "Checkra1n",
+              "url": "https://checkra.in/",
+              "description": "Jailbreak for iPhone 5s through iPhone X, iOS 12.0 and up."
+            },
+            {
+              "name": "Chimera",
+              "url": "https://chimera.coolstar.org/",
+              "description": "iOS 12 jailbreak to not only feature a CoreTrust bypass so that binaries don't need to be resigned, but to also support A12 devices, including iPhone Xs, iPhone Xr, and the newest iPads."
+            },
+            {
+              "name": "Double H3lix",
+              "url": "https://doubleh3lix.tihmstar.net/",
+              "description": "Jailbreak for 64-bit 10.x devices."
+            },
+            {
+              "name": "Etason",
+              "url": "https://etasonjb.tihmstar.net/",
+              "description": "Jailbreak for all devices running iOS 8.4.1 32 bit."
+            },
+            {
+              "name": "H3lix",
+              "url": "https://h3lix.tihmstar.net/",
+              "description": "Jailbreak for 32-bit 10.x devices."
+            },
+            {
+              "name": "Home Depot",
+              "url": "https://wall.supplies/",
+              "description": "Jailbreak for iOS 9.x devices."
+            },
+            {
+              "name": "IPSW",
+              "url": "https://ipsw.me/",
+              "description": "Download current and previous versions of Apple's iOS, iPadOS, watchOS, tvOS and audioOS firmware and receive notifications when new firmwares are released."
+            },
+            {
+              "name": "Magisk",
+              "url": "https://github.com/topjohnwu/Magisk",
+              "description": "Magisk is a suite of open source software for customizing Android, supporting devices higher than Android 5.0.",
+              "repo": "topjohnwu/Magisk"
+            },
+            {
+              "name": "Palra1n",
+              "url": "https://github.com/palera1n/palera1n",
+              "description": "Jailbreak for arm64 devices on iOS 15.0+.",
+              "repo": "palera1n/palera1n"
+            },
+            {
+              "name": "Phoenix",
+              "url": "https://phoenixpwn.com/",
+              "description": "Semi-untethered jailbreak for 9.3.5-9.3.6. All 32-bit devices supported."
+            },
+            {
+              "name": "p0sixspwn",
+              "url": "https://ih8sn0w.com/p0sixspwn.html",
+              "description": "iOS Jailbreak for 6.1.X."
+            },
+            {
+              "name": "redsn0w",
+              "url": "https://ipsw.me/iPhoneDev",
+              "description": "Jailbreak for iOS 3-5."
+            },
+            {
+              "name": "unc0ver",
+              "url": "https://unc0ver.dev/",
+              "description": "A jail​break tool."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Offensive Security",
+      "groups": [
+        {
+          "title": "App/File Management",
+          "tools": [
+            {
+              "name": "adb",
+              "url": "https://source.android.com/setup/build/adb",
+              "description": "Allows you to install packages and evaluate your changes."
+            },
+            {
+              "name": "Airdroid",
+              "url": "https://www.airdroid.com/en/pricing/airdroid-personal/",
+              "description": "Transfer files across devices, remote control Android devices, mirror screen, and manage SMS & notification on computer."
+            },
+            {
+              "name": "Android File Transfer",
+              "url": "https://www.android.com/filetransfer/",
+              "description": "Browse and transfer files between your Mac computer and your Android device."
+            },
+            {
+              "name": "iExplorer",
+              "url": "https://macroplant.com/iexplorer",
+              "description": "Transfers music, messages, photos, files and everything else."
+            },
+            {
+              "name": "iFunbox",
+              "url": "https://www.i-funbox.com/en/index.html",
+              "description": "General file management software for iPhone and other Apple products."
+            },
+            {
+              "name": "iMazing",
+              "url": "https://imazing.com/",
+              "description": "Powerful user-friendly iOS device manager for Mac and PC."
+            }
+          ]
+        },
+        {
+          "title": "Bug Bounty Reports",
+          "tools": [
+            {
+              "name": "Android Reports & Reports",
+              "url": "https://github.com/B3nac/Android-Reports-and-Resources",
+              "description": "Android reports and resources.",
+              "repo": "B3nac/Android-Reports-and-Resources"
+            }
+          ]
+        },
+        {
+          "title": "Dynamic Analysis",
+          "tools": [
+            {
+              "name": "Bytecode Viewer",
+              "url": "https://github.com/konloch/bytecode-viewer",
+              "description": "A lightweight user friendly Java Bytecode Viewer.",
+              "repo": "konloch/bytecode-viewer"
+            },
+            {
+              "name": "CuckooDroid",
+              "url": "https://github.com/idanr1986/cuckoo-droid",
+              "description": "Automated Android Malware Analysis with Cuckoo Sandbox.",
+              "repo": "idanr1986/cuckoo-droid"
+            },
+            {
+              "name": "DECAF",
+              "url": "https://github.com/decaf-project/DECAF",
+              "description": "DECAF (short for Dynamic Executable Code Analysis Framework) is a binary analysis platform based on QEMU.",
+              "repo": "decaf-project/DECAF"
+            },
+            {
+              "name": "Diggy",
+              "url": "https://github.com/s0md3v/Diggy",
+              "description": "Extract endpoints from apk files.",
+              "repo": "s0md3v/Diggy"
+            },
+            {
+              "name": "Droid-FF",
+              "url": "https://github.com/antojoseph/droid-ff",
+              "description": "The android fuzzing framework.",
+              "repo": "antojoseph/droid-ff"
+            },
+            {
+              "name": "Drozer",
+              "url": "https://github.com/FSecureLABS/drozer",
+              "description": "Security testing framework for Android.",
+              "repo": "FSecureLABS/drozer"
+            },
+            {
+              "name": "Frida",
+              "url": "https://github.com/frida/frida",
+              "description": "Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.",
+              "repo": "frida/frida"
+            },
+            {
+              "name": "Hooker",
+              "url": "https://github.com/AndroidHooker/hooker",
+              "description": "Provides various tools and applications that can be use to automatically intercept and modify any API calls.",
+              "repo": "AndroidHooker/hooker"
+            },
+            {
+              "name": "House",
+              "url": "https://github.com/nccgroup/house",
+              "description": "A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.",
+              "repo": "nccgroup/house"
+            },
+            {
+              "name": "Inspeckage",
+              "url": "https://github.com/ac-pm/Inspeckage",
+              "description": "Tool developed to offer dynamic analysis of Android applications.",
+              "repo": "ac-pm/Inspeckage"
+            },
+            {
+              "name": "MobSF",
+              "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+              "description": "An automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework.",
+              "repo": "MobSF/Mobile-Security-Framework-MobSF"
+            },
+            {
+              "name": "PATDroid",
+              "url": "https://github.com/mingyuan-xia/PATDroid",
+              "description": "A collection of tools and data structures for analyzing Android applications and the system itself.",
+              "repo": "mingyuan-xia/PATDroid"
+            },
+            {
+              "name": "ProbeDroid",
+              "url": "https://github.com/ZSShen/ProbeDroid",
+              "description": "A dynamic Java code instrumentation for Android apps. Provides APIs for users to craft their own instrumentation tools.",
+              "repo": "ZSShen/ProbeDroid"
+            },
+            {
+              "name": "Runtime Mobile Security (RMS)",
+              "url": "https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security",
+              "description": "Powered by FRIDA a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime.",
+              "repo": "m0bilesecurity/RMS-Runtime-Mobile-Security"
+            }
+          ]
+        },
+        {
+          "title": "Flashing/Sideloading",
+          "tools": [
+            {
+              "name": "Cydia Impactor",
+              "url": "https://www.cydiaimpactor.com/",
+              "description": "Use this tool to install IPA files on iOS and APK files on Android."
+            },
+            {
+              "name": "Odin",
+              "url": "https://odindownload.com/",
+              "description": "Used to flash a custom recovery firmware image to a Samsung Android device."
+            }
+          ]
+        },
+        {
+          "title": "Guides & References",
+          "tools": [
+            {
+              "name": "Android Application Penetration Testing Checklist",
+              "url": "https://www.xmind.net/m/GkgaYH/#",
+              "description": "Android pentesting checklist mindmap."
+            },
+            {
+              "name": "iOS Pentesting",
+              "url": "https://www.mindmeister.com/1713501700/ios-pentesting?fullscreen=1",
+              "description": "iOS pentesting mindmap."
+            }
+          ]
+        },
+        {
+          "title": "Labs/Practice",
+          "tools": [
+            {
+              "name": "DIVA",
+              "url": "https://www.decompileandroid.com/",
+              "description": "DIVA (Damn insecure and vulnerable App) is an Android App intentionally designed to be insecure."
+            },
+            {
+              "name": "DVHMA",
+              "url": "https://github.com/logicalhacking/DVHMA",
+              "description": "Damn Vulnerable Hybrid Mobile App (DVHMA) is an hybrid mobile app (for Android) that intentionally contains vulnerabilities.",
+              "repo": "logicalhacking/DVHMA"
+            },
+            {
+              "name": "Injured Android",
+              "url": "https://github.com/B3nac/InjuredAndroid",
+              "description": "A vulnerable Android application that shows simple examples of vulnerabilities in a ctf style.",
+              "repo": "B3nac/InjuredAndroid"
+            },
+            {
+              "name": "InsecureBank v2",
+              "url": "https://github.com/dineshshetty/Android-InsecureBankv2",
+              "description": "Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities.",
+              "repo": "dineshshetty/Android-InsecureBankv2"
+            },
+            {
+              "name": "Oversecured Vulnerable Android App",
+              "url": "https://github.com/oversecured/ovaa",
+              "description": "An Android app that aggregates all the platform's known and popular security vulnerabilities.",
+              "repo": "oversecured/ovaa"
+            },
+            {
+              "name": "UnCrackable Apps",
+              "url": "https://github.com/OWASP/owasp-mstg",
+              "description": "A collection of mobile reverse engineering challenges for iOS and Android.",
+              "repo": "OWASP/owasp-mstg"
+            },
+            {
+              "name": "Vuldroid",
+              "url": "https://github.com/jaiswalakshansh/Vuldroid",
+              "description": "Vuldroid is a Vulnerable Android Application made with security issues in order to demonstrate how they can occur in code.",
+              "repo": "jaiswalakshansh/Vuldroid"
+            },
+            {
+              "name": "VyAPI",
+              "url": "https://github.com/appsecco/VyAPI",
+              "description": "The Modern Cloud-Based Vulnerable Hybrid Android App.",
+              "repo": "appsecco/VyAPI"
+            },
+            {
+              "name": "WaTF-Bank",
+              "url": "https://github.com/WaTF-Team/WaTF-Bank",
+              "description": "What a Terrible Failure Mobile Banking Application for Android and iOS.",
+              "repo": "WaTF-Team/WaTF-Bank"
+            }
+          ]
+        },
+        {
+          "title": "Online Services",
+          "tools": [
+            {
+              "name": "Android APK Decompiler",
+              "url": "https://www.decompileandroid.com/",
+              "description": "Online android decompiler."
+            },
+            {
+              "name": "Ostorlab",
+              "url": "https://ostorlab.co/",
+              "description": "Online static taint analysis, 3rd party fingerprinting, and vulnerability analysis."
+            },
+            {
+              "name": "Oversecured",
+              "url": "https://oversecured.com/",
+              "description": "Android mobile app analyzer vulnerability scanner, designed for DevOps process integration."
+            },
+            {
+              "name": "Quixxi",
+              "url": "https://quixxisecurity.com/",
+              "description": "An intelligent and integrated end-to-end mobile app security solution."
+            }
+          ]
+        },
+        {
+          "title": "Post Exploitation (Android)",
+          "tools": [
+            {
+              "name": "dmesg",
+              "url": "https://github.com/DreamDevLost/classdumpios",
+              "description": "Prints Android kernel messages. Already installed on device.",
+              "repo": "DreamDevLost/classdumpios"
+            },
+            {
+              "name": "Dumpsys",
+              "url": "https://developer.android.com/studio/command-line/dumpsys",
+              "description": "a tool that runs on Android devices and provides information about system services. Already installed on device."
+            },
+            {
+              "name": "EggShell",
+              "url": "https://github.com/neoneggplant/EggShell",
+              "description": "iOS/macOS/Linux Remote Administration Tool.",
+              "repo": "neoneggplant/EggShell"
+            },
+            {
+              "name": "jarsigner",
+              "url": "https://github.com/Jamling/jarsigner",
+              "description": "Jar, Android apk, Eclipse RCP signer.",
+              "repo": "Jamling/jarsigner"
+            },
+            {
+              "name": "keystore-explorer",
+              "url": "https://github.com/kaikramer/keystore-explorer",
+              "description": "GUI replacement for the Java command-line utilities keytool and jarsigner.",
+              "repo": "kaikramer/keystore-explorer"
+            },
+            {
+              "name": "Plistsubtractor",
+              "url": "https://github.com/joswr1ght/plistsubtractor",
+              "description": "Read a plist file, write out any embedded plist files.",
+              "repo": "joswr1ght/plistsubtractor"
+            },
+            {
+              "name": "ProxyDroid",
+              "url": "https://github.com/madeye/proxydroid",
+              "description": "Global Proxy for Android.",
+              "repo": "madeye/proxydroid"
+            },
+            {
+              "name": "Simplify",
+              "url": "https://github.com/CalebFenton/simplify",
+              "description": "Android virtual machine and deobfuscator.",
+              "repo": "CalebFenton/simplify"
+            }
+          ]
+        },
+        {
+          "title": "Post Exploitation (iOS)",
+          "tools": [
+            {
+              "name": "BinaryCookieReader",
+              "url": "https://github.com/as0ler/BinaryCookieReader",
+              "description": "A tool to read the binarycookie format of Cookies on iOS applications.",
+              "repo": "as0ler/BinaryCookieReader"
+            },
+            {
+              "name": "ClassDumpiOS",
+              "url": "https://github.com/DreamDevLost/classdumpios",
+              "description": "iOS port from nygard/class-dump.",
+              "repo": "DreamDevLost/classdumpios"
+            },
+            {
+              "name": "Cycript",
+              "url": "https://www.cycript.org/",
+              "description": "Explore and modify running applications on either iOS or Mac OS X using a hybrid of Objective-C++ and JavaScript.",
+              "repo": "as0ler/BinaryCookieReader"
+            },
+            {
+              "name": "DumpDecrypted",
+              "url": "https://github.com/stefanesser/dumpdecrypted",
+              "description": "Dumps decrypted mach-o files from encrypted iPhone applications from memory to disk.",
+              "repo": "stefanesser/dumpdecrypted"
+            },
+            {
+              "name": "KTool",
+              "url": "https://github.com/KritantaDev/ktool",
+              "description": "Cross-platform MachO/ObjC Static binary analysis tool & library. class-dump + otool + lipo + more.",
+              "repo": "KritantaDev/ktool"
+            },
+            {
+              "name": "MobileAssistant",
+              "url": "https://portswigger.net/burp/documentation/desktop/tools/mobile-assistant/installing",
+              "description": "A tool to facilitate testing of iOS apps with Burp Suite."
+            },
+            {
+              "name": "Needle",
+              "url": "https://github.com/FSecureLABS/needle",
+              "description": "The iOS Security Testing Framework.",
+              "repo": "FSecureLABS/needle"
+            },
+            {
+              "name": "Objection",
+              "url": "https://github.com/atomicobject/objection/",
+              "description": "A lightweight dependency injection framework for Objective-C.",
+              "repo": "atomicobject/objection"
+            },
+            {
+              "name": "RVICTL",
+              "url": "https://github.com/gh2o/rvi_capture",
+              "description": "Capture packets sent/received by iOS devices.",
+              "repo": "gh2o/rvi_capture"
+            },
+            {
+              "name": "Sileo",
+              "url": "https://getsileo.app/",
+              "description": "A fast, beautiful, powerful and efficient APT Package Manager designed for jailbroken device."
+            },
+            {
+              "name": "SSLKillSwitch",
+              "url": "https://github.com/iSECPartners/ios-ssl-kill-switch",
+              "description": "Blackbox tool to disable SSL certificate validation.",
+              "repo": "iSECPartners/ios-ssl-kill-switch"
+            },
+            {
+              "name": "SSLKillSwitch2",
+              "url": "https://github.com/nabla-c0d3/ssl-kill-switch2",
+              "description": "Blackbox tool to disable SSL certificate validation.",
+              "repo": "nabla-c0d3/ssl-kill-switch2"
+            }
+          ]
+        },
+        {
+          "title": "Reverse Engineering",
+          "tools": [
+            {
+              "name": "bfdecrypt",
+              "url": "https://github.com/BishopFox/bfdecrypt",
+              "description": "Utility to decrypt App Store apps on jailbroken iOS 11.x.",
+              "repo": "BishopFox/bfdecrypt"
+            },
+            {
+              "name": "Clutch",
+              "url": "https://github.com/KJCracks/Clutch",
+              "description": "Fast iOS executable dumper.",
+              "repo": "KJCracks/Clutch"
+            },
+            {
+              "name": "flexdecrypt",
+              "url": "https://github.com/JohnCoates/flexdecrypt",
+              "description": "Decrypt iOS Apps and Mach-O binaries.",
+              "repo": "JohnCoates/flexdecrypt"
+            },
+            {
+              "name": "FoulDecrypt",
+              "url": "https://github.com/NyaMisty/fouldecrypt",
+              "description": "A lightweight and simpling iOS binary decryptor.",
+              "repo": "NyaMisty/fouldecrypt"
+            },
+            {
+              "name": "r2flutch",
+              "url": "https://github.com/as0ler/r2flutch",
+              "description": "Tool to decrypt iOS apps using r2frida.",
+              "repo": "as0ler/r2flutch"
+            }
+          ]
+        },
+        {
+          "title": "Static Analysis",
+          "tools": [
+            {
+              "name": "Android Check",
+              "url": "https://github.com/noveogroup/android-check",
+              "description": "Static code analysis plugin for Android project.",
+              "repo": "noveogroup/android-check"
+            },
+            {
+              "name": "Androwarn",
+              "url": "https://github.com/maaaaz/androwarn",
+              "description": "Static code analyzer for malicious Android applications.",
+              "repo": "maaaaz/androwarn"
+            },
+            {
+              "name": "APKLab",
+              "url": "https://github.com/APKLab/APKLab",
+              "description": "A tool for reverse engineering 3rd party, closed, binary Android apps.",
+              "repo": "APKLab/APKLab"
+            },
+            {
+              "name": "APKLeaks",
+              "url": "https://github.com/dwisiswant0/apkleaks",
+              "description": "Scanning APK file for URIs, endpoints & secrets.",
+              "repo": "dwisiswant0/apkleaks"
+            },
+            {
+              "name": "APK Studio",
+              "url": "https://github.com/vaibhavpandeyvpz/apkstudio",
+              "description": "The objective of this scanner is to find for misconfiguration, sensitive data and insecure components.",
+              "repo": "vaibhavpandeyvpz/apkstudio"
+            },
+            {
+              "name": "APKTool",
+              "url": "https://ibotpeaches.github.io/Apktool/",
+              "description": "Seamlessly integrates the best open-source tools right inside VS Code."
+            },
+            {
+              "name": "Argus-SAF",
+              "url": "https://github.com/arguslab/Argus-SAF",
+              "description": "Static analysis framework.",
+              "repo": "arguslab/Argus-SAF"
+            },
+            {
+              "name": "Checkstyle",
+              "url": "https://github.com/checkstyle/checkstyle",
+              "description": "A tool for checking Java source code for adherence to a Code Standard or set of validation rules.",
+              "repo": "checkstyle/checkstyle"
+            },
+            {
+              "name": "Deoptfuscator",
+              "url": "https://github.com/Gyoonus/deoptfuscator",
+              "description": "Reverse the control-flow obfuscation performed by DexGuard on open-source Android applications.",
+              "repo": "Gyoonus/deoptfuscator"
+            },
+            {
+              "name": "Droid-Hunter",
+              "url": "https://github.com/hahwul/droid-hunter",
+              "description": "Android application vulnerability analysis and Android pentest tool.",
+              "repo": "hahwul/droid-hunter"
+            },
+            {
+              "name": "Error Prone",
+              "url": "https://github.com/google/error-prone",
+              "description": "Error Prone is a static analysis tool for Java that catches common programming mistakes at compile-time.",
+              "repo": "google/error-prone"
+            },
+            {
+              "name": "FindBugs",
+              "url": "https://findbugs.sourceforge.net/downloads.html",
+              "description": "Uses static analysis to inspect Java bytecode for occurrences of bug patterns."
+            },
+            {
+              "name": "Find Security Bugs",
+              "url": "https://github.com/find-sec-bugs/find-sec-bugs",
+              "description": "Find Security Bugs is the SpotBugs plugin for security audits of Java web applications.",
+              "repo": "find-sec-bugs/find-sec-bugs"
+            },
+            {
+              "name": "FlowDroid",
+              "url": "https://github.com/secure-software-engineering/FlowDroid",
+              "description": "Statically computes data flows in Android apps and Java programs.",
+              "repo": "secure-software-engineering/FlowDroid"
+            },
+            {
+              "name": "Gradle",
+              "url": "https://github.com/novoda/gradle-static-analysis-plugin",
+              "description": "Supports many popular static analysis (Checkstyle, PMD, FindBugs, etc) via a set of built-in plugins.",
+              "repo": "novoda/gradle-static-analysis-plugin"
+            },
+            {
+              "name": "Infer",
+              "url": "https://github.com/facebook/infer",
+              "description": "Infer is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in OCaml.",
+              "repo": "facebook/infer"
+            },
+            {
+              "name": "JADX",
+              "url": "https://github.com/skylot/jadx",
+              "description": "Dex to Java decompiler.",
+              "repo": "skylot/jadx"
+            },
+            {
+              "name": "Mobile Audit",
+              "url": "https://github.com/mpast/mobileAudit",
+              "description": "SAST and Malware Analysis for Android Mobile APKs.",
+              "repo": "mpast/mobileAudit"
+            },
+            {
+              "name": "PMD",
+              "url": "https://github.com/pmd/pmd",
+              "description": "Finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth.",
+              "repo": "pmd/pmd"
+            },
+            {
+              "name": "Qark",
+              "url": "https://github.com/linkedin/qark",
+              "description": "designed to look for several security related Android application vulnerabilities, either in source code or packaged APKs.",
+              "repo": "linkedin/qark"
+            },
+            {
+              "name": "Quark",
+              "url": "https://github.com/quark-engine/quark-engine",
+              "description": "An Obfuscation-Neglect Android Malware Scoring System.",
+              "repo": "quark-engine/quark-engine"
+            },
+            {
+              "name": "Smali",
+              "url": "https://github.com/JesusFreke/smali",
+              "description": "An assembler/disassembler for the dex format used by dalvik, Android's Java VM implementation.",
+              "repo": "JesusFreke/smali"
+            },
+            {
+              "name": "Soot",
+              "url": "https://github.com/soot-oss/soot",
+              "description": "Smali Control Flow Graph's.",
+              "repo": "soot-oss/soot"
+            },
+            {
+              "name": "Sparta",
+              "url": "https://github.com/typetools/sparta",
+              "description": "Static program analysis for reliable trusted apps.",
+              "repo": "typetools/sparta"
+            },
+            {
+              "name": "StaCoAn",
+              "url": "https://github.com/vincentcox/StaCoAn",
+              "description": "A crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.",
+              "repo": "vincentcox/StaCoAn"
+            },
+            {
+              "name": "Trueseeing",
+              "url": "https://github.com/monolithworks/trueseeing",
+              "description": "A fast, accurate and resillient vulnerabilities scanner for Android apps.",
+              "repo": "monolithworks/trueseeing"
+            },
+            {
+              "name": "Yaazhini",
+              "url": "https://www.vegabird.com/yaazhini/",
+              "description": "A fast, accurate and resillient vulnerabilities scanner for Android apps."
+            }
+          ]
+        },
+        {
+          "title": "Video Content",
+          "tools": [
+            {
+              "name": "B3nac Sec",
+              "url": "https://www.youtube.com/c/B3nacSec/featured",
+              "description": "Dedicated mobile ethical hacking."
+            }
+          ]
+        },
+        {
+          "title": "Virtualization",
+          "tools": [
+            {
+              "name": "AppUse",
+              "url": "https://appsec-labs.com/appuse/",
+              "description": "Mobile app security testing, Android and iOS applications. Custom-made tools and scripts created by AppSec Labs."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

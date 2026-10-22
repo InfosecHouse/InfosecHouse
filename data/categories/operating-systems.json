@@ -1,0 +1,108 @@
+{
+  "slug": "operating-systems",
+  "title": "Operating Systems",
+  "description": "Operating systems for whatever task at hand.",
+  "sections": [
+    {
+      "title": "CIRT/Forensics",
+      "groups": [
+        {
+          "title": "ISO/VM Images",
+          "tools": [
+            {
+              "name": "Bitscout",
+              "url": "https://bitscout-forensics.info/",
+              "description": "LiveCD/LiveUSB for remote forensic acquisition and analysis."
+            },
+            {
+              "name": "SANS Investigative Forensics Toolkit (SIFT)",
+              "url": "https://github.com/teamdfir/sift",
+              "description": "Linux distribution for forensic analysis.",
+              "repo": "teamdfir/sift"
+            },
+            {
+              "name": "The Sleuth Kit",
+              "url": "https://github.com/sleuthkit/sleuthkit",
+              "description": "Forensic toolkit for analyzing Microsoft and UNIX file systems and disks.",
+              "repo": "sleuthkit/sleuthkit"
+            },
+            {
+              "name": "Tsurugi",
+              "url": "https://tsurugi-linux.org/",
+              "description": "Linux distribution for DFIR."
+            },
+            {
+              "name": "WinFE",
+              "url": "https://www.winfe.net/home",
+              "description": "Windows Forensics."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pentesting",
+      "groups": [
+        {
+          "title": "Docker Images",
+          "tools": [
+            {
+              "name": "easyWSL",
+              "url": "https://github.com/redcode-labs/easyWSL",
+              "description": "Use Docker Containers as WSL Distros.",
+              "repo": "redcode-labs/easyWSL"
+            },
+            {
+              "name": "Exegol",
+              "url": "https://github.com/ShutdownRepo/Exegol",
+              "description": "A fully featured and community-driven hacking environment.",
+              "repo": "ShutdownRepo/Exegol"
+            }
+          ]
+        },
+        {
+          "title": "ISO/VM Images",
+          "tools": [
+            {
+              "name": "Black Arch",
+              "url": "https://www.blackarch.org/",
+              "description": "Arch Linux-based penetration testing distribution for penetration testers and security researchers."
+            },
+            {
+              "name": "Kali LInux",
+              "url": "https://www.kali.org/get-kali/",
+              "description": "Debian-derived Linux distribution designed for digital forensics and penetration testing."
+            },
+            {
+              "name": "Parrot OS",
+              "url": "https://www.parrotsec.org/",
+              "description": "GNU/Linux distribution based on Debian and designed with Security and Privacy in mind."
+            },
+            {
+              "name": "SecBSD",
+              "url": "https://secbsd.org/",
+              "description": "Designed to meet the needs of security researchers, pentesters, bug hunters, cybersecurity professionals, hacktivists, and privacy-conscious individuals."
+            }
+          ]
+        },
+        {
+          "title": "Virtualization",
+          "tools": [
+            {
+              "name": "CommandoVM",
+              "url": "https://github.com/mandiant/commando-vm",
+              "description": "Windows-based pentesting virtual machine distribution.",
+              "repo": "mandiant/commando-vm"
+            },
+            {
+              "name": "RedNix",
+              "url": "https://github.com/redcode-labs/RedNix",
+              "description": "Hackable NixOS container.",
+              "repo": "redcode-labs/RedNix"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

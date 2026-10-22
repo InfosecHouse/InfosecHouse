@@ -1,4 +1,0 @@
-USERNAME : PASSWORD
-admin : admin1234
-administrator : RSAAppliance
-master : themaster01

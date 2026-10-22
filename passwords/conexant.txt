@@ -1,8 +1,0 @@
-USERNAME : PASSWORD
-<blank> : admin
-<blank> : epicrouter
-Administrator : admin
-admin : amigosw1
-admin : conexant
-admin : epicrouter
-admin : password

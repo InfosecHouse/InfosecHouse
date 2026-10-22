@@ -1,0 +1,715 @@
+{
+  "slug": "opsec",
+  "title": "Operation Security",
+  "description": "Seek out technologies and methods of remaining anonymous in this day and age of mass surveillance.",
+  "sections": [
+    {
+      "title": "Anonymity",
+      "groups": [
+        {
+          "title": "Browsing",
+          "tools": [
+            {
+              "name": "I2P",
+              "url": "https://geti2p.net/en/",
+              "description": "An anonymous network layer that allows for censorship resistant, peer to peer communication."
+            },
+            {
+              "name": "ipfs",
+              "url": "https://ipfs.tech/",
+              "description": "IPFS is the Inter-Planetary FileSystem. IPFS aims to surpass HTTP in order to build a better web for all of us."
+            },
+            {
+              "name": "Pantoclick",
+              "url": "https://coveryourtracks.eff.org/",
+              "description": "See how trackers view your browser."
+            },
+            {
+              "name": "TOR",
+              "url": "https://www.torproject.org/",
+              "description": "Free and open-source software for enabling anonymous communication."
+            },
+            {
+              "name": "WEBKAY",
+              "url": "https://webkay.robinlinus.com/",
+              "description": "A web app to show what every browser knows about you."
+            }
+          ]
+        },
+        {
+          "title": "Cryptocurrency",
+          "tools": [
+            {
+              "name": "Monero",
+              "url": "https://www.getmonero.org/",
+              "description": "Secure, private, untraceable."
+            },
+            {
+              "name": "ZCash",
+              "url": "https://z.cash/",
+              "description": "Proxies without limits. Take your business to a higher level."
+            }
+          ]
+        },
+        {
+          "title": "Cryptocurrency Wallets",
+          "tools": [
+            {
+              "name": "Bitlox",
+              "url": "https://www.bitlox.com/",
+              "description": "Bitcoin mobile hardware wallet bluetooth low energy high security."
+            },
+            {
+              "name": "Exodus",
+              "url": "https://www.exodus.com/",
+              "description": "Laptop and Desktop crypto wallet."
+            },
+            {
+              "name": "Wasabi",
+              "url": "https://www.wasabiwallet.io/",
+              "description": "Bitcoin privacy wallet with built-in CoinJoin."
+            }
+          ]
+        },
+        {
+          "title": "Domain Registrars",
+          "tools": [
+            {
+              "name": "Njalla",
+              "url": "https://njal.la/",
+              "description": "A privacy-aware domain service.",
+              "links": [
+                {
+                  "label": "TOR",
+                  "url": "http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion/"
+                }
+              ],
+              "tags": [
+                "tor"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Proxies",
+          "tools": [
+            {
+              "name": "Smarter Proxy",
+              "url": "https://smartproxy.com/",
+              "description": "Proxies without limits. Take your business to a higher level."
+            }
+          ]
+        },
+        {
+          "title": "VPN",
+          "tools": [
+            {
+              "name": "Comparision Sheet",
+              "url": "https://docs.google.com/spreadsheets/d/1V1MFJJqwAtn9O_WgynUMXRbXLhsY2SAViADYsLZy63U/edit#gid=0",
+              "description": "VPN comparision sheet."
+            },
+            {
+              "name": "Mullvad VPN",
+              "url": "https://mullvad.net/en/",
+              "description": "Service that helps keep your online activity, identity, and location private."
+            },
+            {
+              "name": "ProtonVPN",
+              "url": "https://protonvpn.com/",
+              "description": "High-speed Swiss VPN that safeguards your privacy."
+            }
+          ]
+        },
+        {
+          "title": "Whistleblowing",
+          "tools": [
+            {
+              "name": "Global Leaks",
+              "url": "https://www.globaleaks.org/",
+              "description": "Free and open source whistleblowing software, under the AGPL License."
+            },
+            {
+              "name": "SecureDrop",
+              "url": "https://securedrop.org/",
+              "description": "Share and accept documents securely."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Anti-Forensic",
+      "groups": [
+        {
+          "title": "Filesystem Manipulation",
+          "tools": [
+            {
+              "name": "Darik's Book & Nuke",
+              "url": "https://sourceforge.net/projects/dban/",
+              "description": "A self-contained boot image that securely wipes the hard disks of most computers."
+            },
+            {
+              "name": "SetMace",
+              "url": "https://github.com/jschicht/SetMace",
+              "description": "Manipulate timestamps on NTFS.",
+              "repo": "jschicht/SetMace"
+            },
+            {
+              "name": "Wipe",
+              "url": "https://github.com/berke/wipe",
+              "description": "A Unix tool for secure deletion.",
+              "repo": "berke/wipe"
+            },
+            {
+              "name": "WipeDicks",
+              "url": "https://github.com/Drewsif/wipedicks",
+              "description": "Wipe files and drives securely with randoms ASCII dicks.",
+              "repo": "Drewsif/wipedicks"
+            },
+            {
+              "name": "Wiper",
+              "url": "https://github.com/r3nt0n/wiper",
+              "description": "Toolkit to perform secure destruction of sensitive virtual data, temporary files and swap memories.",
+              "repo": "r3nt0n/wiper"
+            }
+          ]
+        },
+        {
+          "title": "System Operation",
+          "tools": [
+            {
+              "name": "Silk Guardian",
+              "url": "https://github.com/NateBrune/silk-guardian",
+              "description": "Anti-forensic kill-switch that waits for a change on your usb ports and then wipes your ram, deletes precious files, and turns off your computer.",
+              "repo": "NateBrune/silk-guardian"
+            },
+            {
+              "name": "USBKill",
+              "url": "https://github.com/hephaest0s/usbkill",
+              "description": "An anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.",
+              "repo": "hephaest0s/usbkill"
+            },
+            {
+              "name": "xxUSBSentinel",
+              "url": "https://github.com/thereisnotime/xxUSBSentinel",
+              "description": "Windows anti-forensics USB monitoring tool.",
+              "repo": "thereisnotime/xxUSBSentinel",
+              "also": [
+                "Operating Systems"
+              ]
+            }
+          ]
+        }
+      ],
+      "description": "Destroy your data. Don't leave a trace."
+    },
+    {
+      "title": "Burners",
+      "groups": [
+        {
+          "title": "E-Mail",
+          "tools": [
+            {
+              "name": "E-Mail Fake",
+              "url": "https://emailfake.com/",
+              "description": "Burner e-mail server. No IP logging."
+            },
+            {
+              "name": "Fake E-Mail Generatort",
+              "url": "https://mail-fake.com/",
+              "description": "The Fake Mail Generator is an absolutely free disposable email system."
+            },
+            {
+              "name": "FakeMail",
+              "url": "https://www.fakemail.net/",
+              "description": "Temp Mail Address Protects Your Privacy."
+            },
+            {
+              "name": "Temp Mail Gen",
+              "url": "https://tempmailgen.com/",
+              "description": "A disposable, throwaway, temporary,one-click email. No IP logging."
+            }
+          ]
+        },
+        {
+          "title": "Financial",
+          "tools": [
+            {
+              "name": "Privacy",
+              "url": "https://privacy.com/",
+              "description": "Make a unique debit card number for every single purchase online with just 1 click."
+            }
+          ]
+        },
+        {
+          "title": "Phone Numbers",
+          "tools": [
+            {
+              "name": "BurnerApp",
+              "url": "https://www.burnerapp.com/",
+              "description": "phone number app for calling, texting and picture messaging."
+            },
+            {
+              "name": "Hushed",
+              "url": "https://hushed.com/",
+              "description": "Temporary & Second Phone Numbers for Talk & Texting."
+            }
+          ]
+        }
+      ],
+      "description": "Everything for your temporary needs."
+    },
+    {
+      "title": "Communication",
+      "groups": [
+        {
+          "title": "E-Mail Services",
+          "tools": [
+            {
+              "name": "Noxe",
+              "url": "http://noxe622edajixluakfmma5dolaakdtmhfgtz7ninulfnecsbwoybogyd.onion/",
+              "description": "E-Mail provider.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "SecMail",
+              "url": "http://secmail63sex4dfw6h2nsrbmfz2z6alwxe4e3adtkpd4pcvkhht4jdad.onion/",
+              "description": "Secure mail service in TOR.",
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Protonmail",
+              "url": "https://protonmail.com/",
+              "description": "Secure E-Mail based in Switzerland."
+            },
+            {
+              "name": "SAFe-mail",
+              "url": "https://safe-mail.net",
+              "description": "Bulletproof e-mail service."
+            },
+            {
+              "name": "TorBox",
+              "url": "http://torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion/index-en.php",
+              "description": "Hidden mail service.",
+              "tags": [
+                "tor"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Messaging Services",
+          "tools": [
+            {
+              "name": "Briar",
+              "url": "https://briarproject.org/",
+              "description": "Secure messaging, anywhere."
+            },
+            {
+              "name": "Element",
+              "url": "https://element.io/",
+              "description": "A messenger that gives you the privacy you expect from a conversation in your own home, but with everyone across the globe. Runs on the matrix network."
+            },
+            {
+              "name": "Ricochet",
+              "url": "https://ricochet.im/",
+              "description": "Ricochet is a different approach to instant messaging that doesn’t trust anyone in protecting your privacy."
+            },
+            {
+              "name": "Telegram",
+              "url": "https://telegram.org/",
+              "description": "A new era of messaging.",
+              "repo": "telegramdesktop/tdesktop"
+            },
+            {
+              "name": "Tox",
+              "url": "https://github.com/TokTok/c-toxcore",
+              "description": "A new era of messaging.",
+              "repo": "TokTok/c-toxcore"
+            }
+          ]
+        },
+        {
+          "title": "SMS",
+          "tools": [
+            {
+              "name": "Signal",
+              "url": "https://www.signal.org/",
+              "description": "Speak Freely.",
+              "repo": "signalapp/Signal-Desktop"
+            }
+          ]
+        },
+        {
+          "title": "XMPP Services",
+          "tools": [
+            {
+              "name": "404 City",
+              "url": "https://404.city/",
+              "description": "Cipher-punk community in federation XMPP. Our goal is to protect the privacy of personal life."
+            },
+            {
+              "name": "Creep",
+              "url": "https://creep.im",
+              "description": "Free XMPP/Jabber server in France. IP's not logged. XSF standards.",
+              "links": [
+                {
+                  "label": "TOR",
+                  "url": "http://creep7nissfumwyx.onion"
+                }
+              ],
+              "tags": [
+                "tor"
+              ]
+            },
+            {
+              "name": "Darknet.IM",
+              "url": "https://darknet.im",
+              "description": "Free XMPP service for secure unmonitored communications."
+            },
+            {
+              "name": "JabberX",
+              "url": "https://jabberx.net/",
+              "description": "Free Private XMPP Chat Service. Designed in Sweeded and Hosted in Germany."
+            }
+          ]
+        }
+      ],
+      "description": "Protect your SMS messages, voice calls, and e-mails. Big brother is always watching.",
+      "notices": [
+        {
+          "type": "info",
+          "text": "Want to check compliance status of an XMPP server? Check out [https://compliance.conversations.im/](https://compliance.conversations.im/)."
+        }
+      ]
+    },
+    {
+      "title": "Password & Access Management",
+      "groups": [
+        {
+          "title": "Consumer Password/Secret Managers",
+          "tools": [
+            {
+              "name": "1Password",
+              "url": "https://1password.com",
+              "description": "Password Manager for Families, Businesses, Teams."
+            },
+            {
+              "name": "Bitwarden",
+              "url": "https://bitwarden.com/",
+              "description": "Easiest and safest way for teams and individuals to store and share sensitive data from any device."
+            },
+            {
+              "name": "Dashlane",
+              "url": "https://www.dashlane.com/",
+              "description": "Password Manager App for Home, Mobile, Business."
+            },
+            {
+              "name": "GoPass",
+              "url": "https://www.gopass.pw/",
+              "description": "The slightly more awesome standard unix password manager for teams."
+            },
+            {
+              "name": "Keepass",
+              "url": "https://keepass.info/",
+              "description": "A free open source password manager."
+            },
+            {
+              "name": "KeepassX",
+              "url": "https://www.keepassx.org/",
+              "description": "An application for people with extremly high demands on secure personal data management."
+            },
+            {
+              "name": "KeepassXC",
+              "url": "https://keepassxc.org/",
+              "description": "Cross-Platform Password Manager."
+            },
+            {
+              "name": "LastPass",
+              "url": "https://www.lastpass.com/",
+              "description": "Keeps your information private, secure, and hidden."
+            },
+            {
+              "name": "Sticky Password",
+              "url": "https://www.stickypassword.com/",
+              "description": "Log in securely. Autofill forms in a second. Use your passwords wherever you go. Be safe."
+            },
+            {
+              "name": "Post-It",
+              "url": "https://www.post-it.com/3M/en_US/post-it/",
+              "description": "Safest place to write your passwords. Just a joke. Please don't do this."
+            }
+          ]
+        },
+        {
+          "title": "Enterprise Password/Secret Managers",
+          "tools": [
+            {
+              "name": "CyberArk",
+              "url": "https://www.cyberark.com/",
+              "description": "Keep your business and its most valuable assets secure."
+            },
+            {
+              "name": "Hashicorp Vault",
+              "url": "https://www.hashicorp.com/products/vault",
+              "description": "Secure, store and tightly control access to tokens, passwords, certificates, and more."
+            },
+            {
+              "name": "Password Safe (BeyondTrust)",
+              "url": "https://www.beyondtrust.com/password-safe",
+              "description": "Discover, manage, audit, and monitor privileged accounts of all types."
+            },
+            {
+              "name": "Thycotic",
+              "url": "https://thycotic.com/products/secret-server/",
+              "description": "Protect your privileged accounts with our enterprise-grade Privileged Access Management."
+            }
+          ]
+        },
+        {
+          "title": "MFA Hardware",
+          "tools": [
+            {
+              "name": "Hyper",
+              "url": "https://www.hypersecu.com/products",
+              "description": "Strong Authentication Products."
+            },
+            {
+              "name": "OnlyKey",
+              "url": "https://onlykey.io/",
+              "description": "A hardware password manager, two-factor security key, and file encryption token in one."
+            },
+            {
+              "name": "SoloKeys",
+              "url": "https://solokeys.com/",
+              "description": "Secure Login. Open Source. Easy."
+            },
+            {
+              "name": "Thetis",
+              "url": "https://thetis.io/",
+              "description": "Security key."
+            },
+            {
+              "name": "Titan",
+              "url": "https://store.google.com/us/product/titan_security_key?hl=en-US",
+              "description": "Google MFA security key."
+            },
+            {
+              "name": "YubiKey",
+              "url": "https://www.yubico.com/products/",
+              "description": "Security key, enabling strong two-factor, multi-factor and passwordless authentication."
+            }
+          ]
+        },
+        {
+          "title": "MFA Mobile Apps",
+          "tools": [
+            {
+              "name": "2FAS",
+              "url": "https://2fas.com/",
+              "description": "Protect your online accounts and services."
+            },
+            {
+              "name": "Aegis Authenticator",
+              "url": "https://github.com/beemdevelopment/Aegis",
+              "description": "A free, secure, and open source 2FA app for android.",
+              "repo": "beemdevelopment/Aegis"
+            },
+            {
+              "name": "andOTP",
+              "url": "https://github.com/andOTP/andOTP",
+              "description": "A Two-Factor authentication app for Android 5.1+.",
+              "repo": "andOTP/andOTP"
+            },
+            {
+              "name": "Authy",
+              "url": "https://authy.com/",
+              "description": "Enable 2FA for your favorite sites."
+            },
+            {
+              "name": "Duo",
+              "url": "https://duo.com/",
+              "description": "Protect your workforce with simple, powerful access security."
+            },
+            {
+              "name": "FreeOPT",
+              "url": "https://freeotp.github.io/",
+              "description": "A two-factor authentication application for systems utilizing one-time password protocols."
+            },
+            {
+              "name": "Google Authenticator",
+              "url": "https://github.com/google/google-authenticator",
+              "description": "Multi-Factor authenticator for iOS and Android. Open-Source Version.",
+              "repo": "google/google-authenticator"
+            },
+            {
+              "name": "Microsoft Authenticator",
+              "url": "https://www.microsoft.com/en-us/account/authenticator",
+              "description": "Access your account easily, and securely."
+            },
+            {
+              "name": "Okta Verify",
+              "url": "https://apps.apple.com/us/app/okta-verify/id490179405",
+              "description": "Lightweight app that allows you to securely access your apps via 2-step verification.",
+              "links": [
+                {
+                  "label": "iOS",
+                  "url": "https://apps.apple.com/us/app/okta-verify/id490179405"
+                },
+                {
+                  "label": "Android",
+                  "url": "https://play.google.com/store/apps/details?id=com.okta.android.auth&hl=en_US&gl=US"
+                }
+              ]
+            },
+            {
+              "name": "TOTP Authenticator",
+              "url": "https://www.binaryboot.com/totp-authenticator",
+              "description": "Making 2-factor authentication simple and secure."
+            }
+          ]
+        },
+        {
+          "title": "MFA Systems",
+          "tools": [
+            {
+              "name": "Aerobase Server",
+              "url": "https://github.com/aerobase/omnibus-aerobase-server",
+              "description": "Simple secure and seamless authentication.",
+              "repo": "aerobase/omnibus-aerobase-server"
+            },
+            {
+              "name": "LinOTP",
+              "url": "https://github.com/LinOTP/LinOTP",
+              "description": "Open source solution for two factor authentication.",
+              "repo": "LinOTP/LinOTP"
+            },
+            {
+              "name": "PrivacyIDEA",
+              "url": "https://github.com/beemdevelopment/Aegis",
+              "description": "A free, secure, and open source 2FA app for android.",
+              "repo": "beemdevelopment/Aegis"
+            }
+          ]
+        }
+      ],
+      "description": "This ain't your mommas notebook. Secure your passwords, secrets, and notes."
+    },
+    {
+      "title": "Operating Systems",
+      "groups": [
+        {
+          "title": "Linux",
+          "tools": [
+            {
+              "name": "Hidden VM",
+              "url": "https://github.com/aforensics/HiddenVM",
+              "description": "Use any desktop OS without leaving a trace.",
+              "repo": "aforensics/HiddenVM"
+            }
+          ]
+        },
+        {
+          "title": "Macintosh",
+          "tools": []
+        },
+        {
+          "title": "Windows",
+          "tools": [
+            {
+              "name": "Blackbird",
+              "url": "https://www.getblackbird.net/download/",
+              "description": "Windows privacy, security, and performance."
+            },
+            {
+              "name": "DisableWinTracking",
+              "url": "https://www.softpedia.com/get/Tweak/System-Tweak/Windows-10-Tracking-Disable-Tool.shtml",
+              "description": "Disable tracking services and telemetry in Windows 10 and block tracking servers to protect your privacy."
+            },
+            {
+              "name": "DoNotSpy10",
+              "url": "https://pxc-coding.com/donotspy10/",
+              "description": "Empowers you to protect your privacy on Windows 10."
+            },
+            {
+              "name": "O&O Shut Up",
+              "url": "https://www.oo-software.com/en/shutup10",
+              "description": "Free antispy tool for Windows 10."
+            },
+            {
+              "name": "Privacy Repairer",
+              "url": "https://www.securilla.com/privacy-repairer",
+              "description": "tool to repair your privacy in Windows 10."
+            },
+            {
+              "name": "WPD",
+              "url": "https://wpd.app/",
+              "description": "The real privacy dashboard for Windows."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Search Engines",
+      "groups": [
+        {
+          "title": "Browser Based",
+          "tools": [
+            {
+              "name": "DuckDuckGo",
+              "url": "https://duckduckgo.com",
+              "description": "The Internet privacy company that empowers you to seamlessly take control of your personal information online, without any tradeoffs."
+            },
+            {
+              "name": "Gibiru",
+              "url": "https://gibiru.com/",
+              "description": "Uncensored private search."
+            },
+            {
+              "name": "MetaGer",
+              "url": "https://metager.org/",
+              "description": "Privacy protected search & find."
+            },
+            {
+              "name": "Mojeek",
+              "url": "https://www.mojeek.com/",
+              "description": "A growing independent search engine which does not track you."
+            },
+            {
+              "name": "Peekier",
+              "url": "https://peekier.com/",
+              "description": "The most privacy-oriented search engine."
+            },
+            {
+              "name": "Qwant",
+              "url": "https://www.qwant.com/",
+              "description": "Qwant is a search engine that respects your privacy and ensures neutrality and impartiality."
+            },
+            {
+              "name": "SearX",
+              "url": "https://github.com/searx/searx",
+              "description": "Privacy-respecting metasearch engine.",
+              "repo": "searx/searx"
+            },
+            {
+              "name": "Startpage",
+              "url": "https://www.startpage.com/",
+              "description": "Search and browse the internet without being tracked or targeted."
+            },
+            {
+              "name": "Swisscows",
+              "url": "https://swisscows.com/",
+              "description": "The data-safe search engine."
+            }
+          ]
+        }
+      ],
+      "description": "Discover alternative search engines that respect your privacy."
+    }
+  ]
+}

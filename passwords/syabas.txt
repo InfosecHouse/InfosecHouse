@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-ftpuser : 1234
-nmt : 1234

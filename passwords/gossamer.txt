@@ -1,4 +1,0 @@
-USERNAME : PASSWORD
-admin : admin
-author : author
-guest : guest

@@ -1,6 +1,0 @@
-USERNAME : PASSWORD
-12.x : <blank>
-DBA : SQL
-jagadmin : <blank>
-sa : <blank>
-sa : sasasa

@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-root : default
-root : admin

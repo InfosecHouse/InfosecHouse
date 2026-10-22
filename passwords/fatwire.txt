@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-firstsite : firstsite
-fwadmin : xceladmin

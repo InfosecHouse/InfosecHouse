@@ -1,6 +1,0 @@
-USERNAME : PASSWORD
-CSG : SESAME
-admin : <blank>
-admin : password
-admin : password1
-admin : sysAdmin

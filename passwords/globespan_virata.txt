@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-DSL : DSL
-root : root

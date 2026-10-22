@@ -1,4 +1,0 @@
-USERNAME : PASSWORD
-admin : <SEE COMMENT>
-admin : OkiLAN
-root : <SEE COMMENT>

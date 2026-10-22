@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-nsroot : nsroot
-root : rootadmin

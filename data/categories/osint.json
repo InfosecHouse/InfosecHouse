@@ -1,0 +1,448 @@
+{
+  "slug": "osint",
+  "title": "OSINT",
+  "description": "Open-Source Intel. Get all the information needed for your target.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "Business",
+          "tools": [
+            {
+              "name": "Black Book",
+              "url": "https://www.blackbookonline.info/USA-Counties.aspx",
+              "description": "Public records index.",
+              "also": [
+                "People"
+              ]
+            },
+            {
+              "name": "Corporation Wiki",
+              "url": "https://www.corporationwiki.com/",
+              "description": "Person and Company Wiki.",
+              "also": [
+                "People"
+              ]
+            },
+            {
+              "name": "Government of Canada",
+              "url": "https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=en_CA",
+              "description": "Federal corporation lookup."
+            },
+            {
+              "name": "Open Gov US",
+              "url": "https://opengovus.com/",
+              "description": "Open Government data in U.S.",
+              "also": [
+                "People"
+              ]
+            },
+            {
+              "name": "Spoke",
+              "url": "https://www.spoke.com/",
+              "description": "Business, People, and more."
+            }
+          ]
+        },
+        {
+          "title": "Databases",
+          "tools": [
+            {
+              "name": "OCCRP Aleph",
+              "url": "https://data.occrp.org/",
+              "description": "The global archive of research material for investigative reporting."
+            }
+          ]
+        },
+        {
+          "title": "Data Breach Dumps",
+          "tools": [
+            {
+              "name": "Dehashed",
+              "url": "https://dehashed.com/",
+              "description": "DeHashed is constantly obtaining new and private datasets that other services simply do not have. We are always the first to respond."
+            },
+            {
+              "name": "HaveIBeenPwned",
+              "url": "https://haveibeenpwned.com/",
+              "description": "Have I Been Pwned allows you to search across multiple data breaches to see if your email address has been compromised."
+            },
+            {
+              "name": "PSBDMP",
+              "url": "https://psbdmp.cc/",
+              "description": "PSBDMP is a Pastebin dump security monitor."
+            },
+            {
+              "name": "Snusbase",
+              "url": "https://www.snusbase.com/",
+              "description": "Snusbase indexes information from websites that have been hacked and had their database leaked."
+            }
+          ]
+        },
+        {
+          "title": "E-Mail",
+          "tools": [
+            {
+              "name": "Holehe",
+              "url": "https://github.com/megadose/holehe",
+              "description": "Allows you to check if the email is used on different sites and will retrieve information on sites with the forgotten password function.",
+              "repo": "megadose/holehe"
+            }
+          ]
+        },
+        {
+          "title": "Frameworks/Platforms",
+          "tools": [
+            {
+              "name": "iKy",
+              "url": "https://github.com/kennbroorg/iKy",
+              "description": "OSINT Project.",
+              "repo": "kennbroorg/iKy"
+            },
+            {
+              "name": "IntelOwl",
+              "url": "https://github.com/intelowlproject/IntelOwl",
+              "description": "OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale.",
+              "repo": "intelowlproject/IntelOwl"
+            },
+            {
+              "name": "Maltego",
+              "url": "https://www.maltego.com/",
+              "description": "Increase the speed and precision of investigations."
+            },
+            {
+              "name": "Metabigor",
+              "url": "https://github.com/j3ssie/metabigor",
+              "description": "Intelligence tool but without API key.",
+              "repo": "j3ssie/metabigor"
+            },
+            {
+              "name": "OSINT Framework",
+              "url": "https://github.com/lockfale/osint-framework",
+              "description": "OSINT framework is focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources.",
+              "repo": "lockfale/osint-framework"
+            },
+            {
+              "name": "OpenCTI",
+              "url": "https://github.com/OpenCTI-Platform/opencti",
+              "description": "Open Cyber Threat Intelligence Platform.",
+              "repo": "OpenCTI-Platform/opencti"
+            },
+            {
+              "name": "OSweep",
+              "url": "https://github.com/ecstatic-nobel/OSweep",
+              "description": "Don't Just Search OSINT. Sweep It.",
+              "repo": "ecstatic-nobel/OSweep"
+            },
+            {
+              "name": "Photon",
+              "url": "https://github.com/s0md3v/Photon",
+              "description": "Incredibly fast crawler designed for OSINT.",
+              "repo": "s0md3v/Photon"
+            },
+            {
+              "name": "QueryTool",
+              "url": "https://github.com/oryon-osint/querytool",
+              "description": "Querytool is an OSINT framework based on Google Spreadsheets.",
+              "repo": "oryon-osint/querytool"
+            },
+            {
+              "name": "Scrummage",
+              "url": "https://github.com/matamorphosis/Scrummage",
+              "description": "The Ultimate OSINT and Threat Hunting Framework.",
+              "repo": "matamorphosis/Scrummage"
+            },
+            {
+              "name": "XRay",
+              "url": "https://github.com/evilsocket/xray",
+              "description": "Tool for recon, mapping and OSINT gathering from public networks.",
+              "repo": "evilsocket/xray"
+            },
+            {
+              "name": "Cylect",
+              "url": "https://cylect.io/",
+              "description": "AI-powered OSINT platform that searches across public data sources for people, usernames, emails, and more."
+            }
+          ]
+        },
+        {
+          "title": "People",
+          "tools": [
+            {
+              "name": "411 (White Pages)",
+              "url": "https://www.411.com/",
+              "description": "Data Broker Service | [CCPA](https://www.whitepages.com/privacy/ccpa) [Suppression Requests](https://www.whitepages.com/suppression-requests)."
+            },
+            {
+              "name": "Addresses (Intelius)",
+              "url": "https://www.addresses.com/",
+              "description": "Data Broker Service | [CCPA](https://www.intelius.com/ccpa)."
+            },
+            {
+              "name": "Advanced Background Checks",
+              "url": "https://www.advancedbackgroundchecks.com/",
+              "description": "Data Broker Service | [Opt-Out](https://www.advancedbackgroundchecks.com/removal)."
+            },
+            {
+              "name": "AnyWho (Intelius)",
+              "url": "https://www.anywho.com/",
+              "description": "Data Broker Service | [Opt-Out](https://www.intelius.com/opt-out/submit/)."
+            },
+            {
+              "name": "Been Verified",
+              "url": "https://www.beenverified.com/",
+              "description": "Data Broker Service | [Opt-Out](https://www.beenverified.com/app/optout/search)."
+            },
+            {
+              "name": "Check Them",
+              "url": "https://www.checkthem.com/",
+              "description": "Data Broker Service | [Opt-Out](https://www.checkthem.com/optout/)."
+            },
+            {
+              "name": "Classmates (PeopleConnect)",
+              "url": "https://www.classmates.com/",
+              "description": "Data Broker Service | [Opt-Out](https://www.intelius.com/opt-out/submit/)."
+            },
+            {
+              "name": "DOB Search",
+              "url": "https://www.dobsearch.com/",
+              "description": "Data Broker Service | [Opt-Out](https://www.dobsearch.com/people-finder/pf_manage_help.php)."
+            },
+            {
+              "name": "Family Tree Now",
+              "url": "https://www.familytreenow.com/",
+              "description": "Data Broker Service | [Opt-Out](https://www.familytreenow.com/privacy?removal=true)."
+            },
+            {
+              "name": "Instant Checkmate",
+              "url": "https://www.instantcheckmate.com/",
+              "description": "Data Broker Service | [Opt-Out](https://www.instantcheckmate.com/opt-out/)."
+            },
+            {
+              "name": "Instant People Finder (Intelius)",
+              "url": "https://instantpeoplefinder.com/",
+              "description": "Data Broker Service | [Opt-Out](https://www.intelius.com/opt-out/submit/)."
+            },
+            {
+              "name": "Intelius",
+              "url": "https://www.intelius.com/",
+              "description": "Data Broker Service | [Opt-Out](https://www.intelius.com/opt-out/submit/)."
+            },
+            {
+              "name": "Melissa",
+              "url": "https://www.melissa.com/v2/lookups/personatorsearch/",
+              "description": "Data Broker Service |[Opt-Out](https://www.melissa.com/privacy)."
+            },
+            {
+              "name": "My Life",
+              "url": "https://www.mylife.com/",
+              "description": "Data Broker Service | [CCPA](https://www.mylife.com/privacy-policy#caliResidentsNotice)."
+            },
+            {
+              "name": "Nuwber",
+              "url": "https://nuwber.com/",
+              "description": "Data Broker Service | [Opt-Out](https://nuwber.com/removal/Opt-Out)."
+            },
+            {
+              "name": "People Finder (Intelius)",
+              "url": "https://www.peoplefinder.com/",
+              "description": "Data Broker Service |[Opt-Out](https://www.intelius.com/optout)."
+            },
+            {
+              "name": "People Finders",
+              "url": "https://www.peoplefinders.com/",
+              "description": "Data Broker Service | [Opt-Out](https://www.peoplefinders.com/opt-out)."
+            },
+            {
+              "name": "People Search Now",
+              "url": "https://www.peoplesearchnow.com/",
+              "description": "Data Broker Service | [Opt-Out](https://www.peoplesearchnow.com/opt-out)."
+            },
+            {
+              "name": "People Smart (Been Verified)",
+              "url": "https://www.peoplesmart.com",
+              "description": "Data Broker Service | [Opt-Out](https://www.beenverified.com/app/optout/search)."
+            },
+            {
+              "name": "PimEyes",
+              "url": "https://www.pimeyes.com/",
+              "description": "Data Broker Service | [Opt-Out](https://www.peekyou.com/about/contact/ccpa_optout/do_not_sell/)."
+            },
+            {
+              "name": "Pipl",
+              "url": "https://pipl.com/",
+              "description": "Data Broker Service | [Opt-Out](https://pipl.com/personal-information-removal-request)."
+            },
+            {
+              "name": "Private Eye",
+              "url": "https://www.privateeye.com/",
+              "description": "Data Broker Service | [Opt-Out](https://www.privateeye.com/static/view/optout/)."
+            },
+            {
+              "name": "Public Records (Intelius)",
+              "url": "https://publicrecords.com/",
+              "description": "Data Broker Service | [Opt-Out](https://www.intelius.com/opt-out/submit/)."
+            },
+            {
+              "name": "Radaris",
+              "url": "https://radaris.com/",
+              "description": "Data Broker Service | E-Mail to opt-out."
+            },
+            {
+              "name": "Spokeo",
+              "url": "https://spokeo.com/",
+              "description": "Data Broker Service | [Opt-Out](https://www.spokeo.com/optout)."
+            },
+            {
+              "name": "That's Them",
+              "url": "https://thatsthem.com/",
+              "description": "Data Broker Service | [Opt-Out](https://thatsthem.com/optout)."
+            },
+            {
+              "name": "True People Search",
+              "url": "https://www.truepeoplesearch.com",
+              "description": "Data Broker Service | [Opt-Out](https://www.truepeoplesearch.com/removal)."
+            },
+            {
+              "name": "TruthFinder",
+              "url": "https://www.truthfinder.com/",
+              "description": "Data Broker Service | [Opt-Out](https://www.truthfinder.com/opt-out/)."
+            },
+            {
+              "name": "USSearch",
+              "url": "https://www.ussearch.com/",
+              "description": "Data Broker Service | [Opt-Out](https://www.ussearch.com/opt-out/submit/)."
+            },
+            {
+              "name": "Voter Records",
+              "url": "https://voterrecords.com/",
+              "description": "Data Broker Service | [Opt-Out](https://voterrecords.com/contact)."
+            },
+            {
+              "name": "Webmii",
+              "url": "https://webmii.com/"
+            },
+            {
+              "name": "White Pages",
+              "url": "https://www.whitepages.com/",
+              "description": "Data Broker Service | [CCPA](https://www.whitepages.com/privacy/ccpa) [Suppression Request](https://www.whitepages.com/suppression-requests)."
+            },
+            {
+              "name": "Yasni",
+              "url": "https://www.yasni.com/",
+              "description": "Data Broker Service | E-Mail datenschutz@yasni.de."
+            },
+            {
+              "name": "Zaba Search (Intelius)",
+              "url": "https://www.zabasearch.com/",
+              "description": "Data Broker Service | [Opt-Out](https://www.intelius.com/opt-out/submit/)."
+            }
+          ]
+        },
+        {
+          "title": "Phone Numbers",
+          "tools": [
+            {
+              "name": "411",
+              "url": "https://www.411.com/phone/",
+              "description": "Phone number directoy lookup. |[Opt-Out](https://whitepagesprivacy.zendesk.com/hc/en-us/requests/new)."
+            },
+            {
+              "name": "Telephone Directories",
+              "url": "https://Telephonedirectories.us",
+              "description": "Phone number directoy lookup. |[Opt-Out](https://www.telephonedirectories.us/Edit_Records)."
+            },
+            {
+              "name": "Caller Smart",
+              "url": "https://Callersmart.com",
+              "description": "Phone number directoy lookup. | [Opt-Out](https://www.callersmart.com/opt-out)."
+            },
+            {
+              "name": "All Area Codes",
+              "url": "https://Allareacodes.com/",
+              "description": "Phone number directoy lookup. | [Opt-Out](https://www.allareacodes.com/remove_name.htm)."
+            },
+            {
+              "name": "People by Name",
+              "url": "https://Peoplebyname.com/",
+              "description": "Phone number directoy lookup. | [Opt-Out](https://www.peoplebyname.com/remove.php)."
+            },
+            {
+              "name": "PhoneInfoga",
+              "url": "https://github.com/sundowndev/phoneinfoga",
+              "description": "Advanced information gathering & OSINT framework for phone numbers.",
+              "repo": "sundowndev/phoneinfoga"
+            }
+          ]
+        },
+        {
+          "title": "Physical Address",
+          "tools": [
+            {
+              "name": "Melissa",
+              "url": "https://lookups.melissa.com/home/addresscheck/address/",
+              "description": "[Opt-Out](https://apps.melissa.com/user/consumerprivacy.aspx)."
+            },
+            {
+              "name": "Neighbor Who (Been Verified)",
+              "url": "https://www.neighborwho.com",
+              "description": "[Opt-Out](https://www.neighborwho.com/app/optout/search)."
+            }
+          ]
+        },
+        {
+          "title": "Social Media",
+          "tools": [
+            {
+              "name": "One Million Tweet Map",
+              "url": "https://onemilliontweetmap.com/",
+              "description": "Displays last 24h geolocalized tweets delivered. Real Time."
+            },
+            {
+              "name": "Osintgram",
+              "url": "https://github.com/Datalux/Osintgram",
+              "description": "Osintgram offers an interactive shell to perform analysis on an Instagram account of any users by their nickname.",
+              "repo": "Datalux/Osintgram"
+            },
+            {
+              "name": "Sherlock",
+              "url": "https://github.com/sherlock-project/sherlock",
+              "description": "Hunt down social media accounts by username.",
+              "repo": "sherlock-project/sherlock"
+            },
+            {
+              "name": "Social Analyzer",
+              "url": "https://github.com/qeeqbox/social-analyzer",
+              "description": "API, CLI & Web App for analyzing & finding a person's profile across +800 social media.",
+              "repo": "qeeqbox/social-analyzer"
+            },
+            {
+              "name": "Social Searcher",
+              "url": "https://www.social-searcher.com/",
+              "description": "Social Media Search Engine."
+            },
+            {
+              "name": "Toutatis",
+              "url": "https://github.com/megadose/toutatis",
+              "description": "a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more.",
+              "repo": "megadose/toutatis"
+            },
+            {
+              "name": "WhatsMyName",
+              "url": "https://github.com/webbreacher/whatsmyname",
+              "description": "Unified data required to perform user and username enumeration on various websites.",
+              "repo": "webbreacher/whatsmyname"
+            },
+            {
+              "name": "Xquik",
+              "url": "https://github.com/Xquik-dev/x-twitter-scraper",
+              "description": "Independent X (Twitter) data API for search, follower export, monitors, and MCP.",
+              "repo": "Xquik-dev/x-twitter-scraper"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

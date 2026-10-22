@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-glftpd : glftpd
-glftpd : glftpd

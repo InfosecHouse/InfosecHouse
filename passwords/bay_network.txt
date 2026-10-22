@@ -1,5 +1,0 @@
-USERNAME : PASSWORD
-<blank> : NetICs
-Manager : <blank>
-User : <blank>
-security : security

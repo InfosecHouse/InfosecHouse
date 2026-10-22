@@ -1,3 +1,0 @@
-<blank> : admin
-admin : admin
-admin : password

@@ -1,2 +1,0 @@
-USERNAME : PASSWORD
-<blank> : Last 4 digits of VIN

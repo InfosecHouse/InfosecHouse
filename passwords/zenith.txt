@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-<blank> : 3098z
-<blank> : Zenith

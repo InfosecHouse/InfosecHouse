@@ -1,0 +1,94 @@
+{
+  "slug": "data-exfiltration",
+  "title": "Data Exfiltration",
+  "description": "Exfiltrate the data, and test your DLP.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "Hardware",
+          "tools": [
+            {
+              "name": "P4wnP1 ALOA",
+              "url": "https://github.com/RoganDawes/P4wnP1_aloa",
+              "description": "A framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements.",
+              "repo": "RoganDawes/P4wnP1_aloa"
+            }
+          ]
+        },
+        {
+          "title": "Software",
+          "tools": [
+            {
+              "name": "Cloakify",
+              "url": "https://github.com/TryCatchHCF/Cloakify",
+              "description": "Data Exfiltration & Infiltration In Plain Sight.",
+              "repo": "TryCatchHCF/Cloakify"
+            },
+            {
+              "name": "DET",
+              "url": "https://github.com/sensepost/DET",
+              "description": "Data Exfiltration Toolkit (DET).",
+              "repo": "sensepost/DET"
+            },
+            {
+              "name": "DNSExfiltrator",
+              "url": "https://github.com/Arno0x/DNSExfiltrator",
+              "description": "Data exfiltration over DNS request covert channel.",
+              "repo": "Arno0x/DNSExfiltrator"
+            },
+            {
+              "name": "Exphil",
+              "url": "https://github.com/glennzw/exphil",
+              "description": "Data exfiltration PoC scripts.",
+              "repo": "glennzw/exphil"
+            },
+            {
+              "name": "IPv6Exfil",
+              "url": "https://github.com/DShield-ISC/IPv6DNSExfil",
+              "description": "Data Exfiltration and Command Execution via AAAA Records. -.",
+              "repo": "DShield-ISC/IPv6DNSExfil"
+            },
+            {
+              "name": "LNKUp",
+              "url": "https://github.com/Plazmaz/LNKUp",
+              "description": "Generates malicious LNK file payloads for data exfiltration. -.",
+              "repo": "Plazmaz/LNKUp"
+            },
+            {
+              "name": "PowerExfil",
+              "url": "https://github.com/1N3/PowerExfil",
+              "description": "A collection of data exfiltration scripts for Red Team assessments. -.",
+              "repo": "1N3/PowerExfil"
+            },
+            {
+              "name": "PyExfil",
+              "url": "https://github.com/ytisf/PyExfil",
+              "description": "Collaboration and Reporting for InfoSec Teams Made Simple.",
+              "repo": "ytisf/PyExfil"
+            },
+            {
+              "name": "SG1",
+              "url": "https://github.com/evilsocket/sg1",
+              "description": "A wanna be swiss army knife for data encryption, exfiltration and covert communication.",
+              "repo": "evilsocket/sg1"
+            },
+            {
+              "name": "XXEtimes",
+              "url": "https://github.com/ropnop/xxetimes",
+              "description": "An interactive OOB XXE data exfiltration tool.",
+              "repo": "ropnop/xxetimes"
+            }
+          ]
+        }
+      ],
+      "notices": [
+        {
+          "type": "info",
+          "text": "Below tools requires physical hardware to succesfully work."
+        }
+      ]
+    }
+  ]
+}

@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-administrator : <blank>
-operator : <blank>

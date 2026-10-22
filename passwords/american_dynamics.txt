@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-admin : 9999
-admin : admin

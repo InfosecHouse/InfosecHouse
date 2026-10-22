@@ -1,0 +1,162 @@
+{
+  "slug": "ai",
+  "title": "AI",
+  "description": "Break the machines that think. Tools for attacking and defending AI systems.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "Evasion, Poisoning, Extraction",
+          "tools": [
+            {
+              "name": "Adversarial Robustness Toolbox (ART)",
+              "url": "https://github.com/Trusted-AI/adversarial-robustness-toolbox",
+              "description": "Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference.",
+              "repo": "Trusted-AI/adversarial-robustness-toolbox"
+            },
+            {
+              "name": "CounterFit",
+              "url": "https://github.com/Azure/counterfit",
+              "description": "A CLI that provides a generic automation layer for assessing the security of ML models.",
+              "repo": "Azure/counterfit"
+            },
+            {
+              "name": "Foolbox",
+              "url": "https://github.com/bethgelab/foolbox",
+              "description": "A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX.",
+              "repo": "bethgelab/foolbox"
+            }
+          ]
+        },
+        {
+          "title": "Jailbreaking",
+          "tools": [
+            {
+              "name": "EasyJailbreak",
+              "url": "https://github.com/EasyJailbreak/EasyJailbreak",
+              "description": "An easy-to-use Python framework to generate adversarial jailbreak prompts.",
+              "repo": "EasyJailbreak/EasyJailbreak"
+            },
+            {
+              "name": "JailbreakBench",
+              "url": "https://github.com/JailbreakBench/jailbreakbench",
+              "description": "An Open Robustness Benchmark for Jailbreaking Language Models.",
+              "repo": "JailbreakBench/jailbreakbench"
+            }
+          ]
+        },
+        {
+          "title": "LLM & Generative AI Red Teaming",
+          "tools": [
+            {
+              "name": "Garak",
+              "url": "https://github.com/NVIDIA/garak",
+              "description": "The LLM vulnerability scanner.",
+              "repo": "NVIDIA/garak"
+            },
+            {
+              "name": "PromptBreach",
+              "url": "https://github.com/microsoft/promptbench",
+              "description": "The Python Risk Identification Tool for generative AI.",
+              "repo": "microsoft/promptbench"
+            },
+            {
+              "name": "PyRIT",
+              "url": "https://github.com/Azure/PyRIT",
+              "description": "The Python Risk Identification Tool for generative AI.",
+              "repo": "Azure/PyRIT"
+            },
+            {
+              "name": "Promptmap2",
+              "url": "https://github.com/utkusen/promptmap",
+              "description": "A security scanner for custom LLM applications.",
+              "repo": "utkusen/promptmap"
+            },
+            {
+              "name": "Purple Llama",
+              "url": "https://github.com/meta-llama/PurpleLlama",
+              "description": "Set of tools to assess and improve LLM security.",
+              "repo": "meta-llama/PurpleLlama"
+            }
+          ]
+        },
+        {
+          "title": "Model Extraction & Inference Attacks",
+          "tools": [
+            {
+              "name": "Privacy Meter",
+              "url": "https://github.com/privacytrustlab/ml_privacy_meter",
+              "description": "Audit data privacy in statistical and machine learning algorithms.",
+              "repo": "privacytrustlab/ml_privacy_meter"
+            },
+            {
+              "name": "SecretFlow",
+              "url": "https://github.com/secretflow/secretflow",
+              "description": "A unified framework for privacy-preserving data analysis and machine learning.",
+              "repo": "secretflow/secretflow"
+            },
+            {
+              "name": "ShadowAttack",
+              "url": "https://github.com/hncszyq/ShadowAttack",
+              "description": "Stealthy and Effective Physical-world Adversarial Attack by Natural Phenomenon.",
+              "repo": "hncszyq/ShadowAttack"
+            }
+          ]
+        },
+        {
+          "title": "Data Poisoning & Supply Chain Attacks",
+          "tools": [
+            {
+              "name": "Backdoor Box",
+              "url": "https://github.com/THUYimingLi/BackdoorBox",
+              "description": "A universal pytorch platform to conduct security researches of image classification in deep learning.",
+              "repo": "THUYimingLi/BackdoorBox"
+            },
+            {
+              "name": "TrojanZoo",
+              "url": "https://github.com/ain-soph/trojanzoo",
+              "description": "The open-sourced Python toolbox for backdoor attacks and defenses.",
+              "repo": "ain-soph/trojanzoo"
+            }
+          ]
+        },
+        {
+          "title": "LLM Safety & Guardrails",
+          "tools": [
+            {
+              "name": "Alibi Detect",
+              "url": "https://github.com/SeldonIO/alibi-detect",
+              "description": "Algorithms for outlier, adversarial and drift detection.",
+              "repo": "SeldonIO/alibi-detect"
+            },
+            {
+              "name": "Guardrails AI",
+              "url": "https://github.com/guardrails-ai/guardrails",
+              "description": "Adding guardrails to large language models.",
+              "repo": "guardrails-ai/guardrails"
+            },
+            {
+              "name": "LLM Guard",
+              "url": "https://github.com/protectai/llm-guard",
+              "description": "A comprehensive tool designed to fortify the security of Large Language Models.",
+              "repo": "protectai/llm-guard"
+            },
+            {
+              "name": "NeMo Guardrails",
+              "url": "https://github.com/NVIDIA-NeMo/Guardrails",
+              "description": "Toolkit for easily adding programmable guardrails to LLM-based conversational systems.",
+              "repo": "NVIDIA-NeMo/Guardrails"
+            },
+            {
+              "name": "Vigil",
+              "url": "https://github.com/deadbits/vigil-llm",
+              "description": "Detect prompt injections, jailbreaks, and other potentially risky Large Language Model inputs.",
+              "repo": "deadbits/vigil-llm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

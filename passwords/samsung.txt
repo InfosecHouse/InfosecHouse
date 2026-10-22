@@ -1,5 +1,0 @@
-USERNAME : PASSWORD
-<blank> : <blank>
-<blank> : s!a@m#n$p%c
-admin : password
-public : public

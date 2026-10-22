@@ -1,0 +1,45 @@
+{
+  "slug": "linux",
+  "title": "Linux",
+  "description": "Tools and resources for popping those Linux boxes.",
+  "sections": [
+    {
+      "title": "Offensive Security",
+      "groups": [
+        {
+          "title": "Auditing",
+          "tools": [
+            {
+              "name": "Linux Exploit Suggester",
+              "url": "https://github.com/mzet-/linux-exploit-suggester",
+              "description": "A curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.",
+              "repo": "mzet-/linux-exploit-suggester"
+            }
+          ]
+        },
+        {
+          "title": "Cheatsheets",
+          "tools": [
+            {
+              "name": "GTFOBins",
+              "url": "https://gtfobins.github.io/",
+              "description": "A curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.",
+              "repo": "GTFOBins/GTFOBins.github.io"
+            }
+          ]
+        },
+        {
+          "title": "Post Exploitation",
+          "tools": [
+            {
+              "name": "Mimipenguin",
+              "url": "https://github.com/huntergregal/mimipenguin",
+              "description": "A tool to dump the login password from the current linux user.",
+              "repo": "huntergregal/mimipenguin"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

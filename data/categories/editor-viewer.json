@@ -1,0 +1,52 @@
+{
+  "slug": "editor-viewer",
+  "title": "Editors & Viewers",
+  "description": "Editors and viewers for digging into files of every format.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "Tools",
+          "tools": [
+            {
+              "name": "BStrings",
+              "url": "https://github.com/EricZimmerman/bstrings",
+              "description": "A better strings utility!.",
+              "repo": "EricZimmerman/bstrings"
+            },
+            {
+              "name": "CyberChef",
+              "url": "https://github.com/mattnotmax/cyberchef-recipes",
+              "description": "A fantastic tool for data transformation, extraction & manipulation in your web-browser.",
+              "repo": "mattnotmax/cyberchef-recipes"
+            },
+            {
+              "name": "dsieve",
+              "url": "https://github.com/trickest/dsieve",
+              "description": "Filter and enrich a list of subdomains by level.",
+              "repo": "trickest/dsieve"
+            },
+            {
+              "name": "Hardcodes",
+              "url": "https://github.com/s0md3v/hardcodes",
+              "description": "Find hardcoded strings from source code.",
+              "repo": "s0md3v/hardcodes"
+            },
+            {
+              "name": "Hexed.it",
+              "url": "https://hexed.it/",
+              "description": "Browser based online and offline hex editing."
+            },
+            {
+              "name": "Hexyl",
+              "url": "https://github.com/sharkdp/hexyl",
+              "description": "A command-line hex viewer.",
+              "repo": "sharkdp/hexyl"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

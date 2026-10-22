@@ -1,4 +1,0 @@
-USERNAME : PASSWORD
-anonymous : <blank>
-ftp : ftp
-guest : guest

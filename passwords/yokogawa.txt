@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-<blank> : 727
-admin : !admin

@@ -1,2 +1,0 @@
-USERNAME : PASSWORD
-<blank> : 0 and the number of OCE printer

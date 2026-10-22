@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
- : Polrty
-<blank> : Polrty

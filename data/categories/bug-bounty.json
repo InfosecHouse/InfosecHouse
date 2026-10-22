@@ -1,0 +1,74 @@
+{
+  "slug": "bug-bounty",
+  "title": "Bug Bounty",
+  "description": "Hack for cash. Test your skills and get paid for finding vulnerabilities.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "Cheatsheets/Checklists",
+          "tools": [
+            {
+              "name": "Bug bounty Roadmaps",
+              "url": "https://github.com/1ndianl33t/Bug-Bounty-Roadmaps",
+              "description": "Bug Bounty Roadmaps.",
+              "repo": "1ndianl33t/Bug-Bounty-Roadmaps"
+            }
+          ]
+        },
+        {
+          "title": "Organization",
+          "tools": [
+            {
+              "name": "HackWithGoodFaith",
+              "url": "https://github.com/brevityinmotion/goodfaith",
+              "description": "Stay within program scope.",
+              "repo": "brevityinmotion/goodfaith"
+            }
+          ]
+        },
+        {
+          "title": "Platforms",
+          "tools": [
+            {
+              "name": "Bugscrowd",
+              "url": "https://bugcrowd.com/programs",
+              "description": "#1 crowdsourced security company."
+            },
+            {
+              "name": "HackerOne",
+              "url": "https://hackerone.com/directory/programs/",
+              "description": "The platform is the industry standard for hacker-powered security."
+            },
+            {
+              "name": "huntr",
+              "url": "https://www.huntr.dev/",
+              "description": "Bug bounty board for securing open-source."
+            },
+            {
+              "name": "Intigriti",
+              "url": "https://www.intigriti.com/programs",
+              "description": "Europe's #1 ethical hacking and bug bounty platform."
+            },
+            {
+              "name": "Safe Hats",
+              "url": "https://app.safehats.com/signup",
+              "description": "Managed Bug Bounty."
+            },
+            {
+              "name": "Synack",
+              "url": "https://www.synack.com/",
+              "description": "Built by hackers for hackers."
+            },
+            {
+              "name": "Yes We Hack",
+              "url": "https://yeswehack.com/auth/register#create-hunter",
+              "description": "Global bug bounty platform crowdsourced security & vulnerability disclosure."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

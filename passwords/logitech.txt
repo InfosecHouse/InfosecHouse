@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-<blank> : 0
- : 0 or 0000

@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-Administrator : nicecti
-Nice-admin : nicecti

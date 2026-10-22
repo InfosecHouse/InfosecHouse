@@ -1,0 +1,142 @@
+{
+  "slug": "blogs",
+  "title": "Blogs",
+  "description": "Read up before you break in. Blogs and zines from offensive security researchers.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "Corporate Blogs",
+          "tools": [
+            {
+              "name": "Not so Secure",
+              "url": "https://notsosecure.com/blog/",
+              "description": "Mix of research."
+            },
+            {
+              "name": "Orange Cyberdefense",
+              "url": "https://sensepost.com/blog/",
+              "description": "Mix of research."
+            },
+            {
+              "name": "Security Weekly",
+              "url": "https://securityweekly.com/blog/",
+              "description": "Mix of research."
+            },
+            {
+              "name": "Trustwave",
+              "url": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/",
+              "description": "Mix of research."
+            }
+          ]
+        },
+        {
+          "title": "Personal Blogs",
+          "tools": [
+            {
+              "name": "0xSP",
+              "url": "https://0xsp.com/",
+              "description": "Red Team Cheat Sheets."
+            },
+            {
+              "name": "Archangel Amael",
+              "url": "https://archangelamael.blogspot.com/",
+              "description": "Mix of research."
+            },
+            {
+              "name": "Brendon",
+              "url": "https://tiszka.com/",
+              "description": "Computer security and C programming."
+            },
+            {
+              "name": "Coldwind",
+              "url": "https://gynvael.coldwind.pl/?blog=1&lang=en",
+              "description": "Mix of research."
+            },
+            {
+              "name": "Corelan",
+              "url": "https://www.corelan.be/",
+              "description": "Mix of research."
+            },
+            {
+              "name": "Darknet.org.uk",
+              "url": "https://www.darknet.org.uk/",
+              "description": "Mix of research."
+            },
+            {
+              "name": "Digi Ninja",
+              "url": "https://digi.ninja/blog.php",
+              "description": "Mix of research."
+            },
+            {
+              "name": "GnuCitizen",
+              "url": "https://www.gnucitizen.org/",
+              "description": "Mix of research."
+            },
+            {
+              "name": "Great Scott Gadgets",
+              "url": "https://greatscottgadgets.com/",
+              "description": "Hardware Security."
+            },
+            {
+              "name": "ihazomgsecurityskills",
+              "url": "https://ihazomgsecurityskillz.blogspot.com/",
+              "description": "Mix of research."
+            },
+            {
+              "name": "Mad Irish",
+              "url": "https://www.madirish.net/",
+              "description": "Mix of research."
+            },
+            {
+              "name": "Memset",
+              "url": "https://memset.wordpress.com/",
+              "description": "Mix of research."
+            },
+            {
+              "name": "Pentest Blog",
+              "url": "https://pentest.blog/",
+              "description": "Mix of research. Vulnerability research team of PRODAFT SARL."
+            },
+            {
+              "name": "Primal Cerebral",
+              "url": "https://primalcerebral.com/blog.php",
+              "description": "Mix of research. Vulnerability research team of PRODAFT SARL."
+            },
+            {
+              "name": "Reusable Security",
+              "url": "https://reusablesec.blogspot.com/",
+              "description": "Password Cracking, Crypto, and General Security Research."
+            },
+            {
+              "name": "Security Reliks",
+              "url": "https://securityreliks.wordpress.com/",
+              "description": "Mix of research."
+            },
+            {
+              "name": "Sirdarckcat",
+              "url": "https://sirdarckcat.blogspot.com/",
+              "description": "Web App and Mix of research."
+            },
+            {
+              "name": "Spy Logic",
+              "url": "https://www.spylogic.net/",
+              "description": "Mix of research."
+            },
+            {
+              "name": "Weapons of Mass Analysis",
+              "url": "https://wepma.blogspot.com/",
+              "description": "Mix of research."
+            },
+            {
+              "name": "Wirewatcher",
+              "url": "https://wirewatcher.wordpress.com/",
+              "description": "Mix of research."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,0 @@
-USERNAME : PASSWORD
-<blank> : <blank>
-admin : <blank>
-admin : noway
-factory : (see note)
-netopia : netopia

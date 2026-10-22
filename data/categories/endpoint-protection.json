@@ -1,0 +1,178 @@
+{
+  "slug": "endpoint-protection",
+  "title": "Endpoint Protection",
+  "description": "Lock down every endpoint before someone else does.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "Anti-Virus",
+          "tools": [
+            {
+              "name": "Avast",
+              "url": "https://www.avast.com/",
+              "description": "Ensure your privacy, security, and performance with Avast’s complete online protection."
+            },
+            {
+              "name": "Avira",
+              "url": "https://www.avira.com/",
+              "description": "Award-winning cybersecurity, powered by 1 click."
+            },
+            {
+              "name": "BitDefender",
+              "url": "https://bitdefender.com/",
+              "description": "Threat prevention, detection, and response solutions worldwide."
+            },
+            {
+              "name": "ClamAV",
+              "url": "https://github.com/Cisco-Talos/clamav",
+              "description": "Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
+              "repo": "Cisco-Talos/clamav"
+            },
+            {
+              "name": "Emsisoft",
+              "url": "https://www.emsisoft.com/en/",
+              "description": "New Zealand-based anti-virus distributed company software company."
+            },
+            {
+              "name": "ESET",
+              "url": "https://www.eset.com/us/home/antivirus/",
+              "description": "Fast and light, vital for gamers and everyday users that don’t want any interruptions."
+            },
+            {
+              "name": "F-Secure",
+              "url": "https://www.f-secure.com/",
+              "description": "A global cyber security and privacy company with over 30 offices around the world and is headquartered in Helsinki, Finland."
+            },
+            {
+              "name": "G-Data",
+              "url": "https://www.gdata-software.com/",
+              "description": "G DATA prepares you optimally for cyber threats and opens up all possibilities for you in the digital future."
+            },
+            {
+              "name": "Kaspersky",
+              "url": "https://www.kaspersky.com/",
+              "description": "Endpoint Security Cloud."
+            },
+            {
+              "name": "Malwarebytes",
+              "url": "https://www.malwarebytes.com/",
+              "description": "Protects your home endpoints against malware, ransomware, malicious websites, and other advanced online threats."
+            },
+            {
+              "name": "McAfee",
+              "url": "https://www.mcafee.com/",
+              "description": "Antivirus for PC, Android, Mac, and iOS now includes McAfee identity protection. Download McAfee for Free Today!."
+            },
+            {
+              "name": "Norton",
+              "url": "https://us.norton.com/",
+              "description": "Provides industry-leading antivirus and security software for your PC, Mac, and mobile devices."
+            },
+            {
+              "name": "Objective-See",
+              "url": "https://objective-see.com/products.html",
+              "description": "Free security Mac tools."
+            },
+            {
+              "name": "Panda",
+              "url": "https://www.pandasecurity.com/en/",
+              "description": "Don't be a target: join the next generation of digital protection."
+            },
+            {
+              "name": "Sophos",
+              "url": "https://www.sophos.com/",
+              "description": "World's best endpoint security, combining ransomware protection, deep learning malware detection, exploit prevention, EDR, XDR, and more."
+            },
+            {
+              "name": "Trend Micro",
+              "url": "https://www.trendmicro.com/",
+              "description": "Global leader in enterprise data security and cybersecurity solutions for businesses, data centers, cloud environments, networks, and endpoints."
+            },
+            {
+              "name": "Webroot",
+              "url": "https://webroot.com/",
+              "description": "Delivers multi-vector protection for endpoints and networks and threat intelligence services."
+            }
+          ]
+        },
+        {
+          "title": "EDR (Endpoint Detection & Response)",
+          "tools": [
+            {
+              "name": "CarbonBlack",
+              "url": "https://www.vmware.com/products/endpoint-detection-and-response.html",
+              "description": "On-premises threat hunting and incident response solution delivers continuous EDR visibility in offline, air-gapped and disconnected environments."
+            },
+            {
+              "name": "Cisco Secure Endpoint",
+              "url": "https://www.cisco.com/c/en/us/products/security/amp-for-endpoints/index.html",
+              "description": "Our cloud-native solution delivers robust protection, detection, and response to threats, reducing remediation times by as much as 85 percent."
+            },
+            {
+              "name": "Comodo",
+              "url": "https://www.comodo.com/endpoint-detection-response/",
+              "description": "Complete Endpoint Protection With Extensive Threat Hunting And Expanded Visibility."
+            },
+            {
+              "name": "Cortex",
+              "url": "https://www.paloaltonetworks.com/cortex/cortex-xdr",
+              "description": "Palo Alto - Stop attacks with the power of AI and full visibility."
+            },
+            {
+              "name": "Cylance",
+              "url": "https://www.blackberry.com/us/en/products/unified-endpoint-security/cylance-ai",
+              "description": "Cylance® AI advanced intelligence for endpoint security stops malware and malicious attacks before they happen."
+            },
+            {
+              "name": "Cynet",
+              "url": "https://www.cynet.com/platform/",
+              "description": "Cynet Converges XDR, Response Automation and 24/7 MDR Services."
+            },
+            {
+              "name": "ESET",
+              "url": "https://www.eset.com/int/business/solutions/endpoint-detection-and-response/",
+              "description": "A sophisticated tool for identification of anomalous behavior and breaches, risk assessment, incident response, investigations and remediation."
+            },
+            {
+              "name": "FireEye",
+              "url": "https://www.fireeye.com/products/endpoint-security.html",
+              "description": "Endpoint Security protects your organization with intelligence led protection, detection and response."
+            },
+            {
+              "name": "Intercept-X",
+              "url": "https://www.sophos.com/en-us/products/endpoint-antivirus",
+              "description": "Sophos - Intercept X Advanced with XDR allows you to ask any question about what has happened in the past, and what is happening now on your endpoints."
+            },
+            {
+              "name": "MVision",
+              "url": "https://www.mcafee.com/enterprise/en-us/solutions/mvision-endpoint-security.html",
+              "description": "McAfee - Future-proof your defenses with intelligent endpoint security and integrated XDR."
+            },
+            {
+              "name": "N-Able",
+              "url": "https://www.n-able.com/products/endpoint-detection-and-response",
+              "description": "Provide real-time, automated protection against evolving threats at each endpoint."
+            },
+            {
+              "name": "SentinelOne",
+              "url": "https://www.sentinelone.com/",
+              "description": "Cybersecurity that prevents threats at faster speed, greater scale, and higher accuracy than humanly possible. We are XDR."
+            },
+            {
+              "name": "Symantec Endpoint Security Enterprise",
+              "url": "https://www.broadcom.com/products/cyber-security/endpoint/end-user/enterprise",
+              "description": "Advanced threat prevention for traditional and mobile endpoints."
+            },
+            {
+              "name": "WatchGuard",
+              "url": "https://www.watchguard.com/wgrd-products/endpoint-security",
+              "description": "Security solutions deliver the technologies required to stop advanced cyberattacks on endpoints including next-gen antivirus."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

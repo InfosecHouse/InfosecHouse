@@ -1,0 +1,162 @@
+{
+  "slug": "videos",
+  "title": "Video",
+  "description": "Talks, livestreams, and presentations to sharpen your skills.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "Conferences",
+          "tools": [
+            {
+              "name": "Bsides San Francisco",
+              "url": "https://www.youtube.com/c/BSidesSFTV",
+              "description": "YouTube Channel."
+            },
+            {
+              "name": "Defcon",
+              "url": "https://www.youtube.com/user/DEFCONConference",
+              "description": "YouTube Channel."
+            },
+            {
+              "name": "Wild West Hackin Fest",
+              "url": "https://www.youtube.com/channel/UCef0TWni8ghLcJphdmDBoxw",
+              "description": "YouTube Channel."
+            }
+          ]
+        },
+        {
+          "title": "Documentaries",
+          "tools": [
+            {
+              "name": "Anonymous - The Hacker Wars Full Documentary",
+              "url": "https://youtu.be/ku9edEKvGuY",
+              "description": "YouTube - Anonymous Official."
+            },
+            {
+              "name": "Anonymous Comes to Town: The hackers who took on high school sexual assault in Ohio",
+              "url": "https://youtu.be/3pJyMC5lKds",
+              "description": "YouTube - The Guardian."
+            },
+            {
+              "name": "Computer Virus That Caused $50 Billion Damage",
+              "url": "https://youtu.be/cRH-khasTfg",
+              "description": "YouTube - The Infographic Show."
+            },
+            {
+              "name": "Cybersecurity Expert Answers Hacking Questions From Twitter",
+              "url": "https://youtu.be/b52cfb6lweU",
+              "description": "YouTube - Wired."
+            },
+            {
+              "name": "Defcon - The Full Documentary",
+              "url": "https://youtu.be/3ctQOmjQyYg",
+              "description": "YouTube - The Documentary Network."
+            },
+            {
+              "name": "Earth's Most Wanted Hacker",
+              "url": "https://youtu.be/PlbUYl67LTY/",
+              "description": "YouTube - Disrupt TV."
+            },
+            {
+              "name": "Hacker Breaks Down 26 Hacking Scenes From Movies & TV",
+              "url": "https://youtu.be/GWKB2AeUR04",
+              "description": "YouTube - Wired."
+            },
+            {
+              "name": "Hackers Find Missing People For Fun",
+              "url": "https://youtu.be/2puBmXfi9Z0",
+              "description": "YouTube - Freethink."
+            },
+            {
+              "name": "How Hackers Could Wirelessly Bug Your Office",
+              "url": "https://youtu.be/5GnMj5cus4A",
+              "description": "YouTube - Motherboard."
+            },
+            {
+              "name": "How I Hacked The US Government Aged 16",
+              "url": "https://youtu.be/HXXoO0FwUKQ",
+              "description": "YouTube - LADbible TV."
+            },
+            {
+              "name": "ILOVEYOU: Earth's Deadliest [Computer] Viruses",
+              "url": "https://youtu.be/soZyb6lMx4c",
+              "description": "YouTube - Disrupt TV."
+            },
+            {
+              "name": "Inside Russia’s Hacker Underworld",
+              "url": "https://www.youtube.com/watch?v=GWKB2AeUR04",
+              "description": "YouTube - Bloomberg."
+            },
+            {
+              "name": "Russia Perfected Its Cyberwarfare In Ukraine — America Could Pay The Price",
+              "url": "https://youtu.be/nW__A5V-EmQ",
+              "description": "YouTube - NBC News."
+            },
+            {
+              "name": "Sammy Kamkar Takes Down Myspace",
+              "url": "https://youtu.be/DtnuaHl378M",
+              "description": "YouTube - Motherboard."
+            },
+            {
+              "name": "The Dark Side of the Web",
+              "url": "https://youtu.be/mUP0tx7Ib2w",
+              "description": "YouTube - LEMMiNO."
+            },
+            {
+              "name": "The Million-Dollar Hacker",
+              "url": "https://youtu.be/icyTUMjlvMg",
+              "description": "YouTube - Bloomberg Quicktale."
+            },
+            {
+              "name": "Wannacry: The Marcus Hutchins Story",
+              "url": "https://youtu.be/vveLaA-z3-o",
+              "description": "YouTube - Tomorrow Unlocked."
+            }
+          ]
+        },
+        {
+          "title": "Livestreams",
+          "tools": [
+            {
+              "name": "HackListX",
+              "url": "https://hacklistx.github.io/",
+              "description": "A list of Hacking Streamers."
+            },
+            {
+              "name": "InfoSec Streamers",
+              "url": "https://infosecstreams.github.io",
+              "description": "InfoSec streamers list sorted based on 14-day activity to help you find active streamers more easily."
+            }
+          ]
+        },
+        {
+          "title": "Movies",
+          "tools": [
+            {
+              "name": "Hackers",
+              "url": "https://youtu.be/5T_CqqjOPDc",
+              "description": "Hackers are blamed for making a virus that will capsize five oil tankers."
+            },
+            {
+              "name": "Wargames",
+              "url": "https://www.imdb.com/title/tt0086567/",
+              "description": "A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III."
+            }
+          ]
+        },
+        {
+          "title": "TV Shows",
+          "tools": [
+            {
+              "name": "Mr. Robot",
+              "url": "https://www.imdb.com/title/tt4158110/",
+              "description": "Elliot, a brilliant but."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

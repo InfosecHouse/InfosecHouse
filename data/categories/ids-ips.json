@@ -1,0 +1,47 @@
+{
+  "slug": "ids-ips",
+  "title": "IDS/IPS",
+  "description": "Detect and block intrusions before they do damage.",
+  "sections": [
+    {
+      "title": "Software",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "CrowdSec",
+              "url": "https://github.com/crowdsecurity/crowdsec",
+              "description": "A free, open-source and collaborative IPS - Analyze behaviors, respond to attacks & share signals across the community.",
+              "repo": "crowdsecurity/crowdsec"
+            },
+            {
+              "name": "SecurityOnion",
+              "url": "https://github.com/Security-Onion-Solutions/securityonion",
+              "description": "Security Onion 2 - Linux distro for threat hunting, enterprise security monitoring, and log management.",
+              "repo": "Security-Onion-Solutions/securityonion"
+            },
+            {
+              "name": "SELKS",
+              "url": "https://github.com/StamusNetworks/SELKS",
+              "description": "A Suricata based IDS/IPS/NSM distro.",
+              "repo": "StamusNetworks/SELKS"
+            },
+            {
+              "name": "Snort",
+              "url": "https://github.com/snort3/snort3",
+              "description": "Open Source detection software.",
+              "repo": "snort3/snort3"
+            },
+            {
+              "name": "Suricata",
+              "url": "https://github.com/OISF/suricata",
+              "description": "Indpendent open-source threat detection engine.",
+              "repo": "OISF/suricata"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

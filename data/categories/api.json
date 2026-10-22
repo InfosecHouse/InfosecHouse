@@ -1,0 +1,161 @@
+{
+  "slug": "api",
+  "title": "API",
+  "description": "Poke every endpoint. Tools for pentesting APIs.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "Documentation",
+          "tools": [
+            {
+              "name": "MindAPI",
+              "url": "https://github.com/dsopas/MindAPI",
+              "description": "Organize your API security assessment by using MindAPI.",
+              "repo": "dsopas/MindAPI"
+            }
+          ]
+        },
+        {
+          "title": "Manipulation & Testing",
+          "tools": [
+            {
+              "name": "Arjun",
+              "url": "https://github.com/s0md3v/Arjun",
+              "description": "HTTP parameter discovery suite.",
+              "repo": "s0md3v/Arjun"
+            },
+            {
+              "name": "Astra",
+              "url": "https://github.com/flipkart-incubator/Astra",
+              "description": "Automated Security Testing For REST API's.",
+              "repo": "flipkart-incubator/Astra"
+            },
+            {
+              "name": "Apache JMeter",
+              "url": "https://jmeter.apache.org/download_jmeter.cgi",
+              "description": "Java application designed to load test functional behavior and measure performance."
+            },
+            {
+              "name": "Automatic API Attack Tool",
+              "url": "https://github.com/imperva/automatic-api-attack-tool",
+              "description": "Imperva's API attack tool takes an API specification as an input, generates and runs attacks that are based on it as an output.",
+              "repo": "imperva/automatic-api-attack-tool"
+            },
+            {
+              "name": "Burp Suite",
+              "url": "https://portswigger.net/burp",
+              "description": "Arm yourself with the leading toolkit for web security testing. Test, find, and exploit vulnerabilities."
+            },
+            {
+              "name": "Fiddler Everwhere",
+              "url": "https://www.telerik.com/fiddler/fiddler-everywhere",
+              "description": "A web debugging proxy for macOS, Windows, and Linux. Capture, inspect, monitor all HTTP(S) traffic between your computer and the Internet, mock requests, and diagnose network issue."
+            },
+            {
+              "name": "Hoppscotch",
+              "url": "https://github.com/hoppscotch/hoppscotch",
+              "description": "Open source tool that covers the entire testing spectrum (functional, security, load, mocking).",
+              "repo": "hoppscotch/hoppscotch"
+            },
+            {
+              "name": "HttpMaster",
+              "url": "https://www.httpmaster.net/",
+              "description": "Master HTTP testing & debugging."
+            },
+            {
+              "name": "Insomnia",
+              "url": "https://insomnia.rest/",
+              "description": "Quickly and easily send REST, SOAP, GraphQL, and GRPC requests directly within Insomnia.",
+              "repo": "Kong/insomnia"
+            },
+            {
+              "name": "Karate",
+              "url": "https://github.com/intuit/karate",
+              "description": "Test automation made simple.",
+              "repo": "intuit/karate"
+            },
+            {
+              "name": "Kiterunner",
+              "url": "https://github.com/assetnote/kiterunner",
+              "description": "Contextual Content Discovery Tool.",
+              "repo": "assetnote/kiterunner"
+            },
+            {
+              "name": "Postman",
+              "url": "https://www.postman.com/",
+              "description": "A collaboration platform for API development. Postman's features simplify each step of building an API and streamline collaboration so you can create better APIs, faster."
+            },
+            {
+              "name": "SoapUI",
+              "url": "https://www.soapui.org/tools/soapui/",
+              "description": "Open source tool that covers the entire testing spectrum (functional, security, load, mocking)."
+            },
+            {
+              "name": "Taurus",
+              "url": "https://gettaurus.org/",
+              "description": "Taurus improves experience of JMeter, Selenium and others."
+            },
+            {
+              "name": "Test Mace",
+              "url": "https://testmace.com/",
+              "description": "A modern powerful crossplatform tool for working with an API and creating automated API tests."
+            },
+            {
+              "name": "vRESTng",
+              "url": "https://vrest.io",
+              "description": "Automate API Requests as Runnable Test Cases, just by providing Request Details. Also, Validate API Responses using Test Case Assertions."
+            }
+          ]
+        },
+        {
+          "title": "Training",
+          "tools": [
+            {
+              "name": "crAPI",
+              "url": "https://github.com/OWASP/crAPI",
+              "description": "Completely ridiculous API (crAPI).",
+              "repo": "OWASP/crAPI"
+            },
+            {
+              "name": "Damn Vulnerable GraphQL App",
+              "url": "https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application",
+              "description": "An intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.",
+              "repo": "dolevf/Damn-Vulnerable-GraphQL-Application"
+            },
+            {
+              "name": "DVMS",
+              "url": "https://github.com/ne0z/DamnVulnerableMicroServices",
+              "description": "This is vulnerable microservice written in many language to demonstrating OWASP API Top Security Risk.",
+              "repo": "ne0z/DamnVulnerableMicroServices"
+            },
+            {
+              "name": "dvws-node",
+              "url": "https://github.com/snoopysecurity/dvws-node",
+              "description": "Damn Vulnerable Web Service is a vulnerable web service/API/application that can be used to learn webservices/API vulnerabilities.",
+              "repo": "snoopysecurity/dvws-node"
+            },
+            {
+              "name": "Kontra",
+              "url": "https://application.security/free/owasp-top-10-API",
+              "description": "A series of free interactive application security training modules that teach developers how to identify and mitigate security vulnerabilities in their web API endpoints."
+            },
+            {
+              "name": "VAmPI",
+              "url": "https://github.com/erev0s/VAmPI",
+              "description": "Vulnerable REST API with OWASP top 10 vulnerabilities for APIs.",
+              "repo": "erev0s/VAmPI"
+            },
+            {
+              "name": "vAPI",
+              "url": "https://github.com/roottusk/vapi",
+              "description": "Vulnerable Adversely Programmed Interface which is Self-Hostable PHP Interface that mimics OWASP API Top 10 scenarios in the means of Exercises.",
+              "repo": "roottusk/vapi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

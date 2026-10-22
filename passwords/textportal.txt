@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-god1 : 12345
-god2 : 12345

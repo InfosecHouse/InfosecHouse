@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-<blank> : 1234
-<blank> : private

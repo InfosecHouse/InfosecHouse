@@ -1,0 +1,99 @@
+{
+  "slug": "c2",
+  "title": "C2",
+  "description": "Command your implants. C2 tools and frameworks.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "Frameworks",
+          "tools": [
+            {
+              "name": "C3",
+              "url": "https://github.com/FSecureLABS/C3",
+              "description": "A framework for rapid prototyping of custom C2 channels, while still providing integration with existing offensive toolkits.",
+              "repo": "FSecureLABS/C3"
+            },
+            {
+              "name": "Cobalt Strike",
+              "url": "https://www.cobaltstrike.com/",
+              "description": "Software for Adversary Simulation and Red Team Operations."
+            },
+            {
+              "name": "Covenant",
+              "url": "https://github.com/cobbr/Covenant",
+              "description": "Covenant is a collaborative .NET C2 framework for red teamers.",
+              "repo": "cobbr/Covenant"
+            },
+            {
+              "name": "Loki",
+              "url": "https://github.com/boku7/Loki",
+              "description": "Node.js Command & Control for Script-Jacking Vulnerable Electron Applications.",
+              "repo": "boku7/Loki"
+            },
+            {
+              "name": "Merlin",
+              "url": "https://github.com/Ne0nd0g/merlin",
+              "description": "Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.",
+              "repo": "Ne0nd0g/merlin"
+            },
+            {
+              "name": "NightHawk",
+              "url": "https://www.mdsec.co.uk/nighthawk/",
+              "description": "Built with operational security in mind, Nighthawk is a highly malleable implant designed to circumvent and evade the modern security controls often seen in mature, highly monitored environments."
+            },
+            {
+              "name": "OcraC2",
+              "url": "https://github.com/Ptkatz/OrcaC2",
+              "description": "Multifunctional C&C framework for encrypted communication.",
+              "repo": "Ptkatz/OrcaC2"
+            },
+            {
+              "name": "phpsploit",
+              "url": "https://github.com/nil0x42/phpsploit",
+              "description": "Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor.",
+              "repo": "nil0x42/phpsploit"
+            },
+            {
+              "name": "PoshC2",
+              "url": "https://github.com/nettitude/PoshC2",
+              "description": "A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement.",
+              "repo": "nettitude/PoshC2"
+            },
+            {
+              "name": "Pupy",
+              "url": "https://github.com/n1nj4sec/pupy/",
+              "description": "Cross-platform C2 and post-exploitation framework written in python and C.",
+              "repo": "n1nj4sec/pupy"
+            },
+            {
+              "name": "SILENTTRINITY",
+              "url": "https://github.com/byt3bl33d3r/SILENTTRINITY",
+              "description": "An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR.",
+              "repo": "byt3bl33d3r/SILENTTRINITY"
+            },
+            {
+              "name": "Sliver",
+              "url": "https://github.com/BishopFox/sliver",
+              "description": "Sliver's implants support C2 over Mutual TLS (mTLS), WireGuard, HTTP(S), and DNS and are dynamically compiled with per-binary asymmetric encryption keys.",
+              "repo": "BishopFox/sliver"
+            },
+            {
+              "name": "Thanatos",
+              "url": "https://github.com/MythicAgents/thanatos",
+              "description": "Mythic C2 agent targeting Linux and Windows hosts written in Rust.",
+              "repo": "MythicAgents/thanatos"
+            },
+            {
+              "name": "TrevorC2",
+              "url": "https://github.com/trustedsec/trevorc2",
+              "description": "TrevorC2 is a legitimate website (browsable) that tunnels client/server communications for covert command execution.",
+              "repo": "trustedsec/trevorc2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

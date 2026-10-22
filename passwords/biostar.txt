@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-<blank> : Biostar
-<blank> : Q54arwms

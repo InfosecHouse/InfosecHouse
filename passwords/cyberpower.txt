@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-cyber : cyber
-device : cyber

@@ -1,2 +1,0 @@
-USERNAME : PASSWORD
-ucenik23 : ucenik

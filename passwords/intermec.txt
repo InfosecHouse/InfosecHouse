@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-<blank> : intermec
-intermec : intermec

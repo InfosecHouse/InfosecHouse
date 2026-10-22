@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-lp : lp
-radware : radware

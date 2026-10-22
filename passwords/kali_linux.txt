@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-kali : kali
-root : toor

@@ -1,0 +1,132 @@
+{
+  "slug": "social-engineering",
+  "title": "Social Engineering",
+  "description": "Manipulation techniques that exploit human error to gain private information, access, or valuables.",
+  "sections": [
+    {
+      "title": "Phishing",
+      "groups": [
+        {
+          "title": "Analysis / Trackers",
+          "tools": [
+            {
+              "name": "Phishalytics",
+              "url": "https://github.com/sjbell/phishalytics",
+              "description": "Collect and analyse large-scale datasets.",
+              "repo": "sjbell/phishalytics"
+            },
+            {
+              "name": "Phishing Tracker",
+              "url": "https://github.com/ndejong/phishing-tracker",
+              "description": "Utility to manage sets of phishing links making it easier to track their removal progress over time.",
+              "repo": "ndejong/phishing-tracker"
+            },
+            {
+              "name": "PhishTank",
+              "url": "https://phishtank.org/",
+              "description": "Out of the Net, into the tank."
+            }
+          ]
+        },
+        {
+          "title": "Frameworks",
+          "tools": [
+            {
+              "name": "espoofer",
+              "url": "https://github.com/chenjj/espoofer",
+              "description": "An email spoofing testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures.",
+              "repo": "chenjj/espoofer"
+            },
+            {
+              "name": "Evilgnix",
+              "url": "https://github.com/kgretzky/evilginx2",
+              "description": "MITM attack framework used for phishing credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection.",
+              "repo": "kgretzky/evilginx2"
+            },
+            {
+              "name": "Fierce Phish",
+              "url": "https://github.com/Raikia/FiercePhish",
+              "description": "A full-fledged phishing framework to manage all phishing engagements.",
+              "repo": "Raikia/FiercePhish"
+            },
+            {
+              "name": "GoPhish",
+              "url": "https://getgophish.com/",
+              "description": "Phishing toolkit designed for businesses and penetration testers."
+            },
+            {
+              "name": "Judas",
+              "url": "https://github.com/JonCooperWorks/judas",
+              "description": "A pluggable phishing proxy.",
+              "repo": "JonCooperWorks/judas"
+            },
+            {
+              "name": "King Phisher",
+              "url": "https://github.com/rsmusllp/king-phisher",
+              "description": "A tool for testing and promoting user awareness by simulating real world phishing attacks.",
+              "repo": "rsmusllp/king-phisher"
+            },
+            {
+              "name": "Modlishka",
+              "url": "https://github.com/drk1wi/Modlishka",
+              "description": "Flexible and powerful reverse proxy with real-time two-factor authentication.",
+              "repo": "drk1wi/Modlishka"
+            },
+            {
+              "name": "Phishing Frenzy",
+              "url": "https://github.com/pentestgeek/phishing-frenzy",
+              "description": "Ruby on Rails Phishing Framework.",
+              "repo": "pentestgeek/phishing-frenzy"
+            },
+            {
+              "name": "Shell Phish",
+              "url": "https://github.com/suljot/shellphish",
+              "description": "A Phishing tool to replicate various.",
+              "repo": "suljot/shellphish"
+            },
+            {
+              "name": "Social Engineering Toolkit",
+              "url": "https://github.com/trustedsec/social-engineer-toolkit",
+              "description": "Penetration testing framework designed for social engineering.",
+              "repo": "trustedsec/social-engineer-toolkit"
+            },
+            {
+              "name": "Social Fish",
+              "url": "https://github.com/UndeadSec/SocialFish",
+              "description": "Phishing framework.",
+              "repo": "UndeadSec/SocialFish"
+            },
+            {
+              "name": "SpeedPhish Framework",
+              "url": "https://github.com/tatanus/SPF",
+              "description": "Tool designed to allow for quick recon and deployment of simple social engineering phishing exercises.",
+              "repo": "tatanus/SPF"
+            },
+            {
+              "name": "SPT Project",
+              "url": "https://github.com/chris-short/sptoolkit",
+              "description": "Phishing education toolkit that aims to help in securing the mind as opposed to securing computers.",
+              "repo": "chris-short/sptoolkit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "SMS",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "SMSSpoof",
+              "url": "https://github.com/vpn/SMSSpoof",
+              "description": "Send an SMS message to someone and change who it's from (the Sender).",
+              "repo": "vpn/SMSSpoof"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

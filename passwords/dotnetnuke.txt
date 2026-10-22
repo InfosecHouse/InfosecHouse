@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-admin : dnnadmin
-host : dnnhost

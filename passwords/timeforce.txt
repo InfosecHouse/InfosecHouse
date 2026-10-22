@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-sa : Dr8gedog
-sa : dr8gedog

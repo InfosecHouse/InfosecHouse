@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-GlobalAdmin : GlobalAdmin
-admin : admin123

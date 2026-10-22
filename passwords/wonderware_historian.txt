@@ -1,9 +1,0 @@
-USERNAME : PASSWORD
-aaAdmin : pwAdmin
-aaPower : pwPower
-aaUser : pwUser
-aadbo : pwddbo
-wwAdmin : wwAdmin
-wwPower : wwPower
-wwUser : wwUser
-wwdbo : wwdbo

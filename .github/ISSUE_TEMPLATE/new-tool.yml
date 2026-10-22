@@ -1,0 +1,42 @@
+name: Suggest a tool
+description: Suggest a tool or resource to add to the catalog
+title: "Add: <tool name>"
+labels: ["new tool"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tool name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: The project's homepage or repository
+      placeholder: https://github.com/owner/name
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Category
+      description: Which category it belongs in (e.g. Recon, OSINT, Forensics)
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: One-line description
+      description: What does it do? One factual sentence.
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: This is a legitimate tool/resource for authorized security testing, defense, research, or education.
+          required: true
+        - label: I linked to the official source, not a mirror or reupload.
+          required: true

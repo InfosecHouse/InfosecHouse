@@ -1,2 +1,0 @@
-USERNAME : PASSWORD
-Admin : 123qwe

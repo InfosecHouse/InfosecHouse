@@ -1,4 +1,0 @@
-USERNAME : PASSWORD
-me : <blank>
-root : NeXT
-signa : signa

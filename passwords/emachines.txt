@@ -1,2 +1,0 @@
-USERNAME : PASSWORD
-emaq : 4133

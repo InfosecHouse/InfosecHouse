@@ -1,5 +1,0 @@
-USERNAME : PASSWORD
-admin : admin
-root : default
-support : <blank>
-<blank> : <blank>

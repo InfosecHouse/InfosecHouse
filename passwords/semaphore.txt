@@ -1,5 +1,0 @@
-USERNAME : PASSWORD
-DESQUETOP : <blank>
-DS : <blank>
-DSA : <blank>
-PHANTOM : <blank>

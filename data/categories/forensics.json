@@ -1,0 +1,287 @@
+{
+  "slug": "forensics",
+  "title": "Forensics",
+  "description": "Uncover the dirty little secrets of a recovered HDD, Image, malware, and more.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "Blockchain",
+          "tools": [
+            {
+              "name": "Orbit",
+              "url": "https://github.com/s0md3v/Orbit",
+              "description": "Blockchain Transactions Investigation Tool.",
+              "repo": "s0md3v/Orbit"
+            }
+          ]
+        },
+        {
+          "title": "Browser",
+          "tools": [
+            {
+              "name": "Hindsight",
+              "url": "https://github.com/obsidianforensics/hindsight",
+              "description": "Web browser forensics for Google Chrome/Chromium.",
+              "repo": "obsidianforensics/hindsight"
+            }
+          ]
+        },
+        {
+          "title": "Disk Images",
+          "tools": [
+            {
+              "name": "AFFLIBv3",
+              "url": "https://github.com/sshock/AFFLIBv3",
+              "description": "AFF is an open and extensible file format to store disk images and associated metadata.",
+              "repo": "sshock/AFFLIBv3"
+            },
+            {
+              "name": "Autopsy",
+              "url": "https://www.sleuthkit.org/autopsy/",
+              "description": "A digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools."
+            },
+            {
+              "name": "DMG2IMG",
+              "url": "https://github.com/Lekensteyn/dmg2img",
+              "description": "DMG2IMG is a tool which allows converting Apple compressed dmg archives to standard (hfsplus) image disk files.",
+              "repo": "Lekensteyn/dmg2img"
+            }
+          ]
+        },
+        {
+          "title": "Images/Documents",
+          "tools": [
+            {
+              "name": "Disk Drill",
+              "url": "https://www.disk-drill.com",
+              "description": "Recover deleted files for Mac and Windows."
+            },
+            {
+              "name": "Exfiltool",
+              "url": "https://exiftool.org/",
+              "description": "Tool for reading, writing and editing meta information."
+            },
+            {
+              "name": "FOCA",
+              "url": "https://github.com/ElevenPaths/FOCA",
+              "description": "Tool to find metadata and hidden information in the documents.",
+              "repo": "ElevenPaths/FOCA"
+            }
+          ]
+        },
+        {
+          "title": "Mobile",
+          "tools": [
+            {
+              "name": "Andriller",
+              "url": "https://github.com/den4uk/andriller",
+              "description": "Performs read-only, forensically sound, non-destructive acquisition from Android devices.",
+              "repo": "den4uk/andriller"
+            }
+          ]
+        },
+        {
+          "title": "Scripts",
+          "tools": [
+            {
+              "name": "DissectingMalwa.re Lab",
+              "url": "https://github.com/f0wl/MalwareLab_VM-Setup",
+              "description": "Download/setup script for malware analysis/software reverse engineering.",
+              "repo": "f0wl/MalwareLab_VM-Setup"
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "tools": [
+            {
+              "name": "DFIR SQL Query",
+              "url": "https://github.com/abrignoni/DFIR-SQL-Query-Repo",
+              "description": "Download/setup script for malware analysis/software reverse engineering.   -.",
+              "repo": "abrignoni/DFIR-SQL-Query-Repo"
+            }
+          ]
+        },
+        {
+          "title": "Tools",
+          "tools": [
+            {
+              "name": "Beagle",
+              "url": "https://github.com/yampelo/beagle",
+              "description": "Digital forensics tool which transforms security logs and data into graphs.",
+              "repo": "yampelo/beagle"
+            }
+          ]
+        },
+        {
+          "title": "Windows",
+          "tools": [
+            {
+              "name": "AmcacheParser",
+              "url": "https://github.com/EricZimmerman/AmcacheParser",
+              "description": "Parses amcache.hve files, but with a twist. -.",
+              "repo": "EricZimmerman/AmcacheParser"
+            },
+            {
+              "name": "AppCompatCacheParser",
+              "url": "https://github.com/EricZimmerman/AppCompatCacheParser",
+              "description": "AppCompatCache (shimcache) parser. Supports Windows 7 (x86 and x64), Windows 8.x, and Windows 10. -.",
+              "repo": "EricZimmerman/AppCompatCacheParser"
+            },
+            {
+              "name": "Auditpol",
+              "url": "https://docs.microsoft.com/en-gb/windows-server/administration/windows-commands/auditpol",
+              "description": "Displays information about and performs functions to manipulate audit policies."
+            },
+            {
+              "name": "EvtxECmd",
+              "url": "https://github.com/EricZimmerman/evtx",
+              "description": "C# based evtx parser with lots of extras. -.",
+              "repo": "EricZimmerman/evtx"
+            },
+            {
+              "name": "ExtensionBlocks",
+              "url": "https://github.com/EricZimmerman/ExtensionBlocks",
+              "description": "Extension blocks as found in ShellBags and other places in the Registry. -.",
+              "repo": "EricZimmerman/ExtensionBlocks"
+            },
+            {
+              "name": "iisGeolocate",
+              "url": "https://github.com/EricZimmerman/iisGeolocate",
+              "description": "geolocate ip addresses in IIS logs. -.",
+              "repo": "EricZimmerman/iisGeolocate"
+            },
+            {
+              "name": "JLECmd",
+              "url": "https://github.com/EricZimmerman/JLECmd",
+              "description": "Automatic and Custom Destinations jump list parser with Windows 10 support. -.",
+              "repo": "EricZimmerman/JLECmd"
+            },
+            {
+              "name": "KAPE Files",
+              "url": "https://github.com/EricZimmerman/KapeFiles",
+              "description": "This repository serves as a place for community created Targets and Modules for use with KAPE. -.",
+              "repo": "EricZimmerman/KapeFiles"
+            },
+            {
+              "name": "LECmd",
+              "url": "https://github.com/EricZimmerman/LECmd",
+              "description": "Lnk Explorer Command line edition!.",
+              "repo": "EricZimmerman/LECmd"
+            },
+            {
+              "name": "Lnk",
+              "url": "https://github.com/EricZimmerman/Lnk",
+              "description": "Lnk file parser.",
+              "repo": "EricZimmerman/Lnk"
+            },
+            {
+              "name": "MFT",
+              "url": "https://github.com/EricZimmerman/MFT",
+              "description": "MFT parser.",
+              "repo": "EricZimmerman/MFT"
+            },
+            {
+              "name": "MFTECmd",
+              "url": "https://github.com/EricZimmerman/MFTECmd",
+              "description": "Parses $MFT from NTFS file systems.",
+              "repo": "EricZimmerman/MFTECmd"
+            },
+            {
+              "name": "OleCF",
+              "url": "https://github.com/EricZimmerman/OleCf",
+              "description": "Library to process OLE compound file format.",
+              "repo": "EricZimmerman/OleCf"
+            },
+            {
+              "name": "PECmd",
+              "url": "https://github.com/EricZimmerman/PECmd",
+              "description": "Prefetch Explorer Command Line.",
+              "repo": "EricZimmerman/PECmd"
+            },
+            {
+              "name": "Prefetch",
+              "url": "https://github.com/EricZimmerman/Prefetch",
+              "description": "Windows Prefetch parser. Supports all known versions from Windows XP to Windows 10. -   -.",
+              "repo": "EricZimmerman/Prefetch"
+            },
+            {
+              "name": "RBCmd",
+              "url": "https://github.com/EricZimmerman/RBCmd",
+              "description": "Recycle bin artifact parser.",
+              "repo": "EricZimmerman/RBCmd"
+            },
+            {
+              "name": "Registry",
+              "url": "https://github.com/EricZimmerman/Registry",
+              "description": "Full featured, offline Registry parser in C#.",
+              "repo": "EricZimmerman/Registry"
+            },
+            {
+              "name": "Registry Explorer Bookmarks",
+              "url": "https://github.com/EricZimmerman/RegistryExplorerBookmarks",
+              "description": "Registry Explorer bookmark definitions. -.",
+              "repo": "EricZimmerman/RegistryExplorerBookmarks"
+            },
+            {
+              "name": "SDB",
+              "url": "https://github.com/EricZimmerman/SDB",
+              "description": "Parse Microsoft shim databases.",
+              "repo": "EricZimmerman/SDB"
+            },
+            {
+              "name": "SQLECmd",
+              "url": "https://github.com/EricZimmerman/SQLECmd",
+              "description": "This repo that contains all the Maps used by Eric Zimmerman's SQLECmd. -.",
+              "repo": "EricZimmerman/SQLECmd"
+            },
+            {
+              "name": "SrumECmd",
+              "url": "https://github.com/EricZimmerman/Srum",
+              "description": "SRUM parser.",
+              "repo": "EricZimmerman/Srum"
+            },
+            {
+              "name": "SumECmd",
+              "url": "https://github.com/EricZimmerman/Sum",
+              "description": "Process Microsoft User Access Log.",
+              "repo": "EricZimmerman/Sum"
+            },
+            {
+              "name": "TLEFilePlugins",
+              "url": "https://github.com/EricZimmerman/TLEFilePlugins",
+              "description": "Plugins for parsing CSV files in Timeline Explorer. -.",
+              "repo": "EricZimmerman/TLEFilePlugins"
+            },
+            {
+              "name": "USBDevices",
+              "url": "https://github.com/EricZimmerman/USBDevices",
+              "description": "Get USB Devices from Registry hives.",
+              "repo": "EricZimmerman/USBDevices"
+            },
+            {
+              "name": "VSCMount",
+              "url": "https://github.com/EricZimmerman/VSCMount",
+              "description": "Mount VSCs with ease!.",
+              "repo": "EricZimmerman/VSCMount"
+            },
+            {
+              "name": "WinSearchDBAnalyzer",
+              "url": "https://github.com/EricZimmerman/WinSearchDBAnalyzer",
+              "description": "Parse normal records and recover deleted records in Windows.edb.",
+              "repo": "EricZimmerman/WinSearchDBAnalyzer"
+            },
+            {
+              "name": "WtTCmd",
+              "url": "https://github.com/EricZimmerman/WxTCmd",
+              "description": "Parser for the Windows 10 Timeline feature database.",
+              "repo": "EricZimmerman/WxTCmd"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

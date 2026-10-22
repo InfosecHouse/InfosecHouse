@@ -1,5 +1,0 @@
-USERNAME : PASSWORD
-<blank> : damin
-<blank> : sitecom
-admin : admin
-admin : password

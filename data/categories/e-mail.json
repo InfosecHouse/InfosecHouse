@@ -1,0 +1,23 @@
+{
+  "slug": "e-mail",
+  "title": "E-Mail",
+  "description": "Phish, spoof, and pop inboxes. E-mail pentesting tools and resources.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "MX Records",
+          "tools": [
+            {
+              "name": "MX-Takeover",
+              "url": "https://github.com/musana/mx-takeover",
+              "description": "Focuses DNS MX records and detects misconfigured MX records.",
+              "repo": "musana/mx-takeover"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

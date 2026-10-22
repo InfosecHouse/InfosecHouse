@@ -1,6 +1,0 @@
-USERNAME : PASSWORD
-IntraStack : Asante
-IntraSwitch : Asante
-admin : asante
-superuser : <blank>
-superuser : asante

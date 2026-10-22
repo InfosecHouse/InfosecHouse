@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-e250 : e250changeme
-e500 : e500changeme

@@ -1,4 +1,0 @@
-USERNAME : PASSWORD
-<blank> : admin
-admin : epicrouter
-admin : password

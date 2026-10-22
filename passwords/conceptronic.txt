@@ -1,4 +1,0 @@
-USERNAME : PASSWORD
-admin : 1234
-admin : password
-anonymous : password

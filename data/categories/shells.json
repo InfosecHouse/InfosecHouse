@@ -1,0 +1,109 @@
+{
+  "slug": "shells",
+  "title": "Shells",
+  "description": "From pre-built webshells to fully custom ones.",
+  "sections": [
+    {
+      "title": "Generators",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "GoSH",
+              "url": "https://github.com/redcode-labs/GoSH",
+              "description": "Golang reverse/bind shell generator.",
+              "repo": "redcode-labs/GoSH"
+            },
+            {
+              "name": "RevShells",
+              "url": "https://www.revshells.com/",
+              "description": "Reverse Shell generator with a ton of functionality.",
+              "repo": "0dayCTF/reverse-shell-generator"
+            },
+            {
+              "name": "Shellerator",
+              "url": "https://github.com/ShutdownRepo/shellerator",
+              "description": "Simple CLI tool for the generation of bind and reverse shells in multiple languages.",
+              "repo": "ShutdownRepo/shellerator"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Reverse Shells",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "GoodSpeed",
+              "url": "https://github.com/redcode-labs/GodSpeed",
+              "description": "Fast and intuitive manager for multiple reverse shells.",
+              "repo": "redcode-labs/GodSpeed"
+            },
+            {
+              "name": "ReverseSSH",
+              "url": "https://github.com/NHAS/reverse_ssh",
+              "description": "SSH based reverse shell.",
+              "repo": "NHAS/reverse_ssh"
+            },
+            {
+              "name": "Simple Reverse Shell",
+              "url": "https://github.com/tihanyin/Simple-Reverse-Shell",
+              "description": "Simple reverse shell to avoid Win 11 defender detection.",
+              "repo": "tihanyin/Simple-Reverse-Shell"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Webshells",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "Gecko",
+              "url": "https://github.com/MadExploits/Gecko",
+              "description": "Gecko Backdoor is a most powerful web php backdoor.",
+              "repo": "MadExploits/Gecko"
+            },
+            {
+              "name": "JShell",
+              "url": "https://github.com/s0md3v/JShell",
+              "description": "JShell - Get a JavaScript shell with XSS.",
+              "repo": "s0md3v/JShell"
+            },
+            {
+              "name": "p0wny shell",
+              "url": "https://github.com/flozz/p0wny-shell",
+              "description": "Single-file PHP shell.",
+              "repo": "flozz/p0wny-shell"
+            },
+            {
+              "name": "php reverse shell",
+              "url": "https://github.com/ivan-sincek/php-reverse-shell",
+              "description": "PHP reverse shell script. Works on Linux OS, macOS, and Windows OS.",
+              "repo": "ivan-sincek/php-reverse-shell"
+            },
+            {
+              "name": "SharPyShell",
+              "url": "https://github.com/antonioCoco/SharPyShell",
+              "description": "Tiny and obfuscated ASP.NET webshell for C# web applications.",
+              "repo": "antonioCoco/SharPyShell"
+            },
+            {
+              "name": "weevely3",
+              "url": "https://github.com/epinna/weevely3",
+              "description": "Weaponized web shell.",
+              "repo": "epinna/weevely3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

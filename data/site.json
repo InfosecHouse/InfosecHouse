@@ -1,0 +1,175 @@
+{
+  "name": "Infosec House",
+  "url": "https://infosec.house",
+  "tagline": "Offensive and defensive security tools, curated.",
+  "description": "A curated catalog of tools and resources for offensive and defensive cyber security operations, organized by discipline and kept current by the community.",
+  "repo": "https://github.com/InfosecHouse/InfosecHouse",
+  "edit_base": "https://github.com/InfosecHouse/InfosecHouse/edit/main/data/categories/",
+  "analytics": {
+    "umami_website_id": "26323af8-b63a-4d60-b934-e90024611b63"
+  },
+  "nav": [
+    {
+      "label": "About",
+      "href": "/about/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog/"
+    },
+    {
+      "label": "Categories",
+      "href": "/#categories"
+    },
+    {
+      "label": "Contribute",
+      "href": "/contribute/"
+    }
+  ],
+  "cta": {
+    "label": "Support Us",
+    "href": "/support-us/"
+  },
+  "sponsors": {
+    "diamond": [],
+    "gold": [],
+    "silver": [
+      {
+        "name": "Cylect",
+        "url": "https://cylect.io/",
+        "description": "The ultimate AI OSINT Tool.",
+        "tool": "cylect",
+        "category": "osint",
+        "banner": "/assets/sponsors/cylect-banner.png",
+        "link": "https://ai.cylect.io/?ref=infosec.house"
+      }
+    ],
+    "bronze": [],
+    "past": []
+  },
+  "social": [
+    {
+      "label": "GitHub",
+      "href": "https://github.com/infosechouse/"
+    },
+    {
+      "label": "X",
+      "href": "https://x.com/infosechouse/"
+    },
+    {
+      "label": "Telegram",
+      "href": "https://t.me/infosechouse"
+    },
+    {
+      "label": "Instagram",
+      "href": "https://instagram.com/infosechouse"
+    },
+    {
+      "label": "YouTube",
+      "href": "https://www.youtube.com/@infosechouse"
+    }
+  ],
+  "since": 2021,
+  "categories": [
+    "ai",
+    "api",
+    "assets-management",
+    "blogs",
+    "bug-bounty",
+    "c2",
+    "cheat-sheets",
+    "cloud-containers",
+    "collab",
+    "cracking",
+    "cryptography",
+    "ctf",
+    "data-exfiltration",
+    "e-mail",
+    "editor-viewer",
+    "education",
+    "emulation",
+    "endpoint-protection",
+    "evasion",
+    "exploits",
+    "firewalls",
+    "forensics",
+    "hardware",
+    "honeypot",
+    "ids-ips",
+    "ir",
+    "linux",
+    "malware",
+    "mobile",
+    "music",
+    "network",
+    "operating-systems",
+    "opsec",
+    "osint",
+    "privilege-escalation",
+    "re",
+    "recon",
+    "shells",
+    "social-engineering",
+    "threat-intel",
+    "videos",
+    "vuln-scanners",
+    "web-app",
+    "windows",
+    "wireless"
+  ],
+  "groups": {
+    "Offensive": [
+      "ai",
+      "api",
+      "c2",
+      "cloud-containers",
+      "collab",
+      "cracking",
+      "cryptography",
+      "data-exfiltration",
+      "e-mail",
+      "emulation",
+      "evasion",
+      "exploits",
+      "hardware",
+      "mobile",
+      "network",
+      "privilege-escalation",
+      "shells",
+      "social-engineering",
+      "vuln-scanners",
+      "web-app",
+      "windows",
+      "linux",
+      "wireless"
+    ],
+    "Defensive": [
+      "assets-management",
+      "endpoint-protection",
+      "firewalls",
+      "forensics",
+      "honeypot",
+      "ids-ips",
+      "ir",
+      "malware",
+      "re",
+      "opsec",
+      "editor-viewer"
+    ],
+    "Intel & Recon": [
+      "osint",
+      "recon",
+      "threat-intel"
+    ],
+    "Learning": [
+      "blogs",
+      "bug-bounty",
+      "cheat-sheets",
+      "ctf",
+      "education",
+      "music",
+      "videos",
+      "operating-systems"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "honeypot",
+  "title": "Honeypots",
+  "description": "Deploy honeypots to catch attackers in the act.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "Cowrie",
+              "url": "https://github.com/cowrie/cowrie",
+              "description": "Cowrie SSH/Telnet Honeypot.",
+              "repo": "cowrie/cowrie"
+            },
+            {
+              "name": "DemonHunter",
+              "url": "https://github.com/RevengeComing/DemonHunter",
+              "description": "Distributed Honeypot.",
+              "repo": "RevengeComing/DemonHunter"
+            },
+            {
+              "name": "Dionaea",
+              "url": "https://github.com/DinoTools/dionaea",
+              "description": "Home of the dionaea honeypot.",
+              "repo": "DinoTools/dionaea"
+            },
+            {
+              "name": "HellPot",
+              "url": "https://github.com/yunginnanet/HellPot",
+              "description": "HellPot is an endless honeypot that sends bots to hell. Based on Heffalump. |.",
+              "repo": "yunginnanet/HellPot"
+            },
+            {
+              "name": "HoneyTrap",
+              "url": "https://github.com/honeytrap/honeytrap",
+              "description": "Advanced Honeypot framework.",
+              "repo": "honeytrap/honeytrap"
+            },
+            {
+              "name": "MHN",
+              "url": "https://github.com/pwnlandia/mhn",
+              "description": "Modern Honey Network.",
+              "repo": "pwnlandia/mhn"
+            },
+            {
+              "name": "Mnemosyne",
+              "url": "https://github.com/johnnykv/mnemosyne",
+              "description": "Normalizer for honeypot data.",
+              "repo": "johnnykv/mnemosyne"
+            },
+            {
+              "name": "SNARE",
+              "url": "https://github.com/mushorg/snare",
+              "description": "Super Next generation Advanced Reactive honEypot.",
+              "repo": "mushorg/snare"
+            },
+            {
+              "name": "TANNER",
+              "url": "https://github.com/mushorg/tanner/",
+              "description": "He who flays the hide.",
+              "repo": "mushorg/tanner"
+            },
+            {
+              "name": "THUG",
+              "url": "https://github.com/buffer/thug",
+              "description": "Python low-interaction honeyclient.",
+              "repo": "buffer/thug"
+            },
+            {
+              "name": "T-Pot",
+              "url": "https://github.com/telekom-security/tpotce",
+              "description": "All in One Multi Honeypot Platform.",
+              "repo": "telekom-security/tpotce"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

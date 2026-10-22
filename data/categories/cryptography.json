@@ -1,0 +1,23 @@
+{
+  "slug": "cryptography",
+  "title": "Cryptography",
+  "description": "How great is your cryptography?",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "Keys",
+          "tools": [
+            {
+              "name": "Badkeys",
+              "url": "https://github.com/badkeys/badkeys",
+              "description": "Tool to find common vulnerabilities in cryptographic public keys.",
+              "repo": "badkeys/badkeys"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

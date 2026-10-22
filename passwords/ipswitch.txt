@@ -1,4 +1,0 @@
-USERNAME : PASSWORD
-XXSESS_MGRYY : X#1833
-admin : admin
-guest : <blank>

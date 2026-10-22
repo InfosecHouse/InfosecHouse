@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-1502 : 1502
-super : super

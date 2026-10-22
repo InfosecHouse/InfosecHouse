@@ -1,0 +1,86 @@
+{
+  "slug": "vuln-scanners",
+  "title": "Vulnerability Scanners",
+  "description": "Discover vulnerabilities fast, and automate the heavy lifting.",
+  "sections": [
+    {
+      "title": "Scanners",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "Acunetix",
+              "url": "https://www.acunetix.com/vulnerability-scanner/",
+              "description": "a complete web application security testing solution that can be used both standalone and as part of complex environments."
+            },
+            {
+              "name": "Alibaba Cloud Security Scanner",
+              "url": "https://www.alibabacloud.com/product/avds",
+              "description": "CSS utilizes data, white hat pentesting, and ML to provide an all-in-one security solution for domains and other online assets."
+            },
+            {
+              "name": "Amazon Inspector",
+              "url": "https://aws.amazon.com/inspector/pricing/",
+              "description": "Automated security assessment service to help improve the security and compliance of applications deployed on AWS."
+            },
+            {
+              "name": "AT&T Managed Vulnerability Program",
+              "url": "https://cybersecurity.att.com/products/managed-vulnerability-program",
+              "description": "Vulnerability management services that fit your business."
+            },
+            {
+              "name": "ManageEngine",
+              "url": "https://www.manageengine.com/vulnerability-management/",
+              "description": "Gain 360 degree visibility into your security exposure."
+            },
+            {
+              "name": "Nessus",
+              "url": "https://www.tenable.com/products/nessus",
+              "description": "Proprietary vulnerability scanner developed by Tenable, Inc."
+            },
+            {
+              "name": "Nexpose",
+              "url": "https://www.rapid7.com/products/nexpose/",
+              "description": "Your on-prem vulnerability scanner."
+            },
+            {
+              "name": "nuclei",
+              "url": "https://github.com/projectdiscovery/nuclei",
+              "description": "Fast and customisable vulnerability scanner based on simple YAML based DSL.",
+              "repo": "projectdiscovery/nuclei"
+            },
+            {
+              "name": "OpenVAS",
+              "url": "https://openvas.org/",
+              "description": "A full-featured vulnerability scanner."
+            },
+            {
+              "name": "Silver",
+              "url": "https://github.com/s0md3v/Silver",
+              "description": "Mass scan IPs for vulnerable services.",
+              "repo": "s0md3v/Silver"
+            },
+            {
+              "name": "Striker",
+              "url": "https://github.com/s0md3v/Striker",
+              "description": "Recon & Vulnerability Scanning Suite.",
+              "repo": "s0md3v/Striker"
+            },
+            {
+              "name": "WPScan",
+              "url": "https://github.com/wpscanteam/wpscan",
+              "description": "WordPress security scanner.",
+              "repo": "wpscanteam/wpscan"
+            },
+            {
+              "name": "ZAP",
+              "url": "https://www.zaproxy.org/",
+              "description": "World's most widely used web app scanner."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-<blank> : atc123
-n/a : atc123

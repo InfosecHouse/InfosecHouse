@@ -1,0 +1,23 @@
+name: Report a broken or incorrect link
+description: A link is dead, wrong, or the project has moved
+title: "Broken: <tool name>"
+labels: ["broken link"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tool name
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Page it appears on
+      placeholder: https://infosec.house/tools/...
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong?
+      description: Dead link, wrong URL, renamed project, etc. Include the correct URL if you know it.
+    validations:
+      required: true

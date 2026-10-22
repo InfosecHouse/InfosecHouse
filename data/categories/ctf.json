@@ -1,0 +1,102 @@
+{
+  "slug": "ctf",
+  "title": "CTF Offensive",
+  "description": "Flex your skills. Offensive security capture-the-flag events.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "Continous",
+          "tools": [
+            {
+              "name": "Cryptohack",
+              "url": "https://cryptohack.org/",
+              "description": "A fun free platform for learning modern cryptography."
+            },
+            {
+              "name": "CTFLearn",
+              "url": "https://ctflearn.com/",
+              "description": "Learn cybersecurity the most beginner-friendly way to get into hacking."
+            },
+            {
+              "name": "CTF Time",
+              "url": "https://ctftime.org/",
+              "description": "CTF Time is a useful site for teams to organize their participation in CTFs and assemble Teams. The site shows CTF Rankings over time for a team."
+            },
+            {
+              "name": "DomGoat",
+              "url": "https://domgo.at/cxss/intro",
+              "description": "DOM security learning platform."
+            },
+            {
+              "name": "Hack The Box",
+              "url": "https://www.hackthebox.eu/",
+              "description": "Massive online cyber security training platform, allowing individuals, companies, universities and all kinds of organizations around the world to level up their hacking skills."
+            },
+            {
+              "name": "Nightmare",
+              "url": "https://guyinatuxedo.github.io/",
+              "description": "Nightmare is an intro to binary exploitation / reverse engineering course based around ctf challenges."
+            },
+            {
+              "name": "Offensive Security",
+              "url": "https://www.offsec.com/labs/individual",
+              "description": "Practice your pentesting skills in a standalone, private lab environment within Offensive Security’s Proving Grounds."
+            },
+            {
+              "name": "pwnable.tw",
+              "url": "https://pwnable.tw",
+              "description": "Pwnable.tw is a wargame site for hackers to test and expand their binary exploiting skills."
+            },
+            {
+              "name": "pwnable.kr",
+              "url": "https://pwnable.kr",
+              "description": "A non-commercial wargame site which provides various pwn challenges regarding system exploitation."
+            },
+            {
+              "name": "pwnable.xyz",
+              "url": "https://pwnable.xyz",
+              "description": "Beginner tailored CTF challenges."
+            },
+            {
+              "name": "ringzer0ctf",
+              "url": "https://ringzer0ctf.com/challenges",
+              "description": "Ringzero CTF Challenges."
+            },
+            {
+              "name": "ROP Emporium",
+              "url": "https://ropemporium.com/",
+              "description": "Learn return-oriented programming through a series of challenges."
+            },
+            {
+              "name": "Roppers Academy",
+              "url": "https://www.hoppersroppers.org/",
+              "description": "Learn the fundamentals of Computing Fundamentals through Return Oriented Programming."
+            },
+            {
+              "name": "Try Hack Me (King of the Hill)",
+              "url": "https://tryhackme.com/games/koth",
+              "description": "Making it easier to break into security, all through your browser."
+            },
+            {
+              "name": "VulnHub",
+              "url": "https://www.vulnhub.com/",
+              "description": "Provide materials that allows anyone to gain practical 'hands-on' experience in digital security."
+            }
+          ]
+        },
+        {
+          "title": "Seasonal",
+          "tools": [
+            {
+              "name": "Hack-a-Sat",
+              "url": "https://www.hackasat.com/",
+              "description": "United States Air Force and United States Space Force jointly presents Hack-A-Sat."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

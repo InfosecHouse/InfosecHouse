@@ -1,0 +1,322 @@
+{
+  "slug": "network",
+  "title": "Network",
+  "description": "Sniff the network. Modify the packets.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "Auditing",
+          "tools": [
+            {
+              "name": "Netscan Tools Pro",
+              "url": "https://netscantools.com/nstpromain.html",
+              "description": "Integrated collection of internet information gathering and network troubleshooting utilities for Network Professionals."
+            }
+          ]
+        },
+        {
+          "title": "CDN",
+          "tools": [
+            {
+              "name": "CDNStrip",
+              "url": "https://github.com/j3ssie/cdnstrip/",
+              "description": "Striping CDN IPs from a list of IP Addresses.",
+              "repo": "j3ssie/cdnstrip"
+            }
+          ]
+        },
+        {
+          "title": "Denial of Service",
+          "tools": [
+            {
+              "name": "DAVOSET",
+              "url": "https://github.com/MustLive/DAVOSET",
+              "description": "a tool for committing distributed denial of service attacks using execution on other sites.",
+              "repo": "MustLive/DAVOSET"
+            },
+            {
+              "name": "DDOSIM",
+              "url": "https://sourceforge.net/projects/ddosim/",
+              "description": "Layer 7 DDoS Simulator."
+            },
+            {
+              "name": "GoldenEye",
+              "url": "https://github.com/jseidl/GoldenEye",
+              "description": "A HTTP DoS Test Tool.",
+              "repo": "jseidl/GoldenEye"
+            },
+            {
+              "name": "HOIC",
+              "url": "https://sourceforge.net/projects/highorbitioncannon/",
+              "description": "A network stress testing application."
+            },
+            {
+              "name": "Http Unbreakable Load King (HULK)",
+              "url": "https://packetstormsecurity.com/files/112856/HULK-Http-Unbearable-Load-King.html",
+              "description": "A web server tool generates volumes of unique obfuscated traffic."
+            },
+            {
+              "name": "LOIC",
+              "url": "https://github.com/NewEraCracker/LOIC",
+              "description": "A network stress testing application.",
+              "repo": "NewEraCracker/LOIC"
+            },
+            {
+              "name": "PyLoris",
+              "url": "https://motoma.io/pyloris/",
+              "description": "Scriptable tool for testing a services level of DoS handling."
+            },
+            {
+              "name": "R-U-Dead-Yet (RUDY)",
+              "url": "https://github.com/sahilchaddha/rudyjs",
+              "description": "Attack targeted web applications by starvation of available sessions on the web server.",
+              "repo": "sahilchaddha/rudyjs"
+            },
+            {
+              "name": "Slowloris",
+              "url": "https://github.com/gkbrk/slowloris",
+              "description": "An HTTP Denial of Service attack that affects threaded servers.",
+              "repo": "gkbrk/slowloris"
+            },
+            {
+              "name": "TORs Hammer",
+              "url": "https://github.com/Karlheinzniebuhr/torshammer",
+              "description": "Slow POST DoS testing tool ran through TOR.",
+              "repo": "Karlheinzniebuhr/torshammer"
+            },
+            {
+              "name": "Yersinia",
+              "url": "https://github.com/tomac/yersinia",
+              "description": "A framework for layer 2 attacks.",
+              "repo": "tomac/yersinia"
+            }
+          ]
+        },
+        {
+          "title": "LAN/WAN",
+          "tools": [
+            {
+              "name": "bettercap",
+              "url": "https://www.bettercap.org/",
+              "description": "Swiss army knife for WiFi, Bluetooth, HID, and ethernet network.",
+              "repo": "bettercap/bettercap"
+            },
+            {
+              "name": "dpkt",
+              "url": "https://github.com/kbandla/dpkt",
+              "description": "Fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols.",
+              "repo": "kbandla/dpkt"
+            },
+            {
+              "name": "ettercap",
+              "url": "https://github.com/Ettercap/ettercap",
+              "description": "Swiss army knife for WiFi, Bluetooth, HID, and ethernet network.",
+              "repo": "Ettercap/ettercap"
+            },
+            {
+              "name": "Ghost Phisher",
+              "url": "https://github.com/savio-code/ghost-phisher",
+              "description": "A Wireless and Ethernet security auditing and attack software.",
+              "repo": "savio-code/ghost-phisher"
+            },
+            {
+              "name": "Impacket",
+              "url": "https://github.com/SecureAuthCorp/impacket",
+              "description": "Impacket is a collection of Python classes for working with network protocols.",
+              "repo": "SecureAuthCorp/impacket"
+            },
+            {
+              "name": "Libdnet",
+              "url": "https://github.com/ofalk/libdnet",
+              "description": "Provides a simplified, portable interface to several low-level networking routines.",
+              "repo": "ofalk/libdnet"
+            },
+            {
+              "name": "MITMProxy",
+              "url": "https://github.com/mitmproxy/mitmproxy",
+              "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers.",
+              "repo": "mitmproxy/mitmproxy"
+            },
+            {
+              "name": "Nemesis",
+              "url": "https://github.com/libnet/nemesis",
+              "description": "A command-line network packet crafting and injection utility.",
+              "repo": "libnet/nemesis"
+            },
+            {
+              "name": "Scapy",
+              "url": "https://github.com/secdev/scapy",
+              "description": "Python-based interactive packet manipulation program & library.",
+              "repo": "secdev/scapy"
+            },
+            {
+              "name": "TCPDump",
+              "url": "https://github.com/the-tcpdump-group/tcpdump",
+              "description": "The TCPdump network dissector.",
+              "repo": "the-tcpdump-group/tcpdump",
+              "also": [
+                "Packet Analysis"
+              ]
+            },
+            {
+              "name": "YAS",
+              "url": "https://github.com/redcode-labs/YAS",
+              "description": "Yet Another Sniffer for monitoring network traffic.",
+              "repo": "redcode-labs/YAS"
+            }
+          ]
+        },
+        {
+          "title": "Man In The Middle",
+          "tools": [
+            {
+              "name": "Inveigh",
+              "url": "https://github.com/Kevin-Robertson/Inveigh",
+              "description": ".NET IPv4/IPv6 machine-in-the-middle tool for penetration testers.",
+              "repo": "Kevin-Robertson/Inveigh"
+            }
+          ]
+        },
+        {
+          "title": "Monitoring",
+          "tools": [
+            {
+              "name": "DLPTest",
+              "url": "https://dlptest.com/",
+              "description": "A testing resource for testing data loss prevention (DLP) software to test functionality."
+            },
+            {
+              "name": "NetworkMiner",
+              "url": "https://www.netresec.com/?page=NetworkMiner",
+              "description": "A passive network sniffer/packet capturing tool.",
+              "also": [
+                "Packet Analysis"
+              ]
+            },
+            {
+              "name": "Splunk",
+              "url": "https://www.splunk.com/",
+              "description": "Turn data into doing."
+            },
+            {
+              "name": "Zabbix",
+              "url": "https://github.com/zabbix/zabbix",
+              "description": "Zabbix is for Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.",
+              "repo": "zabbix/zabbix"
+            },
+            {
+              "name": "Zeek",
+              "url": "https://github.com/zeek/zeek",
+              "description": "A powerful framework for network traffic analysis and security monitoring.",
+              "repo": "zeek/zeek"
+            }
+          ]
+        },
+        {
+          "title": "Packet Analysis",
+          "tools": [
+            {
+              "name": "CloudShark",
+              "url": "https://www.qacafe.com/analysis-tools/cloudshark/qa-cloudshark-personal-saas/",
+              "description": "Network analysis in the cloud, bring your packets with you, wherever you need to go."
+            },
+            {
+              "name": "Netmon",
+              "url": "https://www.microsoft.com/en-us/download/details.aspx?id=4865",
+              "description": "Tool for network traffic capture and protocol analysis."
+            },
+            {
+              "name": "ngrep",
+              "url": "https://github.com/jpr5/ngrep",
+              "description": "A PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets.",
+              "repo": "jpr5/ngrep"
+            },
+            {
+              "name": "nm2lp",
+              "url": "https://github.com/joswr1ght/nm2lp",
+              "description": "Convert Windows Netmon Monitor Mode Wireless Packet Captures to Libpcap Format.",
+              "repo": "joswr1ght/nm2lp"
+            },
+            {
+              "name": "QuickPcap",
+              "url": "https://github.com/dwmetz/QuickPcap",
+              "description": "A quick and easy PowerShell script to collect a packet trace with option to convert .etl to .pcap.",
+              "repo": "dwmetz/QuickPcap"
+            },
+            {
+              "name": "Wireshark",
+              "url": "https://gitlab.com/wireshark/wireshark",
+              "description": "Network protocol analyzer."
+            }
+          ]
+        },
+        {
+          "title": "Port/Network Scanning",
+          "tools": [
+            {
+              "name": "armada",
+              "url": "https://github.com/resyncgg/armada",
+              "description": "A High-Performance TCP SYN scanner.",
+              "repo": "resyncgg/armada"
+            },
+            {
+              "name": "masscan",
+              "url": "https://github.com/robertdavidgraham/masscan",
+              "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+              "repo": "robertdavidgraham/masscan"
+            },
+            {
+              "name": "naabu",
+              "url": "https://github.com/projectdiscovery/naabu",
+              "description": "A fast port scanner written in go with a focus on reliability and simplicity.",
+              "repo": "projectdiscovery/naabu"
+            },
+            {
+              "name": "NMAP",
+              "url": "https://github.com/nmap/nmap",
+              "description": "The Network Mapper.",
+              "repo": "nmap/nmap"
+            },
+            {
+              "name": "NP",
+              "url": "https://github.com/leesoh/np",
+              "description": "A tool to parse, deduplicate, and query multiple port scans.",
+              "repo": "leesoh/np"
+            },
+            {
+              "name": "RustScan",
+              "url": "https://github.com/RustScan/RustScan",
+              "description": "The Modern Port Scanner.",
+              "repo": "RustScan/RustScan"
+            },
+            {
+              "name": "Skanuvaty",
+              "url": "https://github.com/Esc4iCEscEsc/skanuvaty",
+              "description": "Dangerously fast DNS/network/port scanner.",
+              "repo": "Esc4iCEscEsc/skanuvaty"
+            }
+          ]
+        },
+        {
+          "title": "SSL/TLS",
+          "tools": [
+            {
+              "name": "TLS-DOS",
+              "url": "https://github.com/azet/thc-tls-dos",
+              "description": "A tool to stress test the SSL handshake by triggering processor intensive calls on the server side.",
+              "repo": "azet/thc-tls-dos"
+            }
+          ]
+        }
+      ],
+      "notices": [
+        {
+          "type": "danger",
+          "text": "Tools and resources mentioned in this section can cause impact to business. Use with permission & caution."
+        }
+      ]
+    }
+  ]
+}

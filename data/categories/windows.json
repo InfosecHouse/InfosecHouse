@@ -1,0 +1,285 @@
+{
+  "slug": "windows",
+  "title": "Windows",
+  "description": "Tools and resources for popping those Windows boxes.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "Active Directory",
+          "tools": [
+            {
+              "name": "Aced",
+              "url": "https://github.com/garrettfoster13/aced",
+              "description": "A tool to parse and resolve a single targeted Active Directory principal's DACL).",
+              "repo": "garrettfoster13/aced"
+            },
+            {
+              "name": "BadBlood",
+              "url": "https://github.com/davidprowe/BadBlood",
+              "description": "Fills a Microsoft Active Directory Domain with a structure and thousands of objects.",
+              "repo": "davidprowe/BadBlood"
+            },
+            {
+              "name": "BloodHound",
+              "url": "https://github.com/BloodHoundAD/BloodHound",
+              "description": "Six Degrees of Domain Admin.",
+              "repo": "BloodHoundAD/BloodHound"
+            },
+            {
+              "name": "Certify",
+              "url": "https://github.com/GhostPack/Certify",
+              "description": "Active Directory certificate abuse.",
+              "repo": "GhostPack/Certify"
+            },
+            {
+              "name": "CrackMapExec",
+              "url": "https://github.com/byt3bl33d3r/CrackMapExec",
+              "description": "A swiss army knife for pentesting networks.",
+              "repo": "byt3bl33d3r/CrackMapExec"
+            },
+            {
+              "name": "SCCMHunter",
+              "url": "https://github.com/garrettfoster13/sccmhunter",
+              "description": "tool built to streamline identifying, profiling, and attacking SCCM related assets in an Active Directory domain.",
+              "repo": "garrettfoster13/sccmhunter"
+            },
+            {
+              "name": "WinPwn",
+              "url": "https://github.com/S3cur3Th1sSh1t/WinPwn",
+              "description": "Automation for internal Windows Penetrationtest / AD-Security.",
+              "repo": "S3cur3Th1sSh1t/WinPwn"
+            }
+          ]
+        },
+        {
+          "title": "Bitlocker",
+          "tools": [
+            {
+              "name": "Bitleaker",
+              "url": "https://github.com/kkamagui/bitleaker",
+              "description": "This tool can decrypt a BitLocker-locked partition with the TPM vulnerability.",
+              "repo": "kkamagui/bitleaker"
+            }
+          ]
+        },
+        {
+          "title": "Cheatsheets",
+          "tools": [
+            {
+              "name": "LOLBAS",
+              "url": "https://lolbas-project.github.io",
+              "description": "Living Off The Land Binaries and Scripts.",
+              "repo": "sqlmapproject/sqlmap"
+            }
+          ]
+        },
+        {
+          "title": "Credentials",
+          "tools": [
+            {
+              "name": "LaZagne",
+              "url": "https://github.com/AlessandroZ/LaZagne",
+              "description": "Credentials recovery project.",
+              "repo": "AlessandroZ/LaZagne"
+            },
+            {
+              "name": "Redsnarf",
+              "url": "https://github.com/nccgroup/redsnarf",
+              "description": "Tool for retrieving hashes and credentials from Windows workstations, servers and domain controllers using OpSec Safe Techniques.",
+              "repo": "nccgroup/redsnarf"
+            },
+            {
+              "name": "SCOMDecrypt",
+              "url": "https://github.com/nccgroup/SCOMDecrypt",
+              "description": "Tool to decrypt stored RunAs credentials from SCOM servers.",
+              "repo": "nccgroup/SCOMDecrypt"
+            }
+          ]
+        },
+        {
+          "title": "Exchange",
+          "tools": [
+            {
+              "name": "MailSniper",
+              "url": "https://github.com/dafthack/MailSniper",
+              "description": "A penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms.",
+              "repo": "dafthack/MailSniper"
+            },
+            {
+              "name": "Ruler",
+              "url": "https://github.com/sensepost/ruler",
+              "description": "A tool to abuse Exchange services.",
+              "repo": "sensepost/ruler"
+            }
+          ]
+        },
+        {
+          "title": "Interprocess Communication",
+          "tools": [
+            {
+              "name": "pipe-intercept",
+              "url": "https://github.com/gabriel-sztejnworcel/pipe-intercept",
+              "description": "Intercept Windows Named Pipes communication.",
+              "repo": "gabriel-sztejnworcel/pipe-intercept"
+            }
+          ]
+        },
+        {
+          "title": "Kerberos",
+          "tools": [
+            {
+              "name": "Kerberoast",
+              "url": "https://github.com/nidem/kerberoast",
+              "description": "A series of tools for attacking MS Kerberos implementations.",
+              "repo": "nidem/kerberoast"
+            },
+            {
+              "name": "Pykek",
+              "url": "https://github.com/mubix/pykek",
+              "description": "A python library to manipulate KRB5-related data.",
+              "repo": "mubix/pykek"
+            },
+            {
+              "name": "Rubeus",
+              "url": "https://github.com/GhostPack/Rubeus",
+              "description": "A C\\# toolset for raw Kerberos interaction and abuses.",
+              "repo": "GhostPack/Rubeus"
+            }
+          ]
+        },
+        {
+          "title": "Kernel",
+          "tools": [
+            {
+              "name": "Fibratus",
+              "url": "https://github.com/rabbitstack/fibratus",
+              "description": "A modern tool for Windows kernel exploration and tracing with a focus on security.",
+              "repo": "rabbitstack/fibratus"
+            },
+            {
+              "name": "Vergilius",
+              "url": "https://www.vergiliusproject.com/",
+              "description": "Take a look into the depths of."
+            }
+          ]
+        },
+        {
+          "title": "Memory",
+          "tools": [
+            {
+              "name": "Blackbone",
+              "url": "https://github.com/DarthTon/Blackbone",
+              "description": "DLL scatter manual mapper.",
+              "repo": "DarthTon/Blackbone"
+            },
+            {
+              "name": "PPLdump",
+              "url": "https://github.com/itm4n/PPLdump",
+              "description": "Dump the memory of a PPL with a userland exploit.",
+              "repo": "itm4n/PPLdump"
+            }
+          ]
+        },
+        {
+          "title": "Post Exploitation",
+          "tools": [
+            {
+              "name": "CredNinja",
+              "url": "https://github.com/Raikia/CredNinja",
+              "description": "A multithreaded tool designed to identify if credentials are valid, invalid, or local admin valid credentials within a network at-scale via SMB.",
+              "repo": "Raikia/CredNinja"
+            },
+            {
+              "name": "Mimikatz",
+              "url": "https://github.com/gentilkiwi/mimikatz",
+              "description": "Experiments with Windows security.",
+              "repo": "gentilkiwi/mimikatz"
+            }
+          ]
+        },
+        {
+          "title": "Powershell",
+          "tools": [
+            {
+              "name": "iBombshell",
+              "url": "https://github.com/Telefonica/ibombshell",
+              "description": "Tool to deploy a post-exploitation prompt at any time.",
+              "repo": "Telefonica/ibombshell"
+            },
+            {
+              "name": "Pentestly",
+              "url": "https://github.com/praetorian-inc/pentestly",
+              "description": "Python and Powershell internal penetration testing framework.",
+              "repo": "praetorian-inc/pentestly"
+            },
+            {
+              "name": "Powershell Suite",
+              "url": "https://github.com/FuzzySecurity/PowerShell-Suite",
+              "description": "A collection of PowerShell utilities.",
+              "repo": "FuzzySecurity/PowerShell-Suite"
+            },
+            {
+              "name": "Stracciatella",
+              "url": "https://github.com/mgeeky/Stracciatella",
+              "description": "OpSec-safe Powershell runspace from within C# with AMSI, Constrained Language Mode and Script Block Logging disabled at startup.",
+              "repo": "mgeeky/Stracciatella"
+            }
+          ]
+        },
+        {
+          "title": "RDP",
+          "tools": [
+            {
+              "name": "PowerRemoteDesktop",
+              "url": "https://github.com/DarkCoderSc/PowerRemoteDesktop",
+              "description": "Remote Desktop entirely coded in PowerShell.",
+              "repo": "DarkCoderSc/PowerRemoteDesktop"
+            },
+            {
+              "name": "SharpRDP",
+              "url": "https://github.com/0xthirteen/SharpRDP",
+              "description": "Remote Desktop Protocol .NET Console Application for Authenticated Command Execution.",
+              "repo": "0xthirteen/SharpRDP"
+            }
+          ]
+        },
+        {
+          "title": "RPC",
+          "tools": [
+            {
+              "name": "rpcenum",
+              "url": "https://github.com/s4vitar/rpcenum",
+              "description": "Bash tool to extract info from a domain via RPCClient.",
+              "repo": "s4vitar/rpcenum"
+            }
+          ]
+        },
+        {
+          "title": "Scripts",
+          "tools": [
+            {
+              "name": "LOLBAS",
+              "url": "https://lolbas-project.github.io/#",
+              "description": "Living Off The Land Binaries and Scripts.",
+              "repo": "LOLBAS-Project/LOLBAS"
+            },
+            {
+              "name": "Macshift",
+              "url": "https://github.com/nayuki/Macshift",
+              "description": "Windows command-line application changes the MAC address of a given network adapter on the current machine to a random or given value.",
+              "repo": "nayuki/Macshift"
+            },
+            {
+              "name": "Windows-Pentest",
+              "url": "https://github.com/ankh2054/windows-pentest",
+              "description": "Windows Pentest Scripts.",
+              "repo": "ankh2054/windows-pentest"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

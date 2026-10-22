@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-admin : 1234
-administrator : <blank>

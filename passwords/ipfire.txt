@@ -1,4 +1,0 @@
-USERNAME : PASSWORD
-admin : <blank>
-admin : admin
-root : admin

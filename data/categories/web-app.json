@@ -1,0 +1,168 @@
+{
+  "slug": "web-app",
+  "title": "Web Application",
+  "description": "Break that web application.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "CORS",
+          "tools": [
+            {
+              "name": "Corsy",
+              "url": "https://github.com/s0md3v/Corsy",
+              "description": "CORS Misconfiguration Scanner.",
+              "repo": "s0md3v/Corsy"
+            }
+          ]
+        },
+        {
+          "title": "Cross-Site Scripting",
+          "tools": [
+            {
+              "name": "XSS'OR",
+              "url": "https://github.com/evilcos/xssor2",
+              "description": "XSS'OR - Hack with JavaScript.",
+              "repo": "evilcos/xssor2"
+            },
+            {
+              "name": "XSStrike",
+              "url": "https://github.com/s0md3v/XSStrike",
+              "description": "Most advanced XSS scanner.",
+              "repo": "s0md3v/XSStrike"
+            }
+          ]
+        },
+        {
+          "title": "CRLF",
+          "tools": [
+            {
+              "name": "CRLFSuite",
+              "url": "https://github.com/Nefcore/CRLFsuite",
+              "description": "The most powerful CRLF injection (HTTP Response Splitting) scanner.",
+              "repo": "Nefcore/CRLFsuite"
+            }
+          ]
+        },
+        {
+          "title": "CSRF",
+          "tools": [
+            {
+              "name": "Bolt",
+              "url": "https://github.com/s0md3v/Bolt",
+              "description": "CSRF Scanner.",
+              "repo": "s0md3v/Bolt"
+            }
+          ]
+        },
+        {
+          "title": "Databases",
+          "tools": [
+            {
+              "name": "sql-map",
+              "url": "https://github.com/sqlmapproject/sqlmap",
+              "description": "Automatic SQL injection and database takeover tool.",
+              "repo": "sqlmapproject/sqlmap"
+            }
+          ]
+        },
+        {
+          "title": "Directory Traversal",
+          "tools": [
+            {
+              "name": "dotdotpwn",
+              "url": "https://github.com/wireghoul/dotdotpwn",
+              "description": "The Directory Traversal Fuzzer.",
+              "repo": "wireghoul/dotdotpwn"
+            },
+            {
+              "name": "slipit",
+              "url": "https://github.com/usdAG/slipit",
+              "description": "Utility for creating ZipSlip archives.",
+              "repo": "usdAG/slipit"
+            }
+          ]
+        },
+        {
+          "title": "Frameworks",
+          "tools": [
+            {
+              "name": "Commix",
+              "url": "https://github.com/commixproject/commix",
+              "description": "Automated All-in-One OS Command Injection Exploitation Tool.",
+              "repo": "commixproject/commix"
+            },
+            {
+              "name": "TIDoS",
+              "url": "https://github.com/0xInfection/TIDoS-Framework",
+              "description": "HTTP Request Smuggling Detection Tool.",
+              "repo": "0xInfection/TIDoS-Framework"
+            },
+            {
+              "name": "tplmap",
+              "url": "https://github.com/epinna/tplmap",
+              "description": "Server-Side Template Injection and Code Injection Detection and Exploit Tool.",
+              "repo": "epinna/tplmap"
+            }
+          ]
+        },
+        {
+          "title": "Headers",
+          "tools": [
+            {
+              "name": "Security Headers",
+              "url": "https://securityheaders.com/",
+              "description": "Tool designed to help you better deploy and understand modern security features that are available for your website."
+            }
+          ]
+        },
+        {
+          "title": "Protocols",
+          "tools": [
+            {
+              "name": "http-request-smuggling",
+              "url": "https://github.com/anshumanpattnaik/http-request-smuggling",
+              "description": "HTTP Request Smuggling Detection Tool.",
+              "repo": "anshumanpattnaik/http-request-smuggling"
+            }
+          ]
+        },
+        {
+          "title": "SSL/TLS",
+          "tools": [
+            {
+              "name": "TLS-Scanner",
+              "url": "https://github.com/tls-attacker/TLS-Scanner",
+              "description": "Assists in the evaluation of TLS Server configurations.",
+              "repo": "tls-attacker/TLS-Scanner"
+            }
+          ]
+        },
+        {
+          "title": "LFI",
+          "tools": [
+            {
+              "name": "LFISuite",
+              "url": "https://github.com/D35m0nd142/LFISuite",
+              "description": "Automated scan and exploitation of Local File Inclusion.",
+              "repo": "D35m0nd142/LFISuite"
+            },
+            {
+              "name": "LFIFreak",
+              "url": "https://github.com/OsandaMalith/LFiFreak",
+              "description": "Local File Inclusion automation tool for PHP.",
+              "repo": "OsandaMalith/LFiFreak"
+            },
+            {
+              "name": "Liffy",
+              "url": "https://github.com/mzfr/liffy",
+              "description": "Local File Inclusion automation tool for PHP.",
+              "repo": "mzfr/liffy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

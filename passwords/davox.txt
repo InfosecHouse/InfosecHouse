@@ -1,5 +1,0 @@
-USERNAME : PASSWORD
-admin : admin
-davox : davox
-root : davox
-sa : <blank>

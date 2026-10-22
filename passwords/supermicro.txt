@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-<blank> : ksdjfg934t
-ADMIN : admin

@@ -1,0 +1,46 @@
+{
+  "slug": "assets-management",
+  "title": "Asset Management",
+  "description": "Keep track of your inventory. You can't protect what you don't see.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "Endpoint Visibility",
+          "tools": [
+            {
+              "name": "GLPI",
+              "url": "https://github.com/glpi-project/glpi",
+              "description": "Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
+              "repo": "glpi-project/glpi"
+            },
+            {
+              "name": "LANSweeper",
+              "url": "https://www.lansweeper.com/",
+              "description": "Build centralized IT asset inventory."
+            },
+            {
+              "name": "OSCInventory-NG",
+              "url": "https://github.com/OCSInventory-NG/OCSInventory-ocsreports",
+              "description": "Webconsole for OCS Inventory NG.",
+              "repo": "OCSInventory-NG/OCSInventory-ocsreports"
+            },
+            {
+              "name": "Ralph",
+              "url": "https://github.com/allegro/ralph",
+              "description": "CMDB & Asset Management system for data center and back office hardware.",
+              "repo": "allegro/ralph"
+            },
+            {
+              "name": "Snipe-IT",
+              "url": "https://github.com/snipe/snipe-it",
+              "description": "A free open source IT asset/license management system.",
+              "repo": "snipe/snipe-it"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

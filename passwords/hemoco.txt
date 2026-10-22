@@ -1,2 +1,0 @@
-USERNAME : PASSWORD
-lansweeperuser : mysecretpassword0*

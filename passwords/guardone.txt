@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-<blank> : guardone
-n.a : guardone

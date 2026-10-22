@@ -1,7 +1,0 @@
-USERNAME : PASSWORD
-cic : Cic!23456789
-cic : cic
-cic : cic!23456789
-sa : Cic!23456789
-sa : cic
-sa : cic!23456789

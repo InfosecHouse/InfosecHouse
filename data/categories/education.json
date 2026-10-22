@@ -1,0 +1,152 @@
+{
+  "slug": "education",
+  "title": "Education",
+  "description": "Level up. Training and courses to master your craft.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "",
+          "tools": [
+            {
+              "name": "Antisyphon InfoSec Training",
+              "url": "https://www.antisyphontraining.com/course-catalog/",
+              "description": "Antisyphon courses are tailored to beginners and seasoned professionals alike."
+            },
+            {
+              "name": "AQ Answers",
+              "url": "https://answersq.com/",
+              "description": "Daily updates on free courses, workshops, internships, and jobs."
+            },
+            {
+              "name": "Bug Bounty Hunter",
+              "url": "https://www.bugbountyhunter.com/",
+              "description": "Helping you connect the bug to bounty."
+            },
+            {
+              "name": "Bust-A-Kube",
+              "url": "https://www.bustakube.com/",
+              "description": "An intentionally-vulnerable Kubernetes cluster, intended to help people self-train on attacking and defending Kubernetes clusters."
+            },
+            {
+              "name": "CoursesOnline",
+              "url": "https://www.coursesonline.co.uk/courses/cyber-security/",
+              "description": "Online learning course database with a number of training courses covering aspects of cyber security."
+            },
+            {
+              "name": "Cybrary",
+              "url": "https://www.cybrary.it/",
+              "description": "The leading cybersecurity professional development platform."
+            },
+            {
+              "name": "DFIR Diva",
+              "url": "https://training.dfirdiva.com/",
+              "description": "Curated list of free and affordable courses."
+            },
+            {
+              "name": "eLearn Security",
+              "url": "https://elearnsecurity.com/",
+              "description": "Infosec careers are heating up and candidates are doing everything they can to stand out."
+            },
+            {
+              "name": "Hacker101",
+              "url": "https://www.hacker101.com/",
+              "description": "A free class for web security."
+            },
+            {
+              "name": "Hacksplaining",
+              "url": "https://www.hacksplaining.com/",
+              "description": "Security training for developers."
+            },
+            {
+              "name": "HTB Academy",
+              "url": "https://academy.hackthebox.eu/",
+              "description": "Cyber security trainingp by HackTheBox."
+            },
+            {
+              "name": "ICS Learn",
+              "url": "https://www.icslearn.co.uk/courses/it/bcs/bcs-foundation-certificate-in-information-security-management-principles/",
+              "description": "Quick course covering the basics of information security."
+            },
+            {
+              "name": "INE",
+              "url": "https://ine.com/pages/cybersecurity",
+              "description": "The premier provider of online it training."
+            },
+            {
+              "name": "Infosec Institute",
+              "url": "https://www.infosecinstitute.com/",
+              "description": "Helps IT and security professionals advance their careers with skills development and certifications."
+            },
+            {
+              "name": "ITonlinelearning",
+              "url": "https://www.itonlinelearning.com/course/comptia-cybersecurity-analyst-cysa/",
+              "description": "Course focused on combining cyber security with behavioural analytics to identify and prevent threats."
+            },
+            {
+              "name": "Kontra",
+              "url": "https://application.security/",
+              "description": "Application Security Training Redefined."
+            },
+            {
+              "name": "Offensive Security",
+              "url": "https://www.offsec.com/",
+              "description": "The tech workforce development company."
+            },
+            {
+              "name": "Pentester Academy",
+              "url": "https://www.pentesteracademy.com/",
+              "description": "Courses and Online Labs."
+            },
+            {
+              "name": "Pentester Lab",
+              "url": "https://www.pentesterlab.com/",
+              "description": "We make learning web hacking easier."
+            },
+            {
+              "name": "PortSwigger",
+              "url": "https://portswigger.net/web-security",
+              "description": "Free, online web security training from the creators of Burp Suite."
+            },
+            {
+              "name": "Pluralsight",
+              "url": "https://www.pluralsight.com/",
+              "description": "The tech workforce development company."
+            },
+            {
+              "name": "Professor Messer",
+              "url": "https://www.professormesser.com/",
+              "description": "Professor Messer IT Certification Training."
+            },
+            {
+              "name": "PWN College",
+              "url": "https://pwn.college/",
+              "description": "A first-stage education platform for students."
+            },
+            {
+              "name": "pwn.guide",
+              "url": "https://pwn.guide/",
+              "description": "A cybersecurity education website, with bout 100 tutorials. Offers a free, unlimited VM & 50% tutorials on the free plan."
+            },
+            {
+              "name": "SANS",
+              "url": "https://www.sans.org/cyber-security-courses/?&focus-area=penetration-testing-ethical-hacking&training-format=",
+              "description": "SANS Institute is the most trusted resource for cybersecurity training, certifications and research."
+            },
+            {
+              "name": "TCM Security",
+              "url": "https://academy.tcm-sec.com/",
+              "description": "A veteran-owned cybersecurity company focused on providing top of the line penetration testing, security training, and compliance services."
+            },
+            {
+              "name": "Udemy",
+              "url": "https://www.udemy.com/courses/search/?q=penetration+testing&src=sac&kw=pen",
+              "description": "An online learning and teaching marketplace with over 155,000 courses."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

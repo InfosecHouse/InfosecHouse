@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-admin : AlpheusDigital1010
-super : super

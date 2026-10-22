@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-(none) : 3ascotel
-<blank> : 3ascotel

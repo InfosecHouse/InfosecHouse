@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-hydrasna : <blank>
-hydrasna : <blank>

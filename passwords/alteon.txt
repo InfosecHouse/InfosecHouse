@@ -1,5 +1,0 @@
-USERNAME : PASSWORD
-admin : (none)
-admin : <blank>
-admin : admin
-admin : linga

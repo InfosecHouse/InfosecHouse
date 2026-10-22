@@ -1,4 +1,0 @@
-USERNAME : PASSWORD
-admin : admin
-installer : installer
-webadmin : webadmin

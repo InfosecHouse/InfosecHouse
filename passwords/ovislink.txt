@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-root : root
-user : user

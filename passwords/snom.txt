@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-Administrator : 0
-admi : <blank>

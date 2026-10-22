@@ -1,0 +1,6 @@
+# Retype-era paths
+/README        /           301
+/readme        /           301
+/blog/index    /blog/      301
+/changelog    /blog/    301
+/changelog/   /blog/    301

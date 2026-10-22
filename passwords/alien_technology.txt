@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-alien : alien
-root : alien

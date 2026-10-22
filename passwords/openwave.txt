@@ -1,3 +1,0 @@
-USERNAME : PASSWORD
-cac_admin : cacadmin
-sys : uplink

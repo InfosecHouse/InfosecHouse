@@ -1,8 +1,0 @@
-USERNAME : PASSWORD
-<blank> : admin
-Administrator : admin
-End User : 123 (or blank)
-admin : 1234
-admin : admin
-End User : 123
-admin : admin
