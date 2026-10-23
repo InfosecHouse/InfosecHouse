@@ -257,6 +257,16 @@
               ]
             }
           ]
+        },
+        {
+          "title": "Dashboards & Indexes",
+          "tools": [
+            {
+              "name": "ICHI (Internet Cyber Health Index)",
+              "url": "https://ichi.global",
+              "description": "Free daily index scoring internet cyber health from 20+ public sources (CISA KEV, Shodan, CVE/NVD, abuse.ch)."
+            }
+          ]
         }
       ],
       "notices": [

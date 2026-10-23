@@ -60,6 +60,11 @@
               "url": "https://github.com/nccgroup/azucar",
               "description": "Security auditing tool for Azure environments.",
               "repo": "nccgroup/azucar"
+            },
+            {
+              "name": "Zero Trust Assessment",
+              "url": "https://learn.microsoft.com/en-us/security/zero-trust/assessment/get-started",
+              "description": "Zero Trust Assessment checks your tenant configuration and recommends ways to improve security."
             }
           ]
         },
@@ -175,6 +180,16 @@
               "url": "https://github.com/nielsing/yar",
               "description": "Yar is a tool for plunderin' organizations, users and/or repositories.",
               "repo": "nielsing/yar"
+            }
+          ]
+        },
+        {
+          "title": "Microsoft 365",
+          "tools": [
+            {
+              "name": "Baseline Security Mode",
+              "url": "https://learn.microsoft.com/en-us/microsoft-365/baseline-security-mode/baseline-security-mode-settings?view=o365-worldwide",
+              "description": "Baseline security mode settings to protect and secure your business environment against external threats."
             }
           ]
         }

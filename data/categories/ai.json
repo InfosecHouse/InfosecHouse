@@ -7,7 +7,573 @@
       "title": "",
       "groups": [
         {
-          "title": "Evasion, Poisoning, Extraction",
+          "title": "Autonomous Hacking Agents",
+          "tools": [
+            {
+              "name": "AIDA",
+              "url": "https://github.com/Vasco0x4/AIDA",
+              "description": "Connects AI to 400+ pentest tools via MCP inside Exegol.",
+              "repo": "Vasco0x4/AIDA"
+            },
+            {
+              "name": "ARTEMIS",
+              "url": "https://github.com/Stanford-Trinity/ARTEMIS",
+              "description": "Stanford agent whose supervisor spawns Codex subagents for vuln discovery.",
+              "repo": "Stanford-Trinity/ARTEMIS"
+            },
+            {
+              "name": "BugTraceAI",
+              "url": "https://github.com/BugTraceAI/BugTraceAI",
+              "description": "Multi-agent platform for authorized web app testing and reporting.",
+              "repo": "BugTraceAI/BugTraceAI"
+            },
+            {
+              "name": "Cairn",
+              "url": "https://github.com/oritera/Cairn",
+              "description": "State-space search engine that finds an attack path from origin to goal.",
+              "repo": "oritera/Cairn"
+            },
+            {
+              "name": "cyber-harness",
+              "url": "https://github.com/chainreactors/cyber-harness",
+              "description": "Single-binary agent runtime bundling scanners, proxy routing, and skills.",
+              "repo": "chainreactors/cyber-harness"
+            },
+            {
+              "name": "Cybermes",
+              "url": "https://github.com/Zyrexnn/Cybermes",
+              "description": "Offensive and bug bounty agent framework with 200+ playbooks.",
+              "repo": "Zyrexnn/Cybermes"
+            },
+            {
+              "name": "CyberStrike",
+              "url": "https://github.com/CyberStrikeus/CyberStrike",
+              "description": "Terminal offensive harness with specialized agents, skills, and OWASP test cases.",
+              "repo": "CyberStrikeus/CyberStrike"
+            },
+            {
+              "name": "CyberStrikeAI",
+              "url": "https://github.com/AIPentest/CyberStrikeAI",
+              "description": "Go security platform combining agents, MCP tools, RAG, and human oversight.",
+              "repo": "AIPentest/CyberStrikeAI"
+            },
+            {
+              "name": "DarkMoon",
+              "url": "https://github.com/ASCIT31/Dark-Moon",
+              "description": "AI penetration testing for your own infrastructure - finds, exploits and qualifies every vulnerability on your own infrastructure.",
+              "repo": "ASCIT31/Dark-Moon"
+            },
+            {
+              "name": "Decepticon",
+              "url": "https://github.com/BitterSecurity/Decepticon",
+              "description": "Modular LangGraph multi-agent red teaming agent with MCP integration.",
+              "repo": "BitterSecurity/Decepticon"
+            },
+            {
+              "name": "hackingBuddyGPT",
+              "url": "https://github.com/ipa-lab/hackingBuddyGPT",
+              "description": "Research framework for building LLM hacking agents, with privesc benchmarks.",
+              "repo": "ipa-lab/hackingBuddyGPT"
+            },
+            {
+              "name": "LuaN1aoAgent",
+              "url": "https://github.com/SanMuzZzZz/LuaN1aoAgent",
+              "description": "Autonomous agent using causal and attack graphs for plan-execute-reflect testing.",
+              "repo": "SanMuzZzZz/LuaN1aoAgent"
+            },
+            {
+              "name": "Nebula",
+              "url": "https://github.com/berylliumsec/nebula",
+              "description": "Pentest assistant for recon, note-taking, and vulnerability analysis with checkpoints.",
+              "repo": "berylliumsec/nebula"
+            },
+            {
+              "name": "NeuroSploit",
+              "url": "https://github.com/JoasASantos/NeuroSploit",
+              "description": "Rust CLI harness that double-checks findings with a second review model.",
+              "repo": "JoasASantos/NeuroSploit"
+            },
+            {
+              "name": "numasec",
+              "url": "https://github.com/FrancescoStabile/numasec",
+              "description": "Terminal agent that drives local tools via runbooks and tracks findings.",
+              "repo": "FrancescoStabile/numasec"
+            },
+            {
+              "name": "PentAGI",
+              "url": "https://github.com/vxcontrol/pentagi",
+              "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks.",
+              "repo": "vxcontrol/pentagi"
+            },
+            {
+              "name": "Pentest Copilot",
+              "url": "https://github.com/bugbasesecurity/pentest-copilot",
+              "description": "Browser-based agentic assistant that runs commands in your pentest environment.",
+              "repo": "bugbasesecurity/pentest-copilot"
+            },
+            {
+              "name": "Pentest Swarm AI",
+              "url": "https://github.com/Armur-Ai/Pentest-Swarm-AI",
+              "description": "Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning.",
+              "repo": "Armur-Ai/Pentest-Swarm-AI"
+            },
+            {
+              "name": "Pentest-AI",
+              "url": "https://github.com/0xSteph/pentest-ai",
+              "description": "AI pentester for MCP, CLI, or CI that re-verifies every exploit.",
+              "repo": "0xSteph/pentest-ai"
+            },
+            {
+              "name": "pentest-ai-agents",
+              "url": "https://github.com/0xSteph/pentest-ai-agents",
+              "description": "50 Claude Code subagents for authorized pentesting.",
+              "repo": "0xSteph/pentest-ai-agents"
+            },
+            {
+              "name": "PentestAgent",
+              "url": "https://github.com/GH05TCREW/pentestagent",
+              "description": "Black-box testing agent framework with prebuilt attack playbooks.",
+              "repo": "GH05TCREW/pentestagent"
+            },
+            {
+              "name": "PentestCode",
+              "url": "https://github.com/s0ld13rr/pentestcode",
+              "description": "Multi-agent terminal pentest agent with persistent engagement state.",
+              "repo": "s0ld13rr/pentestcode"
+            },
+            {
+              "name": "PentestGPT",
+              "url": "https://github.com/GreyDGL/PentestGPT",
+              "description": "LLM-driven agentic pentesting framework (USENIX Security 2024).",
+              "repo": "GreyDGL/PentestGPT"
+            },
+            {
+              "name": "RedAmon",
+              "url": "https://github.com/samugit83/redamon",
+              "description": "Graphs attack surfaces, exploits from a Kali sandbox, and opens fix PRs.",
+              "repo": "samugit83/redamon"
+            },
+            {
+              "name": "Shannon",
+              "url": "https://github.com/KeygraphHQ/shannon",
+              "description": "Autonomous web/API pentester that reads source, maps attack paths, and exploits.",
+              "repo": "KeygraphHQ/shannon"
+            },
+            {
+              "name": "Strix",
+              "url": "https://github.com/usestrix/strix",
+              "description": "Autonomous AI hackers that find and fix your app’s vulnerabilities.",
+              "repo": "usestrix/strix"
+            },
+            {
+              "name": "vulnerator-ai",
+              "url": "https://github.com/irraz/vulnerator-ai",
+              "description": "OODA-loop pentest agent using Kali and a browser over MCP.",
+              "repo": "irraz/vulnerator-ai"
+            },
+            {
+              "name": "Xalgorix",
+              "url": "https://github.com/xalgorix/xalgorix",
+              "description": "Real-time reconnaissance, vulnerability detection, and exploitation orchestration. Go + TypeScript.",
+              "repo": "xalgorix/xalgorix"
+            },
+            {
+              "name": "Zen-AI-Pentest",
+              "url": "https://github.com/SHAdd0WTAka/Zen-Ai-Pentest",
+              "description": "Multi-agent framework integrating 72+ tools with dashboard, API, and CLI.",
+              "repo": "SHAdd0WTAka/Zen-Ai-Pentest"
+            }
+          ]
+        },
+        {
+          "title": "AI Recon & Bug Hunting",
+          "tools": [
+            {
+              "name": "Agentic Bug Hunter",
+              "url": "https://github.com/awarexone/Agentic-Bug-Hunter",
+              "description": "Bug bounty toolkit for recon, validation, and reporting.",
+              "repo": "awarexone/Agentic-Bug-Hunter"
+            },
+            {
+              "name": "Claude-BugHunter",
+              "url": "https://github.com/elementalsouls/Claude-BugHunter",
+              "description": "Claude Code skill bundle for bug hunting and external red teaming.",
+              "repo": "elementalsouls/Claude-BugHunter"
+            },
+            {
+              "name": "HackBot",
+              "url": "https://github.com/morpheuslord/HackBot",
+              "description": "LLaMA-based chatbot for code analysis, scan analysis, and security Q&A.",
+              "repo": "morpheuslord/HackBot"
+            },
+            {
+              "name": "Julius",
+              "url": "https://github.com/praetorian-inc/julius",
+              "description": "Fingerprints LLM serving software like Ollama and vLLM on endpoints.",
+              "repo": "praetorian-inc/julius"
+            }
+          ]
+        },
+        {
+          "title": "AI-Assisted Vulnerability Discovery",
+          "tools": [
+            {
+              "name": "agentgg",
+              "url": "https://github.com/agentgg-dev/agentgg",
+              "description": "White-box SAST whose agents follow imports and call graphs.",
+              "repo": "agentgg-dev/agentgg"
+            },
+            {
+              "name": "AutoCVE",
+              "url": "https://github.com/larlarua/AutoCVE",
+              "description": "Agent-driven pipeline for CVE discovery, from audit to report.",
+              "repo": "larlarua/AutoCVE"
+            },
+            {
+              "name": "Codex Security",
+              "url": "https://github.com/openai/codex-security",
+              "description": "OpenAI CLI/SDK for finding, validating, and fixing code vulnerabilities.",
+              "repo": "openai/codex-security"
+            },
+            {
+              "name": "DockSec",
+              "url": "https://github.com/OWASP/DockSec",
+              "description": "OWASP AI-powered Docker security scanner with plain-English explanations.",
+              "repo": "OWASP/DockSec"
+            },
+            {
+              "name": "LLM SAST Skills",
+              "url": "https://github.com/utkusen/sast-skills",
+              "description": "Agent skills that turn coding assistants into SAST scanners.",
+              "repo": "utkusen/sast-skills"
+            },
+            {
+              "name": "MEDUSA",
+              "url": "https://github.com/Pantheon-Security/medusa",
+              "description": "AI security scanner with 40,000+ detection patterns.",
+              "repo": "Pantheon-Security/medusa"
+            },
+            {
+              "name": "NVIDIA Vulnerability Analysis",
+              "url": "https://github.com/NVIDIA-AI-Blueprints/vulnerability-analysis",
+              "description": "Blueprint for finding container vulnerabilities with generative AI.",
+              "repo": "NVIDIA-AI-Blueprints/vulnerability-analysis"
+            },
+            {
+              "name": "open-kritt",
+              "url": "https://github.com/Kritt-ai/open-kritt",
+              "description": "Self-hosted platform orchestrating agents to find and validate code bugs.",
+              "repo": "Kritt-ai/open-kritt"
+            },
+            {
+              "name": "OpenHack",
+              "url": "https://github.com/openhackai/OpenHack",
+              "description": "Codebase scanner and verifier using only open-source models.",
+              "repo": "openhackai/OpenHack"
+            },
+            {
+              "name": "rust-in-peace",
+              "url": "https://github.com/scadastrangelove/rust-in-peace",
+              "description": "Agent-assisted vulnerability discovery for Rust, with adversarial triage.",
+              "repo": "scadastrangelove/rust-in-peace"
+            }
+          ]
+        },
+        {
+          "title": "Fuzzing & Cyber Reasoning Systems",
+          "tools": [
+            {
+              "name": "Atlantis",
+              "url": "https://github.com/Team-Atlanta/aixcc-afc-atlantis",
+              "description": "Team Atlanta's AIxCC cyber reasoning system for vuln discovery.",
+              "repo": "Team-Atlanta/aixcc-afc-atlantis"
+            },
+            {
+              "name": "Buttercup",
+              "url": "https://github.com/trailofbits/buttercup",
+              "description": "Trail of Bits cyber reasoning system that fuzzes and patches with LLMs.",
+              "repo": "trailofbits/buttercup"
+            },
+            {
+              "name": "EvoMaster",
+              "url": "https://github.com/WebFuzzing/EvoMaster",
+              "description": "Evolutionary test generation for REST, GraphQL, and RPC APIs.",
+              "repo": "WebFuzzing/EvoMaster"
+            },
+            {
+              "name": "OSS-CRS",
+              "url": "https://github.com/ossf/oss-crs",
+              "description": "OpenSSF framework for LLM-based bug finding and fixing.",
+              "repo": "ossf/oss-crs"
+            },
+            {
+              "name": "OSS-Fuzz-Gen",
+              "url": "https://github.com/google/oss-fuzz-gen",
+              "description": "Google LLM-powered fuzz target generation for OSS-Fuzz.",
+              "repo": "google/oss-fuzz-gen"
+            }
+          ]
+        },
+        {
+          "title": "CTF Agents & Benchmarks",
+          "tools": [
+            {
+              "name": "BoxPwnr",
+              "url": "https://github.com/0ca/BoxPwnr",
+              "description": "Benchmarks LLMs on HackTheBox, TryHackMe, and other platforms.",
+              "repo": "0ca/BoxPwnr"
+            },
+            {
+              "name": "ChatGPT on CTF",
+              "url": "https://github.com/LiuYuancheng/ChatGPT_on_CTF",
+              "description": "Research testing whether LLMs solve CTFs via command execution.",
+              "repo": "LiuYuancheng/ChatGPT_on_CTF"
+            },
+            {
+              "name": "Cybench",
+              "url": "https://github.com/andyzorigin/cybench",
+              "description": "Benchmark of 40 professional CTF tasks for evaluating LLM agents.",
+              "repo": "andyzorigin/cybench"
+            },
+            {
+              "name": "Project Muteki",
+              "url": "https://github.com/FishCodeTech/muteki",
+              "description": "Multi-agent CTF-solving swarm across several CLI agent engines.",
+              "repo": "FishCodeTech/muteki"
+            }
+          ]
+        },
+        {
+          "title": "MCP Servers & Tool Bridges",
+          "tools": [
+            {
+              "name": "Bolt",
+              "url": "https://github.com/CyberStrikeus/bolt",
+              "description": "Docker-based MCP server exposing 100+ Kali tools as plugins.",
+              "repo": "CyberStrikeus/bolt"
+            },
+            {
+              "name": "Burp Suite MCP Server",
+              "url": "https://github.com/PortSwigger/mcp-server",
+              "description": "Official PortSwigger extension connecting Burp Suite to AI clients.",
+              "repo": "PortSwigger/mcp-server"
+            },
+            {
+              "name": "DomScan",
+              "url": "https://github.com/estevecastells/domscan-mcp",
+              "description": "Hosted domain intelligence MCP for DNS, TLS, subdomains, and typosquatting.",
+              "repo": "estevecastells/domscan-mcp"
+            },
+            {
+              "name": "Ghidra MCP",
+              "url": "https://github.com/bethington/ghidra-mcp",
+              "description": "Ghidra MCP server with 200+ tools for AI-assisted reversing.",
+              "repo": "bethington/ghidra-mcp"
+            },
+            {
+              "name": "Google Security MCP",
+              "url": "https://github.com/google/mcp-security",
+              "description": "MCP servers giving AI clients access to Google security products.",
+              "repo": "google/mcp-security"
+            },
+            {
+              "name": "HexStrike AI",
+              "url": "https://github.com/0x4m4/hexstrike-ai",
+              "description": "MCP server exposing 150+ security tools to agents.",
+              "repo": "0x4m4/hexstrike-ai"
+            },
+            {
+              "name": "IDA Pro MCP",
+              "url": "https://github.com/mrexodia/ida-pro-mcp",
+              "description": "Bridges IDA Pro and LLMs through MCP for reverse engineering.",
+              "repo": "mrexodia/ida-pro-mcp"
+            },
+            {
+              "name": "JADX MCP Server",
+              "url": "https://github.com/zinja-coder/jadx-mcp-server",
+              "description": "MCP server for LLM-assisted Android APK reverse engineering.",
+              "repo": "zinja-coder/jadx-mcp-server"
+            },
+            {
+              "name": "mcp-vanguard",
+              "url": "https://github.com/skyvanguard/mcp-vanguard",
+              "description": "Pentesting MCP server with 89 tools and a Kali bridge.",
+              "repo": "skyvanguard/mcp-vanguard"
+            },
+            {
+              "name": "pentestMCP",
+              "url": "https://github.com/ramkansal/pentestMCP",
+              "description": "Exposes Nmap, Nuclei, ZAP, SQLMap and more via MCP.",
+              "repo": "ramkansal/pentestMCP"
+            },
+            {
+              "name": "REA",
+              "url": "https://github.com/morluto/rea",
+              "description": "Local CLI/MCP tools for agent-assisted reverse engineering of binaries and apps.",
+              "repo": "morluto/rea"
+            }
+          ]
+        },
+        {
+          "title": "AI for Defenders & SOC",
+          "tools": [
+            {
+              "name": "AiSOC",
+              "url": "https://github.com/beenuar/AiSOC",
+              "description": "Self-hostable AI security operations center with alert triage.",
+              "repo": "beenuar/AiSOC"
+            },
+            {
+              "name": "AttackGen",
+              "url": "https://github.com/mrwadams/attackgen",
+              "description": "Generates incident response scenarios from MITRE ATT&CK and ATLAS.",
+              "repo": "mrwadams/attackgen"
+            },
+            {
+              "name": "Beelzebub",
+              "url": "https://github.com/beelzebub-labs/beelzebub",
+              "description": "Deception framework with LLM-powered decoy responses.",
+              "repo": "beelzebub-labs/beelzebub"
+            },
+            {
+              "name": "Shuffle",
+              "url": "https://github.com/Shuffle/Shuffle",
+              "description": "Open-source SOAR platform with AI agent nodes in workflows.",
+              "repo": "Shuffle/Shuffle"
+            },
+            {
+              "name": "STRIDE GPT",
+              "url": "https://github.com/mrwadams/stride-gpt",
+              "description": "Generates STRIDE threat models and attack trees.",
+              "repo": "mrwadams/stride-gpt"
+            }
+          ]
+        },
+        {
+          "title": "LLM Red Teaming & Scanners",
+          "tools": [
+            {
+              "name": "Agentic Security",
+              "url": "https://github.com/msoedov/agentic_security",
+              "description": "LLM vulnerability scanner and AI red teaming kit.",
+              "repo": "msoedov/agentic_security"
+            },
+            {
+              "name": "Augustus",
+              "url": "https://github.com/praetorian-inc/augustus",
+              "description": "Go-based LLM vulnerability scanner with 210+ attacks.",
+              "repo": "praetorian-inc/augustus"
+            },
+            {
+              "name": "DeepTeam",
+              "url": "https://github.com/confident-ai/deepteam",
+              "description": "LLM red teaming framework aligned with OWASP and NIST.",
+              "repo": "confident-ai/deepteam"
+            },
+            {
+              "name": "FuzzyAI",
+              "url": "https://github.com/cyberark/FuzzyAI",
+              "description": "CyberArk tool for automated LLM fuzzing and jailbreak discovery.",
+              "repo": "cyberark/FuzzyAI"
+            },
+            {
+              "name": "Garak",
+              "url": "https://github.com/NVIDIA/garak",
+              "description": "The LLM vulnerability scanner.",
+              "repo": "NVIDIA/garak"
+            },
+            {
+              "name": "PromptBreach",
+              "url": "https://github.com/microsoft/promptbench",
+              "description": "The Python Risk Identification Tool for generative AI.",
+              "repo": "microsoft/promptbench"
+            },
+            {
+              "name": "Promptfoo",
+              "url": "https://github.com/promptfoo/promptfoo",
+              "description": "LLM red teaming and scanning with 100+ attack types.",
+              "repo": "promptfoo/promptfoo"
+            },
+            {
+              "name": "Promptmap2",
+              "url": "https://github.com/utkusen/promptmap",
+              "description": "A security scanner for custom LLM applications.",
+              "repo": "utkusen/promptmap"
+            },
+            {
+              "name": "Purple Llama",
+              "url": "https://github.com/meta-llama/PurpleLlama",
+              "description": "Set of tools to assess and improve LLM security.",
+              "repo": "meta-llama/PurpleLlama"
+            },
+            {
+              "name": "PyRIT",
+              "url": "https://github.com/Azure/PyRIT",
+              "description": "The Python Risk Identification Tool for generative AI.",
+              "repo": "Azure/PyRIT"
+            }
+          ]
+        },
+        {
+          "title": "Jailbreaking",
+          "tools": [
+            {
+              "name": "EasyJailbreak",
+              "url": "https://github.com/EasyJailbreak/EasyJailbreak",
+              "description": "An easy-to-use Python framework to generate adversarial jailbreak prompts.",
+              "repo": "EasyJailbreak/EasyJailbreak"
+            },
+            {
+              "name": "JailbreakBench",
+              "url": "https://github.com/JailbreakBench/jailbreakbench",
+              "description": "An Open Robustness Benchmark for Jailbreaking Language Models.",
+              "repo": "JailbreakBench/jailbreakbench"
+            }
+          ]
+        },
+        {
+          "title": "Prompt Injection",
+          "tools": [
+            {
+              "name": "Anamorpher",
+              "url": "https://github.com/trailofbits/anamorpher",
+              "description": "Trail of Bits tool for image-scaling prompt injection attacks.",
+              "repo": "trailofbits/anamorpher"
+            },
+            {
+              "name": "Arcanum PI Taxonomy",
+              "url": "https://github.com/Arcanum-Sec/arc_pi_taxonomy",
+              "description": "Interactive classification of prompt injection and LLM attacks.",
+              "repo": "Arcanum-Sec/arc_pi_taxonomy"
+            },
+            {
+              "name": "Open-Prompt-Injection",
+              "url": "https://github.com/liu00222/Open-Prompt-Injection",
+              "description": "Toolkit and benchmark for prompt injection attacks and defenses.",
+              "repo": "liu00222/Open-Prompt-Injection"
+            },
+            {
+              "name": "parry-guard",
+              "url": "https://github.com/vaporif/parry-guard",
+              "description": "Local prompt injection scanner for AI coding tools.",
+              "repo": "vaporif/parry-guard"
+            },
+            {
+              "name": "Spikee",
+              "url": "https://github.com/ReversecLabs/spikee",
+              "description": "Toolkit for testing LLMs and guardrails against prompt injection.",
+              "repo": "ReversecLabs/spikee"
+            },
+            {
+              "name": "ZeroLeaks",
+              "url": "https://github.com/ZeroLeaks/zeroleaks",
+              "description": "CLI that red-teams system prompts for injection and extraction.",
+              "repo": "ZeroLeaks/zeroleaks"
+            }
+          ]
+        },
+        {
+          "title": "Adversarial ML & Evasion",
           "tools": [
             {
               "name": "Adversarial Robustness Toolbox (ART)",
@@ -30,59 +596,7 @@
           ]
         },
         {
-          "title": "Jailbreaking",
-          "tools": [
-            {
-              "name": "EasyJailbreak",
-              "url": "https://github.com/EasyJailbreak/EasyJailbreak",
-              "description": "An easy-to-use Python framework to generate adversarial jailbreak prompts.",
-              "repo": "EasyJailbreak/EasyJailbreak"
-            },
-            {
-              "name": "JailbreakBench",
-              "url": "https://github.com/JailbreakBench/jailbreakbench",
-              "description": "An Open Robustness Benchmark for Jailbreaking Language Models.",
-              "repo": "JailbreakBench/jailbreakbench"
-            }
-          ]
-        },
-        {
-          "title": "LLM & Generative AI Red Teaming",
-          "tools": [
-            {
-              "name": "Garak",
-              "url": "https://github.com/NVIDIA/garak",
-              "description": "The LLM vulnerability scanner.",
-              "repo": "NVIDIA/garak"
-            },
-            {
-              "name": "PromptBreach",
-              "url": "https://github.com/microsoft/promptbench",
-              "description": "The Python Risk Identification Tool for generative AI.",
-              "repo": "microsoft/promptbench"
-            },
-            {
-              "name": "PyRIT",
-              "url": "https://github.com/Azure/PyRIT",
-              "description": "The Python Risk Identification Tool for generative AI.",
-              "repo": "Azure/PyRIT"
-            },
-            {
-              "name": "Promptmap2",
-              "url": "https://github.com/utkusen/promptmap",
-              "description": "A security scanner for custom LLM applications.",
-              "repo": "utkusen/promptmap"
-            },
-            {
-              "name": "Purple Llama",
-              "url": "https://github.com/meta-llama/PurpleLlama",
-              "description": "Set of tools to assess and improve LLM security.",
-              "repo": "meta-llama/PurpleLlama"
-            }
-          ]
-        },
-        {
-          "title": "Model Extraction & Inference Attacks",
+          "title": "Model Privacy & Extraction",
           "tools": [
             {
               "name": "Privacy Meter",
@@ -105,7 +619,7 @@
           ]
         },
         {
-          "title": "Data Poisoning & Supply Chain Attacks",
+          "title": "Data Poisoning & Backdoors",
           "tools": [
             {
               "name": "Backdoor Box",
@@ -122,7 +636,7 @@
           ]
         },
         {
-          "title": "LLM Safety & Guardrails",
+          "title": "Guardrails & Runtime Defenses",
           "tools": [
             {
               "name": "Alibi Detect",
@@ -149,10 +663,117 @@
               "repo": "NVIDIA-NeMo/Guardrails"
             },
             {
+              "name": "Superagent",
+              "url": "https://github.com/superagent-ai/superagent",
+              "description": "Agent-safety SDK for injection blocking and PII redaction.",
+              "repo": "superagent-ai/superagent"
+            },
+            {
               "name": "Vigil",
               "url": "https://github.com/deadbits/vigil-llm",
               "description": "Detect prompt injections, jailbreaks, and other potentially risky Large Language Model inputs.",
               "repo": "deadbits/vigil-llm"
+            }
+          ]
+        },
+        {
+          "title": "Agent, MCP & Supply-Chain Security",
+          "tools": [
+            {
+              "name": "ADR",
+              "url": "https://github.com/uber/ADR",
+              "description": "Uber system for detecting risky employee-facing agent activity.",
+              "repo": "uber/ADR"
+            },
+            {
+              "name": "Agent Threat Rules",
+              "url": "https://github.com/Agent-Threat-Rule/agent-threat-rules",
+              "description": "Executable detection rule format for AI agent threats.",
+              "repo": "Agent-Threat-Rule/agent-threat-rules"
+            },
+            {
+              "name": "agent-scan",
+              "url": "https://github.com/snyk/agent-scan",
+              "description": "Snyk scanner for AI agents, MCP servers, and agent skills.",
+              "repo": "snyk/agent-scan"
+            },
+            {
+              "name": "AgentHound",
+              "url": "https://github.com/adithyan-ak/AgentHound",
+              "description": "Offensive framework for agent infrastructure: recon and poisoning.",
+              "repo": "adithyan-ak/AgentHound"
+            },
+            {
+              "name": "Agentic Radar",
+              "url": "https://github.com/splx-ai/agentic-radar",
+              "description": "Scans agentic systems, mapping workflows, tools, and MCP servers.",
+              "repo": "splx-ai/agentic-radar"
+            },
+            {
+              "name": "AgentShield",
+              "url": "https://github.com/affaan-m/agentshield",
+              "description": "Audits AI agent configs for secrets, permissions, and MCP risks.",
+              "repo": "affaan-m/agentshield"
+            },
+            {
+              "name": "AI-Infra-Guard",
+              "url": "https://github.com/Tencent/AI-Infra-Guard",
+              "description": "Tencent red teaming platform scanning agents, MCP servers, and infra.",
+              "repo": "Tencent/AI-Infra-Guard"
+            },
+            {
+              "name": "API Relay Audit",
+              "url": "https://github.com/toby-bridges/api-relay-audit",
+              "description": "CLI auditing third-party AI relays and proxies.",
+              "repo": "toby-bridges/api-relay-audit"
+            },
+            {
+              "name": "MCP Scanner",
+              "url": "https://github.com/cisco-ai-defense/mcp-scanner",
+              "description": "Cisco scanner that inspects MCP servers for threats.",
+              "repo": "cisco-ai-defense/mcp-scanner"
+            },
+            {
+              "name": "mcp-context-protector",
+              "url": "https://github.com/trailofbits/mcp-context-protector",
+              "description": "Wrapper protecting against untrusted MCP servers and tool poisoning.",
+              "repo": "trailofbits/mcp-context-protector"
+            },
+            {
+              "name": "ModelScan",
+              "url": "https://github.com/protectai/modelscan",
+              "description": "Scans ML model files for unsafe code.",
+              "repo": "protectai/modelscan"
+            },
+            {
+              "name": "nono",
+              "url": "https://github.com/nolabs-ai/nono",
+              "description": "Sandboxes AI coding agents with policy-controlled permissions.",
+              "repo": "nolabs-ai/nono"
+            },
+            {
+              "name": "numbat",
+              "url": "https://github.com/perplexityai/numbat",
+              "description": "Visibility into AI agent activity with detection and forensics.",
+              "repo": "perplexityai/numbat"
+            },
+            {
+              "name": "OPFOR",
+              "url": "https://github.com/KeyValueSoftwareSystems/agent-opfor",
+              "description": "Adversary emulation for AI agents and MCP servers.",
+              "repo": "KeyValueSoftwareSystems/agent-opfor"
+            },
+            {
+              "name": "Pipelock",
+              "url": "https://github.com/pipelab-org/pipelock",
+              "description": "Firewall inspecting agent traffic for exfiltration and prompt injection.",
+              "repo": "pipelab-org/pipelock"
+            },
+            {
+              "name": "SkillSpector",
+              "url": "https://github.com/NVIDIA/SkillSpector",
+              "description": "Scans AI agent skills for malicious patterns and prompt injection.",
+              "repo": "NVIDIA/SkillSpector"
             }
           ]
         }

@@ -158,11 +158,6 @@
               "url": "https://github.com/evilsocket/xray",
               "description": "Tool for recon, mapping and OSINT gathering from public networks.",
               "repo": "evilsocket/xray"
-            },
-            {
-              "name": "Cylect",
-              "url": "https://cylect.io/",
-              "description": "AI-powered OSINT platform that searches across public data sources for people, usernames, emails, and more."
             }
           ]
         },
@@ -439,6 +434,34 @@
               "url": "https://github.com/Xquik-dev/x-twitter-scraper",
               "description": "Independent X (Twitter) data API for search, follower export, monitors, and MCP.",
               "repo": "Xquik-dev/x-twitter-scraper"
+            }
+          ]
+        },
+        {
+          "title": "AI-Powered",
+          "tools": [
+            {
+              "name": "Cylect",
+              "url": "https://cylect.io/",
+              "description": "AI-powered OSINT platform that searches across public data sources for people, usernames, emails, and more."
+            },
+            {
+              "name": "OpenOSINT",
+              "url": "https://github.com/OpenOSINT/OpenOSINT",
+              "description": "AI OSINT agent with 20 tools as REPL, MCP, CLI, or web app.",
+              "repo": "OpenOSINT/OpenOSINT"
+            },
+            {
+              "name": "OSINTGPT",
+              "url": "https://github.com/estebanpdl/osintgpt",
+              "description": "OSINT analysis using GPT embeddings and vector search.",
+              "repo": "estebanpdl/osintgpt"
+            },
+            {
+              "name": "Taranis AI",
+              "url": "https://github.com/taranis-ai/taranis-ai",
+              "description": "NLP-powered news collection and situational analysis.",
+              "repo": "taranis-ai/taranis-ai"
             }
           ]
         }

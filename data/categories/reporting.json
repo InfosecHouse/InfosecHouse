@@ -1,0 +1,35 @@
+{
+  "slug": "reporting",
+  "title": "Reporting",
+  "description": "Turn findings into deliverables. Platforms and generators for security assessment reports.",
+  "sections": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "title": "Report Generators & Platforms",
+          "tools": [
+            {
+              "name": "Faction",
+              "url": "https://github.com/factionsecurity/faction",
+              "description": "Report collaboration platform with configurable LLM summaries.",
+              "repo": "factionsecurity/faction"
+            },
+            {
+              "name": "PwnDoc",
+              "url": "https://github.com/pwndoc/pwndoc",
+              "description": "Report generator with Docx templates and AI-assisted findings.",
+              "repo": "pwndoc/pwndoc"
+            },
+            {
+              "name": "SysReptor",
+              "url": "https://github.com/Syslifters/sysreptor",
+              "description": "Reporting platform with an AI agent that drafts findings.",
+              "repo": "Syslifters/sysreptor"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
