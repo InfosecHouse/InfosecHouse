@@ -56,7 +56,7 @@
           "title": "Azure",
           "tools": [
             {
-              "name": "Azurcar",
+              "name": "Azucar",
               "url": "https://github.com/nccgroup/azucar",
               "description": "Security auditing tool for Azure environments.",
               "repo": "nccgroup/azucar"

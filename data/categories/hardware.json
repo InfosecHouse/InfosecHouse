@@ -16,7 +16,7 @@
           "title": "General Hardware",
           "tools": [
             {
-              "name": "Ardunio",
+              "name": "Arduino",
               "url": "https://www.arduino.cc/",
               "description": "Open-source electronic prototyping platform enabling users to create interactive electronic objects."
             },

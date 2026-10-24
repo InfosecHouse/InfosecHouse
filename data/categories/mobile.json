@@ -279,7 +279,7 @@
             {
               "name": "DVHMA",
               "url": "https://github.com/logicalhacking/DVHMA",
-              "description": "Damn Vulnerable Hybrid Mobile App (DVHMA) is an hybrid mobile app (for Android) that intentionally contains vulnerabilities.",
+              "description": "Damn Vulnerable Hybrid Mobile App (DVHMA) is a hybrid mobile app (for Android) that intentionally contains vulnerabilities.",
               "repo": "logicalhacking/DVHMA"
             },
             {
@@ -667,13 +667,13 @@
             {
               "name": "Trueseeing",
               "url": "https://github.com/monolithworks/trueseeing",
-              "description": "A fast, accurate and resillient vulnerabilities scanner for Android apps.",
+              "description": "A fast, accurate and resilient vulnerability scanner for Android apps.",
               "repo": "monolithworks/trueseeing"
             },
             {
               "name": "Yaazhini",
               "url": "https://www.vegabird.com/yaazhini/",
-              "description": "A fast, accurate and resillient vulnerabilities scanner for Android apps."
+              "description": "Vulnerability scanner for Android APKs and their APIs."
             }
           ]
         },

@@ -323,7 +323,7 @@
             {
               "name": "Aircrack-NG",
               "url": "https://github.com/aircrack-ng/aircrack-ng",
-              "description": "A complete suite of tools assess WiFi network security.",
+              "description": "A complete suite of tools to assess WiFi network security.",
               "repo": "aircrack-ng/aircrack-ng"
             },
             {
@@ -375,7 +375,7 @@
             {
               "name": "dBmonster",
               "url": "https://github.com/90N45-d3v/dBmonster",
-              "description": "Track WiFi Devices With Their Recieved Signal Strength.",
+              "description": "Track WiFi Devices With Their Received Signal Strength.",
               "repo": "90N45-d3v/dBmonster"
             },
             {
@@ -486,7 +486,7 @@
             {
               "name": "WiGLE",
               "url": "https://www.wigle.net/",
-              "description": "All the networks. Found by Everyone. Wi-fi wardrving database."
+              "description": "All the networks. Found by Everyone. Wi-Fi wardriving database."
             },
             {
               "name": "WirelessKeyView",

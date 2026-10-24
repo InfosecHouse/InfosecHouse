@@ -32,7 +32,7 @@ Links rot. If a tool's link is dead, wrong, or the project has moved, open an is
 
 - **Legitimate, documented tools only.** No malware droppers, pirated software, or spam.
 - **Link to the real source:** the project's own site or repository.
-- **Cheat sheets stick to documented usage** and use only example targets in cheet sheets.
+- **Cheat sheets stick to documented usage** and use only example or test targets.
 - **One topic per pull request** keeps reviews quick.
 
 ## Full guide

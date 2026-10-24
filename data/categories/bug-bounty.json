@@ -32,7 +32,7 @@
           "title": "Platforms",
           "tools": [
             {
-              "name": "Bugscrowd",
+              "name": "Bugcrowd",
               "url": "https://bugcrowd.com/programs",
               "description": "#1 crowdsourced security company."
             },
