@@ -21,6 +21,12 @@
           "title": "Cross-Site Scripting",
           "tools": [
             {
+              "name": "myexfilxss",
+              "url": "https://github.com/hack-ita/xss-internal-exfil-poc",
+              "description": "Minimal XSS PoC that reads an internal-only URL from the victim's browser and exfiltrates the response in a single POST.",
+              "repo": "hack-ita/xss-internal-exfil-poc"
+            },
+            {
               "name": "XSS'OR",
               "url": "https://github.com/evilcos/xssor2",
               "description": "XSS'OR - Hack with JavaScript.",
