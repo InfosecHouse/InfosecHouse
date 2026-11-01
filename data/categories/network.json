@@ -268,6 +268,12 @@
               "repo": "robertdavidgraham/masscan"
             },
             {
+              "name": "mysquidscanner",
+              "url": "https://github.com/hack-ita/mysquidscanner",
+              "description": "Asyncio port scanner that pivots through a Squid proxy with the CONNECT method and grabs banners.",
+              "repo": "hack-ita/mysquidscanner"
+            },
+            {
               "name": "naabu",
               "url": "https://github.com/projectdiscovery/naabu",
               "description": "A fast port scanner written in go with a focus on reliability and simplicity.",
