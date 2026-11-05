@@ -120,4 +120,4 @@ See the [official module documentation](https://www.netexec.wiki/getting-started
 - [Official NetExec wiki](https://www.netexec.wiki/)
 - [Selecting and using a protocol](https://www.netexec.wiki/getting-started/selecting-and-using-a-protocol)
 - [Using modules](https://www.netexec.wiki/getting-started/using-modules)
-- [NetExec guide by HackITA (community resource)](https://en.hackita.it/articoli/netexec/)
+- [EN.HackITA](https://en.hackita.it/articoli/netexec/)
