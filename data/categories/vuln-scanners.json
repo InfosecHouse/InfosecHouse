@@ -68,6 +68,12 @@
               "repo": "s0md3v/Striker"
             },
             {
+              "name": "TriageKit",
+              "url": "https://github.com/BYPASS-IDC/triagekit",
+              "description": "Python-based security analysis platform for GitHub pull requests, repositories, and authorized web applications, combining static analysis, heuristic detection, taint analysis, and dependency intelligence.",
+              "repo": "BYPASS-IDC/triagekit"
+            },
+            {
               "name": "WPScan",
               "url": "https://github.com/wpscanteam/wpscan",
               "description": "WordPress security scanner.",
